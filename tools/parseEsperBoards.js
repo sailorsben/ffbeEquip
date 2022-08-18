@@ -63,7 +63,7 @@ var espersMap = {
     "リヴァイアサン": "Leviathan",
     "アニマ": "Anima",
     "阿修羅": "Asura",
-    "黒龍": "Black Dragon"
+    "黒龍": "Kokuryu"
 }
 
 var typeMap = {

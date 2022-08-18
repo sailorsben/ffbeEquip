@@ -1,3 +1,4 @@
+
 var wikiBaseUrl = "https://exvius.fandom.com/";
 
 var data;
@@ -287,19 +288,19 @@ function getKillersHtml(item) {
     return html;
 }
 function getExclusiveUnitsHtml(item) {
-    html = "<div class='exclusive'>Only ";
+    html = "<div class='exclusive'>Unit Exclusive Attribute(s)";
     var first = true;
     item.exclusiveUnits.forEach(exclusiveUnitId => {
         if (first) {
             first = false;
-        } else {
-            html += ", ";
-        }
-        if (units[exclusiveUnitId]) {
-            html += toUnitLink(units[exclusiveUnitId]);
-        } else {
-            html += "Not released yet unit";
-        }
+        } //else {
+            //html += ", ";
+       // }
+        // if (units[exclusiveUnitId]) {
+        //     html += toUnitLink(units[exclusiveUnitId]);
+        // } else {
+        //     html += "Not released yet unit";
+        // }
     });
     html += "</div>";
     return html;
@@ -307,7 +308,7 @@ function getExclusiveUnitsHtml(item) {
 
 function toUnitLink(unit) {
 
-    return '<a href="' + toUnitUrl(unit) + '" target="_blank" class="unitLink" rel="noreferrer" onclick="event.stopPropagation();" title="' + unit.name + '"><img src="' + getMaxRarityUnitIcon(unit) + '"/></a>'
+    return '<a href="' + toUnitUrl(unit) + '" target="_blank" class="unitLink" rel="noreferrer" onclick="event.stopPropagation();" title="' + unit.name + '">' + unit.name + '</a>'
 }
 
 function toUnitUrl(unit) {
@@ -692,15 +693,18 @@ function getAccessHtml(item) {
         html += getExclusiveUnitsHtml(item);
     }
     if (item.exclusiveSex) {
-        html += "<div class='exclusive'>Only " + item.exclusiveSex + "</div>";
+        html += "<div class='exclusive'>" + item.exclusiveSex + " Only </div>";
     }
     if (item.exclusiveRoles) {
-        html += "<div class='exclusive'>Only " + item.exclusiveRoles.join(', ') + "</div>";
+        html += "<div class='exclusive'>" + item.exclusiveRoles.join(', ') + " Only </div>";
     }
     if (item.equipedConditions) {
         html += getEquipedConditionHtml(item);
     }
     html += "</div>";
+    html = html.replace("debuffer", "Breakers");
+    html = html.replace("female", "Female");
+    html = html.replace("male\s", "Male")
     return html;
 }
 
@@ -734,6 +738,11 @@ var toUrl = function(name) {
         return "";
     }
     let link = wikiBaseUrl + encodeURIComponent(name.replace(/ /g, '_'));
+    
+    if (link.includes('_BS')){
+        link = link.replace('_BS', '#Brave_Shift')
+    }
+
     if (server == 'JP') {
         link += '/JP';
     }
@@ -1340,7 +1349,7 @@ var exclusiveForbidAccess = function(item, selectedUnitId) {
     if (item.exclusiveUnits && !item.exclusiveUnits.includes(selectedUnitId)) {
         return true;
     }
-    if (item.exclusiveRoles && item.exclusiveRoles.some(role => !units[selectedUnitId].roles.includes(role))) {
+    if (item.exclusiveRoles && !item.exclusiveRoles.some(role => units[selectedUnitId].roles.includes(role))) {
         return true;
     }
     return false;
@@ -1599,8 +1608,8 @@ function prepareSearch(data) {
         if (item["exclusiveSex"]) {
             textToSearch += "|Only " + item["exclusiveSex"];
         }
-        if (item.exclusiveRoles) {
-            textToSearch += "|Only " + item.exclusiveRoles.join(', ');
+        if (item["exclusiveRoles"]) {
+            textToSearch += "|Only " + item["exclusiveRoles"].join(', ');
         }
         if (item["condition"]) {
             textToSearch += "|Only " + item["condition"];
@@ -1789,7 +1798,8 @@ function onUnitsOrInventoryLoaded() {
             // before version 3, units were : {"unitId": number}
             // After, they are {"unitId": {"number":number,"farmable":number}
             $.get(getLocalizedFileUrl("data"), function(data) {
-                $.get(server + "/units.json", function(unitResult) {
+                $.get("/" + server + "/units.json", function(unitResult) {
+                    console.log("here")
                     var allUnitsTmp = unitResult;
                     var tmrNumberByUnitId = {};
                     for (var index = data.length; index--; ) {
@@ -2501,7 +2511,7 @@ $(function() {
 
     readUrlParams();
 
-    $.get(server + '/dataVersion.json', function(result) {
+    $.get("/" + server + '/dataVersion.json', function(result) {
         var dataVersion = result.version;
         var selectedLanguage = language ? language : "en";
 
@@ -2526,7 +2536,10 @@ $(function() {
         $("#inventoryDiv").removeClass("Inventoryloading Inventoryloaded");
         notLoaded();
     } else {
-        $.get(server + '/itemInventory', function(result) {
+        console.log("Getting Item Inventory...")
+
+        $.get("/" + server + '/itemInventory', function(result) {
+            console.log("Got inventory")
             itemInventory = result;
             if (!itemInventory.enchantments) {
                 itemInventory.enchantments = {};
@@ -2537,7 +2550,9 @@ $(function() {
             adaptItemInventoryForMultipleRareEnchantments();
             sanitizeItemInventory();
             onUnitsOrInventoryLoaded();
-        }, 'json').fail(function(jqXHR, textStatus, errorThrown ) {
+        }, 'json')
+        .fail(function(jqXHR, textStatus, errorThrown ) {
+            console.log("File is not available. Please log in to gain access to inventory data.")
             $("#inventoryDiv").removeClass("Inventoryloading Inventoryloaded");
             if (notLoaded) {
                 notLoaded();
@@ -2581,7 +2596,7 @@ $(function() {
             }
         });
         console.log("Starts to load owned espers");
-        $.get(server + '/espers', function(result) {
+        $.get("/" + server + '/espers', function(result) {
             ownedEspers = result;
 
             Object.keys(ownedEspers).forEach(esper => {
@@ -2600,7 +2615,7 @@ $(function() {
             }
         });
         console.log("Starts to load owned consumables");
-        $.get(server + '/consumables', function(result) {
+        $.get("/" + server + '/consumables', function(result) {
             ownedConsumables = result;
             console.log("owned consumables loaded");
             onUnitsOrInventoryLoaded();

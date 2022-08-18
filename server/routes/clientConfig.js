@@ -1,7 +1,9 @@
-const config = require('../../config.js');
-const express = require('express');
+import express from 'express'
+import ServerConfig from '../../config.js'
 
-const route = express.Router();
+let config = ServerConfig.ServerConfig;
+
+export const route = express.Router();
 
 /**
  * "GET /"
@@ -12,4 +14,3 @@ route.get('/', (req, res) => {
   return res.send("window.clientConfig = {firebaseBucketUri:'" + config.firebase.bucketUri + "', firebaseDatabaseId:'" + config.firebase.databaseId + "', imgurClientId:'" + config.imgur.clientId + "'}");
 });
 
-module.exports = route;

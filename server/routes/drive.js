@@ -1,10 +1,10 @@
-const express = require('express');
-const drive = require('../lib/drive.js');
-const migration = require('../lib/migration.js');
+import express from 'express'
+import * as drive from '../lib/drive.js';
+import * as migration from '../lib/migration.js';
 
 const DB_VERSION = 3;
 
-const route = express.Router();
+export const route = express.Router();
 
 const userDataFiles = ["units", "itemInventory", "espers", "settings"];
 
@@ -49,6 +49,4 @@ route.put('/:server/:table', async (req, res) => {
   return res.status(200).json(data);
 });
 
-
-
-module.exports = route;
+export default route 

@@ -1344,9 +1344,14 @@ function onUnitChange() {
                         fixItem("unavailable", 9 - i);
                     }
                 }
+
                 if (!unitData.equip.includes("visionCard")) {
-                    fixItem("unavailable", 10);
-                }
+                    if (unitData['6_form']) {
+                        unitData.equip.push("visionCard")
+                    } else {
+                        fixItem("unavailable", 10);
+                    }
+                }            
 
                 $(".panel.unit").removeClass("hidden");
                 $(".panel.goal .goalLine").removeClass("hidden");
@@ -1632,7 +1637,11 @@ function updateUnitStats() {
             $(".unitStats .stat." + stat + " .baseStat input").val(builds[currentUnitIndex].getStat(stat));
             if (builds[currentUnitIndex].baseValues[stat].pots !== undefined) {
                 $(".unitStats .stat." + stat + " .pots input").val(builds[currentUnitIndex].baseValues[stat].pots);
-                $(".unitStats .stat." + stat + " .buff input").val(builds[currentUnitIndex].baseValues[stat].buff);
+                if (builds[currentUnitIndex].baseValues[stat].buff !== 0) {
+                    $(".unitStats .stat." + stat + " .buff input").val(builds[currentUnitIndex].baseValues[stat].buff);
+                } else {
+                    $(".unitStats .stat." + stat + " .buff input").val("");
+                }
             } else {
                 $(".unitStats .stat." + stat + " .pots input").val(Math.floor(builds[currentUnitIndex].unit.stats.pots[stat] * 1.5));
             }
@@ -3926,7 +3935,7 @@ function switchPots() {
 function onBuffChange(stat) {
     if (builds[currentUnitIndex].unit) {
         var value = parseInt($(".unitStats .stat." + stat + " .buff input").val()) || 0;
-        var maxValue = (stat === "hp" ? 30000 : 2000);
+        var maxValue = (stat === "hp" ? 30000 : 99999);
         if (stat == "pMitigation" || stat == "mMitigation" || stat == "mitigation") {
             maxValue = 99;
         }
@@ -4556,7 +4565,7 @@ function startPage() {
 
         waitingCallbackKeyReady("defaultBuilderEspers");
     });
-    $.get(server + "/units", function(result) {
+    $.get("/" + server + "/units.json", function(result) {
         ownedUnits = result;
         onEquipmentsChange();
     }, 'json').fail(function(jqXHR, textStatus, errorThrown ) {

@@ -56,7 +56,7 @@ const importIdConversion = {
     16: "Fenrir",
     17: "Anima",
     18: "Asura",
-    19: "Black Dragon"
+    19: "Kokuryu"
 };
 
 function beforeShow() {
@@ -87,7 +87,15 @@ function showAll() {
             if (!ownedEspers[espers[index].name]) continue;
 
             var esper = ownedEspers[espers[index].name];
-            var escapedName = escapeName(esper.name);
+            
+            var escapedName = () => {
+                if ((escapeName(esper.name)) === 'Black Dragon'){
+                    esper.name = 'Kokuryu'
+                    return 'Kokuryu'
+                } else {
+                    return escapeName(esper.name)
+                }
+            }
             var sp = calculateSp(esper.level, esper.rarity, esper.name);
             addStats(esper.level, esper.rarity, esper.name);
 
@@ -410,9 +418,9 @@ function showNode(node, parentNodeHtml, star, scale=1) {
         }
     }
     if (node.special) {
-        var indexOfBracket = node.special[0].indexOf("[");
-        var indexOfSemicolon = node.special[0].indexOf(":");
-        var ability = node.special[0].substr(indexOfBracket,indexOfSemicolon);
+        var indexOfBracket = node.special[0].toString().indexOf("[");
+        var indexOfSemicolon = node.special[0].toString().indexOf(":");
+        var ability = node.special[0].toString().substr(indexOfBracket,indexOfSemicolon);
         nodeHtml.html('<span class="iconHolder">' + abilityIcon(ability) + '</span><span class="text">' + abilityName(ability) + '</span><span class="cost">' + node.cost + ' SP</span>');
         nodeHtml.addClass("ability");
     }
@@ -877,8 +885,15 @@ function displayEspers() {
         
         tabs += "<li class='ALL' data-esper='ALL' title='Stats on all espers'><a><i class='img img-esper-ALL'></i></a></li>";
         for (var index = 0; index < espers.length; index++) {
-            var escapedName = escapeName(espers[index].name);
-            console.log(escapedName);
+            var escapedName ="";
+            
+            if (escapeName(espers[index].name) === 'Black_Dragon'){
+                console.log("Black Dragon found")
+                escapedName = 'Kokuryu'
+            } else {
+                escapedName = escapeName(espers[index].name)
+            }
+
             var owned = ownedEspers[espers[index].name] ? true : false;
             tabs += "<li class=\"esper " + escapedName + " " + (!owned ? 'notOwned' : '') +"\" "+
                     "data-esper=\"" + espers[index].name + "\" "+
@@ -1107,7 +1122,6 @@ function setEsperRarity(rarity) {
 
 function inventoryLoaded() {
     console.log("entering inventoryLoaded function");
-    console.trace();
     logged = true;
     if (esperBoards) {
         $('#importLink').removeClass('hidden');
@@ -1118,10 +1132,10 @@ function inventoryLoaded() {
 
 function notLoaded() {
     console.log("entering notLoaded function");
-    console.trace();
     ownedEspers = {};
 
     if (esperBoards) {
+        console.log("esperBoards exist")
         loadLink();
         displayEspers();
     }

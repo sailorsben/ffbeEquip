@@ -1,8 +1,8 @@
-const fs = require('fs');
-const express = require('express');
-const Ajv = require('ajv');
+import fs from 'fs'
+import express from 'express'
+import Ajv from 'ajv'
 
-const route = express.Router();
+export const route = express.Router();
 
 route.post('/:server/corrections', async (req, res) => {
     var ajv = new Ajv({allErrors: true, jsonPointers: true});
@@ -24,7 +24,7 @@ route.post('/:server/corrections', async (req, res) => {
     
     // Retrieve existing file content
     var fileName = 'static/' + req.params.server + '/corrections.json';
-    fs.exists(fileName, function (fileExists) {
+    if (fileName){
         fs.readFile(fileName, 'utf8', function (err, fileContent) {
             var tempItems = {};
             if (err && fileExists) {
@@ -64,7 +64,7 @@ route.post('/:server/corrections', async (req, res) => {
                 });
             }
         });
-    });
+    }
 });
 
 /* 
@@ -122,5 +122,3 @@ var schemaData = {
     },
     "additionalProperties": false
 }
-
-module.exports = route;
