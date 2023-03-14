@@ -153,8 +153,6 @@ let fixItemList;
 let defaultMonsterAttackFormula = {"type":"*","value1":{"type":"constant","value":1},"value2":{"type":"skill","id":"0","name":"1x physical ATK damage","formulaName":"physicalDamage","value":{"type":"damage","value":{"mechanism":"physical","damageType":"body","coef":1}}}};
 let monsterAttackFormula;
 
-const AutoSelectHighestExLevelSettingName = "AutoSelectHighestExLevel"
-
 function onBuildClick() {
     if (builds[currentUnitIndex] && builds[currentUnitIndex].unit.id === '777700004') {
         Modal.showMessage("Hum ?", "Are you saying you want me to help you build my foe? I'm afraid not! You're on your own there !");
@@ -360,7 +358,7 @@ function readGoal(index = currentUnitIndex) {
                         }
                     }
 
-                } else if (goalValue.startsWith("SKILL_")) {
+                } else if (goalValue.startsWith("SKILL_")) {
                     builds[index].goal = "custom";
                     var skillId = goalValue.substr(6);
                     var skill = getSkillFromId(skillId, unitWithSkills);
@@ -4771,8 +4769,6 @@ function startPage() {
     $("#ailmentImunities input").change($.debounce(300,onGoalChange));
     $("#defaultVisionCardLevel").change(() => dataStorage.defaultVisionCardLevel = $("#defaultVisionCardLevel").val());
     dataStorage.defaultVisionCardLevel = $("#defaultVisionCardLevel").val();
-    $("#autoSelectHighestExLevel").prop('checked', getSetting(AutoSelectHighestExLevelSettingName, false) === "true");
-    $("#autoSelectHighestExLevel").change(saveAutoSelectHighestLevel);
 
     if (window !== window.parent) {
         window.addEventListener("message", handleExternalControl);
@@ -5229,9 +5225,4 @@ let handleExternalControl = function(message) {
             build();
             break;
     }
-}
-
-function saveAutoSelectHighestLevel() {
-  const autoSelectHighestExLevelEnabled = $("#autoSelectHighestExLevel").prop('checked');
-  saveSetting(AutoSelectHighestExLevelSettingName, autoSelectHighestExLevelEnabled.toString());
 }
