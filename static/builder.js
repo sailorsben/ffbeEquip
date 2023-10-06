@@ -2333,7 +2333,7 @@ function fixItem(key, slotParam = -1, enhancements, pinItem = true) {
             item = findBestItemVersion(builds[currentUnitIndex].build, dataStorage.allItemVersions[key][0], dataStorage.itemWithVariation, builds[currentUnitIndex].unit);
             if (enhancements) {
                 if (enhancements.includes('rare')) {
-                    enhancements[enhancements.indexOf('rare')] = 'rare_3';
+                    enhancements[enhancements.indexOf('rare')] = 'rares';
                 }
                 item = applyEnhancements(item, enhancements);
             }
@@ -2795,40 +2795,8 @@ function selectEnchantement(item) {
         $("#modifyEnhancementModal .value." + currentEnchantmentItem.enhancements[i]).addClass("selected");
     }
     $("#modifyEnhancementModal .modal-header .title").html(getImageHtml(currentEnchantmentItem) + getNameColumnHtml(currentEnchantmentItem));
-    let weaponList = Object.keys(itemEnhancementLabels["rare_3"]);
-    let rareArray = [];
-    weaponList.forEach(w => {
-        // check to see if the weapon value in itemEnhancementLabels is in rareArray and add it if it's not.
-        if (!rareArray.includes(itemEnhancementLabels["rare_3"][w]) && w !== "fake") {
-            rareArray.push(itemEnhancementLabels["rare_3"][w]);
-        }
-    });
-
-    rareArray.forEach(r => {
-        // check to see if a div with the same id exists and if it doesn't then create it.
-        let newR = r.replace(/[^a-zA-Z0-9]/g, "");
-        if (!$("#modifyEnhancementModal .enhancementType #" + newR).length) {
-            // create a new div for each weapon type
-            let newDiv = document.createElement("div");
-            newDiv.classList.add("rareEnhancement")
-            newDiv.classList.add("value");
-            newDiv.classList.add("rare_3");
-            newDiv.setAttribute("onclick", "toggleItemEnhancement('" + newR + "')");
-            // strip any incompmatioble characters from the weapon type and use it as the id
-            let newR = r.replace(/[^a-zA-Z0-9]/g, "");
-            newDiv.setAttribute("id", newR);
-            newDiv.innerHTML = r;
-            // append to the div above the div with rare_4
-            $("#modifyEnhancementModal .enhancementType .rare_5").before(newDiv);
-        }
-    });
-    //$("#modifyEnhancementModal .value.rare_4").html(itemEnhancementLabels["rare_4"][currentEnchantmentItem.type]);
-    if (itemEnhancementAbilities.rare_5[item.type]) {
-        $("#modifyEnhancementModal .value.rare_5").removeClass('hidden');
-        $("#modifyEnhancementModal .value.rare_5").html(itemEnhancementLabels["rare_5"][item.type]);
-    } else {
-    }
-    $("#modifyEnhancementModal .value.rare_5").addClass('hidden');
+    // populate the itemEnhancements into the rares column.
+    console.log(itemEnchantments)
     if (itemEnhancementLabels["special_1"][item.id]) {
         $("#modifyEnhancementModal .value.special_1").removeClass("hidden");
         $("#modifyEnhancementModal .value.special_1").html(itemEnhancementLabels["special_1"][item.id]);
@@ -3931,13 +3899,13 @@ function getItemLineAsText(prefix, slot, buildIndex = currentUnitIndex) {
                     resultText += ", ";
                 }
                 if (item.enhancements[i] == "rare_3") {
-                    resultText += itemEnhancementLabels["rare_3"][item.type];
+                    resultText += itemEnhancementLabels["rare_3"];
                 } else if (item.enhancements[i] == "rare_4") {
-                    resultText += itemEnhancementLabels["rare_4"][item.type];
+                    resultText += itemEnhancementLabels["rare_4"];
                 } else if (item.enhancements[i] == "rare_5") {
-                    resultText += itemEnhancementLabels["rare_5"][item.type];
+                    resultText += itemEnhancementLabels["rare_5"];
                 } else if (item.enhancements[i] == "special_1") {
-                    resultText += itemEnhancementLabels["special_1"][item.id];
+                    resultText += itemEnhancementLabels["special_1"];
                 } else {
                     resultText += itemEnhancementLabels[item.enhancements[i]];
                 }
@@ -4639,6 +4607,12 @@ function startPage() {
         });
 
     });
+
+    getStaticData("itemEnchants", true, function(result) {
+        itemEnchantments = result;
+        waitingCallbackKeyReady("itemEnchants");
+    });
+
     getStaticData("unitsWithPassives", true, function(result) {
         units = result;
         waitingCallbackKeyReady("unitsWithPassives");

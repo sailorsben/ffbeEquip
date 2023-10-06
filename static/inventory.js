@@ -1197,14 +1197,17 @@ function updateItemEnhancementDisplay() {
     currentEnhancementItem.item = item;
 
     $("#modifyEnhancementModal .modal-header .title").html('<span class="item ' + currentEnhancementItem.id + '">' + getImageHtml(item) + getNameColumnHtml(item) + '</span>');
-    $("#modifyEnhancementModal .value.rare_3").html(itemEnhancementLabels["rare_3"][item.type]);
-    $("#modifyEnhancementModal .value.rare_4").html(itemEnhancementLabels["rare_4"][item.type]);
-    if (itemEnhancementAbilities.rare_5[item.type]) {
-        $("#modifyEnhancementModal .value.rare_5").removeClass('hidden');
-        $("#modifyEnhancementModal .value.rare_5").html(itemEnhancementLabels["rare_5"][item.type]);
-    } else {
-        $("#modifyEnhancementModal .value.rare_5").addClass('hidden');
+    // create new divs for each enchant in itemEnchantments
+    // if there are no divs with the class rareEnhancement, create them
+    if ($("#modifyEnhancementModal .value.rares").length == 0) {
+        $("#modifyEnhancementModal .value.rares").html(itemEnhancementLabels["rares"]);
+        Object.keys(itemEnchantments).forEach(enchantment => {
+            // create new HTML divs to append to the .value.rares div
+            let div = $('<div class="rareEnhancement value rares ' + enchantment + '" onclick="toggleItemEnhancement(' + enchantment + ')">' + itemEnchantments[enchantment].effects  + '</div>');
+            $("#rares").append(div);
+        });
     }
+
     if (itemEnhancementLabels["special_1"][item.id]) {
         $("#modifyEnhancementModal .value.special_1").removeClass("hidden");
         $("#modifyEnhancementModal .value.special_1").html(itemEnhancementLabels["special_1"][item.id]);
@@ -1238,24 +1241,6 @@ function toggleItemEnhancement(enhancement) {
             }
         }
     } else {
-        if (enhancement == 'rare_3' && enhancements.includes('rare_4')) {
-            enhancements.splice(enhancements.indexOf('rare_4'), 1);
-        }
-        if (enhancement == 'rare_3' && enhancements.includes('rare_5')) {
-            enhancements.splice(enhancements.indexOf('rare_5'), 1);
-        }
-        if (enhancement == 'rare_4' && enhancements.includes('rare_3')) {
-            enhancements.splice(enhancements.indexOf('rare_3'), 1);
-        }
-        if (enhancement == 'rare_4' && enhancements.includes('rare_5')) {
-            enhancements.splice(enhancements.indexOf('rare_5'), 1);
-        }
-        if (enhancement == 'rare_5' && enhancements.includes('rare_3')) {
-            enhancements.splice(enhancements.indexOf('rare_3'), 1);
-        }
-        if (enhancement == 'rare_5' && enhancements.includes('rare_4')) {
-            enhancements.splice(enhancements.indexOf('rare_4'), 1);
-        }
         if (enhancements.length == 3) {
             $.notify("No more than 3 item enhancements can be selected", "warning");
             return;   
@@ -1367,7 +1352,7 @@ function exportAsCsv() {
                         if (enhancement === 'special_1') {
                             csv += ';"' + itemEnhancementLabels[enhancement][item.id] + '"';
                         } else if (enhancement.startsWith('rare')) {
-                            csv += ';"' + itemEnhancementLabels[enhancement][item.type] + '"';
+                            csv += ';"' + itemEnhancementLabels[enhancement] + '"';
                         } else {
                             csv += ';"' + itemEnhancementLabels[enhancement] + '"';
                         }
@@ -1410,11 +1395,13 @@ function exportAsJson() {
                     enhancedItemResult.enhancements = enh.map(e => {
                         if (e === 'special_1') {
                             return skillIdByItemEnhancement[e][id];
-                        } else if (e == 'rare_3' || e == 'rare_4' || e == 'rare_5') {
+                        } else if (e == 'rares') {
                             return skillIdByItemEnhancement[e][typeById[id]];
+                        } else if (typeof(e) == number){
+                            return itemEnchantments[e].effects;
                         } else {
-                        } 
                             return skillIdByItemEnhancement[e];
+                        }
                     })
                     exportResult.push(enhancedItemResult);
                 })
@@ -1503,6 +1490,13 @@ function treatImportFile(evt) {
                                 importedItemInventory.enchantments[item.id] = [];
                             }
                             importedItemInventory.enchantments[item.id].push(item.enhancements.map(e => itemEnhancementBySkillId[e]));
+                            
+                            //loop through itemEnchantments and if it has an id that matches item.id, push it to the importedItemInventory.enchantments[item.id]
+                            Object.keys(itemEnchantments).forEach(enh => {
+                                if (itemEnchantments[enh].id == item.id) {
+                                    importedItemInventory.enchantments[item.id].push(itemEnchantments[enh].effects);
+                                }
+                            });
                         }
                     } else if (visionCardIds.includes(item.id)) {
                         if (!importedItemInventory[item.id]) {

@@ -1,6 +1,7 @@
 var wikiBaseUrl = "https://exvius.fandom.com/";
 
 var data;
+var itemEnchantments;
 var units;
 var ownedUnits;
 var actuallyOwnedUnits;
@@ -601,14 +602,8 @@ function getEnhancements(item) {
             html += ", ";
         }
         var enhancement = item.enhancements[i];
-        if (enhancement == "rare_3") {
-            html += itemEnhancementLabels["rare_3"][item?.type];
-        } else if (enhancement == "rare_4") {
-            html += itemEnhancementLabels["rare_4"][item?.type];
-        } else if (enhancement == "rare_5") {
-            html += itemEnhancementLabels["rare_5"][item?.type];
-        } else if (enhancement == "special_1") {
-            html += itemEnhancementLabels["special_1"][item.id];
+        if(typeof(enhancement) == "number") {
+            html += itemEnchantments[enhancement].effects;
         } else {
             html += itemEnhancementLabels[enhancement];
         }
@@ -2471,7 +2466,7 @@ function adaptItemInventoryForMultipleRareEnchantments() {
         itemInventory.enchantments[itemId].forEach(enchantments => {
             enchantments.forEach((value, index) => {
                 if (value == "rare") {
-                    enchantments[index] = "rare_3";
+                    enchantments[index] = "rares";
                 }
             })
         });
@@ -2757,6 +2752,10 @@ $(function() {
             if (notLoaded) {
                 notLoaded();
             }
+        });
+
+        getStaticData("itemEnchants", false, function(result) {
+            itemEnchantments = result;
         });
     }
     $('.dropdown-submenu a.test').on("click", function(e){

@@ -861,6 +861,10 @@ nav {
     padding: 5px;
 }
 
+.enhancementType .rares {
+    font-weight: normal;
+}
+
 .enhancementType .value.selected {
     background-color: blue;
     color: white;

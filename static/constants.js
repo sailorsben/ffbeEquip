@@ -95,62 +95,118 @@ const goalValuesCaract = {
     "mpSprMagicalDamage":              {"statsToMaximize": ["mp", "spr"], "type": "magical"}
 };
 const itemEnhancementLabels = {
-    "rare_3":{
-        // Old Enchants
-        "dagger": "+100% LB fill rate", 
-        "sword": "HP/ATK +15%", 
-        //"greatSword": "HP/ATK +15%", 
-        //"katana": "HP/ATK +15%", 
-        "staff": "SPR/MP +15%", 
-        "rod": "MAG/MP +15%", 
-        "bow": "ATK/MAG +30%", 
-        "axe": "ATK +30%", 
-        "hammer": "HP/DEF +15%", 
-       // "spear": "HP/ATK +15%", 
-        "harp": "HP/SPR +15%", 
-        "whip": "MP +30%", 
-        "throwing": "HP/MP +15%", 
-        //"gun": "ATK +30%", 
-        "mace": "HP +30%", 
-        //"fist": "HP/ATK +15%",
-        "fake": "Rare",
-        // New Enchants
-        "High Tide+": "+150% LB fill rate",
-        "Seal of Life and Power Lv. 4": "HP/ATK +20%",
-        "Seal of Skill and Magic Lv. 4": "MP/MAG +20%",
-        "Seal of Skill and Soul Lv. 4": "MP/SPR +20%",
-        "Seal of Life and Soul Lv. 4": "HP/SPR +20%",
-        "Seal of Life and Arms Lv. 4": "HP/DEF +20%",
-        "Projectile Prowess": "ATK/MAG +20%",
-        "Seal of Power and Magic Lv. 7": "ATK/MAG +35%",
-        "ATK + 40%": "ATK +40%",
-        "MP + 40%": "MP +40%",
-        "HP + 40%": "HP +40%",
-    },
-    "rare_4":{
-        "dagger": "+150% LB fill rate",
-        "sword": "HP/ATK +20%",
-        "greatSword": "HP/ATK +20%",
-        "katana": "HP/ATK +20%",
-        "staff": "SPR/MP +20%",
-        "rod": "MAG/MP +20%",
-        "bow": "ATK/MAG +35%",
-        "axe": "ATK +40%",
-        "hammer": "HP/DEF +20%",
-        "spear": "HP/ATK +20%",
-        "harp": "HP/SPR +20%",
-        "whip": "MP +40%",
-        "throwing": "HP/MP +20%",
-        "gun": "ATK +40%",
-        "mace": "HP +40%",
-        "fist": "HP/ATK +20%",
-        "fake": "Rare+"
-    },
-    "rare_5":{
-        "dagger": "ATK +20%, +150% LB fill rate",
-        "throwing": "ATK/MAG +20%",
-        "fake": "Rare++"
-    },
+    "rares":{
+        "100065": {
+          "id": 100065,
+          "name": "MP +40%",
+          "effects": "MP 40%"
+        },
+        "100091": {
+          "id": 100091,
+          "name": "ATK +40%",
+          "effects": "ATK 40%"
+        },
+        "101240": {
+          "id": 101240,
+          "name": "High Tide",
+          "effects": "LB gauge fill rate 100%"
+        },
+        "213520": {
+          "id": 213520,
+          "name": "HP +40%",
+          "effects": "HP 40%"
+        },
+        "450800": {
+          "id": 450800,
+          "name": "Seal of Life and Power Lv. 3",
+          "effects": "ATK/HP 15%"
+        },
+        "450810": {
+          "id": 450810,
+          "name": "Seal of Skill and Magic Lv. 3",
+          "effects": "MAG/MP 15%"
+        },
+        "450820": {
+          "id": 450820,
+          "name": "Seal of Life and Arms Lv. 3",
+          "effects": "DEF/HP 15%"
+        },
+        "450830": {
+          "id": 450830,
+          "name": "Seal of Skill and Soul Lv. 3",
+          "effects": "SPR/MP 15%"
+        },
+        "450840": {
+          "id": 450840,
+          "name": "Seal of Life and Soul Lv. 3",
+          "effects": "SPR/HP 15%"
+        },
+        "450850": {
+          "id": 450850,
+          "name": "Seal of Power and Magic Lv. 6",
+          "effects": "ATK/MAG 30%"
+        },
+        "450860": {
+          "id": 450860,
+          "name": "Seal of Life and Skill Lv. 3",
+          "effects": "HP/MP 15%"
+        },
+        "450870": {
+          "id": 450870,
+          "name": "Seal of Life and Power Lv. 4",
+          "effects": "ATK/HP 20%"
+        },
+        "450880": {
+          "id": 450880,
+          "name": "Seal of Skill and Magic Lv. 4",
+          "effects": "MAG/MP 20%"
+        },
+        "450890": {
+          "id": 450890,
+          "name": "Seal of Power and Magic Lv. 7",
+          "effects": "ATK/MAG 35%"
+        },
+        "450900": {
+          "id": 450900,
+          "name": "Seal of Life and Arms Lv. 4",
+          "effects": "DEF/HP 20%"
+        },
+        "450910": {
+          "id": 450910,
+          "name": "Seal of Life and Skill Lv. 4",
+          "effects": "HP/MP 20%"
+        },
+        "450920": {
+          "id": 450920,
+          "name": "High Tide+",
+          "effects": "LB gauge fill rate 150%"
+        },
+        "450930": {
+          "id": 450930,
+          "name": "Seal of Skill and Soul Lv. 4",
+          "effects": "SPR/MP 20%"
+        },
+        "450940": {
+          "id": 450940,
+          "name": "Seal of Life and Soul Lv. 4",
+          "effects": "SPR/HP 20%"
+        },
+        "914990": {
+          "id": 914990,
+          "name": "Projectile Prowess",
+          "effects": "ATK/MAG 20%"
+        },
+        "916045": {
+          "id": 916045,
+          "name": "HP/DEF +20%",
+          "effects": "DEF/HP 20%"
+        },
+        "916046": {
+          "id": 916046,
+          "name": "HP/SPR +20%",
+          "effects": "SPR/HP 20%"
+        }
+      },
     "special_1": {
         "303007400":"ATK/Fire resist +20%",
         "303007500":"ATK/Fire resist +20%",
@@ -267,48 +323,200 @@ const itemEnhancementLabels = {
     "hp_spr_1": "HP/SPR +20%",
 };
 const itemEnhancementAbilities = {
-    "rare_3":{
-        "dagger": {"lbFillRate":100},
-        "sword": {"hp%":15, "atk%":15},
-        "greatSword": {"hp%":15, "atk%":15},
-        "katana": {"hp%":15, "atk%":15},
-        "staff": {"mp%":15, "spr%":15},
-        "rod": {"mp%":15, "mag%":15},
-        "bow": {"atk%":30, "mag%":30},
-        "axe": {"atk%":30},
-        "hammer": {"hp%":15, "def%":15},
-        "spear": {"hp%":15, "atk%":15},
-        "harp": {"hp%":15, "spr%":15},
-        "whip": {"mp%":30},
-        "throwing": {"hp%":15, "mp%":15},
-        "gun": {"atk%":30},
-        "mace": {"hp%":30},
-        "fist": {"hp%":15, "atk%":15},
-        "fake": {}
-    },
-    "rare_4":{
-        "dagger": {"lbFillRate":150},
-        "sword": {"hp%":20, "atk%":20},
-        "greatSword": {"hp%":20, "atk%":20},
-        "katana": {"hp%":20, "atk%":20},
-        "staff": {"mp%":20, "spr%":20},
-        "rod": {"mp%":20, "mag%":20},
-        "bow": {"atk%":35, "mag%":35},
-        "axe": {"atk%":40},
-        "hammer": {"hp%":20, "def%":20},
-        "spear": {"hp%":20, "atk%":20},
-        "harp": {"hp%":20, "spr%":20},
-        "whip": {"mp%":40},
-        "throwing": {"hp%":20, "mp%":20},
-        "gun": {"atk%":40},
-        "mace": {"hp%":40},
-        "fist": {"hp%":20, "atk%":20},
-        "fake": {}
-    },
-    "rare_5":{
-        "dagger": {"atk%":20, "lbFillRate":150},
-        "throwing": {"atk%":20, "mag%":20},
-        "fake": {}
+    "rares":{
+      "100065": {
+        "id": 100065,
+        "name": "MP +40%",
+        "effects": "MP 40%",
+        "enchant": {
+          "mp%": 40
+        }
+      },
+      "100091": {
+        "id": 100091,
+        "name": "ATK +40%",
+        "effects": "ATK 40%",
+        "enchant": {
+          "atk%": 40
+        }
+      },
+      "101240": {
+        "id": 101240,
+        "name": "High Tide",
+        "effects": "LB gauge fill rate 100%",
+        "enchant": {
+          "lbFillRate": 100
+        }
+      },
+      "213520": {
+        "id": 213520,
+        "name": "HP +40%",
+        "effects": "HP 40%",
+        "enchant": {
+          "hp%": 40
+        }
+      },
+      "450800": {
+        "id": 450800,
+        "name": "Seal of Life and Power Lv. 3",
+        "effects": "ATK/HP 15%",
+        "enchant": {
+          "hp%": 15,
+          "atk%": 15
+        }
+      },
+      "450810": {
+        "id": 450810,
+        "name": "Seal of Skill and Magic Lv. 3",
+        "effects": "MAG/MP 15%",
+        "enchant": {
+          "mp%": 15,
+          "mag%": 15
+        }
+      },
+      "450820": {
+        "id": 450820,
+        "name": "Seal of Life and Arms Lv. 3",
+        "effects": "DEF/HP 15%",
+        "enchant": {
+          "hp%": 15,
+          "def%": 15
+        }
+      },
+      "450830": {
+        "id": 450830,
+        "name": "Seal of Skill and Soul Lv. 3",
+        "effects": "SPR/MP 15%",
+        "enchant": {
+          "mp%": 15,
+          "spr%": 15
+        }
+      },
+      "450840": {
+        "id": 450840,
+        "name": "Seal of Life and Soul Lv. 3",
+        "effects": "SPR/HP 15%",
+        "enchant": {
+          "hp%": 15,
+          "spr%": 15
+        }
+      },
+      "450850": {
+        "id": 450850,
+        "name": "Seal of Power and Magic Lv. 6",
+        "effects": "ATK/MAG 30%",
+        "enchant": {
+          "atk%": 30,
+          "mag%": 30
+        }
+      },
+      "450860": {
+        "id": 450860,
+        "name": "Seal of Life and Skill Lv. 3",
+        "effects": "HP/MP 15%",
+        "enchant": {
+          "hp%": 15,
+          "mp%": 15
+        }
+      },
+      "450870": {
+        "id": 450870,
+        "name": "Seal of Life and Power Lv. 4",
+        "effects": "ATK/HP 20%",
+        "enchant": {
+          "hp%": 20,
+          "atk%": 20
+        }
+      },
+      "450880": {
+        "id": 450880,
+        "name": "Seal of Skill and Magic Lv. 4",
+        "effects": "MAG/MP 20%",
+        "enchant": {
+          "mp%": 20,
+          "mag%": 20
+        }
+      },
+      "450890": {
+        "id": 450890,
+        "name": "Seal of Power and Magic Lv. 7",
+        "effects": "ATK/MAG 35%",
+        "enchant": {
+          "atk%": 35,
+          "mag%": 35
+        }
+      },
+      "450900": {
+        "id": 450900,
+        "name": "Seal of Life and Arms Lv. 4",
+        "effects": "DEF/HP 20%",
+        "enchant": {
+          "hp%": 20,
+          "def%": 20
+        }
+      },
+      "450910": {
+        "id": 450910,
+        "name": "Seal of Life and Skill Lv. 4",
+        "effects": "HP/MP 20%",
+        "enchant": {
+          "hp%": 20,
+          "mp%": 20
+        }
+      },
+      "450920": {
+        "id": 450920,
+        "name": "High Tide+",
+        "effects": "LB gauge fill rate 150%",
+        "enchant": {
+          "lbFillRate": 150
+        }
+      },
+      "450930": {
+        "id": 450930,
+        "name": "Seal of Skill and Soul Lv. 4",
+        "effects": "SPR/MP 20%",
+        "enchant": {
+          "mp%": 20,
+          "spr%": 20
+        }
+      },
+      "450940": {
+        "id": 450940,
+        "name": "Seal of Life and Soul Lv. 4",
+        "effects": "SPR/HP 20%",
+        "enchant": {
+          "hp%": 20,
+          "spr%": 20
+        }
+      },
+      "914990": {
+        "id": 914990,
+        "name": "Projectile Prowess",
+        "effects": "ATK/MAG 20%",
+        "enchant": {
+          "atk%": 20,
+          "mag%": 20
+        }
+      },
+      "916045": {
+        "id": 916045,
+        "name": "HP/DEF +20%",
+        "effects": "DEF/HP 20%",
+        "enchant": {
+          "hp%": 20,
+          "def%": 20
+        }
+      },
+      "916046": {
+        "id": 916046,
+        "name": "HP/SPR +20%",
+        "effects": "SPR/HP 20%",
+        "enchant": {
+          "hp%": 20,
+          "spr%": 20
+        }
+      }
     },
     "special_1": {
         "303007400":{"atk%":20, "resist":[{"name":"fire", "percent":20}]},
@@ -497,32 +705,6 @@ const itemEnhancementBySkillId = {
     "916045": "hp_def_1",
     "916046": "hp_spr_1",
 
-    "450800": "rare_3", // ATK/HP
-    "450810": "rare_3", // MAG/MP
-    "450820": "rare_3", // DEF/HP
-    "450830": "rare_3", // SPR/MP
-    "450840": "rare_3", // HP/SPR
-    "450850": "rare_3", // ATK/MAG +30%
-    "450860": "rare_3", // HP/MP
-    "410230": "rare_3", // ATK +30%
-    "410130": "rare_3", // MP +30%
-    "410030": "rare_3", // HP +30%
-    "101240": "rare_3", // Hight Tide
-    "100090": "rare_3", // ATK +30%
-    "450870": "rare_4", // ATK/HP
-    "450880": "rare_4", // PM/MAG
-    "450890": "rare_4", // ATK/MAG +35%
-    "450900": "rare_4", // DEF/HP
-    "450910": "rare_4", // HP/MP
-    "450920": "rare_4", // High Tide+
-    "450930": "rare_4", // MP/SPR
-    "450940": "rare_4", // SPR/HP
-    "410240": "rare_4", // ATK +40%
-    "410140": "rare_4", // MP +40%
-    "410040": "rare_4", // HP +40%
-    "910339": "rare_4", // ATK +40%
-    "914847": "rare_5", // Twilight Tide
-    "914990": "rare_5", // Projectile Prowess, ATK/MAG +20%
     "451050": "special_1",
     "451054": "special_1",
     "451053": "special_1",
@@ -573,45 +755,117 @@ const itemEnhancementBySkillId = {
 }
 
 const skillIdByItemEnhancement = {
-    "rare_3":{
-        "dagger": "101240", 
-        "sword": "450800", 
-        "greatSword": "450800", 
-        "katana": "450800", 
-        "staff": "450830", 
-        "rod": "450810", 
-        "bow": "450850", 
-        "axe": "410230", 
-        "hammer": "450820", 
-        "spear": "450800", 
-        "harp": "450840", 
-        "whip": "410130", 
-        "throwing": "450860", 
-        "gun": "410130", 
-        "mace": "410030", 
-        "fist": "450800"
-    },
-    "rare_4":{
-        "dagger": "450920",
-        "sword": "450870",
-        "greatSword": "450870",
-        "katana": "450870",
-        "staff": "450930",
-        "rod": "450880",
-        "bow": "450890",
-        "axe": "410240",
-        "hammer": "450900",
-        "spear": "450870",
-        "harp": "450940",
-        "whip": "410140",
-        "throwing": "450910",
-        "gun": "410240",
-        "mace": "410040",
-        "fist": "450870"
-    },
-    "rare_5":{
-        "dagger": "914847",
-        "throwing": "914990"
+    "rares" :{
+        "100065": {
+          "id": 100065,
+          "name": "MP +40%",
+          "effects": "MP 40%"
+        },
+        "100091": {
+          "id": 100091,
+          "name": "ATK +40%",
+          "effects": "ATK 40%"
+        },
+        "101240": {
+          "id": 101240,
+          "name": "High Tide",
+          "effects": "LB gauge fill rate 100%"
+        },
+        "213520": {
+          "id": 213520,
+          "name": "HP +40%",
+          "effects": "HP 40%"
+        },
+        "450800": {
+          "id": 450800,
+          "name": "Seal of Life and Power Lv. 3",
+          "effects": "ATK/HP 15%"
+        },
+        "450810": {
+          "id": 450810,
+          "name": "Seal of Skill and Magic Lv. 3",
+          "effects": "MAG/MP 15%"
+        },
+        "450820": {
+          "id": 450820,
+          "name": "Seal of Life and Arms Lv. 3",
+          "effects": "DEF/HP 15%"
+        },
+        "450830": {
+          "id": 450830,
+          "name": "Seal of Skill and Soul Lv. 3",
+          "effects": "SPR/MP 15%"
+        },
+        "450840": {
+          "id": 450840,
+          "name": "Seal of Life and Soul Lv. 3",
+          "effects": "SPR/HP 15%"
+        },
+        "450850": {
+          "id": 450850,
+          "name": "Seal of Power and Magic Lv. 6",
+          "effects": "ATK/MAG 30%"
+        },
+        "450860": {
+          "id": 450860,
+          "name": "Seal of Life and Skill Lv. 3",
+          "effects": "HP/MP 15%"
+        },
+        "450870": {
+          "id": 450870,
+          "name": "Seal of Life and Power Lv. 4",
+          "effects": "ATK/HP 20%"
+        },
+        "450880": {
+          "id": 450880,
+          "name": "Seal of Skill and Magic Lv. 4",
+          "effects": "MAG/MP 20%"
+        },
+        "450890": {
+          "id": 450890,
+          "name": "Seal of Power and Magic Lv. 7",
+          "effects": "ATK/MAG 35%"
+        },
+        "450900": {
+          "id": 450900,
+          "name": "Seal of Life and Arms Lv. 4",
+          "effects": "DEF/HP 20%"
+        },
+        "450910": {
+          "id": 450910,
+          "name": "Seal of Life and Skill Lv. 4",
+          "effects": "HP/MP 20%"
+        },
+        "450920": {
+          "id": 450920,
+          "name": "High Tide+",
+          "effects": "LB gauge fill rate 150%"
+        },
+        "450930": {
+          "id": 450930,
+          "name": "Seal of Skill and Soul Lv. 4",
+          "effects": "SPR/MP 20%"
+        },
+        "450940": {
+          "id": 450940,
+          "name": "Seal of Life and Soul Lv. 4",
+          "effects": "SPR/HP 20%"
+        },
+        "914990": {
+          "id": 914990,
+          "name": "Projectile Prowess",
+          "effects": "ATK/MAG 20%"
+        },
+        "916045": {
+          "id": 916045,
+          "name": "HP/DEF +20%",
+          "effects": "DEF/HP 20%"
+        },
+        "916046": {
+          "id": 916046,
+          "name": "HP/SPR +20%",
+          "effects": "SPR/HP 20%"
+        }
     },
     "special_1": {
         "303007600":"451050",
