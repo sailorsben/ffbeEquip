@@ -1321,7 +1321,7 @@
         "requirements": null
     },
     "10412": {
-        "name": "リジェネ",
+        "name": "Regen",
         "icon": "ability_4.png",
         "compendium_id": 14,
         "rarity": 8,
@@ -5520,7 +5520,7 @@
         "requirements": null
     },
     "30690": {
-        "name": "エンウォタガ",
+        "name": "Enwaterga",
         "icon": "ability_23.png",
         "compendium_id": 311,
         "rarity": 9,

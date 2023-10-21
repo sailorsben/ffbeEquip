@@ -621,3 +621,38 @@ Starting
 "100042417":Deity of War Taivas BS
 "100042607":Petite Jewel Lehftia
 "100042617":Petite Jewel Lehftia BS
+Starting
+"302023300":Dragon God's Longsword
+"302023300":Dragon God's Longsword
+"304012600":Ice Demon's Katana+++
+"304012600":Ice Demon's Katana+++
+"304012600":Ice Demon's Katana+++
+"304012600":Ice Demon's Katana+++
+"308012500":Bewitcher's Spear
+"308012500":Bewitcher's Spear
+"403059400":Sarah's Tiara
+"403059400":Sarah's Tiara
+"407007700":Golden Armor (FFII)
+"409081300":Ribbon (FFIII)
+"409081300":Ribbon (FFIII)
+"409081400":Sarah's Necklace
+"1100000792":Daybreak's Dial
+"1100000793":Daybreak's Dial+
+"1100000794":Dragonspine
+"1100000795":Dragonspine+
+"1100000796":Scepter of Evocation
+"1100000797":Scepter of Evocation+
+"504244590":Kokuryu Synergy
+"504244614":Siren Synergy
+"504244645":Master of Summoning Magic
+Starting
+"100027627":Mystical Ice Lasswell BS
+"100042807":Dragonlord Rhus
+"100042817":Dragonlord Rhus BS
+"100042907":Bewitching Warrior Yshe
+"100042917":Bewitching Warrior Yshe BS
+"201000807":Princess of Cornelia Sarah
+"201000817":Princess of Cornelia Sarah BS
+"202001627":Wild Rose Firion BS
+"203004507":Evoker
+"203004517":Summoner BS
