@@ -1,5 +1,22 @@
 [   
     {
+        "date":"October 19th, 2023","sources": 
+        [
+            {"type":"banner", "units":["201000807","203004507"]},
+            {"type":"storyPart", "name":"Vision Cards", "ids": ["401009001"]},
+            {"type":"storyPart", "name":"Start of a Long Journey", "ids": ["407007700"]}
+        ]
+    },
+    {
+        "date":"October 12th, 2023","sources": 
+        [
+            {"type":"banner", "units":["100042807","100042907"]},
+            {"type":"storyPart", "name":"Vision Cards", "ids": ["401009001"]},
+            {"type":"storyPart", "name":"Shiva's Icebound Katana", "ids": ["304012600"]},
+            {"type":"storyPart", "name":"Steel Castle Coin Exchange Update", "ids":["1100000792","1100000793","1100000794","1100000795","1100000796","1100000797"]}
+        ]
+    },
+    {
         "date":"October 5th, 2023","sources": 
         [
             {"type":"banner", "units":["100042407","100042607"]},
