@@ -3,7 +3,7 @@
         "date":"October 19th, 2023","sources": 
         [
             {"type":"banner", "units":["201000807","203004507"]},
-            {"type":"storyPart", "name":"Vision Cards", "ids": ["401009001"]},
+            {"type":"storyPart", "name":"Vision Cards", "ids": ["201000301", "203000301", "100008701"]},
             {"type":"storyPart", "name":"Start of a Long Journey", "ids": ["407007700"]}
         ]
     },
