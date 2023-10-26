@@ -1,5 +1,15 @@
 [   
     {
+        "date":"October 26th, 2023","sources": 
+        [
+            {"type":"banner", "units":["401015507"]},
+            {"type":"storyPart", "name":"Vision Cards", "ids": ["401008601", "401009101"]},
+            {"type":"storyPart", "name":"The Crystal Tower - Exploration", "ids": ["310014200","302023600","302023700","404007300","404007400","406008000","406008100","401004400","401004500","409081500","409081600","409081700","409081800"]},
+            {"type":"storyPart", "name":"Clash of Wills Gear Upgrades", "ids": ["1100000802","1100000803","1100000804","1100000805","1100000806"]},
+            {"type":"storyPart", "name":"Clash of Wills: Obnixus Drop (Snow) Exchange", "ids": ["1500000243","1500000244"]}
+        ]
+    },
+    {
         "date":"October 19th, 2023","sources": 
         [
             {"type":"banner", "units":["201000807","203004507"]},

@@ -656,3 +656,59 @@ Starting
 "202001627":Wild Rose Firion BS
 "203004507":Evoker
 "203004517":Summoner BS
+Starting
+"302023600":Onion Sword
+"302023600":Onion Sword
+"302023600":Onion Sword
+"302023600":Onion Sword
+"302023700":Onion Sword
+"302023700":Onion Sword
+"302023700":Onion Sword
+"302023700":Onion Sword
+"310014200":True Omnirod (FFIII)
+"310014200":True Omnirod (FFIII)
+"401004400":Onion Shield (FFIII)
+"401004400":Onion Shield (FFIII)
+"401004500":Onion Shield (FFIII)
+"401004500":Onion Shield (FFIII)
+"404007300":Onion Helm
+"404007300":Onion Helm
+"404007300":Onion Helm
+"404007300":Onion Helm
+"404007400":Onion Helm
+"404007400":Onion Helm
+"404007400":Onion Helm
+"404007400":Onion Helm
+"406008000":Onion Armor
+"406008000":Onion Armor
+"406008000":Onion Armor
+"406008000":Onion Armor
+"406008100":Onion Armor
+"406008100":Onion Armor
+"406008100":Onion Armor
+"406008100":Onion Armor
+"409081500":Onion Boots
+"409081500":Onion Boots
+"409081600":Onion Boots
+"409081600":Onion Boots
+"409081700":Onion Gauntlets
+"409081700":Onion Gauntlets
+"409081700":Onion Gauntlets
+"409081700":Onion Gauntlets
+"409081800":Onion Gauntlets
+"409081800":Onion Gauntlets
+"409081800":Onion Gauntlets
+"409081800":Onion Gauntlets
+"1100000798":Caninomicon
+"1100000799":Canine Mage
+"1100000799":Canine Mage
+"1100000802":Defender's Celestite Cuirass of Will+
+"1100000803":Arcanist's Celestite Cuirass of Will+
+"1100000804":Savior's Celestite Cuirass of Will+
+"1100000805":Swordsman's Celestite Cuirass of Will+
+"1100000806":Swordswoman's Celestite Cuirass of Will+
+"1500000243":Mystic Acuity
+"1500000244":Mystic Tenacity
+Starting
+"401015507":Guardian of the Underworld Chow
+"401015517":Guardian of the Underworld Chow BS
