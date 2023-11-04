@@ -712,3 +712,30 @@ Starting
 Starting
 "401015507":Guardian of the Underworld Chow
 "401015517":Guardian of the Underworld Chow BS
+Starting
+"302024100":Avan's Sword
+"302024100":Avan's Sword
+"308012600":Dark Armour Spear
+"308012600":Dark Armour Spear
+"403059900":Dai's Circlet
+"403059900":Dai's Circlet
+"405030800":Avan's Clothes
+"405031100":Dark King Vearn's Robes
+"405031100":Dark King Vearn's Robes
+"406008800":Larhart's Tunic
+"406008800":Larhart's Tunic
+"409081900":Gold Feather
+"409082000":Talisman of Carl
+"409082000":Talisman of Carl
+"409082100":Royal Guard Emblem
+"409082100":Royal Guard Emblem
+"504244670":Pawn's Hand-to-Hand Combat
+"504244670":Pawn's Hand-to-Hand Combat
+"504244679":Land Rider Tactics
+Starting
+"344000807":Legendary Hero Avan
+"344000817":Legendary Hero Avan BS
+"344000907":Soul Heritor Hym
+"344000917":Soul Heritor Hym BS
+"344001007":Land Rider Larhart
+"344001017":Land Rider Larhart BS
