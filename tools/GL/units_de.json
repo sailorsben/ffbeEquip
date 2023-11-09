@@ -31516,7 +31516,8 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
-		"categories":[null]
+		"enhancementSkills":["Crest Beam (Twin Dragon Crests)","Super Knight Strike","Crest Beam","Sword Mastery"],
+		"categories":["Lightning","CW - Lightning","Attacker","Another World","The Adventure of Dai","Clash of Wills"]
 	},
 	"344001117": {
 		"name":"Drachenoid Dai BS",
@@ -31538,7 +31539,8 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
-		"categories":[null]
+		"enhancementSkills":["Crest Beam (Twin Dragon Crests)","Super Knight Strike","Crest Beam","Sword Mastery"],
+		"categories":["Lightning","CW - Lightning","Attacker","Another World","Mage","The Adventure of Dai","Clash of Wills"]
 	},
 	"344001207": {
 		"name":"Wahrer Dunkler König Vearn",
@@ -31560,7 +31562,8 @@
 		},
 		"stats_pattern":4,
 		"equip":["staff","rod","fist","hat","helm","clothes","lightArmor","robe","visionCard"],
-		"categories":[null]
+		"enhancementSkills":["Dark King's Wisdom","Oppressive Dark Aura","Martial Arts Mastery","Staff Mastery","Rod Mastery"],
+		"categories":["Fire","Mage","Another World","The Adventure of Dai","CW - Fire","Clash of Wills"]
 	},
 	"344001217": {
 		"name":"König Souveränes Auge Vearn BS",
@@ -31582,7 +31585,53 @@
 		},
 		"stats_pattern":4,
 		"equip":["staff","rod","fist","hat","helm","clothes","lightArmor","robe","visionCard"],
-		"categories":[null]
+		"enhancementSkills":["Dark King's Wisdom","Martial Arts Mastery","Staff Mastery","Rod Mastery"],
+		"categories":["Fire","Mage","Another World","The Adventure of Dai","CW - Fire","Clash of Wills"]
+	},
+	"344001307": {
+		"name":"Avans Schülerin Leona",
+		"roles":["support","healer"],
+		"wikiEntry":"Disciple_of Avan Leona",
+		"id":"344001307",
+		"game_id":"20037",
+		"game":"DRAGON QUEST The Adventure of Dai",
+		"braveShift":"344001317",
+		"exAwakening": [{"hp":618,"mp":49,"atk":21,"def":24,"mag":39,"spr":78},{"hp":475,"mp":38,"atk":16,"def":18,"mag":30,"spr":60},{"hp":333,"mp":26,"atk":11,"def":13,"mag":21,"spr":42}],
+		"fragmentId": "250023700",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":4752,"mp":378,"atk":163,"def":184,"mag":296,"spr":300},
+			"minStats":{"hp":1568,"mp":125,"atk":54,"def":61,"mag":98,"spr":99},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","staff","rod","throwing","hat","clothes","robe","visionCard"],
+		"enhancementSkills":["Young Leader of Papnica","All of you must fight for the Hero!","Staff Mastery","Throwing Weapon Mastery"],
+		"categories":["Light","Support","Healer","Another World","The Adventure of Dai"]
+	},
+	"344001317": {
+		"name":"Avans Schülerin Leona BS",
+		"roles":["support","healer"],
+		"wikiEntry":"Disciple_of Avan Leona",
+		"id":"344001317",
+		"game_id":"20037",
+		"game":"DRAGON QUEST The Adventure of Dai",
+		"braveShifted":"344001307",
+		"exAwakening": [{"hp":618,"mp":49,"atk":21,"def":24,"mag":39,"spr":78},{"hp":475,"mp":38,"atk":16,"def":18,"mag":30,"spr":60},{"hp":333,"mp":26,"atk":11,"def":13,"mag":21,"spr":42}],
+		"fragmentId": "250023700",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":4752,"mp":378,"atk":163,"def":184,"mag":296,"spr":300},
+			"minStats":{"hp":1568,"mp":125,"atk":54,"def":61,"mag":98,"spr":99},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","staff","rod","throwing","hat","clothes","robe","visionCard"],
+		"categories":["Light","Support","Healer","Another World","The Adventure of Dai"]
 	},
 	"345000107": {
 		"name":"Serge",
@@ -37493,8 +37542,6 @@
   "338000717":{"name":"King Bradley BS","jpname":"キング・ブラッドレイ BS","roles":["physicalAttacker"],"id":"338000717","game_id":"undefined","game":"undefined","braveShifted":"338000707","exAwakening":[{"hp":643,"mp":26,"atk":63,"def":22,"mag":17,"spr":22},{"hp":495,"mp":20,"atk":48,"def":17,"mag":13,"spr":17},{"hp":346,"mp":14,"atk":34,"def":12,"mag":9,"spr":11}],"fragmentId":"250000680","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":4890,"mp":203,"atk":265,"def":186,"mag":131,"spr":184},"minStats":{"hp":1614,"mp":67,"atk":87,"def":61,"mag":43,"spr":61},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","katana","hat","clothes","lightArmor","visionCard"],"enhancementSkills":["反逆者への鉄槌","修羅の斬撃"]},
   "339000507":{"name":"Vinera Fennes","jpname":"ヴィネラ","roles":["debuffer"],"id":"339000507","game_id":"undefined","game":"undefined","braveShift":"339000517","exAwakening":[{"hp":723,"mp":28,"atk":65,"def":16,"mag":19,"spr":24},{"hp":556,"mp":22,"atk":50,"def":12,"mag":15,"spr":18},{"hp":389,"mp":15,"atk":35,"def":9,"mag":10,"spr":13}],"fragmentId":"250007300","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5563,"mp":218,"atk":250,"def":124,"mag":148,"spr":183},"minStats":{"hp":1836,"mp":72,"atk":83,"def":41,"mag":49,"spr":60},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","gun","hat","clothes","visionCard"],"enhancementSkills":["天刃"]},
   "339000517":{"name":"Vinera Fennes BS","jpname":"ヴィネラ BS","roles":["debuffer","physicalAttacker"],"id":"339000517","game_id":"undefined","game":"undefined","braveShifted":"339000507","exAwakening":[{"hp":723,"mp":28,"atk":65,"def":16,"mag":19,"spr":24},{"hp":556,"mp":22,"atk":50,"def":12,"mag":15,"spr":18},{"hp":389,"mp":15,"atk":35,"def":9,"mag":10,"spr":13}],"fragmentId":"250007300","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5563,"mp":218,"atk":270,"def":131,"mag":157,"spr":192},"minStats":{"hp":1836,"mp":72,"atk":89,"def":43,"mag":52,"spr":63},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","gun","hat","clothes","visionCard"],"enhancementSkills":["宿りし命を守る力","天刃"]},
-  "344001307":{"name":"アバンの使徒レオナ","jpname":"アバンの使徒レオナ","roles":["support","healer"],"id":"344001307","game_id":"undefined","game":"undefined","braveShift":"344001317","exAwakening":[{"hp":618,"mp":49,"atk":21,"def":24,"mag":39,"spr":78},{"hp":475,"mp":38,"atk":16,"def":18,"mag":30,"spr":60},{"hp":333,"mp":26,"atk":11,"def":13,"mag":21,"spr":42}],"fragmentId":"250023700","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":4752,"mp":378,"atk":163,"def":184,"mag":296,"spr":300},"minStats":{"hp":1568,"mp":125,"atk":54,"def":61,"mag":98,"spr":99},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","staff","rod","throwing","hat","clothes","robe","visionCard"],"enhancementSkills":["パプニカの若き指導者","すべての戦いを勇者のためにせよ……！","杖の極意","投擲の極意"]},
-  "344001317":{"name":"アバンの使徒レオナ BS","jpname":"アバンの使徒レオナ BS","roles":["support","healer"],"id":"344001317","game_id":"undefined","game":"undefined","braveShifted":"344001307","exAwakening":[{"hp":618,"mp":49,"atk":21,"def":24,"mag":39,"spr":78},{"hp":475,"mp":38,"atk":16,"def":18,"mag":30,"spr":60},{"hp":333,"mp":26,"atk":11,"def":13,"mag":21,"spr":42}],"fragmentId":"250023700","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":4752,"mp":378,"atk":163,"def":184,"mag":296,"spr":300},"minStats":{"hp":1568,"mp":125,"atk":54,"def":61,"mag":98,"spr":99},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","staff","rod","throwing","hat","clothes","robe","visionCard"]},
   "346000107":{"name":"アルス","jpname":"アルス","roles":["physicalAttacker"],"id":"346000107","game_id":"undefined","game":"undefined","braveShift":"346000117","exAwakening":[{"hp":656,"mp":48,"atk":78,"def":29,"mag":75,"spr":27},{"hp":504,"mp":37,"atk":60,"def":23,"mag":58,"spr":21},{"hp":353,"mp":26,"atk":42,"def":16,"mag":41,"spr":14}],"fragmentId":"250016800","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5042,"mp":367,"atk":300,"def":227,"mag":290,"spr":208},"minStats":{"hp":1664,"mp":121,"atk":99,"def":75,"mag":96,"spr":69},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","axe","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["勇者の一閃","剣の極意","盾の極意"]},
   "346000117":{"name":"アルス BS","jpname":"アルス BS","roles":["physicalAttacker"],"id":"346000117","game_id":"undefined","game":"undefined","braveShifted":"346000107","exAwakening":[{"hp":656,"mp":48,"atk":78,"def":29,"mag":75,"spr":27},{"hp":504,"mp":37,"atk":60,"def":23,"mag":58,"spr":21},{"hp":353,"mp":26,"atk":42,"def":16,"mag":41,"spr":14}],"fragmentId":"250016800","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5042,"mp":367,"atk":300,"def":227,"mag":290,"spr":208},"minStats":{"hp":1664,"mp":121,"atk":99,"def":75,"mag":96,"spr":69},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","axe","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"]},
   "346000207":{"name":"キラ","jpname":"キラ","roles":["physicalAttacker"],"id":"346000207","game_id":"undefined","game":"undefined","braveShift":"346000217","exAwakening":[{"hp":686,"mp":41,"atk":75,"def":32,"mag":25,"spr":30},{"hp":527,"mp":32,"atk":58,"def":24,"mag":19,"spr":23},{"hp":369,"mp":22,"atk":41,"def":17,"mag":13,"spr":16}],"fragmentId":"250016900","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5274,"mp":315,"atk":290,"def":244,"mag":189,"spr":231},"minStats":{"hp":1740,"mp":104,"atk":96,"def":81,"mag":62,"spr":76},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["震空呀真一文字","剣の極意"]},

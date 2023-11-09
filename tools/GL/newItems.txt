@@ -739,3 +739,30 @@ Starting
 "344000917":Soul Heritor Hym BS
 "344001007":Land Rider Larhart
 "344001017":Land Rider Larhart BS
+Starting
+"302023800":Sword of Dai (The Final Battle)
+"302023800":Sword of Dai (The Final Battle)
+"409082200":Eye
+"409082200":Eye
+"409082300":Insignia of Avan (Leona)
+"409082300":Insignia of Avan (Leona)
+"409082300":Insignia of Avan (Leona)
+"409082300":Insignia of Avan (Leona)
+"409082300":Insignia of Avan (Leona)
+"409082300":Insignia of Avan (Leona)
+"409082300":Insignia of Avan (Leona)
+"409082300":Insignia of Avan (Leona)
+"409082400":Silver Feather
+"409082400":Silver Feather
+"504244683":Power of the Two Crests
+"504244686":Magical Power of the Dark King
+"504244686":Magical Power of the Dark King
+"504244686":Magical Power of the Dark King
+"504244686":Magical Power of the Dark King
+Starting
+"344001107":Twin Dragon Crests Dai
+"344001117":Dragonoid Dai BS
+"344001207":True Dark King Vearn
+"344001217":Sovereign Supreme Vearn BS
+"344001307":Disciple of Avan Leona
+"344001317":Disciple of Avan Leona BS

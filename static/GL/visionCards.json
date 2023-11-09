@@ -765,6 +765,18 @@
 {"id":"100008401", "name":"Fusion of Heroes", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_100008401.png", "sortId":186, "vc":["100042407"], "levels":[
 	{"atk":170, "mag":170, "staticStats":{"atk":400,"mag":400}, "esperStatsBonus":{"all":{"hp":200,"mp":200,"atk":200,"def":200,"mag":200,"spr":200}}, "lbDamage":75}
 ]},
+{"id":"100008501", "name":"Esper and E-Spear", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_100008501.png", "sortId":187, "levels":[
+	{"mag":85, "spr":85},
+	{"mag":93, "spr":93},
+	{"mag":102, "spr":102},
+	{"mag":110, "spr":110, "conditional":[{"mag%":80,"spr%":80}]},
+	{"mag":119, "spr":119, "conditional":[{"mag%":80,"spr%":80}]},
+	{"mag":127, "spr":127, "conditional":[{"mag%":80,"spr%":80}]},
+	{"mag":136, "spr":136, "conditional":[{"mag%":80,"spr%":80},{"lbDamage":100}]},
+	{"mag":144, "spr":144, "conditional":[{"mag%":80,"spr%":80},{"lbDamage":100}]},
+	{"mag":153, "spr":153, "conditional":[{"mag%":80,"spr%":80},{"lbDamage":100}]},
+	{"mag":170, "spr":170, "conditional":[{"mag%":80,"spr%":80},{"lbDamage":100},{"staticStats":{"mag":500,"spr":500}}]}
+]},
 {"id":"100008601", "name":"Time Mage and Dimensional Esper", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_100008601.png", "sortId":184, "vc":["100042707"], "levels":[
 	{"atk":170, "mag":170, "conditional":[{"atk%":80,"mag%":80},{"lbDamage":100},{"staticStats":{"atk":650,"mag":650}}]}
 ]},
@@ -1718,6 +1730,30 @@
 	{"atk":127, "lbDamage":25, "conditional":[{"lbDamage":25}]},
 	{"atk":135, "lbDamage":25, "conditional":[{"lbDamage":25}]},
 	{"atk":150, "lbDamage":25, "conditional":[{"lbDamage":25},{"staticStats":{"atk":500}}]}
+]},
+{"id":"344000601", "name":"Double Doruora!", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_344000601.png", "sortId":192, "vc":["344001107","344001307"], "levels":[
+	{"atk":70, "mag":70},
+	{"atk":77, "mag":77},
+	{"atk":84, "mag":84},
+	{"atk":91, "atk%":50, "mag":91, "mag%":50},
+	{"atk":98, "atk%":50, "mag":98, "mag%":50},
+	{"atk":105, "atk%":50, "mag":105, "mag%":50},
+	{"atk":112, "atk%":50, "mag":112, "mag%":50, "conditional":[{"lbDamage":25}]},
+	{"atk":119, "atk%":50, "mag":119, "mag%":50, "conditional":[{"lbDamage":25}]},
+	{"atk":126, "atk%":50, "mag":126, "mag%":50, "conditional":[{"lbDamage":25}]},
+	{"atk":140, "atk%":50, "mag":140, "mag%":50, "conditional":[{"lbDamage":25},{"staticStats":{"atk":500,"mag":500}}]}
+]},
+{"id":"344000701", "name":"Dragonoid vs. Sovereign Supreme", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_344000701.png", "sortId":193, "vc":["344001207"], "levels":[
+	{"mag":75},
+	{"mag":82},
+	{"mag":90},
+	{"mag":97, "lbDamage":25},
+	{"mag":105, "lbDamage":25},
+	{"mag":112, "lbDamage":25},
+	{"mag":120, "lbDamage":25, "conditional":[{"lbDamage":25}]},
+	{"mag":127, "lbDamage":25, "conditional":[{"lbDamage":25}]},
+	{"mag":135, "lbDamage":25, "conditional":[{"lbDamage":25}]},
+	{"mag":150, "lbDamage":25, "conditional":[{"lbDamage":25},{"staticStats":{"mag":500}}]}
 ]},
 {"id":"345000101", "name":"A Calling From Beyond Time", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_345000101.png", "sortId":134, "vc":["345000107"], "levels":[
 	{"atk":55, "mag":55},
