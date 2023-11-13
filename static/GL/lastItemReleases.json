@@ -1,4 +1,19 @@
-[   
+[  
+    {
+        "date":"November 7th, 2023","sources": 
+        [
+            {"type":"banner", "units":["344001107", "344001207", "344001307"]},
+            {"type":"storyPart", "name":"Vision Cards", "ids": ["344000601", "344000701"]}
+        ]
+    }, 
+    {
+        "date":"November 2nd, 2023","sources": 
+        [
+            {"type":"banner", "units":["344000807", "344000907", "344001007"]},
+            {"type":"storyPart", "name":"Vision Cards", "ids": ["344000501"]},
+            {"type":"storyPart", "name":"DRAGON QUEST - The Adventure of Dai Box Summon", "ids": ["302024100","406008800","405031100","403059900"]}
+        ]
+    },
     {
         "date":"October 26th, 2023","sources": 
         [
