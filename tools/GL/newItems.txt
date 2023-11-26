@@ -766,3 +766,23 @@ Starting
 "344001217":Sovereign Supreme Vearn BS
 "344001307":Disciple of Avan Leona
 "344001317":Disciple of Avan Leona BS
+Starting
+"1100000800":Hyoh's Helmet
+"1100000800":Hyoh's Helmet
+"1100000800":Hyoh's Helmet
+"1100000800":Hyoh's Helmet
+"1100000801":Indigo Keepsake
+"1100000807":Crimson Claws
+"1100000807":Crimson Claws
+"1500000245":Controlled Strength
+"1500000246":Blazing Armor
+"1500000247":To Change the Future
+"1500000247":To Change the Future
+"1500000248":Agile Sword Dance
+"1500000249":Indomitable Warrior
+"1500000250":A Warrior's Spirit
+Starting
+"401015607":Hyoh & Panthera Ultimus
+"401015617":Ultimate Power Hyoh BS
+"401015707":Solitary Warrior Veritas of the Frost
+"401015717":Solitary Warrior Veritas of the Frost BS
