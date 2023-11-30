@@ -81,7 +81,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","whip","mace","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Retaliate","Ultima","Dystopia","Enchantress' Whip","Clay Scourge","Asleep in the Earth Crystal"],
-		"categories":["Dark","Mage","Breaker","FFBE","FFBE S1","Blessing of the Crystals"],
+		"categories":["Dark","Mage","Breaker","FFBE","FFBE S1","WOTV FFBE","Blessing of the Crystals","The Gathering"],
 		"6_form": {
 			"name":"Fina obscure",
 			"roles":["magicalAttacker","debuffer"],
@@ -101,7 +101,7 @@
 			"stats_pattern":1,
 			"equip":["staff","rod","whip","mace","hat","clothes","robe"],
 			"enhancementSkills":["Retaliate","Ultima","Dystopia","Enchantress' Whip","Clay Scourge","Asleep in the Earth Crystal"],
-			"categories":["Dark","Mage","Breaker","FFBE","FFBE S1","Blessing of the Crystals"]
+			"categories":["Dark","Mage","Breaker","FFBE","FFBE S1","WOTV FFBE","Blessing of the Crystals","The Gathering"]
 		},
 		"7_form": {
 			"name":"Fina obscure",
@@ -122,7 +122,7 @@
 			"stats_pattern":4,
 			"equip":["staff","rod","whip","mace","hat","clothes","robe"],
 			"enhancementSkills":["Retaliate","Ultima","Dystopia","Enchantress' Whip","Clay Scourge","Asleep in the Earth Crystal"],
-			"categories":["Dark","Mage","Breaker","FFBE","FFBE S1","Blessing of the Crystals"]
+			"categories":["Dark","Mage","Breaker","FFBE","FFBE S1","WOTV FFBE","Blessing of the Crystals","The Gathering"]
 		}
 	},
 	"100000337": {
@@ -146,7 +146,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","whip","mace","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Enchantress' Whip","Unrelenting Wind","Dark Powers Unleashed"],
-		"categories":["Wind","Mage","FFBE","FFBE S1","Blessing of the Crystals"]
+		"categories":["Wind","Mage","FFBE","FFBE S1","WOTV FFBE","Blessing of the Crystals","The Gathering"]
 	},
 	"100000403": {
 		"name":"Nichol",
@@ -1001,7 +1001,7 @@
 		"stats_pattern":1,
 		"equip":["staff","harp","mace","hat","clothes","robe"],
 		"enhancementSkills":["Regenerate","Aqua Refresh","Priestess Miracle"],
-		"categories":["Water","Healer","FFBE","Water","Healer","FFBE","Water","Healer","Support","FFBE"]
+		"categories":["Water","Healer","FFBE","FFBE S1","Evocation","The Gathering","Water","Healer","FFBE","FFBE S1","Evocation","The Gathering","Water","Healer","Support","FFBE","FFBE S1","Evocation","The Gathering"]
 	},
 	"100005104": {
 		"name":"Mercedes",
@@ -1470,7 +1470,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","spear","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Bladeblitz","Spear Mastery","Aggravate","Vortex","Sonic Blast","Chocoboback Lance","Chocobo Trample","Chocobo Sonic Dive"],
-		"categories":["Wind","Attacker","Support","FFBE"],
+		"categories":["Wind","Attacker","Support","FFBE","FFBE S1","The Gathering"],
 		"6_form": {
 			"name":"Fohlen",
 			"roles":["physicalAttacker","support"],
@@ -1490,7 +1490,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","spear","lightShield","heavyShield","helm","lightArmor","heavyArmor"],
 			"enhancementSkills":["Bladeblitz","Spear Mastery","Aggravate","Vortex","Sonic Blast","Chocoboback Lance","Chocobo Trample","Chocobo Sonic Dive"],
-			"categories":["Wind","Attacker","Support","FFBE"]
+			"categories":["Wind","Attacker","Support","FFBE","FFBE S1","The Gathering"]
 		},
 		"7_form": {
 			"name":"Fohlen",
@@ -1511,7 +1511,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","spear","lightShield","heavyShield","helm","lightArmor","heavyArmor"],
 			"enhancementSkills":["Bladeblitz","Spear Mastery","Aggravate","Vortex","Sonic Blast","Chocoboback Lance","Chocobo Trample","Chocobo Sonic Dive"],
-			"categories":["Wind","Attacker","Support","FFBE"]
+			"categories":["Wind","Attacker","Support","FFBE","FFBE S1","The Gathering"]
 		}
 	},
 	"100006827": {
@@ -1535,7 +1535,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","spear","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Bladeblitz","Spear Mastery","Aggravate","Vortex","Sonic Blast","Chocoboback Lance","Chocobo Trample","Chocobo Sonic Dive"],
-		"categories":["Wind","Attacker","Support","FFBE"]
+		"categories":["Wind","Attacker","Support","FFBE","FFBE S1","The Gathering"]
 	},
 	"100006904": {
 		"name":"Victoria",
@@ -3030,7 +3030,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","bow","axe","hammer","gun","mace","fist","lightShield","hat","clothes","lightArmor"],
 		"enhancementSkills":["Full Metal Kick","Airbag","Sunlight Beam","Barrier Dissolver","Arms Dissolver","Super Invention","Magic Absorb","Bore Up","Mind Absorb","Guard Absorb","Attack Absorb","ATK +20%"],
-		"categories":["Breaker","FFBE","FFBE S2","The Rebellion","Breaker","Support","FFBE","FFBE S2","The Rebellion","Breaker","Support","FFBE","FFBE S2","The Rebellion"],
+		"categories":["Breaker","FFBE","FFBE S2","The Rebellion","The Gathering","Breaker","Support","FFBE","FFBE S2","The Rebellion","The Gathering","Breaker","Support","FFBE","FFBE S2","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Lid, ingénieure cosmique",
 			"roles":["debuffer","support"],
@@ -3050,7 +3050,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","bow","axe","hammer","gun","mace","fist","lightShield","hat","clothes","lightArmor"],
 			"enhancementSkills":["Full Metal Kick","Airbag","Sunlight Beam","Barrier Dissolver","Arms Dissolver","Super Invention","Magic Absorb","Bore Up","Mind Absorb","Guard Absorb","Attack Absorb","ATK +20%"],
-			"categories":["Breaker","FFBE","FFBE S2","The Rebellion","Breaker","Support","FFBE","FFBE S2","The Rebellion","Breaker","Support","FFBE","FFBE S2","The Rebellion"]
+			"categories":["Breaker","FFBE","FFBE S2","The Rebellion","The Gathering","Breaker","Support","FFBE","FFBE S2","The Rebellion","The Gathering","Breaker","Support","FFBE","FFBE S2","The Rebellion","The Gathering"]
 		}
 	},
 	"100012005": {
@@ -3071,7 +3071,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","spear","gun","hat","clothes","lightArmor"],
 		"enhancementSkills":["Flame Assault","Ice Assault","Gun Mastery","Electro Assault","Light Assault","Killer Assault"],
-		"categories":["Lightning","Attacker","Breaker","FFBE","FFBE S2","The Rebellion","Lightning","Attacker","Breaker","FFBE","FFBE S2","The Rebellion","Lightning","Attacker","Breaker","FFBE","FFBE S2","The Rebellion"],
+		"categories":["Lightning","Attacker","Breaker","FFBE","FFBE S2","The Rebellion","The Gathering","Lightning","Attacker","Breaker","FFBE","FFBE S2","The Rebellion","The Gathering","Lightning","Attacker","Breaker","FFBE","FFBE S2","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Jake, tireur anonyme",
 			"roles":["physicalAttacker","debuffer"],
@@ -3091,7 +3091,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","spear","gun","hat","clothes","lightArmor"],
 			"enhancementSkills":["Flame Assault","Ice Assault","Gun Mastery","Electro Assault","Light Assault","Killer Assault"],
-			"categories":["Lightning","Attacker","Breaker","FFBE","FFBE S2","The Rebellion","Lightning","Attacker","Breaker","FFBE","FFBE S2","The Rebellion","Lightning","Attacker","Breaker","FFBE","FFBE S2","The Rebellion"]
+			"categories":["Lightning","Attacker","Breaker","FFBE","FFBE S2","The Rebellion","The Gathering","Lightning","Attacker","Breaker","FFBE","FFBE S2","The Rebellion","The Gathering","Lightning","Attacker","Breaker","FFBE","FFBE S2","The Rebellion","The Gathering"]
 		}
 	},
 	"100012104": {
@@ -3174,7 +3174,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","axe","spear","mace","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Quick Combo","Quick Shock Blade","Quick Light Blade","Quick Dark Blade","Quick Final Thunder","Defensive Barrier","Rod Mastery","Quick Rebel Intention","Ephemeral Blossom Hex","Celestial Roar","MP +20%","Mystic Light","Quick Lightning Flash","Blossom Sage"],
-		"categories":["Lightning","Mage","Support","Breaker","FFBE","FFBE S2","The Rebellion"],
+		"categories":["Lightning","Mage","Support","Breaker","FFBE","FFBE S2","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Sakura sage des fleurs",
 			"roles":["magicalAttacker","support","debuffer"],
@@ -3194,7 +3194,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","axe","spear","mace","hat","clothes","robe"],
 			"enhancementSkills":["Quick Combo","Quick Shock Blade","Quick Light Blade","Quick Dark Blade","Quick Final Thunder","Defensive Barrier","Rod Mastery","Quick Rebel Intention","Ephemeral Blossom Hex","Celestial Roar","MP +20%","Mystic Light","Quick Lightning Flash","Blossom Sage"],
-			"categories":["Lightning","Mage","Support","Breaker","FFBE","FFBE S2","The Rebellion"]
+			"categories":["Lightning","Mage","Support","Breaker","FFBE","FFBE S2","The Rebellion","The Gathering"]
 		},
 		"7_form": {
 			"name":"Sakura sage des fleurs",
@@ -3215,7 +3215,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","staff","rod","axe","spear","mace","hat","clothes","robe"],
 			"enhancementSkills":["Quick Combo","Quick Shock Blade","Quick Light Blade","Quick Dark Blade","Quick Final Thunder","Defensive Barrier","Rod Mastery","Quick Rebel Intention","Ephemeral Blossom Hex","Celestial Roar","MP +20%","Mystic Light","Quick Lightning Flash","Blossom Sage"],
-			"categories":["Lightning","Mage","Support","Breaker","FFBE","FFBE S2","The Rebellion"]
+			"categories":["Lightning","Mage","Support","Breaker","FFBE","FFBE S2","The Rebellion","The Gathering"]
 		}
 	},
 	"100012427": {
@@ -3239,7 +3239,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","axe","spear","mace","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Mystic Light","Quick Rebel Intention Blossoming Thunder","Sage in Black"],
-		"categories":["Lightning","Mage","FFBE","FFBE S2","The Rebellion"]
+		"categories":["Lightning","Mage","FFBE","FFBE S2","The Rebellion","The Gathering"]
 	},
 	"100012505": {
 		"name":"Nichol, stratège maritime",
@@ -3259,7 +3259,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","hat","clothes","lightArmor","robe"],
 		"enhancementSkills":["Magic Restorative Stance","Calm Awareness","Iceberg Stance","Courageous Stance","Fortune Stance"],
-		"categories":["Water","Support","Mage","FFBE","FFBE S2","Evocation","The Rebellion","Water","Support","Mage","FFBE","FFBE S2","Evocation","The Rebellion","Water","Support","Mage","FFBE","FFBE S2","Evocation","The Rebellion"],
+		"categories":["Water","Support","Mage","FFBE","FFBE S2","Evocation","The Rebellion","The Gathering","Water","Support","Mage","FFBE","FFBE S2","Evocation","The Rebellion","The Gathering","Water","Support","Mage","FFBE","FFBE S2","Evocation","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Nichol, stratège maritime",
 			"roles":["support","magicalAttacker"],
@@ -3279,7 +3279,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","harp","hat","clothes","lightArmor","robe"],
 			"enhancementSkills":["Magic Restorative Stance","Calm Awareness","Iceberg Stance","Courageous Stance","Fortune Stance"],
-			"categories":["Water","Support","Mage","FFBE","FFBE S2","Evocation","The Rebellion","Water","Support","Mage","FFBE","FFBE S2","Evocation","The Rebellion","Water","Support","Mage","FFBE","FFBE S2","Evocation","The Rebellion"]
+			"categories":["Water","Support","Mage","FFBE","FFBE S2","Evocation","The Rebellion","The Gathering","Water","Support","Mage","FFBE","FFBE S2","Evocation","The Rebellion","The Gathering","Water","Support","Mage","FFBE","FFBE S2","Evocation","The Rebellion","The Gathering"]
 		}
 	},
 	"100012605": {
@@ -3303,7 +3303,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","katana","rod","whip","throwing","mace","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Shibyra Technique","Aide to the King","Mageblade","Tempest Spellblade","Rising Elements","Enhanced Holy Water Spellblade","Enhanced Firestorm Spellblade","Longing for Peace"],
-		"categories":["Lightning","Attacker","Mage","FFBE","FFBE S2","The Rebellion"],
+		"categories":["Lightning","Attacker","Mage","FFBE","FFBE S2","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Kunshira",
 			"roles":["physicalAttacker","magicalAttacker","support"],
@@ -3323,7 +3323,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","katana","rod","whip","throwing","mace","hat","clothes","lightArmor","robe"],
 			"enhancementSkills":["Shibyra Technique","Aide to the King","Mageblade","Tempest Spellblade","Rising Elements","Enhanced Holy Water Spellblade","Enhanced Firestorm Spellblade","Longing for Peace"],
-			"categories":["Lightning","Attacker","Mage","FFBE","FFBE S2","The Rebellion"]
+			"categories":["Lightning","Attacker","Mage","FFBE","FFBE S2","The Rebellion","The Gathering"]
 		},
 		"7_form": {
 			"name":"Kunshira",
@@ -3344,7 +3344,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","katana","rod","whip","throwing","mace","hat","clothes","lightArmor","robe"],
 			"enhancementSkills":["Shibyra Technique","Aide to the King","Mageblade","Tempest Spellblade","Rising Elements","Enhanced Holy Water Spellblade","Enhanced Firestorm Spellblade","Longing for Peace"],
-			"categories":["Lightning","Attacker","Mage","FFBE","FFBE S2","The Rebellion"]
+			"categories":["Lightning","Attacker","Mage","FFBE","FFBE S2","The Rebellion","The Gathering"]
 		}
 	},
 	"100012627": {
@@ -3368,7 +3368,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","katana","rod","whip","throwing","mace","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Enhanced Holy Water Spellblade","Mana Drain Sword Dance","Magic Control Ring's New Power"],
-		"categories":["Wind","Breaker","FFBE","FFBE S2","The Rebellion"]
+		"categories":["Wind","Breaker","FFBE","FFBE S2","The Rebellion","The Gathering"]
 	},
 	"100012704": {
 		"name":"Wadow",
@@ -4220,7 +4220,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","whip","gun","mace","hat","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Sorcery Dampener","Esper's Knowledge","Ultima","Holy Mind","Double Evocation","Evocation - Light of Ruin","Evocation - Fierce Light of Supremacy","The One Who Knows Loneliness","Divine Decision"],
-		"categories":["Light","Mage","Healer","FFBE","FFBE S2","Dark Lineage","Evocation","The Rebellion"],
+		"categories":["Light","Mage","Healer","FFBE","FFBE S2","Dark Lineage","Evocation","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Citra",
 			"roles":["magicalAttacker","healer"],
@@ -4240,7 +4240,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","harp","whip","gun","mace","hat","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Sorcery Dampener","Esper's Knowledge","Ultima","Holy Mind","Double Evocation","Evocation - Light of Ruin","Evocation - Fierce Light of Supremacy","The One Who Knows Loneliness","Divine Decision"],
-			"categories":["Light","Mage","Healer","FFBE","FFBE S2","Dark Lineage","Evocation","The Rebellion"]
+			"categories":["Light","Mage","Healer","FFBE","FFBE S2","Dark Lineage","Evocation","The Rebellion","The Gathering"]
 		},
 		"7_form": {
 			"name":"Citra",
@@ -4261,7 +4261,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","staff","rod","harp","whip","gun","mace","hat","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Sorcery Dampener","Esper's Knowledge","Ultima","Holy Mind","Double Evocation","Evocation - Light of Ruin","Evocation - Fierce Light of Supremacy","The One Who Knows Loneliness","Divine Decision"],
-			"categories":["Light","Mage","Healer","FFBE","FFBE S2","Dark Lineage","Evocation","The Rebellion"]
+			"categories":["Light","Mage","Healer","FFBE","FFBE S2","Dark Lineage","Evocation","The Rebellion","The Gathering"]
 		}
 	},
 	"100016927": {
@@ -4285,7 +4285,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","gun","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Ultima","Divine Decision","Summon Burst"],
-		"categories":["Light","Mage","FFBE","FFBE S2","Dark Lineage","Evocation","The Rebellion"]
+		"categories":["Light","Mage","FFBE","FFBE S2","Dark Lineage","Evocation","The Rebellion","The Gathering"]
 	},
 	"100017105": {
 		"name":"Elephim",
@@ -4405,7 +4405,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","throwing","gun","fist","lightShield","hat","helm","clothes","lightArmor"],
 		"enhancementSkills":["Master Order","Customized Manus","Armament Extension","Anti-Fairy Module","Anti-Demon Module","Anti-Machine Module","Power Generator"],
-		"categories":["Attacker","FFBE","FFBE S2","Attacker","FFBE","FFBE S2","Attacker","FFBE","FFBE S2"],
+		"categories":["Attacker","FFBE","FFBE S2","The Gathering","Attacker","FFBE","FFBE S2","The Gathering","Attacker","FFBE","FFBE S2","The Gathering"],
 		"6_form": {
 			"name":"Regina",
 			"roles":["physicalAttacker"],
@@ -4425,7 +4425,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","throwing","gun","fist","lightShield","hat","helm","clothes","lightArmor"],
 			"enhancementSkills":["Master Order","Customized Manus","Armament Extension","Anti-Fairy Module","Anti-Demon Module","Anti-Machine Module","Power Generator"],
-			"categories":["Attacker","FFBE","FFBE S2","Attacker","FFBE","FFBE S2","Attacker","FFBE","FFBE S2"]
+			"categories":["Attacker","FFBE","FFBE S2","The Gathering","Attacker","FFBE","FFBE S2","The Gathering","Attacker","FFBE","FFBE S2","The Gathering"]
 		}
 	},
 	"100017605": {
@@ -4449,7 +4449,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","whip","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Anti-Force Stratagem","Anti-Magic Stratagem","Royal Virtue","Dual Stratagem","Hunter's Stratagem","Exorcist's Stratagem","Sustainment Stratagem","Quake","Unyielding Stratagem","Mother of Hess","Protector's Stratagem","Four Element Barrier","Standing Against Aldore"],
-		"categories":["Earth","Support","FFBE","FFBE S2","The Rebellion","Blood of Hess"],
+		"categories":["Earth","Support","FFBE","FFBE S2","The Rebellion","Blood of Hess","The Gathering"],
 		"6_form": {
 			"name":"Yuraisha",
 			"roles":["support"],
@@ -4469,7 +4469,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","harp","whip","hat","clothes","lightArmor","robe"],
 			"enhancementSkills":["Anti-Force Stratagem","Anti-Magic Stratagem","Royal Virtue","Dual Stratagem","Hunter's Stratagem","Exorcist's Stratagem","Sustainment Stratagem","Quake","Unyielding Stratagem","Mother of Hess","Protector's Stratagem","Four Element Barrier","Standing Against Aldore"],
-			"categories":["Earth","Support","FFBE","FFBE S2","The Rebellion","Blood of Hess"]
+			"categories":["Earth","Support","FFBE","FFBE S2","The Rebellion","Blood of Hess","The Gathering"]
 		},
 		"7_form": {
 			"name":"Yuraisha",
@@ -4490,7 +4490,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","staff","rod","harp","whip","hat","clothes","lightArmor","robe"],
 			"enhancementSkills":["Anti-Force Stratagem","Anti-Magic Stratagem","Royal Virtue","Dual Stratagem","Hunter's Stratagem","Exorcist's Stratagem","Sustainment Stratagem","Quake","Unyielding Stratagem","Mother of Hess","Protector's Stratagem","Four Element Barrier","Standing Against Aldore"],
-			"categories":["Earth","Support","FFBE","FFBE S2","The Rebellion","Blood of Hess"]
+			"categories":["Earth","Support","FFBE","FFBE S2","The Rebellion","Blood of Hess","The Gathering"]
 		}
 	},
 	"100017627": {
@@ -4514,7 +4514,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","whip","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Protector's Stratagem","Revitalization Stratagem","Guidance for Hess"],
-		"categories":["Earth","Healer","Support","FFBE","FFBE S2","The Rebellion","Blood of Hess"]
+		"categories":["Earth","Healer","Support","FFBE","FFBE S2","The Rebellion","Blood of Hess","The Gathering"]
 	},
 	"100017704": {
 		"name":"Franis",
@@ -4534,7 +4534,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","sword","greatSword","katana","throwing","fist","lightShield","hat","helm","clothes","lightArmor"],
 		"enhancementSkills":["Searing Slash","Carmine Bisect","Blazing Sword Wielder"],
-		"categories":["Fire","Attacker","FFBE","Fire","Attacker","FFBE","Fire","Attacker","FFBE"]
+		"categories":["Fire","Attacker","FFBE","FFBE S2","The Gathering","Fire","Attacker","FFBE","FFBE S2","The Gathering","Fire","Attacker","FFBE","FFBE S2","The Gathering"]
 	},
 	"100017803": {
 		"name":"Ishil",
@@ -4576,7 +4576,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","axe","hammer","whip","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Noble Stance","Edelschild","Stylish Form","Dangerous Rose","Full Break Charm","Noblesse Oblige","I'm gorgeous!","Man of Many Rivals","Super Wink","Earthbound","Brilliant Rose","Beautiful Offense","Sweet Charm"],
-		"categories":["Earth","Physical Tank","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion"],
+		"categories":["Earth","Physical Tank","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Sieghard",
 			"roles":["physicalTank","debuffer"],
@@ -4596,7 +4596,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","staff","axe","hammer","whip","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Noble Stance","Edelschild","Stylish Form","Dangerous Rose","Full Break Charm","Noblesse Oblige","I'm gorgeous!","Man of Many Rivals","Super Wink","Earthbound","Brilliant Rose","Beautiful Offense","Sweet Charm"],
-			"categories":["Earth","Physical Tank","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion"]
+			"categories":["Earth","Physical Tank","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"]
 		},
 		"7_form": {
 			"name":"Sieghard",
@@ -4617,7 +4617,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","staff","axe","hammer","whip","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Noble Stance","Edelschild","Stylish Form","Dangerous Rose","Full Break Charm","Noblesse Oblige","I'm gorgeous!","Man of Many Rivals","Super Wink","Earthbound","Brilliant Rose","Beautiful Offense","Sweet Charm"],
-			"categories":["Earth","Physical Tank","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion"]
+			"categories":["Earth","Physical Tank","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"]
 		}
 	},
 	"100017927": {
@@ -4641,7 +4641,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","axe","hammer","whip","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Beautiful Offense","Sweet Charm","Fully Metal Body"],
-		"categories":["Earth","Physical Tank","FFBE","FFBE S2","Dark Lineage","The Rebellion"]
+		"categories":["Earth","Physical Tank","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"]
 	},
 	"100018004": {
 		"name":"Dietlinde",
@@ -4721,7 +4721,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","mace","lightShield","hat","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Waterga","Watera","Original Priestess of the Water","Sobering Waters","Waterja","Anti-disease","Flowing Waters","Blue Mirage","Serpent Guard","Cerulean Shell","Ancient Aquarium","Flood"],
-		"categories":["Water","Healer","Support","FFBE","FFBE S2","Dark Lineage","Evocation","The Rebellion"],
+		"categories":["Water","Healer","Support","FFBE","FFBE S2","Dark Lineage","Evocation","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Folka",
 			"roles":["healer","support"],
@@ -4741,7 +4741,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","harp","mace","lightShield","hat","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Waterga","Watera","Original Priestess of the Water","Sobering Waters","Waterja","Anti-disease","Flowing Waters","Blue Mirage","Serpent Guard","Cerulean Shell","Ancient Aquarium","Flood"],
-			"categories":["Water","Healer","Support","FFBE","FFBE S2","Dark Lineage","Evocation","The Rebellion"]
+			"categories":["Water","Healer","Support","FFBE","FFBE S2","Dark Lineage","Evocation","The Rebellion","The Gathering"]
 		},
 		"7_form": {
 			"name":"Folka",
@@ -4762,7 +4762,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","staff","rod","harp","mace","lightShield","hat","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Waterga","Watera","Original Priestess of the Water","Sobering Waters","Waterja","Anti-disease","Flowing Waters","Blue Mirage","Serpent Guard","Cerulean Shell","Ancient Aquarium","Flood"],
-			"categories":["Water","Healer","Support","FFBE","FFBE S2","Dark Lineage","Evocation","The Rebellion"]
+			"categories":["Water","Healer","Support","FFBE","FFBE S2","Dark Lineage","Evocation","The Rebellion","The Gathering"]
 		}
 	},
 	"100018327": {
@@ -4786,7 +4786,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","mace","lightShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Waterga","Watera","Waterja","Flood","True Mind Blast"],
-		"categories":["Water","Mage","FFBE","FFBE S2","Dark Lineage","Evocation","The Rebellion"]
+		"categories":["Water","Mage","FFBE","FFBE S2","Dark Lineage","Evocation","The Rebellion","The Gathering"]
 	},
 	"100018403": {
 		"name":"Ichor",
@@ -4866,7 +4866,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","bow","axe","hammer","spear","whip","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Forge Weapon - Flame Blast","Axe Mastery","Forge Armor - Flame Blast","Crush Stamp","Critical Stamp","Full Burst Stamp","Flame Stamp","Blazing Stamp"],
-		"categories":["Fire","Attacker","Support","FFBE","FFBE S2","Dark Lineage","The Rebellion"],
+		"categories":["Fire","Attacker","Support","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Ignacio",
 			"roles":["physicalAttacker","support"],
@@ -4886,7 +4886,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","bow","axe","hammer","spear","whip","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Forge Weapon - Flame Blast","Axe Mastery","Forge Armor - Flame Blast","Crush Stamp","Critical Stamp","Full Burst Stamp","Flame Stamp","Blazing Stamp"],
-			"categories":["Fire","Attacker","Support","FFBE","FFBE S2","Dark Lineage","The Rebellion"]
+			"categories":["Fire","Attacker","Support","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"]
 		},
 		"7_form": {
 			"name":"Ignacio",
@@ -4907,7 +4907,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","greatSword","katana","bow","axe","hammer","spear","whip","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Forge Weapon - Flame Blast","Axe Mastery","Forge Armor - Flame Blast","Crush Stamp","Critical Stamp","Full Burst Stamp","Flame Stamp","Blazing Stamp"],
-			"categories":["Fire","Attacker","Support","FFBE","FFBE S2","Dark Lineage","The Rebellion"]
+			"categories":["Fire","Attacker","Support","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"]
 		}
 	},
 	"100018727": {
@@ -4931,7 +4931,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","bow","axe","hammer","spear","whip","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Know Oneself Through Weapons","Flame Stamp"],
-		"categories":["Fire","Attacker","FFBE","FFBE S2","Dark Lineage","The Rebellion"]
+		"categories":["Fire","Attacker","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"]
 	},
 	"100018804": {
 		"name":"Suzume",
@@ -5008,7 +5008,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","katana","rod","whip","fist","hat","clothes","lightArmor","robe"],
 		"enhancementSkills":["Water Projection","Ice Splinters","Ambush","Brilliance","Dark Spirits","Iota Star","Clad in Power","MAG +20%","True Projection"],
-		"categories":["Dark","Attacker","Mage","FFBE","FFBE S2","Dark","Attacker","Mage","FFBE","FFBE S2","Dark","Attacker","Mage","FFBE","FFBE S2"],
+		"categories":["Dark","Attacker","Mage","FFBE","FFBE S2","The Gathering","Dark","Attacker","Mage","FFBE","FFBE S2","The Gathering","Dark","Attacker","Mage","FFBE","FFBE S2","The Gathering"],
 		"6_form": {
 			"name":"Nagi",
 			"roles":["physicalAttacker","magicalAttacker"],
@@ -5028,7 +5028,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","katana","rod","whip","fist","hat","clothes","lightArmor","robe"],
 			"enhancementSkills":["Water Projection","Ice Splinters","Ambush","Brilliance","Dark Spirits","Iota Star","Clad in Power","MAG +20%","True Projection"],
-			"categories":["Dark","Attacker","Mage","FFBE","FFBE S2","Dark","Attacker","Mage","FFBE","FFBE S2","Dark","Attacker","Mage","FFBE","FFBE S2"]
+			"categories":["Dark","Attacker","Mage","FFBE","FFBE S2","The Gathering","Dark","Attacker","Mage","FFBE","FFBE S2","The Gathering","Dark","Attacker","Mage","FFBE","FFBE S2","The Gathering"]
 		}
 	},
 	"100019205": {
@@ -5052,7 +5052,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","rod","bow","whip","mace","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Malboro Rider","Bad Breath","Ground Whip","Gamma Star","Get Serious","Brutal Whip","Toxic Whip","Malboro Support","Landslide Whip","I'll fight for everyone's sake!"],
-		"categories":["Earth","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion"],
+		"categories":["Earth","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Yego",
 			"roles":["physicalAttacker","debuffer"],
@@ -5072,7 +5072,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","rod","bow","whip","mace","hat","clothes","lightArmor","robe"],
 			"enhancementSkills":["Malboro Rider","Bad Breath","Ground Whip","Gamma Star","Get Serious","Brutal Whip","Toxic Whip","Malboro Support","Landslide Whip","I'll fight for everyone's sake!"],
-			"categories":["Earth","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion"]
+			"categories":["Earth","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"]
 		},
 		"7_form": {
 			"name":"Yego",
@@ -5093,7 +5093,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","rod","bow","whip","mace","hat","clothes","lightArmor","robe"],
 			"enhancementSkills":["Malboro Rider","Bad Breath","Ground Whip","Gamma Star","Get Serious","Brutal Whip","Toxic Whip","Malboro Support","Landslide Whip","I'll fight for everyone's sake!"],
-			"categories":["Earth","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion"]
+			"categories":["Earth","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"]
 		}
 	},
 	"100019227": {
@@ -5117,7 +5117,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","rod","bow","whip","mace","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Malboro Rider","Bad Breath","Ground Whip","Gamma Star","Get Serious","Brutal Whip","Toxic Whip","Malboro Support","Landslide Whip","I'll fight for everyone's sake!"],
-		"categories":["Earth","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion"]
+		"categories":["Earth","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"]
 	},
 	"100019304": {
 		"name":"Zolulu & Delulu",
@@ -5179,7 +5179,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","spear","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Aeroga","Love for His Daughters","Spineshatter Dive 0+","Jump Master","Aeroja","Expert Lancer","Sky Dragon Squall","First-Generation Cid","Blue Sky Strike","Aerora","Tornado Blast","Jump"],
-		"categories":["Wind","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion"],
+		"categories":["Wind","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Cid",
 			"roles":["physicalAttacker"],
@@ -5199,7 +5199,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","spear","lightShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Aeroga","Love for His Daughters","Spineshatter Dive 0+","Jump Master","Aeroja","Expert Lancer","Sky Dragon Squall","First-Generation Cid","Blue Sky Strike","Aerora","Tornado Blast","Jump"],
-			"categories":["Wind","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion"]
+			"categories":["Wind","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"]
 		},
 		"7_form": {
 			"name":"Cid",
@@ -5220,7 +5220,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","spear","lightShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Aeroga","Love for His Daughters","Spineshatter Dive 0+","Jump Master","Aeroja","Expert Lancer","Sky Dragon Squall","First-Generation Cid","Blue Sky Strike","Aerora","Tornado Blast","Jump"],
-			"categories":["Wind","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion"]
+			"categories":["Wind","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"]
 		}
 	},
 	"100019527": {
@@ -5244,7 +5244,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","spear","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Final Spineshatter Dive","Aeroga","Aeroja","Aerora","Tornado Blast","Jump"],
-		"categories":["Wind","Attacker","FFBE","FFBE S2","Dark Lineage","The Rebellion"]
+		"categories":["Wind","Attacker","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"]
 	},
 	"100019604": {
 		"name":"Melete",
@@ -5409,7 +5409,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor"],
 		"enhancementSkills":["Mirror of Equity - Acuity","Thousand Slashes","Mirror of Equity - Disorder","Absolute Mirror of Equity","True Mirror of Equity","Soul of Ashes"],
-		"categories":["Fire","Attacker","FFBE","FFBE S2","The Rebellion","Fire","Attacker","FFBE","FFBE S2","The Rebellion","Fire","Attacker","FFBE","FFBE S2","The Rebellion"],
+		"categories":["Fire","Attacker","FFBE","FFBE S2","The Rebellion","The Gathering","Fire","Attacker","FFBE","FFBE S2","The Rebellion","The Gathering","Fire","Attacker","FFBE","FFBE S2","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Akstar",
 			"roles":["physicalAttacker"],
@@ -5429,7 +5429,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor"],
 			"enhancementSkills":["Mirror of Equity - Acuity","Thousand Slashes","Mirror of Equity - Disorder","Absolute Mirror of Equity","True Mirror of Equity","Soul of Ashes"],
-			"categories":["Fire","Attacker","FFBE","FFBE S2","The Rebellion","Fire","Attacker","FFBE","FFBE S2","The Rebellion","Fire","Attacker","FFBE","FFBE S2","The Rebellion"]
+			"categories":["Fire","Attacker","FFBE","FFBE S2","The Rebellion","The Gathering","Fire","Attacker","FFBE","FFBE S2","The Rebellion","The Gathering","Fire","Attacker","FFBE","FFBE S2","The Rebellion","The Gathering"]
 		}
 	},
 	"100020104": {
@@ -5595,7 +5595,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","axe","spear","lightShield","hat","helm","clothes","lightArmor","robe"],
 		"enhancementSkills":["Ice Riser","Fire Riser","Earnest Swordsman","The Burden of a Hero","Noble Banishing Blade","Heatwave Formation Strike","Blizzard Formation Strike","SPR +20%"],
-		"categories":["Fire","Attacker","FFBE","FFBE S2","The Rebellion","Fire","Attacker","Support","FFBE","FFBE S2","The Rebellion","Fire","Attacker","Support","FFBE","FFBE S2","The Rebellion"],
+		"categories":["Fire","Attacker","FFBE","FFBE S2","The Rebellion","The Gathering","Fire","Attacker","Support","FFBE","FFBE S2","The Rebellion","The Gathering","Fire","Attacker","Support","FFBE","FFBE S2","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Crimson",
 			"roles":["physicalAttacker","support"],
@@ -5615,7 +5615,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","axe","spear","lightShield","hat","helm","clothes","lightArmor","robe"],
 			"enhancementSkills":["Ice Riser","Fire Riser","Earnest Swordsman","The Burden of a Hero","Noble Banishing Blade","Heatwave Formation Strike","Blizzard Formation Strike","SPR +20%"],
-			"categories":["Fire","Attacker","FFBE","FFBE S2","The Rebellion","Fire","Attacker","Support","FFBE","FFBE S2","The Rebellion","Fire","Attacker","Support","FFBE","FFBE S2","The Rebellion"]
+			"categories":["Fire","Attacker","FFBE","FFBE S2","The Rebellion","The Gathering","Fire","Attacker","Support","FFBE","FFBE S2","The Rebellion","The Gathering","Fire","Attacker","Support","FFBE","FFBE S2","The Rebellion","The Gathering"]
 		}
 	},
 	"100020704": {
@@ -5635,7 +5635,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","sword","greatSword","axe","spear","lightShield","hat","helm","clothes","lightArmor"],
-		"categories":["Wind","Attacker","FFBE","Wind","Attacker","FFBE","Wind","Attacker","FFBE"]
+		"categories":["Wind","Attacker","FFBE","FFBE S2","The Gathering","Wind","Attacker","FFBE","FFBE S2","The Gathering","Wind","Attacker","FFBE","FFBE S2","The Gathering"]
 	},
 	"100020803": {
 		"name":"Mirfas",
@@ -5880,7 +5880,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Knight's Command","Undying Loyalty","Knight of Knights","Noble Knight","Light of Grandshelt","Veil of the Sacred Shield","Evil-Warding Shield","Adored by the People of Grandshelt"],
-		"categories":["Light","Magic Tank","Support","Attacker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage"],
+		"categories":["Light","Magic Tank","Support","Attacker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","The Gathering"],
 		"6_form": {
 			"name":"Charlotte, égide angélique",
 			"roles":["physicalAttacker","support","magicalTank"],
@@ -5900,7 +5900,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","staff","rod","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Knight's Command","Undying Loyalty","Knight of Knights","Noble Knight","Light of Grandshelt","Veil of the Sacred Shield","Evil-Warding Shield","Adored by the People of Grandshelt"],
-			"categories":["Light","Magic Tank","Support","Attacker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage"]
+			"categories":["Light","Magic Tank","Support","Attacker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","The Gathering"]
 		},
 		"7_form": {
 			"name":"Charlotte, égide angélique",
@@ -5921,7 +5921,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","staff","rod","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Knight's Command","Undying Loyalty","Knight of Knights","Noble Knight","Light of Grandshelt","Veil of the Sacred Shield","Evil-Warding Shield","Adored by the People of Grandshelt"],
-			"categories":["Light","Magic Tank","Support","Attacker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage"]
+			"categories":["Light","Magic Tank","Support","Attacker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","The Gathering"]
 		}
 	},
 	"100021727": {
@@ -5945,7 +5945,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Veil of the Sacred Shield","Mischief-Warding Shield","Dignified Knight"],
-		"categories":["Light","Magic Tank","Support","Attacker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage"]
+		"categories":["Light","Magic Tank","Support","Attacker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","The Gathering"]
 	},
 	"100021803": {
 		"name":"Shepard",
@@ -6120,7 +6120,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","mace","lightShield","hat","helm","clothes","lightArmor","robe"],
 		"enhancementSkills":["Yuraisha's Teachings","Endless Magic","Solar Divinity","Execution","Deflagrating Heat","Sage's Wisdom","Chaotic Nova"],
-		"categories":["Dark","Mage","Breaker","FFBE","FFBE S2","Dark Lineage","Blessing of the Crystals","Dark","Mage","Breaker","FFBE","FFBE S2","Dark Lineage","Blessing of the Crystals","Dark","Mage","Breaker","FFBE","FFBE S2","Dark Lineage","Blessing of the Crystals"],
+		"categories":["Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering","Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering","Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering"],
 		"6_form": {
 			"name":"Sol",
 			"roles":["magicalAttacker","debuffer"],
@@ -6140,7 +6140,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","harp","mace","lightShield","hat","helm","clothes","lightArmor","robe"],
 			"enhancementSkills":["Yuraisha's Teachings","Endless Magic","Solar Divinity","Execution","Deflagrating Heat","Sage's Wisdom","Chaotic Nova"],
-			"categories":["Dark","Mage","Breaker","FFBE","FFBE S2","Dark Lineage","Blessing of the Crystals","Dark","Mage","Breaker","FFBE","FFBE S2","Dark Lineage","Blessing of the Crystals","Dark","Mage","Breaker","FFBE","FFBE S2","Dark Lineage","Blessing of the Crystals"]
+			"categories":["Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering","Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering","Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering"]
 		}
 	},
 	"100022404": {
@@ -6256,7 +6256,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","throwing","gun","hat","helm","clothes","lightArmor"],
-		"categories":["Ice","Attacker","FFBE","FFBE S2","The Rebellion","Ice","Attacker","FFBE","FFBE S2","The Rebellion","Ice","Attacker","FFBE","FFBE S2","The Rebellion"],
+		"categories":["Ice","Attacker","FFBE","FFBE S2","The Rebellion","The Gathering","Ice","Attacker","FFBE","FFBE S2","The Rebellion","The Gathering","Ice","Attacker","FFBE","FFBE S2","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Physalis",
 			"roles":["physicalAttacker"],
@@ -6275,7 +6275,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","throwing","gun","hat","helm","clothes","lightArmor"],
-			"categories":["Ice","Attacker","FFBE","FFBE S2","The Rebellion","Ice","Attacker","FFBE","FFBE S2","The Rebellion","Ice","Attacker","FFBE","FFBE S2","The Rebellion"]
+			"categories":["Ice","Attacker","FFBE","FFBE S2","The Rebellion","The Gathering","Ice","Attacker","FFBE","FFBE S2","The Rebellion","The Gathering","Ice","Attacker","FFBE","FFBE S2","The Rebellion","The Gathering"]
 		}
 	},
 	"100022904": {
@@ -6295,7 +6295,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","sword","katana","spear","throwing","fist","hat","clothes"],
-		"categories":["Wind","Attacker","Breaker","FFBE","Wind","Attacker","Breaker","FFBE","Wind","Attacker","Breaker","FFBE"]
+		"categories":["Wind","Attacker","Breaker","FFBE","FFBE S2","The Gathering","Wind","Attacker","Breaker","FFBE","FFBE S2","The Gathering","Wind","Attacker","Breaker","FFBE","FFBE S2","The Gathering"]
 	},
 	"100023005": {
 		"name":"Lasswell, roi de Hess",
@@ -6394,7 +6394,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["staff","rod","whip","mace","hat","clothes","robe"],
-		"categories":["Earth","Mage","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals","Earth","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals","Earth","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals"],
+		"categories":["Earth","Mage","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals","The Gathering","Earth","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals","The Gathering","Earth","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals","The Gathering"],
 		"6_form": {
 			"name":"Fina obscure au lys blanc",
 			"roles":["magicalAttacker","debuffer"],
@@ -6413,7 +6413,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["staff","rod","whip","mace","hat","clothes","robe"],
-			"categories":["Earth","Mage","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals","Earth","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals","Earth","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals"]
+			"categories":["Earth","Mage","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals","The Gathering","Earth","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals","The Gathering","Earth","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals","The Gathering"]
 		}
 	},
 	"100023404": {
@@ -6957,7 +6957,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","axe","spear","mace","hat","clothes","robe"],
-		"categories":["Lightning","Mage","FFBE","Lightning","Mage","FFBE","Lightning","Mage","FFBE"],
+		"categories":["Lightning","Mage","FFBE","The Gathering","Lightning","Mage","FFBE","The Gathering","Lightning","Mage","FFBE","The Gathering"],
 		"6_form": {
 			"name":"Sakura de l'étoile Delta",
 			"roles":["magicalAttacker"],
@@ -6976,7 +6976,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","axe","spear","mace","hat","clothes","robe"],
-			"categories":["Lightning","Mage","FFBE","Lightning","Mage","FFBE","Lightning","Mage","FFBE"]
+			"categories":["Lightning","Mage","FFBE","The Gathering","Lightning","Mage","FFBE","The Gathering","Lightning","Mage","FFBE","The Gathering"]
 		}
 	},
 	"100025905": {
@@ -6996,7 +6996,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","hat","clothes","lightArmor","robe"],
-		"categories":["Water","Support","FFBE","Evocation","Water","Support","Breaker","FFBE","Evocation","Water","Support","Breaker","FFBE","Evocation"],
+		"categories":["Water","Support","FFBE","Evocation","The Gathering","Water","Support","Breaker","FFBE","Evocation","The Gathering","Water","Support","Breaker","FFBE","Evocation","The Gathering"],
 		"6_form": {
 			"name":"Nichol de l'étoile Epsilon",
 			"roles":["support","debuffer"],
@@ -7015,7 +7015,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","harp","hat","clothes","lightArmor","robe"],
-			"categories":["Water","Support","FFBE","Evocation","Water","Support","Breaker","FFBE","Evocation","Water","Support","Breaker","FFBE","Evocation"]
+			"categories":["Water","Support","FFBE","Evocation","The Gathering","Water","Support","Breaker","FFBE","Evocation","The Gathering","Water","Support","Breaker","FFBE","Evocation","The Gathering"]
 		}
 	},
 	"100026004": {
@@ -7750,7 +7750,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","spear","whip","throwing","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["A Crush on Rain","Protectga","Shellga","Cover - Physical I"],
-		"categories":["Earth","Physical Tank","Support","FFBE","FFBE S3"],
+		"categories":["Earth","Physical Tank","Support","FFBE","FFBE S3","The Gathering"],
 		"6_form": {
 			"name":"Daisy",
 			"roles":["physicalTank","support"],
@@ -7770,7 +7770,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","staff","spear","whip","throwing","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["A Crush on Rain","Protectga","Shellga","Cover - Physical I"],
-			"categories":["Earth","Physical Tank","Support","FFBE","FFBE S3"]
+			"categories":["Earth","Physical Tank","Support","FFBE","FFBE S3","The Gathering"]
 		},
 		"7_form": {
 			"name":"Daisy",
@@ -7791,7 +7791,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","staff","spear","whip","throwing","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["A Crush on Rain","Protectga","Shellga","Cover - Physical I"],
-			"categories":["Earth","Physical Tank","Support","FFBE","FFBE S3"]
+			"categories":["Earth","Physical Tank","Support","FFBE","FFBE S3","The Gathering"]
 		}
 	},
 	"100028327": {
@@ -7815,7 +7815,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","spear","whip","throwing","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["A Crush on Rain","Protectga","Shellga","Cover - Physical I","Earth Principle"],
-		"categories":["Earth","Physical Tank","FFBE","FFBE S3"]
+		"categories":["Earth","Physical Tank","FFBE","FFBE S3","The Gathering"]
 	},
 	"100028705": {
 		"name":"Kalmia",
@@ -7838,7 +7838,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","mace","lightShield","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Staff Mastery","Protectga","Shellga"],
-		"categories":["Healer","Support","FFBE","FFBE S3"],
+		"categories":["Healer","Support","FFBE","FFBE S3","The Gathering"],
 		"6_form": {
 			"name":"Kalmia",
 			"roles":["healer","support"],
@@ -7858,7 +7858,7 @@
 			"stats_pattern":1,
 			"equip":["staff","rod","mace","lightShield","hat","clothes","robe"],
 			"enhancementSkills":["Staff Mastery","Protectga","Shellga"],
-			"categories":["Healer","Support","FFBE","FFBE S3"]
+			"categories":["Healer","Support","FFBE","FFBE S3","The Gathering"]
 		},
 		"7_form": {
 			"name":"Kalmia",
@@ -7879,7 +7879,7 @@
 			"stats_pattern":4,
 			"equip":["staff","rod","mace","lightShield","hat","clothes","robe"],
 			"enhancementSkills":["Staff Mastery","Protectga","Shellga"],
-			"categories":["Healer","Support","FFBE","FFBE S3"]
+			"categories":["Healer","Support","FFBE","FFBE S3","The Gathering"]
 		}
 	},
 	"100028727": {
@@ -7903,7 +7903,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","mace","lightShield","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Knowledge of Emergency First-Aid","Staff Mastery","Protectga","Shellga"],
-		"categories":["Healer","Support","FFBE","FFBE S3"]
+		"categories":["Healer","Support","FFBE","FFBE S3","The Gathering"]
 	},
 	"100029305": {
 		"name":"Poppy",
@@ -7926,7 +7926,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","whip","throwing","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Passion Boost"],
-		"categories":["Light","Support","FFBE","FFBE S3"],
+		"categories":["Light","Support","FFBE","FFBE S3","The Gathering"],
 		"6_form": {
 			"name":"Poppy",
 			"roles":["support"],
@@ -7946,7 +7946,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","whip","throwing","hat","clothes","robe"],
 			"enhancementSkills":["Passion Boost"],
-			"categories":["Light","Support","FFBE","FFBE S3"]
+			"categories":["Light","Support","FFBE","FFBE S3","The Gathering"]
 		},
 		"7_form": {
 			"name":"Poppy",
@@ -7967,7 +7967,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","staff","rod","whip","throwing","hat","clothes","robe"],
 			"enhancementSkills":["Passion Boost"],
-			"categories":["Light","Support","FFBE","FFBE S3"]
+			"categories":["Light","Support","FFBE","FFBE S3","The Gathering"]
 		}
 	},
 	"100029327": {
@@ -7990,7 +7990,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","whip","throwing","hat","clothes","robe","visionCard"],
-		"categories":["Light","Support","FFBE","FFBE S3"]
+		"categories":["Light","Support","FFBE","FFBE S3","The Gathering"]
 	},
 	"100029905": {
 		"name":"Fina obscure, princesse sombredragon",
@@ -8130,7 +8130,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Auspicious Breeze Blade"],
-		"categories":["Wind","Attacker","FFBE","FFBE S3"],
+		"categories":["Wind","Attacker","FFBE","FFBE S3","The Gathering"],
 		"6_form": {
 			"name":"Nerine",
 			"roles":["physicalAttacker"],
@@ -8150,7 +8150,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Auspicious Breeze Blade"],
-			"categories":["Wind","Attacker","FFBE","FFBE S3"]
+			"categories":["Wind","Attacker","FFBE","FFBE S3","The Gathering"]
 		},
 		"7_form": {
 			"name":"Nerine",
@@ -8171,7 +8171,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Auspicious Breeze Blade"],
-			"categories":["Wind","Attacker","FFBE","FFBE S3"]
+			"categories":["Wind","Attacker","FFBE","FFBE S3","The Gathering"]
 		}
 	},
 	"100030227": {
@@ -8195,7 +8195,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Verdant Breeze Blade"],
-		"categories":["Wind","Attacker","FFBE","FFBE S3"]
+		"categories":["Wind","Attacker","FFBE","FFBE S3","The Gathering"]
 	},
 	"100030705": {
 		"name":"Cléomée",
@@ -8218,7 +8218,7 @@
 		"stats_pattern":4,
 		"equip":["katana","harp","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Soul's Symphonia","Funeral Dirge - Machina","Funeral Dirge - Reaper","Bond with Akstar (Cleome)"],
-		"categories":["Dark","Attacker","FFBE","FFBE S3"],
+		"categories":["Dark","Attacker","FFBE","FFBE S3","The Gathering"],
 		"6_form": {
 			"name":"Cléomée",
 			"roles":["physicalAttacker"],
@@ -8238,7 +8238,7 @@
 			"stats_pattern":1,
 			"equip":["katana","harp","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Soul's Symphonia","Funeral Dirge - Machina","Funeral Dirge - Reaper","Bond with Akstar (Cleome)"],
-			"categories":["Dark","Attacker","FFBE","FFBE S3"]
+			"categories":["Dark","Attacker","FFBE","FFBE S3","The Gathering"]
 		},
 		"7_form": {
 			"name":"Cléomée",
@@ -8259,7 +8259,7 @@
 			"stats_pattern":4,
 			"equip":["katana","harp","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Soul's Symphonia","Funeral Dirge - Machina","Funeral Dirge - Reaper","Bond with Akstar (Cleome)"],
-			"categories":["Dark","Attacker","FFBE","FFBE S3"]
+			"categories":["Dark","Attacker","FFBE","FFBE S3","The Gathering"]
 		}
 	},
 	"100030727": {
@@ -8283,7 +8283,7 @@
 		"stats_pattern":4,
 		"equip":["katana","harp","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Bond with Akstar (Cleome)","Bladeblitz","Iai Strike","Performing Mirror of Equity","Shadow Sharp Note"],
-		"categories":["Dark","Attacker","FFBE","FFBE S3"]
+		"categories":["Dark","Attacker","FFBE","FFBE S3","The Gathering"]
 	},
 	"100031007": {
 		"name":"Rain [Néo-vision]",
@@ -8387,7 +8387,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","throwing","gun","hat","clothes","lightArmor"],
-		"categories":["Dark","Attacker","Breaker","FFBE","FFBE S3","Evocation","Dark","Attacker","Breaker","FFBE","FFBE S3","Evocation","Dark","Attacker","Breaker","FFBE","FFBE S3","Evocation"],
+		"categories":["Dark","Attacker","Breaker","FFBE","FFBE S3","Evocation","The Gathering","Dark","Attacker","Breaker","FFBE","FFBE S3","Evocation","The Gathering","Dark","Attacker","Breaker","FFBE","FFBE S3","Evocation","The Gathering"],
 		"6_form": {
 			"name":"Bruce",
 			"roles":["physicalAttacker","debuffer"],
@@ -8406,7 +8406,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","throwing","gun","hat","clothes","lightArmor"],
-			"categories":["Dark","Attacker","Breaker","FFBE","FFBE S3","Evocation","Dark","Attacker","Breaker","FFBE","FFBE S3","Evocation","Dark","Attacker","Breaker","FFBE","FFBE S3","Evocation"]
+			"categories":["Dark","Attacker","Breaker","FFBE","FFBE S3","Evocation","The Gathering","Dark","Attacker","Breaker","FFBE","FFBE S3","Evocation","The Gathering","Dark","Attacker","Breaker","FFBE","FFBE S3","Evocation","The Gathering"]
 		}
 	},
 	"100031305": {
@@ -8426,7 +8426,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["staff","rod","gun","hat","clothes","robe"],
-		"categories":["Support","FFBE","FFBE S3","Evocation","Support","FFBE","FFBE S3","Evocation","Support","FFBE","FFBE S3","Evocation"],
+		"categories":["Support","FFBE","FFBE S3","Evocation","The Gathering","Support","FFBE","FFBE S3","Evocation","The Gathering","Support","FFBE","FFBE S3","Evocation","The Gathering"],
 		"6_form": {
 			"name":"Lenor",
 			"roles":["support"],
@@ -8445,7 +8445,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["staff","rod","gun","hat","clothes","robe"],
-			"categories":["Support","FFBE","FFBE S3","Evocation","Support","FFBE","FFBE S3","Evocation","Support","FFBE","FFBE S3","Evocation"]
+			"categories":["Support","FFBE","FFBE S3","Evocation","The Gathering","Support","FFBE","FFBE S3","Evocation","The Gathering","Support","FFBE","FFBE S3","Evocation","The Gathering"]
 		}
 	},
 	"100031405": {
@@ -8508,7 +8508,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Death Blade - Falling Star Frost","Destructive Blade - Glacial Fissure","Reigning Blade - Nation Division"],
-		"categories":["Ice","Attacker","FFBE","FFBE S3"]
+		"categories":["Ice","Attacker","FFBE","FFBE S3","The Gathering"]
 	},
 	"100031517": {
 		"name":"Akstar, dragon éveillé BS",
@@ -8531,7 +8531,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","spear","hat","helm","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Disciplined Blade - Grave Result","Reigning Blade - Nation Division","Death Blade - Falling Star Frost"],
-		"categories":["Ice","Attacker","FFBE","FFBE S3"]
+		"categories":["Ice","Attacker","FFBE","FFBE S3","The Gathering"]
 	},
 	"100031607": {
 		"name":"Sol [Néo-vision]",
@@ -8554,7 +8554,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","mace","lightShield","hat","helm","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Darkness Beam","Dark Hail","Malicious Manslayer"],
-		"categories":["Dark","Mage","FFBE","FFBE S2","Blessing of the Crystals","The Rebellion"]
+		"categories":["Dark","Mage","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals","The Rebellion","The Gathering"]
 	},
 	"100031617": {
 		"name":"Sol [Néo-vision] BS",
@@ -8577,7 +8577,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","whip","mace","lightShield","hat","helm","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Devastating Blizzard","Dark Hail"],
-		"categories":["Ice","Mage","FFBE","FFBE S2","Blessing of the Crystals","The Rebellion"]
+		"categories":["Ice","Mage","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals","The Rebellion","The Gathering"]
 	},
 	"100031707": {
 		"name":"Fina et Daisy, naïades des plages",
@@ -8809,7 +8809,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","spear","throwing","gun","hat","helm","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["F-Type Strongest Ice Shot (Physalis -Neo Vision-)","F-Type Strongest Wind Shot"],
-		"categories":["Ice","Mage","FFBE","FFBE S3","Dark Lineage"]
+		"categories":["Ice","Mage","FFBE","FFBE S3","Dark Lineage","The Gathering"]
 	},
 	"100032217": {
 		"name":"Physalis [Néo-vision] BS",
@@ -8832,7 +8832,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","spear","throwing","gun","hat","helm","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["F-Type Strongest Ice Shot (Physalis -Neo Vision-)","F-Type Strongest Water Shot","F-Type Strongest Wind Shot","Load Super Strong Ice Bullets!"],
-		"categories":["Ice","Mage","FFBE","FFBE S3","Dark Lineage"]
+		"categories":["Ice","Mage","FFBE","FFBE S3","Dark Lineage","The Gathering"]
 	},
 	"100032305": {
 		"name":"Lawrence, parangon de chevalerie",
@@ -8894,7 +8894,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Mirror of Equity - Blue Sky","Glacial Judgment Blade"],
-		"categories":["Ice","Attacker","FFBE","FFBE S4","Blood of Hess"]
+		"categories":["Ice","Attacker","FFBE","FFBE S4","Blood of Hess","The Gathering"]
 	},
 	"100032617": {
 		"name":"Lasswell [Néo-vision] BS",
@@ -8917,7 +8917,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","spear","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Mirror of Equity - Blue Sky","Obliterating Magic Blade"],
-		"categories":["Ice","Mage","FFBE","FFBE S4","Blood of Hess"]
+		"categories":["Ice","Mage","FFBE","FFBE S4","Blood of Hess","The Gathering"]
 	},
 	"100032707": {
 		"name":"Rain et Fina",
@@ -9611,7 +9611,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Boomer's Master","Stonga","Blizzaga","Earth Infliction","Quick","Haste","Spell of Plant and Stone"],
-		"categories":["Earth","Support","FFBE","FFBE S3"]
+		"categories":["Earth","Support","FFBE","FFBE S3","The Gathering"]
 	},
 	"100035117": {
 		"name":"Roca BS",
@@ -9634,7 +9634,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Boomer's Master","Stonga","Blizzaga","Earth Infliction","Quick","Haste","Spell of Plant and Stone"],
-		"categories":["Earth","Support","FFBE","FFBE S3"]
+		"categories":["Earth","Support","FFBE","FFBE S3","The Gathering"]
 	},
 	"100035307": {
 		"name":"Paus",
@@ -9657,7 +9657,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Waterga","Ultima","Lucidus Blade","Liquidus Blade"],
-		"categories":["Light","Mage","FFBE","FFBE S3"]
+		"categories":["Light","Mage","FFBE","FFBE S3","The Gathering"]
 	},
 	"100035317": {
 		"name":"Paus BS",
@@ -9680,7 +9680,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Waterga","Ultima","Lucidus Blade","Liquidus Blade"],
-		"categories":["Light","Mage","FFBE","FFBE S3"]
+		"categories":["Light","Mage","FFBE","FFBE S3","The Gathering"]
 	},
 	"100035507": {
 		"name":"Physalis, sniper des plages",
@@ -10248,7 +10248,7 @@
 		"stats_pattern":4,
 		"equip":["greatSword","katana","spear","hat","helm","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Dark Blade - Moonless Sky","Flame Blade - Crimson Flash","True Mirror of Equity","Obliterating Mirror of Equity"],
-		"categories":["Dark","Breaker","FFBE","Anniversary (JP)","Blessing of the Crystals"]
+		"categories":["Dark","Breaker","FFBE","Anniversary (JP)","Blessing of the Crystals","The Gathering"]
 	},
 	"100038017": {
 		"name":"Akstar de la nouvelle ère BS",
@@ -10270,7 +10270,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["greatSword","katana","spear","hat","helm","clothes","lightArmor","visionCard"],
-		"categories":["Dark","Breaker","FFBE","Anniversary (JP)","Blessing of the Crystals"]
+		"categories":["Dark","Breaker","FFBE","Anniversary (JP)","Blessing of the Crystals","The Gathering"]
 	},
 	"100038107": {
 		"name":"Fina de la nouvelle ère",
@@ -10293,7 +10293,7 @@
 		"stats_pattern":4,
 		"equip":["staff","bow","lightShield","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Pact with Bahamut (The Return)","Protectga","Shellga","Banishga","Brilliant Veil","Delightful Glow"],
-		"categories":["Light","Healer","Support","FFBE","Anniversary (JP)","Evocation","Blessing of the Crystals"]
+		"categories":["Light","Healer","Support","FFBE","FFBE S4","Anniversary (JP)","Evocation","Blessing of the Crystals","The Gathering"]
 	},
 	"100038117": {
 		"name":"Fina de la nouvelle ère BS",
@@ -10315,7 +10315,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["staff","bow","lightShield","hat","clothes","robe","visionCard"],
-		"categories":["Light","Healer","Support","FFBE","Anniversary (JP)","Evocation","Blessing of the Crystals"]
+		"categories":["Light","Healer","Support","FFBE","FFBE S4","Anniversary (JP)","Evocation","Blessing of the Crystals","The Gathering"]
 	},
 	"100038207": {
 		"name":"Nichol de la nouvelle ère",
@@ -10338,7 +10338,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Blizzaga","Waterga","Thundaga","Flood","Burst (FFBE)","Crashing Waterfall","Iceberg Stance","Courageous Stance","Fortune Stance"],
-		"categories":["Water","Mage","FFBE","Anniversary (JP)","Evocation"]
+		"categories":["Water","Mage","FFBE","Anniversary (JP)","Evocation","The Gathering"]
 	},
 	"100038217": {
 		"name":"Nichol de la nouvelle ère BS",
@@ -10360,7 +10360,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["staff","rod","hat","clothes","lightArmor","robe","visionCard"],
-		"categories":["Water","Mage","FFBE","Anniversary (JP)","Evocation"]
+		"categories":["Water","Mage","FFBE","Anniversary (JP)","Evocation","The Gathering"]
 	},
 	"100038307": {
 		"name":"Sakura de la nouvelle ère",
@@ -10383,7 +10383,7 @@
 		"stats_pattern":4,
 		"equip":["rod","spear","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Aeroga","Waterga","Thundaga","Flood","Burst (FFBE)","Quick Tremulous Thunder"],
-		"categories":["Lightning","Mage","FFBE","Anniversary (JP)"]
+		"categories":["Lightning","Mage","FFBE","Anniversary (JP)","The Gathering"]
 	},
 	"100038317": {
 		"name":"Sakura de la nouvelle ère BS",
@@ -10405,7 +10405,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["rod","spear","hat","clothes","lightArmor","robe","visionCard"],
-		"categories":["Lightning","Mage","FFBE","Anniversary (JP)"]
+		"categories":["Lightning","Mage","FFBE","Anniversary (JP)","The Gathering"]
 	},
 	"100038407": {
 		"name":"Lasswell, chevalier noir (FFIV)",
@@ -10975,7 +10975,7 @@
 		"stats_pattern":4,
 		"equip":["fist","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["This is the...","Furious Beatdown","Beat Up"],
-		"categories":["Lightning","Attacker","FFBE","FFBE S4"]
+		"categories":["Lightning","Attacker","FFBE","FFBE S4","The Gathering"]
 	},
 	"100039917": {
 		"name":"Neilikka BS",
@@ -10998,7 +10998,7 @@
 		"stats_pattern":4,
 		"equip":["fist","visionCard"],
 		"enhancementSkills":["Fists of Heavy Machinery","This is the...","Duty to Fight Omega Spawn","Beat Up"],
-		"categories":["Lightning","Attacker","FFBE","FFBE S4"]
+		"categories":["Lightning","Attacker","FFBE","FFBE S4","The Gathering"]
 	},
 	"100040007": {
 		"name":"Regina ultime",
@@ -11066,7 +11066,7 @@
 		"stats_pattern":4,
 		"equip":["axe","hammer","mace","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Eisen Schwall","Eisen Platzen","Weighty Stance","Axe Mastery","Awakening of Power"],
-		"categories":["Earth","Attacker","FFBE","FFBE S4","The Rebellion"]
+		"categories":["Earth","Attacker","FFBE","FFBE S4","The Rebellion","The Gathering"]
 	},
 	"100040117": {
 		"name":"Vanhelmar BS",
@@ -11088,7 +11088,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["axe","hammer","mace","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
-		"categories":["Earth","Attacker","FFBE","FFBE S4","The Rebellion"]
+		"categories":["Earth","Attacker","FFBE","FFBE S4","The Rebellion","The Gathering"]
 	},
 	"100040207": {
 		"name":"Ihana",
@@ -11111,7 +11111,7 @@
 		"stats_pattern":4,
 		"equip":["axe","mace","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Stonra","Stonga","Aura"],
-		"categories":["Earth","Support","Healer","FFBE","FFBE S4","The Rebellion"]
+		"categories":["Earth","Support","Healer","FFBE","FFBE S4","The Rebellion","The Gathering"]
 	},
 	"100040217": {
 		"name":"Ihana BS",
@@ -11134,7 +11134,7 @@
 		"stats_pattern":4,
 		"equip":["axe","mace","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Stonra","Stonga","Aura"],
-		"categories":["Earth","Support","Healer","FFBE","FFBE S4","The Rebellion"]
+		"categories":["Earth","Support","Healer","FFBE","FFBE S4","The Rebellion","The Gathering"]
 	},
 	"100040307": {
 		"name":"Taivas et Yshe",
@@ -11429,7 +11429,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","gun","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Pseudo-Magitek Core - Boomer","Earth Crystal Field","Quick","Stonra","Stonga","Quake"],
-		"categories":["Earth","Mage","FFBE","Anniversary (JP)","Dark Lineage"]
+		"categories":["Earth","Mage","FFBE","Anniversary (JP)","Dark Lineage","The Gathering"]
 	},
 	"100040917": {
 		"name":"Roca de la lignée obscure BS",
@@ -11451,7 +11451,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["staff","rod","gun","hat","clothes","robe","visionCard"],
-		"categories":["Earth","Mage","FFBE","Anniversary (JP)","Dark Lineage"]
+		"categories":["Earth","Mage","FFBE","Anniversary (JP)","Dark Lineage","The Gathering"]
 	},
 	"100041007": {
 		"name":"Veritas du Gel",
@@ -11519,7 +11519,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","spear","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Sage of Thunder's Specialty","Spear Mastery","Defensive Barrier","True Thunder Stone","Thundara","Thundaga","Burst (FFBE)","Protectga","Shellga"],
-		"categories":["Lightning","Support","FFBE","Anniversary (JP)","Dark Lineage","Evocation"]
+		"categories":["Lightning","Support","FFBE","Anniversary (JP)","Dark Lineage","Evocation","The Gathering"]
 	},
 	"100041117": {
 		"name":"Veritas de la Foudre BS",
@@ -11542,7 +11542,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","bow","spear","hat","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Sage of Thunder's Specialty","Bow Mastery","Two-Handed Technique (MAG)","Thundara","Thundaga","Burst (FFBE)"],
-		"categories":["Lightning","Mage","FFBE","Anniversary (JP)","Dark Lineage","Evocation"]
+		"categories":["Lightning","Mage","FFBE","Anniversary (JP)","Dark Lineage","Evocation","The Gathering"]
 	},
 	"100041207": {
 		"name":"Rain, éther flamboyant",
@@ -11656,7 +11656,7 @@
 		"stats_pattern":4,
 		"equip":["spear","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Geo-Force Dive","Jump","Spear Mastery","Jump Master"],
-		"categories":["Earth","Attacker","FFBE","FFBE S2","Anniversary (JP)","Dark Lineage"]
+		"categories":["Earth","Attacker","FFBE","FFBE S2","Anniversary (JP)","Dark Lineage","The Gathering"]
 	},
 	"100041417": {
 		"name":"Mid BS",
@@ -11679,7 +11679,7 @@
 		"stats_pattern":4,
 		"equip":["spear","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Jump","Spear Mastery","Jump Master","Tornado Blast","Final Spineshatter Dive"],
-		"categories":["Wind","Attacker","FFBE","FFBE S2","Anniversary (JP)","Dark Lineage"]
+		"categories":["Wind","Attacker","FFBE","FFBE S2","Anniversary (JP)","Dark Lineage","The Gathering"]
 	},
 	"100041607": {
 		"name":"Sheratan",
@@ -14075,7 +14075,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","sword","katana","spear","lightShield","heavyShield","helm","clothes","lightArmor","heavyArmor"],
 		"enhancementSkills":["Dragoon Spirit","Dragon Dive"],
-		"categories":["Attacker","FFIV","Attacker","FFIV","Attacker","FFIV"]
+		"categories":["Attacker","FFIV","The Gathering","Attacker","FFIV","The Gathering","Attacker","FFIV","The Gathering"]
 	},
 	"204000304": {
 		"name":"Rosa",
@@ -14095,7 +14095,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","staff","rod","bow","harp","whip","hat","clothes","robe"],
 		"enhancementSkills":["Sharpshot","Bless"],
-		"categories":["Attacker","Healer","FFIV","Attacker","Healer","FFIV","Attacker","Mage","Healer","FFIV"]
+		"categories":["Attacker","Healer","FFIV","The Gathering","Attacker","Healer","FFIV","The Gathering","Attacker","Mage","Healer","FFIV","The Gathering"]
 	},
 	"204000403": {
 		"name":"Rydia",
@@ -14115,7 +14115,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","rod","whip","hat","clothes","lightArmor","robe"],
-		"categories":["Ice","Mage","FFIV","Ice","Mage","FFIV","Ice","Mage","FFIV"]
+		"categories":["Ice","Mage","FFIV","The Gathering","Ice","Mage","FFIV","The Gathering","Ice","Mage","FFIV","The Gathering"]
 	},
 	"204000503": {
 		"name":"Tellah",
@@ -14134,7 +14134,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["staff","rod","hat","clothes","robe"],
-		"categories":["Mage","FFIV","Mage","Healer","FFIV","Mage","Healer","FFIV"]
+		"categories":["Mage","FFIV","The Gathering","Mage","Healer","FFIV","The Gathering","Mage","Healer","FFIV","The Gathering"]
 	},
 	"204000603": {
 		"name":"Edward",
@@ -14153,7 +14153,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["staff","rod","bow","harp","throwing","lightShield","hat","clothes","robe"],
-		"categories":["Mage","Support","FFIV","Mage","Support","FFIV","Mage","Support","FFIV"]
+		"categories":["Mage","Support","FFIV","The Gathering","Mage","Support","FFIV","The Gathering","Mage","Support","FFIV","The Gathering"]
 	},
 	"204000704": {
 		"name":"Yang",
@@ -14173,7 +14173,7 @@
 		"stats_pattern":1,
 		"equip":["hammer","fist","hat","clothes"],
 		"enhancementSkills":["Bare Knuckle Extreme","All-out Scuffle","Martial Arts Mastery"],
-		"categories":["Attacker","FFIV","Attacker","FFIV","Attacker","FFIV"]
+		"categories":["Attacker","FFIV","The Gathering","Attacker","FFIV","The Gathering","Attacker","FFIV","The Gathering"]
 	},
 	"204001004": {
 		"name":"Cid (FFIV)",
@@ -14211,7 +14211,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","sword","katana","throwing","fist","hat","clothes","lightArmor"],
-		"categories":["Attacker","FFIV","Attacker","Mage","FFIV","Attacker","Mage","Breaker","FFIV"]
+		"categories":["Attacker","FFIV","The Gathering","Attacker","Mage","FFIV","The Gathering","Attacker","Mage","Breaker","FFIV","The Gathering"]
 	},
 	"204001302": {
 		"name":"Giotto",
@@ -14270,7 +14270,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","bow","whip","hat","clothes","robe"],
 		"enhancementSkills":["Mother's Teachings","Quake","Tornado","Eidolon Mindflayer's Chant","Tradition","Eidolon King's Prayer","Burst Storm"],
-		"categories":["Water","Mage","FFIV","Water","Mage","FFIV","Water","Mage","FFIV"],
+		"categories":["Water","Mage","FFIV","The Gathering","Water","Mage","FFIV","The Gathering","Water","Mage","FFIV","The Gathering"],
 		"6_form": {
 			"name":"Rydia, pure invocatrice",
 			"roles":["magicalAttacker"],
@@ -14290,7 +14290,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","bow","whip","hat","clothes","robe"],
 			"enhancementSkills":["Mother's Teachings","Quake","Tornado","Eidolon Mindflayer's Chant","Tradition","Eidolon King's Prayer","Burst Storm"],
-			"categories":["Water","Mage","FFIV","Water","Mage","FFIV","Water","Mage","FFIV"]
+			"categories":["Water","Mage","FFIV","The Gathering","Water","Mage","FFIV","The Gathering","Water","Mage","FFIV","The Gathering"]
 		}
 	},
 	"204001605": {
@@ -14311,7 +14311,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","katana","axe","spear","whip","mace","lightShield","heavyShield","hat","helm","lightArmor","heavyArmor"],
 		"enhancementSkills":["Piercing Darkness","Piercing Aqua","Dragoon Spirit","Piercing Air","Dragon Raid+","Ready For Redemption"],
-		"categories":["Wind","Attacker","Breaker","FFIV","Wind","Attacker","Breaker","FFIV","Wind","Attacker","Breaker","FFIV"],
+		"categories":["Wind","Attacker","Breaker","FFIV","The Gathering","Wind","Attacker","Breaker","FFIV","The Gathering","Wind","Attacker","Breaker","FFIV","The Gathering"],
 		"6_form": {
 			"name":"Kaïn, dragonnier repenti",
 			"roles":["physicalAttacker","debuffer"],
@@ -14331,7 +14331,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","katana","axe","spear","whip","mace","lightShield","heavyShield","hat","helm","lightArmor","heavyArmor"],
 			"enhancementSkills":["Piercing Darkness","Piercing Aqua","Dragoon Spirit","Piercing Air","Dragon Raid+","Ready For Redemption"],
-			"categories":["Wind","Attacker","Breaker","FFIV","Wind","Attacker","Breaker","FFIV","Wind","Attacker","Breaker","FFIV"]
+			"categories":["Wind","Attacker","Breaker","FFIV","The Gathering","Wind","Attacker","Breaker","FFIV","The Gathering","Wind","Attacker","Breaker","FFIV","The Gathering"]
 		}
 	},
 	"204001705": {
@@ -14478,7 +14478,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","bow","mace","lightShield","hat","helm","clothes","robe"],
-		"categories":["Light","Attacker","Healer","FFIV","Light","Attacker","Healer","FFIV","Light","Attacker","Healer","FFIV"],
+		"categories":["Light","Attacker","Healer","FFIV","The Gathering","Light","Attacker","Healer","FFIV","The Gathering","Light","Attacker","Healer","FFIV","The Gathering"],
 		"6_form": {
 			"name":"Rosa le mage blanc",
 			"roles":["physicalAttacker","healer"],
@@ -14497,7 +14497,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","bow","mace","lightShield","hat","helm","clothes","robe"],
-			"categories":["Light","Attacker","Healer","FFIV","Light","Attacker","Healer","FFIV","Light","Attacker","Healer","FFIV"]
+			"categories":["Light","Attacker","Healer","FFIV","The Gathering","Light","Attacker","Healer","FFIV","The Gathering","Light","Attacker","Healer","FFIV","The Gathering"]
 		}
 	},
 	"204002605": {
@@ -14517,7 +14517,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","bow","mace","hat","helm","clothes","robe"],
-		"categories":["Fire","Mage","FFIV","Fire","Mage","FFIV","Fire","Mage","FFIV"],
+		"categories":["Fire","Mage","FFIV","The Gathering","Fire","Mage","FFIV","The Gathering","Fire","Mage","FFIV","The Gathering"],
 		"6_form": {
 			"name":"Palom et Porom",
 			"roles":["magicalAttacker"],
@@ -14536,7 +14536,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","bow","mace","hat","helm","clothes","robe"],
-			"categories":["Fire","Mage","FFIV","Fire","Mage","FFIV","Fire","Mage","FFIV"]
+			"categories":["Fire","Mage","FFIV","The Gathering","Fire","Mage","FFIV","The Gathering","Fire","Mage","FFIV","The Gathering"]
 		}
 	},
 	"204002907": {
@@ -14560,7 +14560,7 @@
 		"stats_pattern":4,
 		"equip":["spear","lightShield","heavyShield","hat","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Impulse Drive","Thunder Jump"],
-		"categories":["Lightning","Attacker","FFIV"]
+		"categories":["Lightning","Attacker","FFIV","The Gathering"]
 	},
 	"204002917": {
 		"name":"Kaïn, saint chevalier dragon BS",
@@ -14583,7 +14583,7 @@
 		"stats_pattern":4,
 		"equip":["sword","spear","lightShield","heavyShield","hat","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Impulse Drive","Holy Jump"],
-		"categories":["Light","Attacker","FFIV"]
+		"categories":["Light","Attacker","FFIV","The Gathering"]
 	},
 	"204003007": {
 		"name":"Rydia invocatrice",
@@ -14606,7 +14606,7 @@
 		"stats_pattern":4,
 		"equip":["rod","whip","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Blizzara","Thundara","Blizzaga","Thundaga","Tornado","Growth in the Feymarch","Mist Dragon's Protection"],
-		"categories":["Ice","Mage","FFIV","Evocation"]
+		"categories":["Ice","Mage","FFIV","Evocation","The Gathering"]
 	},
 	"204003017": {
 		"name":"Rydia et le Dragon des brumes BS",
@@ -14629,7 +14629,7 @@
 		"stats_pattern":4,
 		"equip":["rod","whip","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["The Feymarch Guardian","Frozen Breath","Mist Dragon's Protection"],
-		"categories":["Ice","Mage","FFIV","Evocation"]
+		"categories":["Ice","Mage","FFIV","Evocation","The Gathering"]
 	},
 	"204003107": {
 		"name":"Edge le ninja",
@@ -14652,7 +14652,7 @@
 		"stats_pattern":4,
 		"equip":["katana","throwing","fist","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Blitz+","Flame+"],
-		"categories":["Lightning","Breaker","FFIV"]
+		"categories":["Lightning","Breaker","FFIV","The Gathering"]
 	},
 	"204003117": {
 		"name":"Edge le ninja BS",
@@ -14674,7 +14674,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["katana","throwing","fist","hat","clothes","lightArmor","visionCard"],
-		"categories":["Lightning","Breaker","FFIV"]
+		"categories":["Lightning","Breaker","FFIV","The Gathering"]
 	},
 	"204003207": {
 		"name":"Cécil des Ailes Rouges",
@@ -14743,7 +14743,7 @@
 		"stats_pattern":4,
 		"equip":["staff","bow","lightShield","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Prayer of Vitality","True Glorious Rain of Arrows","Staff Mastery","Bow Mastery","Shellga","Protectga"],
-		"categories":["Light","Healer","Support","FFIV"]
+		"categories":["Light","Healer","Support","FFIV","The Gathering"]
 	},
 	"204003317": {
 		"name":"Rosa, mage blanc de la bénédiction BS",
@@ -14765,7 +14765,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["staff","bow","lightShield","hat","clothes","robe","visionCard"],
-		"categories":["Light","Healer","Support","FFIV"]
+		"categories":["Light","Healer","Support","FFIV","The Gathering"]
 	},
 	"205000103": {
 		"name":"Bartz",
@@ -14804,7 +14804,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","staff","rod","bow","hat","clothes","lightArmor","robe"],
-		"categories":["Healer","FFV","Healer","FFV","Healer","FFV"]
+		"categories":["Healer","FFV","The Gathering","Healer","FFV","The Gathering","Healer","FFV","The Gathering"]
 	},
 	"205000303": {
 		"name":"Galuf",
@@ -14823,7 +14823,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","sword","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
-		"categories":["Physical Tank","FFV","Physical Tank","FFV","Physical Tank","Breaker","FFV"]
+		"categories":["Physical Tank","FFV","The Gathering","Physical Tank","FFV","The Gathering","Physical Tank","Breaker","FFV","The Gathering"]
 	},
 	"205000403": {
 		"name":"Faris",
@@ -14842,7 +14842,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","sword","greatSword","katana","axe","hammer","spear","throwing","fist","lightShield","hat","helm","clothes","lightArmor"],
-		"categories":["Wind","Attacker","FFV","Wind","Attacker","FFV","Wind","Attacker","Breaker","FFV"]
+		"categories":["Wind","Attacker","FFV","The Gathering","Wind","Attacker","FFV","The Gathering","Wind","Attacker","Breaker","FFV","The Gathering"]
 	},
 	"205000503": {
 		"name":"Krile",
@@ -14862,7 +14862,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","sword","staff","mace","lightShield","hat","helm","clothes","lightArmor","robe"],
 		"enhancementSkills":["Bluff","Dual Front"],
-		"categories":["Lightning","Mage","Healer","FFV","Lightning","Mage","Healer","FFV","Lightning","Mage","Healer","FFV"]
+		"categories":["Lightning","Mage","Healer","FFV","The Gathering","Lightning","Mage","Healer","FFV","The Gathering","Lightning","Mage","Healer","FFV","The Gathering"]
 	},
 	"205000703": {
 		"name":"Exdeath",
@@ -15080,7 +15080,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Strength to Protect the Warriors of Light","Stronghold Advance"],
-		"categories":["Fire","Attacker","Support","Physical Tank","FFV","Blessing of the Crystals"],
+		"categories":["Fire","Attacker","Support","Physical Tank","FFV","Blessing of the Crystals","The Gathering"],
 		"6_form": {
 			"name":"Galuf, Guerrier de l'Aube",
 			"roles":["physicalAttacker","support","physicalTank"],
@@ -15100,7 +15100,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Strength to Protect the Warriors of Light","Stronghold Advance"],
-			"categories":["Fire","Attacker","Support","Physical Tank","FFV","Blessing of the Crystals"]
+			"categories":["Fire","Attacker","Support","Physical Tank","FFV","Blessing of the Crystals","The Gathering"]
 		},
 		"7_form": {
 			"name":"Galuf, Guerrier de l'Aube",
@@ -15121,7 +15121,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Strength to Protect the Warriors of Light","Stronghold Advance"],
-			"categories":["Fire","Attacker","Support","Physical Tank","FFV","Blessing of the Crystals"]
+			"categories":["Fire","Attacker","Support","Physical Tank","FFV","Blessing of the Crystals","The Gathering"]
 		}
 	},
 	"205001027": {
@@ -15145,7 +15145,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Sandstorm Fist"],
-		"categories":["Earth","Attacker","FFV","Blessing of the Crystals"]
+		"categories":["Earth","Attacker","FFV","Blessing of the Crystals","The Gathering"]
 	},
 	"205001105": {
 		"name":"Bartz, Guerrier de la Lumière",
@@ -15252,7 +15252,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","bow","harp","mace","lightShield","hat","helm","clothes","lightArmor","robe"],
-		"categories":["Light","Healer","Support","FFV","Blessing of the Crystals","Light","Healer","Support","FFV","Blessing of the Crystals","Light","Healer","Support","FFV","Blessing of the Crystals"],
+		"categories":["Light","Healer","Support","FFV","Blessing of the Crystals","The Gathering","Light","Healer","Support","FFV","Blessing of the Crystals","The Gathering","Light","Healer","Support","FFV","Blessing of the Crystals","The Gathering"],
 		"6_form": {
 			"name":"Lenna, Guerrière de la Lumière",
 			"roles":["healer","support"],
@@ -15271,7 +15271,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","staff","rod","bow","harp","mace","lightShield","hat","helm","clothes","lightArmor","robe"],
-			"categories":["Light","Healer","Support","FFV","Blessing of the Crystals","Light","Healer","Support","FFV","Blessing of the Crystals","Light","Healer","Support","FFV","Blessing of the Crystals"]
+			"categories":["Light","Healer","Support","FFV","Blessing of the Crystals","The Gathering","Light","Healer","Support","FFV","Blessing of the Crystals","The Gathering","Light","Healer","Support","FFV","Blessing of the Crystals","The Gathering"]
 		}
 	},
 	"205001305": {
@@ -15292,7 +15292,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","mace","lightShield","hat","helm","clothes","lightArmor","robe"],
 		"enhancementSkills":["Vengeful Tackle"],
-		"categories":["Lightning","Mage","Healer","FFV","Blessing of the Crystals","Lightning","Mage","Healer","FFV","Blessing of the Crystals","Lightning","Mage","Healer","FFV","Blessing of the Crystals"],
+		"categories":["Lightning","Mage","Healer","FFV","Blessing of the Crystals","The Gathering","Lightning","Mage","Healer","FFV","Blessing of the Crystals","The Gathering","Lightning","Mage","Healer","FFV","Blessing of the Crystals","The Gathering"],
 		"6_form": {
 			"name":"Krile, Guerrière de la Lumière",
 			"roles":["magicalAttacker","healer"],
@@ -15312,7 +15312,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","staff","rod","mace","lightShield","hat","helm","clothes","lightArmor","robe"],
 			"enhancementSkills":["Vengeful Tackle"],
-			"categories":["Lightning","Mage","Healer","FFV","Blessing of the Crystals","Lightning","Mage","Healer","FFV","Blessing of the Crystals","Lightning","Mage","Healer","FFV","Blessing of the Crystals"]
+			"categories":["Lightning","Mage","Healer","FFV","Blessing of the Crystals","The Gathering","Lightning","Mage","Healer","FFV","Blessing of the Crystals","The Gathering","Lightning","Mage","Healer","FFV","Blessing of the Crystals","The Gathering"]
 		}
 	},
 	"205001407": {
@@ -15336,7 +15336,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","katana","rod","gun","hat","helm","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Artillery Fire","Unleashed Evocation (Faris -Neo Vision-)"],
-		"categories":["Wind","Mage","FFV","Evocation","Blessing of the Crystals"]
+		"categories":["Wind","Mage","FFV","Evocation","Blessing of the Crystals","The Gathering"]
 	},
 	"205001417": {
 		"name":"Faris [Néo-vision] BS",
@@ -15359,7 +15359,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","katana","rod","gun","hat","helm","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Blade of Courage","Unleashed Evocation (Faris -Neo Vision-)"],
-		"categories":["Fire","Breaker","FFV","Evocation","Blessing of the Crystals"]
+		"categories":["Fire","Breaker","FFV","Evocation","Blessing of the Crystals","The Gathering"]
 	},
 	"205001505": {
 		"name":"Xezat",
@@ -15423,7 +15423,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","rod","lightShield","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Summon Flaming Spirit","Princess of Tycoon's Magic"],
-		"categories":["Fire","Mage","FFV","Evocation","Blessing of the Crystals"]
+		"categories":["Fire","Mage","FFV","Evocation","Blessing of the Crystals","The Gathering"]
 	},
 	"205001617": {
 		"name":"Lenna danseuse BS",
@@ -15446,7 +15446,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","rod","lightShield","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Passionate Tap Dance","Sylph Spin"],
-		"categories":["Wind","Breaker","FFV","Evocation","Blessing of the Crystals"]
+		"categories":["Wind","Breaker","FFV","Evocation","Blessing of the Crystals","The Gathering"]
 	},
 	"205001707": {
 		"name":"Dorgann, Guerrier de l'Aube",
@@ -15560,7 +15560,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","mace","hat","robe","visionCard"],
 		"enhancementSkills":["Shining Healing","Staff Mastery","Vengeful Tackle","Protectga","Shellga"],
-		"categories":["Wind","Healer","Support","FFV","Blessing of the Crystals"]
+		"categories":["Wind","Healer","Support","FFV","Blessing of the Crystals","The Gathering"]
 	},
 	"205001917": {
 		"name":"Krile la berserk BS",
@@ -15583,7 +15583,7 @@
 		"stats_pattern":4,
 		"equip":["greatSword","axe","hammer","mace","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Crazed Rampage","Axe Mastery"],
-		"categories":["Earth","Attacker","FFV","Blessing of the Crystals"]
+		"categories":["Earth","Attacker","FFV","Blessing of the Crystals","The Gathering"]
 	},
 	"205002007": {
 		"name":"Gilgamesh héros mondial",
@@ -15676,6 +15676,52 @@
 		"enhancementSkills":["Lupine Fang","Sword Mastery"],
 		"categories":["Lightning","Attacker","FFV","Bestowed Power","Blessing of the Crystals"]
 	},
+	"205002207": {
+		"name":"Galuf, roi de Bal",
+		"roles":["physicalAttacker","debuffer"],
+		"wikiEntry":"King_of Bal Galuf",
+		"id":"205002207",
+		"game_id":"10005",
+		"game":"FFV",
+		"braveShift":"205002217",
+		"exAwakening": [{"hp":686,"mp":43,"atk":82,"def":34,"mag":22,"spr":33},{"hp":528,"mp":33,"atk":63,"def":26,"mag":17,"spr":25},{"hp":369,"mp":23,"atk":44,"def":18,"mag":12,"spr":18}],
+		"fragmentId": "250023900",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5124,"mp":332,"atk":290,"def":259,"mag":136,"spr":249},
+			"minStats":{"hp":1691,"mp":110,"atk":96,"def":85,"mag":45,"spr":82},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","harp","whip","throwing","gun","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
+		"enhancementSkills":["Dawn Blaze","Sword Mastery","Katana Mastery","Firaga","Blizzaga","Thundaga"],
+		"categories":["Fire","Attacker","Breaker","FFV","The Gathering"]
+	},
+	"205002217": {
+		"name":"Samouraï Galuf BS",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Samurai_Galuf",
+		"id":"205002217",
+		"game_id":"10005",
+		"game":"FFV",
+		"braveShifted":"205002207",
+		"exAwakening": [{"hp":686,"mp":43,"atk":82,"def":34,"mag":22,"spr":33},{"hp":528,"mp":33,"atk":63,"def":26,"mag":17,"spr":25},{"hp":369,"mp":23,"atk":44,"def":18,"mag":12,"spr":18}],
+		"fragmentId": "250023900",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5277,"mp":316,"atk":315,"def":241,"mag":169,"spr":201},
+			"minStats":{"hp":1741,"mp":104,"atk":104,"def":80,"mag":56,"spr":66},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","katana","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Master Swordsmanship","Dawn Blaze","Katana Mastery"],
+		"categories":["Fire","Attacker","FFV","The Gathering"]
+	},
 	"206000103": {
 		"name":"Terra",
 		"roles":["magicalAttacker","healer"],
@@ -15694,7 +15740,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","sword","staff","rod","gun","lightShield","hat","clothes"],
 		"enhancementSkills":["Guardian Mog","Lifesaver","Unlock Magic"],
-		"categories":["Mage","Healer","FFVI","The Rebellion","Mage","Healer","FFVI","The Rebellion","Mage","Healer","FFVI","The Rebellion","Mage","Healer","FFVI","The Rebellion"]
+		"categories":["Mage","Healer","FFVI","The Rebellion","The Gathering","Mage","Healer","FFVI","The Rebellion","The Gathering","Mage","Healer","FFVI","The Rebellion","The Gathering","Mage","Healer","FFVI","The Rebellion","The Gathering"]
 	},
 	"206000113": {
 		"name":"Terra en armure",
@@ -15714,7 +15760,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","sword","staff","rod","gun","lightShield","hat","clothes"],
-		"categories":["Mage","FFVI","The Rebellion","Mage","FFVI","The Rebellion"]
+		"categories":["Mage","FFVI","The Rebellion","The Gathering","Mage","FFVI","The Rebellion","The Gathering"]
 	},
 	"206000125": {
 		"name":"Terra en transe",
@@ -15734,7 +15780,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","gun","lightShield","hat","clothes","robe"],
 		"enhancementSkills":["Chaos Wave","Inherited Power","Ultima","Magical Activation"],
-		"categories":["Fire","Mage","FFVI","The Rebellion","Fire","Mage","Support","FFVI","The Rebellion","Fire","Mage","Support","FFVI","The Rebellion"],
+		"categories":["Fire","Mage","FFVI","The Rebellion","The Gathering","Fire","Mage","Support","FFVI","The Rebellion","The Gathering","Fire","Mage","Support","FFVI","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Terra en transe",
 			"roles":["magicalAttacker","support"],
@@ -15754,7 +15800,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","staff","rod","gun","lightShield","hat","clothes","robe"],
 			"enhancementSkills":["Chaos Wave","Inherited Power","Ultima","Magical Activation"],
-			"categories":["Fire","Mage","FFVI","The Rebellion","Fire","Mage","Support","FFVI","The Rebellion","Fire","Mage","Support","FFVI","The Rebellion"]
+			"categories":["Fire","Mage","FFVI","The Rebellion","The Gathering","Fire","Mage","Support","FFVI","The Rebellion","The Gathering","Fire","Mage","Support","FFVI","The Rebellion","The Gathering"]
 		}
 	},
 	"206000203": {
@@ -15774,7 +15820,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","sword","greatSword","whip","throwing","lightShield","hat","helm","clothes","lightArmor"],
-		"categories":["Support","FFVI","Support","FFVI","Support","FFVI"]
+		"categories":["Support","FFVI","The Gathering","Support","FFVI","The Gathering","Support","FFVI","The Gathering"]
 	},
 	"206000303": {
 		"name":"Edgar",
@@ -15794,7 +15840,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","sword","throwing","gun","lightShield","hat","helm","clothes","lightArmor"],
-		"categories":["Attacker","Breaker","FFVI","Attacker","Breaker","FFVI"]
+		"categories":["Attacker","Breaker","FFVI","The Gathering","Attacker","Breaker","FFVI","The Gathering"]
 	},
 	"206000403": {
 		"name":"Sabin",
@@ -15814,7 +15860,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["fist","hat","clothes"],
-		"categories":["Wind","Attacker","FFVI","Wind","Attacker","FFVI"]
+		"categories":["Wind","Attacker","FFVI","The Gathering","Wind","Attacker","FFVI","The Gathering"]
 	},
 	"206000503": {
 		"name":"Shadow",
@@ -15834,7 +15880,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","sword","katana","throwing","hat","clothes","lightArmor"],
-		"categories":["Attacker","FFVI","Attacker","Breaker","FFVI"]
+		"categories":["Attacker","FFVI","The Gathering","Attacker","Breaker","FFVI","The Gathering"]
 	},
 	"206000603": {
 		"name":"Cyan",
@@ -15854,7 +15900,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","sword","katana","hat","clothes","lightArmor"],
-		"categories":["Attacker","FFVI","Attacker","FFVI"]
+		"categories":["Attacker","FFVI","The Gathering","Attacker","FFVI","The Gathering"]
 	},
 	"206000703": {
 		"name":"Celes",
@@ -15873,7 +15919,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","sword","greatSword","staff","rod","mace","lightShield","hat","helm","clothes","lightArmor"],
-		"categories":["Ice","Mage","Support","FFVI","Ice","Mage","Support","FFVI","Ice","Mage","Support","FFVI"]
+		"categories":["Ice","Mage","Support","FFVI","The Gathering","Ice","Mage","Support","FFVI","The Gathering","Ice","Mage","Support","FFVI","The Gathering"]
 	},
 	"206000804": {
 		"name":"Setzer",
@@ -15893,7 +15939,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","sword","throwing","hat","helm","clothes","lightArmor","robe"],
 		"enhancementSkills":["Double Dice","Quick Gamble","Red Card"],
-		"categories":["Attacker","FFVI","Attacker","FFVI","Attacker","Breaker","FFVI"]
+		"categories":["Attacker","FFVI","The Gathering","Attacker","FFVI","The Gathering","Attacker","Breaker","FFVI","The Gathering"]
 	},
 	"206000905": {
 		"name":"Strago",
@@ -15912,7 +15958,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","rod","mace","hat","clothes","robe"],
-		"categories":["Water","Mage","Support","FFVI","Water","Mage","Support","FFVI","Water","Mage","Support","FFVI"],
+		"categories":["Water","Mage","Support","FFVI","The Gathering","Water","Mage","Support","FFVI","The Gathering","Water","Mage","Support","FFVI","The Gathering"],
 		"6_form": {
 			"name":"Strago",
 			"roles":["magicalAttacker","support"],
@@ -15931,7 +15977,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","rod","mace","hat","clothes","robe"],
-			"categories":["Water","Mage","Support","FFVI","Water","Mage","Support","FFVI","Water","Mage","Support","FFVI"]
+			"categories":["Water","Mage","Support","FFVI","The Gathering","Water","Mage","Support","FFVI","The Gathering","Water","Mage","Support","FFVI","The Gathering"]
 		}
 	},
 	"206001005": {
@@ -15951,7 +15997,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","rod","mace","hat","clothes","robe"],
-		"categories":["Lightning","Support","FFVI","Lightning","Support","FFVI","Lightning","Support","FFVI"],
+		"categories":["Lightning","Support","FFVI","The Gathering","Lightning","Support","FFVI","The Gathering","Lightning","Support","FFVI","The Gathering"],
 		"6_form": {
 			"name":"Relm",
 			"roles":["support"],
@@ -15970,7 +16016,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","rod","mace","hat","clothes","robe"],
-			"categories":["Lightning","Support","FFVI","Lightning","Support","FFVI","Lightning","Support","FFVI"]
+			"categories":["Lightning","Support","FFVI","The Gathering","Lightning","Support","FFVI","The Gathering","Lightning","Support","FFVI","The Gathering"]
 		}
 	},
 	"206001103": {
@@ -15994,7 +16040,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","fist","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Megavolt","Martial Arts Mastery","Dried Meat Power"],
-		"categories":["Lightning","Attacker","FFVI"],
+		"categories":["Lightning","Attacker","FFVI","The Gathering"],
 		"6_form": {
 			"name":"Gau",
 			"roles":["physicalAttacker"],
@@ -16014,7 +16060,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","fist","clothes","lightArmor"],
 			"enhancementSkills":["Megavolt","Martial Arts Mastery","Dried Meat Power"],
-			"categories":["Lightning","Attacker","FFVI"]
+			"categories":["Lightning","Attacker","FFVI","The Gathering"]
 		},
 		"7_form": {
 			"name":"Gau",
@@ -16035,7 +16081,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","fist","clothes","lightArmor"],
 			"enhancementSkills":["Megavolt","Martial Arts Mastery","Dried Meat Power"],
-			"categories":["Lightning","Attacker","FFVI"]
+			"categories":["Lightning","Attacker","FFVI","The Gathering"]
 		}
 	},
 	"206001127": {
@@ -16059,7 +16105,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","fist","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Megavolt","Martial Arts Mastery","Dried Meat Power"],
-		"categories":["Lightning","Attacker","FFVI"]
+		"categories":["Lightning","Attacker","FFVI","The Gathering"]
 	},
 	"206001502": {
 		"name":"Wedge",
@@ -16162,7 +16208,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","spear","gun","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Clipping Scissors","Miracle Blaster","Machinery Functions"],
-		"categories":["Light","Attacker","Breaker","Support","FFVI","The Rebellion"],
+		"categories":["Light","Attacker","Breaker","Support","FFVI","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Edgar, roi de Figaro",
 			"roles":["physicalAttacker","debuffer"],
@@ -16182,7 +16228,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","spear","gun","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Clipping Scissors","Miracle Blaster","Machinery Functions"],
-			"categories":["Light","Attacker","Breaker","Support","FFVI","The Rebellion"]
+			"categories":["Light","Attacker","Breaker","Support","FFVI","The Rebellion","The Gathering"]
 		},
 		"7_form": {
 			"name":"Edgar, roi de Figaro",
@@ -16203,7 +16249,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","greatSword","spear","gun","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Clipping Scissors","Miracle Blaster","Machinery Functions"],
-			"categories":["Light","Attacker","Breaker","Support","FFVI","The Rebellion"]
+			"categories":["Light","Attacker","Breaker","Support","FFVI","The Rebellion","The Gathering"]
 		}
 	},
 	"206001927": {
@@ -16227,7 +16273,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","spear","gun","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Clipping Scissors","Figaro Jump","Talented Dragoon"],
-		"categories":["Light","Attacker","FFVI","The Rebellion"]
+		"categories":["Light","Attacker","FFVI","The Rebellion","The Gathering"]
 	},
 	"206002005": {
 		"name":"Sabin, moine de Kolts",
@@ -16250,7 +16296,7 @@
 		"stats_pattern":4,
 		"equip":["staff","hammer","spear","mace","fist","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Revitalizing Technique","Cover - Physical","Infallible Fists"],
-		"categories":["Light","Attacker","Physical Tank","Magic Tank","FFVI","The Rebellion"],
+		"categories":["Light","Attacker","Physical Tank","Magic Tank","FFVI","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Sabin, moine de Kolts",
 			"roles":["physicalAttacker"],
@@ -16270,7 +16316,7 @@
 			"stats_pattern":1,
 			"equip":["staff","hammer","spear","mace","fist","hat","clothes","lightArmor","robe"],
 			"enhancementSkills":["Revitalizing Technique","Cover - Physical","Infallible Fists"],
-			"categories":["Light","Attacker","Physical Tank","Magic Tank","FFVI","The Rebellion"]
+			"categories":["Light","Attacker","Physical Tank","Magic Tank","FFVI","The Rebellion","The Gathering"]
 		},
 		"7_form": {
 			"name":"Sabin, moine de Kolts",
@@ -16291,7 +16337,7 @@
 			"stats_pattern":4,
 			"equip":["staff","hammer","spear","mace","fist","hat","clothes","lightArmor","robe"],
 			"enhancementSkills":["Revitalizing Technique","Cover - Physical","Infallible Fists"],
-			"categories":["Light","Attacker","Physical Tank","Magic Tank","FFVI","The Rebellion"]
+			"categories":["Light","Attacker","Physical Tank","Magic Tank","FFVI","The Rebellion","The Gathering"]
 		}
 	},
 	"206002027": {
@@ -16315,7 +16361,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","hammer","spear","mace","fist","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Revitalizing Technique","Aura Cannon+","Fists of Justice"],
-		"categories":["Light","Mage","FFVI","The Rebellion"]
+		"categories":["Light","Mage","FFVI","The Rebellion","The Gathering"]
 	},
 	"206002105": {
 		"name":"Terra, guerrière magitech",
@@ -16334,7 +16380,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","gun","mace","lightShield","hat","clothes","robe"],
-		"categories":["Fire","Mage","Breaker","FFVI","The Rebellion","Fire","Mage","Breaker","FFVI","The Rebellion","Fire","Mage","Breaker","FFVI","The Rebellion"],
+		"categories":["Fire","Mage","Breaker","FFVI","The Rebellion","The Gathering","Fire","Mage","Breaker","FFVI","The Rebellion","The Gathering","Fire","Mage","Breaker","FFVI","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Terra, guerrière magitech",
 			"roles":["magicalAttacker","debuffer"],
@@ -16353,7 +16399,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","staff","rod","gun","mace","lightShield","hat","clothes","robe"],
-			"categories":["Fire","Mage","Breaker","FFVI","The Rebellion","Fire","Mage","Breaker","FFVI","The Rebellion","Fire","Mage","Breaker","FFVI","The Rebellion"]
+			"categories":["Fire","Mage","Breaker","FFVI","The Rebellion","The Gathering","Fire","Mage","Breaker","FFVI","The Rebellion","The Gathering","Fire","Mage","Breaker","FFVI","The Rebellion","The Gathering"]
 		}
 	},
 	"206002205": {
@@ -16373,7 +16419,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","whip","throwing","fist","lightShield","hat","helm","clothes","lightArmor","heavyArmor"],
-		"categories":["Water","Attacker","Breaker","FFVI","The Rebellion","Water","Attacker","Breaker","FFVI","The Rebellion","Water","Attacker","Breaker","Support","FFVI","The Rebellion"],
+		"categories":["Water","Attacker","Breaker","FFVI","The Rebellion","The Gathering","Water","Attacker","Breaker","FFVI","The Rebellion","The Gathering","Water","Attacker","Breaker","Support","FFVI","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Locke, aventurier",
 			"roles":["physicalAttacker","debuffer"],
@@ -16392,7 +16438,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","whip","throwing","fist","lightShield","hat","helm","clothes","lightArmor","heavyArmor"],
-			"categories":["Water","Attacker","Breaker","FFVI","The Rebellion","Water","Attacker","Breaker","FFVI","The Rebellion","Water","Attacker","Breaker","Support","FFVI","The Rebellion"]
+			"categories":["Water","Attacker","Breaker","FFVI","The Rebellion","The Gathering","Water","Attacker","Breaker","FFVI","The Rebellion","The Gathering","Water","Attacker","Breaker","Support","FFVI","The Rebellion","The Gathering"]
 		}
 	},
 	"206002305": {
@@ -16504,7 +16550,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","katana","throwing","fist","hat","helm","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Shadow Stab","Jamming Blade","Ultimate Assassin's Blade"],
-		"categories":["Dark","Attacker","Breaker","FFVI"],
+		"categories":["Dark","Attacker","Breaker","FFVI","The Gathering"],
 		"6_form": {
 			"name":"Shadow assassin",
 			"roles":["physicalAttacker","debuffer"],
@@ -16524,7 +16570,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","katana","throwing","fist","hat","helm","clothes","lightArmor"],
 			"enhancementSkills":["Shadow Stab","Jamming Blade","Ultimate Assassin's Blade"],
-			"categories":["Dark","Attacker","Breaker","FFVI"]
+			"categories":["Dark","Attacker","Breaker","FFVI","The Gathering"]
 		},
 		"7_form": {
 			"name":"Shadow assassin",
@@ -16545,7 +16591,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","katana","throwing","fist","hat","helm","clothes","lightArmor"],
 			"enhancementSkills":["Shadow Stab","Jamming Blade","Ultimate Assassin's Blade"],
-			"categories":["Dark","Attacker","Breaker","FFVI"]
+			"categories":["Dark","Attacker","Breaker","FFVI","The Gathering"]
 		}
 	},
 	"206002427": {
@@ -16569,7 +16615,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","katana","throwing","fist","hat","helm","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Shadow Stab","Enticing Blade","Assassin's Step"],
-		"categories":["Dark","Attacker","FFVI"]
+		"categories":["Dark","Attacker","FFVI","The Gathering"]
 	},
 	"206002507": {
 		"name":"Terra [Néo-vision]",
@@ -16592,7 +16638,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","gun","mace","lightShield","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Unleashed Evocation","Unlock Magic (Terra -Neo Vision-)","Firaga (FFVI)"],
-		"categories":["Fire","Support","FFVI","Evocation","The Rebellion"]
+		"categories":["Fire","Support","FFVI","Evocation","The Rebellion","The Gathering"]
 	},
 	"206002517": {
 		"name":"Terra [Néo-vision] BS",
@@ -16615,7 +16661,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","gun","mace","lightShield","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Unleashed Evocation","Unlock Magic (Terra -Neo Vision-)","Chaos Wave (Terra -Neo Vision-)"],
-		"categories":["Fire","Mage","Support","FFVI","Evocation","The Rebellion"]
+		"categories":["Fire","Mage","Support","FFVI","Evocation","The Rebellion","The Gathering"]
 	},
 	"206002607": {
 		"name":"Locke [Néo-vision]",
@@ -16638,7 +16684,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","whip","throwing","fist","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Float (FFVI)","Full Break Chain","Force Hunt"],
-		"categories":["Water","Attacker","Breaker","FFVI","The Rebellion"]
+		"categories":["Water","Attacker","Breaker","FFVI","The Rebellion","The Gathering"]
 	},
 	"206002617": {
 		"name":"Locke [Néo-vision] BS",
@@ -16661,7 +16707,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","whip","throwing","fist","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Float (FFVI)","Blazing Edge"],
-		"categories":["Fire","Attacker","Breaker","FFVI","The Rebellion"]
+		"categories":["Fire","Attacker","Breaker","FFVI","The Rebellion","The Gathering"]
 	},
 	"206002705": {
 		"name":"Setzer, flambeur irrésistible",
@@ -16680,7 +16726,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","throwing","hat","helm","clothes","lightArmor","robe"],
-		"categories":["Attacker","FFVI","Attacker","FFVI","Attacker","FFVI"],
+		"categories":["Attacker","FFVI","The Gathering","Attacker","FFVI","The Gathering","Attacker","FFVI","The Gathering"],
 		"6_form": {
 			"name":"Setzer, flambeur irrésistible",
 			"roles":["physicalAttacker"],
@@ -16699,7 +16745,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","throwing","hat","helm","clothes","lightArmor","robe"],
-			"categories":["Attacker","FFVI","Attacker","FFVI","Attacker","FFVI"]
+			"categories":["Attacker","FFVI","The Gathering","Attacker","FFVI","The Gathering","Attacker","FFVI","The Gathering"]
 		}
 	},
 	"206002807": {
@@ -16723,7 +16769,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","staff","rod","mace","lightShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Blizzaga","Invincible Swordplay","Cover - Magic I"],
-		"categories":["Ice","Magic Tank","FFVI","The Rebellion"]
+		"categories":["Ice","Magic Tank","FFVI","The Rebellion","The Gathering"]
 	},
 	"206002817": {
 		"name":"Celes, générale triomphante BS",
@@ -16746,7 +16792,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","staff","rod","harp","mace","lightShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Protectga","Shellga","Invincible Swordplay","Opera to Think of Her Lover"],
-		"categories":["Ice","Support","FFVI","The Rebellion"]
+		"categories":["Ice","Support","FFVI","The Rebellion","The Gathering"]
 	},
 	"206002907": {
 		"name":"Cyan, samouraï de Doma",
@@ -16769,7 +16815,7 @@
 		"stats_pattern":4,
 		"equip":["katana","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Daring Warrior from Doma","I must leave the past behind.","Fang","Flurry (FFVI)"],
-		"categories":["Earth","Attacker","FFVI","The Rebellion"]
+		"categories":["Earth","Attacker","FFVI","The Rebellion","The Gathering"]
 	},
 	"206002917": {
 		"name":"Cyan, samouraï de Doma BS",
@@ -16791,7 +16837,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["katana","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
-		"categories":["Earth","Attacker","FFVI","The Rebellion"]
+		"categories":["Earth","Attacker","FFVI","The Rebellion","The Gathering"]
 	},
 	"206003005": {
 		"name":"Mog, guerrier de Narshe",
@@ -16810,7 +16856,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","spear","lightShield","heavyShield","hat","helm","clothes","lightArmor","robe"],
-		"categories":["Wind","Support","FFVI","Wind","Support","FFVI","Wind","Support","FFVI"],
+		"categories":["Wind","Support","FFVI","The Gathering","Wind","Support","FFVI","The Gathering","Wind","Support","FFVI","The Gathering"],
 		"6_form": {
 			"name":"Mog, guerrier de Narshe",
 			"roles":["support"],
@@ -16829,7 +16875,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","spear","lightShield","heavyShield","hat","helm","clothes","lightArmor","robe"],
-			"categories":["Wind","Support","FFVI","Wind","Support","FFVI","Wind","Support","FFVI"]
+			"categories":["Wind","Support","FFVI","The Gathering","Wind","Support","FFVI","The Gathering","Wind","Support","FFVI","The Gathering"]
 		}
 	},
 	"206003105": {
@@ -16849,7 +16895,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["hammer","mace","fist"],
-		"categories":["Ice","Attacker","FFVI","Ice","Attacker","FFVI","Ice","Attacker","FFVI"],
+		"categories":["Ice","Attacker","FFVI","The Gathering","Ice","Attacker","FFVI","The Gathering","Ice","Attacker","FFVI","The Gathering"],
 		"6_form": {
 			"name":"Umaro, yéti de Narshe",
 			"roles":["physicalAttacker"],
@@ -16868,7 +16914,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["hammer","mace","fist"],
-			"categories":["Ice","Attacker","FFVI","Ice","Attacker","FFVI","Ice","Attacker","FFVI"]
+			"categories":["Ice","Attacker","FFVI","The Gathering","Ice","Attacker","FFVI","The Gathering","Ice","Attacker","FFVI","The Gathering"]
 		}
 	},
 	"206003207": {
@@ -16892,7 +16938,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","spear","gun","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Drill (FFVI)","Sword Mastery","Gun Mastery"],
-		"categories":["Ice","Attacker","Breaker","FFVI","The Rebellion"]
+		"categories":["Ice","Attacker","Breaker","FFVI","The Rebellion","The Gathering"]
 	},
 	"206003217": {
 		"name":"Edgar, le frère couronné BS",
@@ -16915,7 +16961,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","spear","gun","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Figaro Jump (Embracer of Duty Edgar)","Spear Mastery","Jump"],
-		"categories":["Ice","Attacker","FFVI","The Rebellion"]
+		"categories":["Ice","Attacker","FFVI","The Rebellion","The Gathering"]
 	},
 	"206003307": {
 		"name":"Sabin, le frère affranchi",
@@ -16938,7 +16984,7 @@
 		"stats_pattern":4,
 		"equip":["fist","lightShield","heavyShield","hat","clothes","visionCard"],
 		"enhancementSkills":["True Raging Fist","Martial Arts Mastery"],
-		"categories":["Fire","Attacker","FFVI","The Rebellion"]
+		"categories":["Fire","Attacker","FFVI","The Rebellion","The Gathering"]
 	},
 	"206003317": {
 		"name":"Sabin, le frère affranchi BS",
@@ -16960,7 +17006,52 @@
 		},
 		"stats_pattern":4,
 		"equip":["fist","lightShield","heavyShield","hat","clothes","visionCard"],
-		"categories":["Fire","Attacker","FFVI","The Rebellion"]
+		"categories":["Fire","Attacker","FFVI","The Rebellion","The Gathering"]
+	},
+	"206003407": {
+		"name":"Locke, chasseur de trésors",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Treasure_Hunter Locke",
+		"id":"206003407",
+		"game_id":"10006",
+		"game":"FFVI",
+		"braveShift":"206003417",
+		"exAwakening": [{"hp":694,"mp":47,"atk":86,"def":35,"mag":24,"spr":31},{"hp":534,"mp":36,"atk":66,"def":27,"mag":18,"spr":24},{"hp":374,"mp":25,"atk":46,"def":19,"mag":13,"spr":17}],
+		"fragmentId": "250023800",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5341,"mp":361,"atk":330,"def":269,"mag":184,"spr":237},
+			"minStats":{"hp":1763,"mp":119,"atk":109,"def":89,"mag":61,"spr":78},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","greatSword","whip","throwing","fist","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Fiery Pursuit","Fiery Spin","Sonic Rampage","Dagger Mastery","Throwing Weapon Mastery","Firaga"],
+		"categories":["Fire","Attacker","FFVI","The Rebellion","The Gathering"]
+	},
+	"206003417": {
+		"name":"Locke, chasseur de trésors BS",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Treasure_Hunter Locke",
+		"id":"206003417",
+		"game_id":"10006",
+		"game":"FFVI",
+		"braveShifted":"206003407",
+		"exAwakening": [{"hp":694,"mp":47,"atk":86,"def":35,"mag":24,"spr":31},{"hp":534,"mp":36,"atk":66,"def":27,"mag":18,"spr":24},{"hp":374,"mp":25,"atk":46,"def":19,"mag":13,"spr":17}],
+		"fragmentId": "250023800",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5341,"mp":361,"atk":330,"def":269,"mag":184,"spr":237},
+			"minStats":{"hp":1763,"mp":119,"atk":109,"def":89,"mag":61,"spr":78},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","greatSword","whip","throwing","fist","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"categories":["Fire","Attacker","FFVI","The Rebellion","The Gathering"]
 	},
 	"207000105": {
 		"name":"Cloud",
@@ -19473,7 +19564,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","hat","clothes","robe"],
 		"enhancementSkills":["Curaga","Passion Performance","Mog's Friendship","Summoner Descendant","Crypto Performance"],
-		"categories":["Light","Healer","Support","FFIX","Light","Mage","Healer","Support","FFIX","Light","Healer","Support","Mage","FFIX"],
+		"categories":["Light","Healer","Support","FFIX","The Gathering","Light","Mage","Healer","Support","FFIX","The Gathering","Light","Healer","Support","Mage","FFIX","The Gathering"],
 		"6_form": {
 			"name":"Eiko",
 			"roles":["healer","support","magicalAttacker"],
@@ -19493,7 +19584,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","harp","hat","clothes","robe"],
 			"enhancementSkills":["Curaga","Passion Performance","Mog's Friendship","Summoner Descendant","Crypto Performance"],
-			"categories":["Light","Healer","Support","FFIX","Light","Mage","Healer","Support","FFIX","Light","Healer","Support","Mage","FFIX"]
+			"categories":["Light","Healer","Support","FFIX","The Gathering","Light","Mage","Healer","Support","FFIX","The Gathering","Light","Healer","Support","Mage","FFIX","The Gathering"]
 		}
 	},
 	"209000803": {
@@ -19517,7 +19608,7 @@
 		"stats_pattern":4,
 		"equip":["throwing","fist","hat","clothes","visionCard"],
 		"enhancementSkills":["Martial Arts Mastery","Flair - No Mercy"],
-		"categories":["Fire","Attacker","Breaker","FFIX"],
+		"categories":["Fire","Attacker","Breaker","FFIX","The Gathering"],
 		"6_form": {
 			"name":"Tarask",
 			"roles":["physicalAttacker","debuffer"],
@@ -19537,7 +19628,7 @@
 			"stats_pattern":1,
 			"equip":["throwing","fist","hat","clothes"],
 			"enhancementSkills":["Martial Arts Mastery","Flair - No Mercy"],
-			"categories":["Fire","Attacker","Breaker","FFIX"]
+			"categories":["Fire","Attacker","Breaker","FFIX","The Gathering"]
 		},
 		"7_form": {
 			"name":"Tarask",
@@ -19558,7 +19649,7 @@
 			"stats_pattern":4,
 			"equip":["throwing","fist","hat","clothes"],
 			"enhancementSkills":["Martial Arts Mastery","Flair - No Mercy"],
-			"categories":["Fire","Attacker","Breaker","FFIX"]
+			"categories":["Fire","Attacker","Breaker","FFIX","The Gathering"]
 		}
 	},
 	"209000827": {
@@ -19582,7 +19673,7 @@
 		"stats_pattern":4,
 		"equip":["throwing","fist","hat","clothes","visionCard"],
 		"enhancementSkills":["Martial Arts Mastery","Elan - No Mercy"],
-		"categories":["Fire","Attacker","FFIX"]
+		"categories":["Fire","Attacker","FFIX","The Gathering"]
 	},
 	"209000903": {
 		"name":"Lamie",
@@ -19749,7 +19840,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","hat","clothes","robe"],
 		"enhancementSkills":["Doomsday"],
-		"categories":["Fire","Mage","FFIX","Fire","Mage","FFIX","Fire","Mage","FFIX"],
+		"categories":["Fire","Mage","FFIX","The Gathering","Fire","Mage","FFIX","The Gathering","Fire","Mage","FFIX","The Gathering"],
 		"6_form": {
 			"name":"Vivi, mage noir",
 			"roles":["magicalAttacker"],
@@ -19769,7 +19860,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","hat","clothes","robe"],
 			"enhancementSkills":["Doomsday"],
-			"categories":["Fire","Mage","FFIX","Fire","Mage","FFIX","Fire","Mage","FFIX"]
+			"categories":["Fire","Mage","FFIX","The Gathering","Fire","Mage","FFIX","The Gathering","Fire","Mage","FFIX","The Gathering"]
 		}
 	},
 	"209001505": {
@@ -19828,7 +19919,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["rod","bow","spear","gun","mace","hat","clothes","robe"],
-		"categories":["Wind","Mage","Support","FFIX","Wind","Mage","Support","FFIX","Wind","Mage","Support","FFIX"],
+		"categories":["Wind","Mage","Support","FFIX","The Gathering","Wind","Mage","Support","FFIX","The Gathering","Wind","Mage","Support","FFIX","The Gathering"],
 		"6_form": {
 			"name":"Kweena, gourmande insolite",
 			"roles":["magicalAttacker","support"],
@@ -19847,7 +19938,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["rod","bow","spear","gun","mace","hat","clothes","robe"],
-			"categories":["Wind","Mage","Support","FFIX","Wind","Mage","Support","FFIX","Wind","Mage","Support","FFIX"]
+			"categories":["Wind","Mage","Support","FFIX","The Gathering","Wind","Mage","Support","FFIX","The Gathering","Wind","Mage","Support","FFIX","The Gathering"]
 		}
 	},
 	"209001805": {
@@ -19871,7 +19962,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","spear","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Dragon Knight Jump - Wind","Dragon Knight Jump - Light","Javelin Rain","Spear Mastery","Protectga","Shellga"],
-		"categories":["Light","Attacker","Healer","FFIX"],
+		"categories":["Light","Attacker","Healer","FFIX","The Gathering"],
 		"6_form": {
 			"name":"Freyja, chevalier dragon",
 			"roles":["physicalAttacker","healer"],
@@ -19891,7 +19982,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","spear","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Dragon Knight Jump - Wind","Dragon Knight Jump - Light","Javelin Rain","Spear Mastery","Protectga","Shellga"],
-			"categories":["Light","Attacker","Healer","FFIX"]
+			"categories":["Light","Attacker","Healer","FFIX","The Gathering"]
 		},
 		"7_form": {
 			"name":"Freyja, chevalier dragon",
@@ -19912,7 +20003,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","spear","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Dragon Knight Jump - Wind","Dragon Knight Jump - Light","Javelin Rain","Spear Mastery","Protectga","Shellga"],
-			"categories":["Light","Attacker","Healer","FFIX"]
+			"categories":["Light","Attacker","Healer","FFIX","The Gathering"]
 		}
 	},
 	"209001827": {
@@ -19936,7 +20027,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","spear","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Dragon Knight Jump - Wind","Dragon Knight Jump - Light","Javelin Rain","Spear Mastery","Protectga","Shellga"],
-		"categories":["Light","Attacker","Healer","FFIX"]
+		"categories":["Light","Attacker","Healer","FFIX","The Gathering"]
 	},
 	"209001904": {
 		"name":"Fratley \"Queue de fer\"",
@@ -20228,7 +20319,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Focus (FFIX)","Three-Fold Firaga Blade Infusion","Comet","Firaga","Blizzaga","Thundaga","Doomsday"],
-		"categories":["Fire","Support","FFIX"]
+		"categories":["Fire","Support","FFIX","The Gathering"]
 	},
 	"209002917": {
 		"name":"Vivi, enfant au cœur pur BS",
@@ -20251,7 +20342,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Focus (FFIX)","Comet","Firaga","Blizzaga","Thundaga","Doomsday","Where the Heart Lies"],
-		"categories":["Fire","Mage","FFIX"]
+		"categories":["Fire","Mage","FFIX","The Gathering"]
 	},
 	"209003005": {
 		"name":"Steiner, chevalier dévoué",
@@ -20270,7 +20361,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["sword","greatSword","axe","hammer","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor"],
-		"categories":["Lightning","Physical Tank","FFIX","Lightning","Physical Tank","FFIX","Lightning","Physical Tank","FFIX"],
+		"categories":["Lightning","Physical Tank","FFIX","The Gathering","Lightning","Physical Tank","FFIX","The Gathering","Lightning","Physical Tank","FFIX","The Gathering"],
 		"6_form": {
 			"name":"Steiner, chevalier dévoué",
 			"roles":["physicalTank"],
@@ -20289,7 +20380,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["sword","greatSword","axe","hammer","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor"],
-			"categories":["Lightning","Physical Tank","FFIX","Lightning","Physical Tank","FFIX","Lightning","Physical Tank","FFIX"]
+			"categories":["Lightning","Physical Tank","FFIX","The Gathering","Lightning","Physical Tank","FFIX","The Gathering","Lightning","Physical Tank","FFIX","The Gathering"]
 		}
 	},
 	"209003107": {
@@ -20313,7 +20404,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","lightShield","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Staff Mastery","Keeper of Eidolons","Unleashed Evocation (Determined Dagger)","Protectga","Shellga"],
-		"categories":["Lightning","Healer","FFIX","Evocation"]
+		"categories":["Lightning","Healer","FFIX","Evocation","The Gathering"]
 	},
 	"209003117": {
 		"name":"Dagga déterminée BS",
@@ -20336,7 +20427,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","lightShield","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Staff Mastery","Keeper of Eidolons","Unleashed Evocation (Determined Dagger)","Protectga","Shellga","Feelings for Zidane"],
-		"categories":["Lightning","Mage","Healer","FFIX","Evocation"]
+		"categories":["Lightning","Mage","Healer","FFIX","Evocation","The Gathering"]
 	},
 	"209003207": {
 		"name":"Kuja, annihilateur de planètes",
@@ -20451,7 +20542,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","axe","hammer","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Intense Shock","Doomhazzard","Pluto Captain","Cover - Physical I","Protectga"],
-		"categories":["Lightning","Physical Tank","Breaker","FFIX"]
+		"categories":["Lightning","Physical Tank","Breaker","FFIX","The Gathering"]
 	},
 	"209003517": {
 		"name":"Steiner, capitaine des Brutos BS",
@@ -20474,7 +20565,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","axe","hammer","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Intense Shock","Doomhazzard","Pluto Captain","Cover - Physical I","Protectga"],
-		"categories":["Lightning","Physical Tank","Attacker","Breaker","FFIX"]
+		"categories":["Lightning","Physical Tank","Attacker","Breaker","FFIX","The Gathering"]
 	},
 	"209003607": {
 		"name":"Eiko, petite invokeuse",
@@ -20497,7 +20588,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Fenrir's Galeforce Rend","Summoner's Tailwind","Staff Mastery","Instrument Mastery","Crypto Performance"],
-		"categories":["Wind","Support","Healer","FFIX","Evocation"]
+		"categories":["Wind","Support","Healer","FFIX","Evocation","The Gathering"]
 	},
 	"209003617": {
 		"name":"Eiko, petite invokeuse BS",
@@ -20520,7 +20611,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Fenrir's Galeforce Rend","Summoner's Tailwind","Staff Mastery","Instrument Mastery","Crypto Performance"],
-		"categories":["Wind","Mage","FFIX","Evocation"]
+		"categories":["Wind","Mage","FFIX","Evocation","The Gathering"]
 	},
 	"209003707": {
 		"name":"Kweena, gastronome",
@@ -20543,7 +20634,7 @@
 		"stats_pattern":4,
 		"equip":["rod","bow","spear","gun","mace","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Cyclone Breath","Storm Magic","Earth Magic","Sand Breath","Spear Mastery"],
-		"categories":["Earth","Mage","FFIX"]
+		"categories":["Earth","Mage","FFIX","The Gathering"]
 	},
 	"209003717": {
 		"name":"Kweena, gastronome BS",
@@ -20566,7 +20657,7 @@
 		"stats_pattern":4,
 		"equip":["rod","bow","spear","gun","mace","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Cyclone Breath","Storm Magic","Earth Magic","Sand Breath","Spear Mastery"],
-		"categories":["Earth","Mage","FFIX"]
+		"categories":["Earth","Mage","FFIX","The Gathering"]
 	},
 	"210000105": {
 		"name":"Tidus",
@@ -22252,7 +22343,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","katana","bow","spear","gun","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Gun Mastery","Light-footed","Rapid Shot","Trick Weapon","Gun Preparation","Freedom Bullet - One Shot","Sky Pirate's Chivalry"],
-		"categories":["Lightning","Attacker","FFXII"],
+		"categories":["Lightning","Attacker","FFXII","The Gathering"],
 		"6_form": {
 			"name":"Balthier",
 			"roles":["physicalAttacker","debuffer"],
@@ -22272,7 +22363,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","katana","bow","spear","gun","hat","clothes","lightArmor"],
 			"enhancementSkills":["Gun Mastery","Light-footed","Rapid Shot","Trick Weapon","Gun Preparation","Freedom Bullet - One Shot","Sky Pirate's Chivalry"],
-			"categories":["Lightning","Attacker","FFXII"]
+			"categories":["Lightning","Attacker","FFXII","The Gathering"]
 		},
 		"7_form": {
 			"name":"Balthier",
@@ -22293,7 +22384,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","katana","bow","spear","gun","hat","clothes","lightArmor"],
 			"enhancementSkills":["Gun Mastery","Light-footed","Rapid Shot","Trick Weapon","Gun Preparation","Freedom Bullet - One Shot","Sky Pirate's Chivalry"],
-			"categories":["Lightning","Attacker","FFXII"]
+			"categories":["Lightning","Attacker","FFXII","The Gathering"]
 		}
 	},
 	"212000527": {
@@ -22317,7 +22408,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","katana","bow","spear","gun","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Gun Preparation","Freedom Bullet - Rapid Shot","Sky Pirate's Marksmanship"],
-		"categories":["Lightning","Attacker","FFXII"]
+		"categories":["Lightning","Attacker","FFXII","The Gathering"]
 	},
 	"212000603": {
 		"name":"Fran",
@@ -22377,7 +22468,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 		"enhancementSkills":["Loyal Spirit","Confusing Lament","Fulminating Darkness","Twilight Guard","Dawn Guard","Bell of a New Dawn"],
-		"categories":["Support","Breaker","FFXII","The Rebellion","Physical Tank","Magic Tank","Breaker","FFXII","The Rebellion","Physical Tank","Magic Tank","Breaker","FFXII","The Rebellion"],
+		"categories":["Support","Breaker","FFXII","The Rebellion","The Gathering","Physical Tank","Magic Tank","Breaker","FFXII","The Rebellion","The Gathering","Physical Tank","Magic Tank","Breaker","FFXII","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Basch",
 			"roles":["physicalTank","magicalTank","debuffer"],
@@ -22397,7 +22488,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Loyal Spirit","Confusing Lament","Fulminating Darkness","Twilight Guard","Dawn Guard","Bell of a New Dawn"],
-			"categories":["Support","Breaker","FFXII","The Rebellion","Physical Tank","Magic Tank","Breaker","FFXII","The Rebellion","Physical Tank","Magic Tank","Breaker","FFXII","The Rebellion"]
+			"categories":["Support","Breaker","FFXII","The Rebellion","The Gathering","Physical Tank","Magic Tank","Breaker","FFXII","The Rebellion","The Gathering","Physical Tank","Magic Tank","Breaker","FFXII","The Rebellion","The Gathering"]
 		}
 	},
 	"212001004": {
@@ -22603,7 +22694,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","katana","throwing","gun","lightShield","heavyShield","hat","clothes","lightArmor"],
-		"categories":["Fire","Attacker","Breaker","FFXII","Fire","Attacker","Breaker","FFXII","Fire","Breaker","Attacker","FFXII"],
+		"categories":["Fire","Attacker","Breaker","FFXII","The Gathering","Fire","Attacker","Breaker","FFXII","The Gathering","Fire","Breaker","Attacker","FFXII","The Gathering"],
 		"6_form": {
 			"name":"Vaan, garçon avide de liberté",
 			"roles":["debuffer","physicalAttacker"],
@@ -22622,7 +22713,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","katana","throwing","gun","lightShield","heavyShield","hat","clothes","lightArmor"],
-			"categories":["Fire","Attacker","Breaker","FFXII","Fire","Attacker","Breaker","FFXII","Fire","Breaker","Attacker","FFXII"]
+			"categories":["Fire","Attacker","Breaker","FFXII","The Gathering","Fire","Attacker","Breaker","FFXII","The Gathering","Fire","Breaker","Attacker","FFXII","The Gathering"]
 		}
 	},
 	"212001605": {
@@ -22642,7 +22733,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","rod","hammer","whip","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
-		"categories":["Ice","Mage","Breaker","FFXII","Ice","Mage","Breaker","FFXII","Ice","Mage","Breaker","FFXII"],
+		"categories":["Ice","Mage","Breaker","FFXII","The Gathering","Ice","Mage","Breaker","FFXII","The Gathering","Ice","Mage","Breaker","FFXII","The Gathering"],
 		"6_form": {
 			"name":"Penelo, cœur dansant",
 			"roles":["magicalAttacker","debuffer"],
@@ -22661,7 +22752,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","rod","hammer","whip","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
-			"categories":["Ice","Mage","Breaker","FFXII","Ice","Mage","Breaker","FFXII","Ice","Mage","Breaker","FFXII"]
+			"categories":["Ice","Mage","Breaker","FFXII","The Gathering","Ice","Mage","Breaker","FFXII","The Gathering","Ice","Mage","Breaker","FFXII","The Gathering"]
 		}
 	},
 	"212001705": {
@@ -22685,7 +22776,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","bow","axe","spear","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Fira","Blizzaga","Thundara","Darkra","Darkga","Burning Bow (FFXII)"],
-		"categories":["Fire","Attacker","Mage","FFXII","Bestowed Power"],
+		"categories":["Fire","Attacker","Mage","FFXII","Bestowed Power","The Gathering"],
 		"6_form": {
 			"name":"Fran, beauté azuréenne",
 			"roles":["physicalAttacker"],
@@ -22705,7 +22796,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","bow","axe","spear","hat","clothes","lightArmor"],
 			"enhancementSkills":["Fira","Blizzaga","Thundara","Darkra","Darkga","Burning Bow (FFXII)"],
-			"categories":["Fire","Attacker","Mage","FFXII","Bestowed Power"]
+			"categories":["Fire","Attacker","Mage","FFXII","Bestowed Power","The Gathering"]
 		},
 		"7_form": {
 			"name":"Fran, beauté azuréenne",
@@ -22726,7 +22817,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","bow","axe","spear","hat","clothes","lightArmor"],
 			"enhancementSkills":["Fira","Blizzaga","Thundara","Darkra","Darkga","Burning Bow (FFXII)"],
-			"categories":["Fire","Attacker","Mage","FFXII","Bestowed Power"]
+			"categories":["Fire","Attacker","Mage","FFXII","Bestowed Power","The Gathering"]
 		}
 	},
 	"212001727": {
@@ -22749,7 +22840,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","bow","axe","spear","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
-		"categories":["Fire","Attacker","Mage","FFXII","Bestowed Power"]
+		"categories":["Fire","Attacker","Mage","FFXII","Bestowed Power","The Gathering"]
 	},
 	"212001804": {
 		"name":"Reks",
@@ -22787,7 +22878,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","gun","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","robe"],
-		"categories":["Lightning","Mage","Breaker","FFXII","The Rebellion","Lightning","Mage","Breaker","FFXII","The Rebellion","Lightning","Mage","Breaker","FFXII","The Rebellion"],
+		"categories":["Lightning","Mage","Breaker","FFXII","The Rebellion","The Gathering","Lightning","Mage","Breaker","FFXII","The Rebellion","The Gathering","Lightning","Mage","Breaker","FFXII","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Ashe, princesse destituée",
 			"roles":["magicalAttacker","debuffer"],
@@ -22806,7 +22897,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","staff","rod","bow","gun","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","robe"],
-			"categories":["Lightning","Mage","Breaker","FFXII","The Rebellion","Lightning","Mage","Breaker","FFXII","The Rebellion","Lightning","Mage","Breaker","FFXII","The Rebellion"]
+			"categories":["Lightning","Mage","Breaker","FFXII","The Rebellion","The Gathering","Lightning","Mage","Breaker","FFXII","The Rebellion","The Gathering","Lightning","Mage","Breaker","FFXII","The Rebellion","The Gathering"]
 		}
 	},
 	"212002005": {
@@ -22826,7 +22917,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","bow","axe","hammer","spear","gun","mace","fist","lightShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
-		"categories":["Dark","Attacker","Magic Tank","FFXII","The Rebellion","Dark","Attacker","Magic Tank","FFXII","The Rebellion","Dark","Magic Tank","Attacker","FFXII","The Rebellion"],
+		"categories":["Dark","Attacker","Magic Tank","FFXII","The Rebellion","The Gathering","Dark","Attacker","Magic Tank","FFXII","The Rebellion","The Gathering","Dark","Magic Tank","Attacker","FFXII","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"Vossler",
 			"roles":["magicalTank","physicalAttacker"],
@@ -22845,7 +22936,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","bow","axe","hammer","spear","gun","mace","fist","lightShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
-			"categories":["Dark","Attacker","Magic Tank","FFXII","The Rebellion","Dark","Attacker","Magic Tank","FFXII","The Rebellion","Dark","Magic Tank","Attacker","FFXII","The Rebellion"]
+			"categories":["Dark","Attacker","Magic Tank","FFXII","The Rebellion","The Gathering","Dark","Attacker","Magic Tank","FFXII","The Rebellion","The Gathering","Dark","Magic Tank","Attacker","FFXII","The Rebellion","The Gathering"]
 		}
 	},
 	"212002104": {
@@ -22973,7 +23064,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","katana","spear","gun","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Aqua Shot (FFXII)","Mud Shot (FFXII)"],
-		"categories":["Water","Attacker","FFXII"]
+		"categories":["Fire","Attacker","FFXII","The Gathering"]
 	},
 	"212002417": {
 		"name":"Balthier, pirate vif comme l'éclair BS",
@@ -22996,7 +23087,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","katana","spear","gun","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Firaga","Blizzara","Thundara","Gungnir (FFXII)"],
-		"categories":["Water","Attacker","FFXII"]
+		"categories":["Fire","Attacker","FFXII","The Gathering"]
 	},
 	"212002507": {
 		"name":"Ashe, héritière du roi dynaste",
@@ -23019,7 +23110,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","staff","rod","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Shield Mastery","Shellga","Fira","Firaga","Thundara","Thundaga","Cover - Magic I","Sword Mastery","Mace Mastery","Unmatched Sword Burst"],
-		"categories":["Fire","Magic Tank","FFXII","The Rebellion"]
+		"categories":["Fire","Magic Tank","FFXII","The Rebellion","The Gathering"]
 	},
 	"212002517": {
 		"name":"Ashe, héritière du roi dynaste BS",
@@ -23042,7 +23133,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","staff","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Shield Mastery","Protectga","Bubble","Shellga"],
-		"categories":["Fire","Support","Healer","FFXII","The Rebellion"]
+		"categories":["Fire","Support","Healer","FFXII","The Rebellion","The Gathering"]
 	},
 	"212002607": {
 		"name":"Vaan, jeune homme de Rabanastre",
@@ -23065,7 +23156,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","mace","fist","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Martial Arts Mastery","Oil","Flaming Smash","Zephyr Pole (FFXII)"],
-		"categories":["Fire","Breaker","FFXII"]
+		"categories":["Fire","Breaker","FFXII","The Gathering"]
 	},
 	"212002617": {
 		"name":"Vaan, jeune homme de Rabanastre BS",
@@ -23087,7 +23178,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["sword","greatSword","mace","fist","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
-		"categories":["Fire","Breaker","FFXII"]
+		"categories":["Fire","Breaker","FFXII","The Gathering"]
 	},
 	"213000105": {
 		"name":"Lightning",
@@ -35100,7 +35191,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","katana","staff","rod","whip","throwing","mace","fist","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["You Noob, You Lose","Hikikomori"],
-		"categories":["Ice","Support","FFBE","Blessing of the Crystals","Clash of Wills","CW - Support"]
+		"categories":["Ice","Support","FFBE","Blessing of the Crystals","Clash of Wills","CW - Support","The Gathering"]
 	},
 	"401010017": {
 		"name":"Yoshikiri BS",
@@ -35123,7 +35214,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","katana","staff","rod","whip","throwing","mace","fist","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Ninjutsu: Jakuten","Hikikomori"],
-		"categories":["Ice","Support","Mage","FFBE","Blessing of the Crystals","Clash of Wills","CW - Support"]
+		"categories":["Ice","Support","Mage","FFBE","Blessing of the Crystals","Clash of Wills","CW - Support","The Gathering"]
 	},
 	"401010107": {
 		"name":"Ibara",
@@ -35652,7 +35743,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","rod","bow","spear","harp","whip","throwing","gun","mace","fist","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Incapacitate Target"],
-		"categories":["Fire","Support","Breaker","FFBE","Blessing of the Crystals","Clash of Wills","CW - Support","CW - Fire"]
+		"categories":["Fire","Support","Breaker","FFBE","Blessing of the Crystals","Clash of Wills","CW - Fire","CW - Support","The Gathering"]
 	},
 	"401011617": {
 		"name":"Louise BS",
@@ -35675,7 +35766,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","rod","bow","spear","harp","whip","throwing","gun","mace","fist","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Disarming Ionic Blaster","Nanomachine Overload"],
-		"categories":["Fire","Mage","FFBE","Blessing of the Crystals","Clash of Wills","CW - Fire"]
+		"categories":["Fire","Mage","FFBE","Blessing of the Crystals","Clash of Wills","CW - Fire","The Gathering"]
 	},
 	"401011707": {
 		"name":"Ling du dragon blanc",
@@ -36296,7 +36387,7 @@
 		"stats_pattern":4,
 		"equip":["greatSword","axe","hammer","mace","fist","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Ancestor's Presence","Warrior of the Emerald Crystal"],
-		"categories":["Earth","Attacker","FFBE","Blessing of the Crystals","Clash of Wills","CW - Earth"]
+		"categories":["Earth","Attacker","FFBE","Blessing of the Crystals","Clash of Wills","CW - Earth","The Gathering"]
 	},
 	"401013217": {
 		"name":"Wylk BS",
@@ -36319,7 +36410,7 @@
 		"stats_pattern":4,
 		"equip":["greatSword","axe","hammer","mace","fist","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Warrior of the Emerald Crystal","Vengeance Against the Draconaught"],
-		"categories":["Earth","Attacker","Breaker","FFBE","Blessing of the Crystals","Clash of Wills","CW - Earth"]
+		"categories":["Earth","Attacker","Breaker","FFBE","Blessing of the Crystals","Clash of Wills","CW - Earth","The Gathering"]
 	},
 	"401013307": {
 		"name":"Sylvie la paladine",
@@ -37076,7 +37167,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Warrior of the Light Crystal","Light from Within"],
-		"categories":["Light","Attacker","FFBE","Blessing of the Crystals","Clash of Wills","CW - Light"]
+		"categories":["Light","Attacker","FFBE","Blessing of the Crystals","Clash of Wills","CW - Light","The Gathering"]
 	},
 	"401014917": {
 		"name":"Richt BS",
@@ -37099,7 +37190,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Radiant Protection","Warrior of the Light Crystal"],
-		"categories":["Light","Attacker","Breaker","FFBE","Blessing of the Crystals","Clash of Wills","CW - Light"]
+		"categories":["Light","Attacker","Breaker","FFBE","Blessing of the Crystals","Clash of Wills","CW - Light","The Gathering"]
 	},
 	"401015007": {
 		"name":"Malphasie, ailes de la nuit",
@@ -37552,11 +37643,7 @@
   "204003407":{"name":"幻獣と通じ合う少女リディア","jpname":"幻獣と通じ合う少女リディア","roles":["magicalAttacker"],"id":"204003407","game_id":"undefined","game":"undefined","braveShift":"204003417","exAwakening":[{"hp":665,"mp":49,"atk":24,"def":30,"mag":82,"spr":37},{"hp":512,"mp":38,"atk":19,"def":23,"mag":63,"spr":28},{"hp":358,"mp":26,"atk":13,"def":16,"mag":44,"spr":20}],"fragmentId":"250024400","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5118,"mp":376,"atk":185,"def":231,"mag":315,"spr":284},"minStats":{"hp":1689,"mp":124,"atk":61,"def":76,"mag":104,"spr":94},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","bow","hat","clothes","robe","visionCard"],"enhancementSkills":["開花する黒魔法","幻獣タイタンの震撃","幻獣チョコボの蹴り足","幻獣ボムの自爆","幻獣コカトリスのくちばし","幻獣マインドフレアの詠唱","ロッドの極意","ファイガ","ブリザガ","サンダガ","トルネド","クエイク"]},
   "204003417":{"name":"幻獣と通じ合う少女リディア BS","jpname":"幻獣と通じ合う少女リディア BS","roles":["magicalAttacker"],"id":"204003417","game_id":"undefined","game":"undefined","braveShifted":"204003407","exAwakening":[{"hp":665,"mp":49,"atk":24,"def":30,"mag":82,"spr":37},{"hp":512,"mp":38,"atk":19,"def":23,"mag":63,"spr":28},{"hp":358,"mp":26,"atk":13,"def":16,"mag":44,"spr":20}],"fragmentId":"250024400","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5118,"mp":376,"atk":185,"def":231,"mag":315,"spr":284},"minStats":{"hp":1689,"mp":124,"atk":61,"def":76,"mag":104,"spr":94},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","bow","hat","clothes","robe","visionCard"]},
   "205001527":{"name":"ゼザ BS","jpname":"ゼザ BS","roles":["magicalTank"],"id":"205001527","game_id":"undefined","game":"undefined","braveShifted":"205001505","exAwakening":[{"hp":863,"mp":34,"atk":22,"def":38,"mag":21,"spr":38},{"hp":664,"mp":26,"atk":17,"def":29,"mag":16,"spr":29},{"hp":465,"mp":18,"atk":12,"def":20,"mag":11,"spr":21}],"fragmentId":"250024500","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":6636,"mp":264,"atk":167,"def":289,"mag":162,"spr":293},"minStats":{"hp":2190,"mp":87,"atk":55,"def":95,"mag":53,"spr":97},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","staff","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"]},
-  "205002207":{"name":"バル城の王ガラフ","jpname":"バル城の王ガラフ","roles":["physicalAttacker","debuffer"],"id":"205002207","game_id":"undefined","game":"undefined","braveShift":"205002217","exAwakening":[{"hp":686,"mp":43,"atk":82,"def":34,"mag":22,"spr":33},{"hp":528,"mp":33,"atk":63,"def":26,"mag":17,"spr":25},{"hp":369,"mp":23,"atk":44,"def":18,"mag":12,"spr":18}],"fragmentId":"250023900","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5124,"mp":332,"atk":290,"def":259,"mag":136,"spr":249},"minStats":{"hp":1691,"mp":110,"atk":96,"def":85,"mag":45,"spr":82},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","harp","whip","throwing","gun","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],"enhancementSkills":["暁の猛炎","剣の極意","攻めの剣","守りの剣","猛火の剣","光彩の剣","制約の剣","刀の極意","ファイガ","ブリザガ","サンダガ"]},
-  "205002217":{"name":"侍ガラフ BS","jpname":"侍ガラフ BS","roles":["physicalAttacker"],"id":"205002217","game_id":"undefined","game":"undefined","braveShifted":"205002207","exAwakening":[{"hp":686,"mp":43,"atk":82,"def":34,"mag":22,"spr":33},{"hp":528,"mp":33,"atk":63,"def":26,"mag":17,"spr":25},{"hp":369,"mp":23,"atk":44,"def":18,"mag":12,"spr":18}],"fragmentId":"250023900","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5277,"mp":316,"atk":315,"def":241,"mag":169,"spr":201},"minStats":{"hp":1741,"mp":104,"atk":104,"def":80,"mag":56,"spr":66},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","katana","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["達人の太刀筋","暁の猛炎","刀の極意"]},
   "206002127":{"name":"魔導戦士ティナ BS","jpname":"魔導戦士ティナ BS","roles":["magicalAttacker","debuffer"],"id":"206002127","game_id":"undefined","game":"undefined","braveShifted":"206002105","exAwakening":[{"hp":637,"mp":49,"atk":20,"def":21,"mag":38,"spr":33},{"hp":490,"mp":38,"atk":15,"def":16,"mag":29,"spr":26},{"hp":343,"mp":26,"atk":11,"def":11,"mag":21,"spr":18}],"fragmentId":"250024600","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":4895,"mp":375,"atk":151,"def":159,"mag":294,"spr":258},"minStats":{"hp":1615,"mp":124,"atk":50,"def":52,"mag":97,"spr":85},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","staff","rod","gun","mace","lightShield","hat","clothes","robe","visionCard"]},
-  "206003407":{"name":"トレジャーハンター ロック","jpname":"トレジャーハンター ロック","roles":["physicalAttacker"],"id":"206003407","game_id":"undefined","game":"undefined","braveShift":"206003417","exAwakening":[{"hp":694,"mp":47,"atk":86,"def":35,"mag":24,"spr":31},{"hp":534,"mp":36,"atk":66,"def":27,"mag":18,"spr":24},{"hp":374,"mp":25,"atk":46,"def":19,"mag":13,"spr":17}],"fragmentId":"250023800","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5341,"mp":361,"atk":330,"def":269,"mag":184,"spr":237},"minStats":{"hp":1763,"mp":119,"atk":109,"def":89,"mag":61,"spr":78},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","whip","throwing","fist","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["バーニングハント","バーニングスピン","ソニックランページ","短剣の極意","投擲の極意","ファイガ"]},
-  "206003417":{"name":"トレジャーハンター ロック BS","jpname":"トレジャーハンター ロック BS","roles":["physicalAttacker"],"id":"206003417","game_id":"undefined","game":"undefined","braveShifted":"206003407","exAwakening":[{"hp":694,"mp":47,"atk":86,"def":35,"mag":24,"spr":31},{"hp":534,"mp":36,"atk":66,"def":27,"mag":18,"spr":24},{"hp":374,"mp":25,"atk":46,"def":19,"mag":13,"spr":17}],"fragmentId":"250023800","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5341,"mp":361,"atk":330,"def":269,"mag":184,"spr":237},"minStats":{"hp":1763,"mp":119,"atk":109,"def":89,"mag":61,"spr":78},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","whip","throwing","fist","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"]},
   "206003507":{"name":"最速を目指す男セッツァー","jpname":"最速を目指す男セッツァー","roles":["physicalAttacker"],"id":"206003507","game_id":"undefined","game":"undefined","braveShift":"206003517","exAwakening":[{"hp":677,"mp":49,"atk":82,"def":33,"mag":22,"spr":30},{"hp":521,"mp":38,"atk":63,"def":25,"mag":17,"spr":23},{"hp":364,"mp":26,"atk":44,"def":18,"mag":12,"spr":16}],"fragmentId":"250024700","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5208,"mp":377,"atk":315,"def":252,"mag":167,"spr":229},"minStats":{"hp":1719,"mp":124,"atk":104,"def":83,"mag":55,"spr":76},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","throwing","hat","helm","clothes","lightArmor","robe","visionCard"],"enhancementSkills":["疾風のダーツ","烈風のカード","投擲の極意"]},
   "206003517":{"name":"最速を目指す男セッツァー BS","jpname":"最速を目指す男セッツァー BS","roles":["physicalAttacker"],"id":"206003517","game_id":"undefined","game":"undefined","braveShifted":"206003507","exAwakening":[{"hp":677,"mp":49,"atk":82,"def":33,"mag":22,"spr":30},{"hp":521,"mp":38,"atk":63,"def":25,"mag":17,"spr":23},{"hp":364,"mp":26,"atk":44,"def":18,"mag":12,"spr":16}],"fragmentId":"250024700","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5208,"mp":377,"atk":315,"def":252,"mag":167,"spr":229},"minStats":{"hp":1719,"mp":124,"atk":104,"def":83,"mag":55,"spr":76},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","throwing","hat","helm","clothes","lightArmor","robe","visionCard"]},
   "209001305":{"name":"Dagger","jpname":"ダガー","roles":["healer","support","magicalAttacker"],"id":"209001305","game_id":"undefined","game":"undefined","max_rarity":"7","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":4747,"mp":264,"atk":128,"def":166,"mag":176,"spr":216},"minStats":{"hp":1567,"mp":87,"atk":42,"def":55,"mag":58,"spr":71},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","staff","rod","mace","hat","clothes","robe"],"6_form":{"name":"Dagger","jpname":"ダガー","roles":["healer","support","magicalAttacker"],"id":"209001305","game_id":"undefined","game":"undefined","sixStarForm":true,"max_rarity":"6","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":3651,"mp":203,"atk":98,"def":127,"mag":135,"spr":166},"minStats":{"hp":1205,"mp":67,"atk":32,"def":42,"mag":45,"spr":55},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["dagger","staff","rod","mace","hat","clothes","robe"]}},

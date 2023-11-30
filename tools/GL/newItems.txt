@@ -786,3 +786,18 @@ Starting
 "401015617":Ultimate Power Hyoh BS
 "401015707":Solitary Warrior Veritas of the Frost
 "401015717":Solitary Warrior Veritas of the Frost BS
+Starting
+"301009100":Valiant Knife (FFVI)
+"301009100":Valiant Knife (FFVI)
+"304012800":Kotetsu (FFV)
+"304012800":Kotetsu (FFV)
+"405031900":Sniper Eye (FFVI)
+"409082800":Crystal Orb (FFVI)
+"409082800":Crystal Orb (FFVI)
+"504244730":Earth Dwells the Heart
+"504244736":Miraculous Reunion
+Starting
+"205002207":King of Bal Galuf
+"205002217":Samurai Galuf BS
+"206003407":Treasure Hunter Locke
+"206003417":Treasure Hunter Locke BS
