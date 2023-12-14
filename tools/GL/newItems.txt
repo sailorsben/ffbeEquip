@@ -801,3 +801,24 @@ Starting
 "205002217":Samurai Galuf BS
 "206003407":Treasure Hunter Locke
 "206003417":Treasure Hunter Locke BS
+Starting
+"302024200":Runeblade (FFT)
+"302024200":Runeblade (FFT)
+"307005100":Dark Yagrush
+"309010800":Dark Tigerfang
+"313012500":Dark Hellfire
+"405031300":Agrias' Clothes
+"405031400":Ragnarok (FFT)
+"405031400":Ragnarok (FFT)
+"405032000":Ramza's Clothing
+"405032100":Ramza's Clothing
+"405032200":Ramza's Clothing
+"405032200":Ramza's Clothing
+"409083000":Sage's Ring (FFT)
+"504244746":House Beoulve Swordsmanship
+Starting
+"253000237":Delita BS
+"253001807":Unsung Hero Ramza
+"253001817":Unsung Hero Ramza BS
+"253002007":Steadfast Knight Agrias
+"253002017":Steadfast Knight Agrias BS

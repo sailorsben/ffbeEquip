@@ -16750,7 +16750,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","staff","rod","mace","lightShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
-		"enhancementSkills":["Blizzaga","Invincible Swordplay","Cover - Magic I"],
+		"enhancementSkills":["Triumphant General's March","Sword Mastery","Blizzaga","Blizzara","Invincible Swordplay","Cover - Magic I"],
 		"categories":["Ice","Magic Tank","FFVI","The Rebellion","The Gathering"]
 	},
 	"206002817": {
@@ -16773,7 +16773,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","staff","rod","harp","mace","lightShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
-		"enhancementSkills":["Protectga","Shellga","Invincible Swordplay","Opera to Think of Her Lover"],
+		"enhancementSkills":["Singing Beauty","Instrument Mastery","Sword Mastery","Protectga","Shellga","Invincible Swordplay","Opera to Think of Her Lover"],
 		"categories":["Ice","Support","FFVI","The Rebellion","The Gathering"]
 	},
 	"206002907": {
@@ -25519,18 +25519,21 @@
 		"id":"253000205",
 		"game_id":"11002",
 		"game":"FFT",
-		"max_rarity":"7",
+		"braveShift":"253000237",
+		"exAwakening": [{"hp":711,"mp":33,"atk":38,"def":29,"mag":22,"spr":25},{"hp":547,"mp":26,"atk":29,"def":22,"mag":17,"spr":19},{"hp":383,"mp":18,"atk":20,"def":16,"mag":12,"spr":13}],
+		"fragmentId": "250022100",
+		"max_rarity":"NV",
 		"min_rarity":"5",
 		"sex":"male",
 		"stats": {
-			"maxStats":{"hp":4559,"mp":198,"atk":198,"def":171,"mag":154,"spr":159},
-			"minStats":{"hp":1504,"mp":65,"atk":65,"def":54,"mag":51,"spr":50},
+			"maxStats":{"hp":5471,"mp":258,"atk":291,"def":223,"mag":170,"spr":191},
+			"minStats":{"hp":1805,"mp":85,"atk":96,"def":74,"mag":56,"spr":63},
 			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
 		},
 		"stats_pattern":4,
-		"equip":["dagger","sword","greatSword","katana","axe","hammer","spear","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
-		"enhancementSkills":["Helm Break","Shield Break","Meditate"],
-		"categories":[null,null,"Lightning","Attacker","Breaker","Support","FFT"],
+		"equip":["dagger","sword","greatSword","katana","axe","hammer","spear","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Store","Helm Break","Barrage","Shield Break","Meditate","Ambitions of a Meager Man","Sword Mastery","Cunning Hero's Sword","Hero's Encouragement"],
+		"categories":["Lightning","Attacker","Breaker","Support","FFT","The Rebellion"],
 		"6_form": {
 			"name":"迪利塔",
 			"roles":["physicalAttacker","debuffer","support"],
@@ -25539,7 +25542,7 @@
 			"game_id":"11002",
 			"game":"FFT",
 			"sixStarForm":true,
-			"max_rarity":"7",
+			"max_rarity":"NV",
 			"min_rarity":"5",
 			"sex":"male",
 			"stats": {
@@ -25549,8 +25552,29 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","axe","hammer","spear","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
-			"enhancementSkills":["Helm Break","Shield Break","Meditate"],
-			"categories":[null,null,"Lightning","Attacker","Breaker","Support","FFT"]
+			"enhancementSkills":["Store","Helm Break","Barrage","Shield Break","Meditate","Ambitions of a Meager Man","Sword Mastery","Cunning Hero's Sword","Hero's Encouragement"],
+			"categories":["Lightning","Attacker","Breaker","Support","FFT","The Rebellion"]
+		},
+		"7_form": {
+			"name":"迪利塔",
+			"roles":["physicalAttacker","debuffer","support"],
+			"wikiEntry":"Delita",
+			"id":"253000205",
+			"game_id":"11002",
+			"game":"FFT",
+			"sevenStarForm":true,
+			"max_rarity":"NV",
+			"min_rarity":"5",
+			"sex":"male",
+			"stats": {
+				"maxStats":{"hp":4559,"mp":198,"atk":198,"def":171,"mag":154,"spr":159},
+				"minStats":{"hp":1504,"mp":65,"atk":65,"def":54,"mag":51,"spr":50},
+				"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+			},
+			"stats_pattern":4,
+			"equip":["dagger","sword","greatSword","katana","axe","hammer","spear","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
+			"enhancementSkills":["Store","Helm Break","Barrage","Shield Break","Meditate","Ambitions of a Meager Man","Sword Mastery","Cunning Hero's Sword","Hero's Encouragement"],
+			"categories":["Lightning","Attacker","Breaker","Support","FFT","The Rebellion"]
 		}
 	},
 	"253000215": {
@@ -25593,6 +25617,28 @@
 			"enhancementSkills":["War Hero","Commanding Blade","Black Sheep Knight"],
 			"categories":[null,null,"Fire","Attacker","Breaker","FFT"]
 		}
+	},
+	"253000237": {
+		"name":"迪利塔 BS",
+		"roles":["physicalAttacker","debuffer","support"],
+		"wikiEntry":"Delita",
+		"id":"253000237",
+		"game_id":"11002",
+		"game":"FFT",
+		"braveShifted":"253000205",
+		"exAwakening": [{"hp":711,"mp":33,"atk":38,"def":29,"mag":22,"spr":25},{"hp":547,"mp":26,"atk":29,"def":22,"mag":17,"spr":19},{"hp":383,"mp":18,"atk":20,"def":16,"mag":12,"spr":13}],
+		"fragmentId": "250022100",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5471,"mp":258,"atk":291,"def":223,"mag":170,"spr":191},
+			"minStats":{"hp":1805,"mp":85,"atk":96,"def":74,"mag":56,"spr":63},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","greatSword","katana","axe","hammer","spear","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"categories":["Lightning","Attacker","Breaker","Support","FFT","The Rebellion"]
 	},
 	"253000304": {
 		"name":"阿格莉亞絲",
@@ -25710,7 +25756,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 		"enhancementSkills":["Crush Weapon","Black Lion's Crest","Divine Ruination"],
-		"categories":[null,null,"Lightning","Attacker","Breaker","FFT"],
+		"categories":["Lightning","Attacker","Breaker","FFT","The Rebellion","Lightning","Attacker","Breaker","FFT","The Rebellion","Lightning","Attacker","Breaker","FFT","The Rebellion"],
 		"6_form": {
 			"name":"奧爾蘭多",
 			"roles":["physicalAttacker","debuffer"],
@@ -25730,7 +25776,7 @@
 			"stats_pattern":1,
 			"equip":["sword","greatSword","katana","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Crush Weapon","Black Lion's Crest","Divine Ruination"],
-			"categories":[null,null,"Lightning","Attacker","Breaker","FFT"]
+			"categories":["Lightning","Attacker","Breaker","FFT","The Rebellion","Lightning","Attacker","Breaker","FFT","The Rebellion","Lightning","Attacker","Breaker","FFT","The Rebellion"]
 		}
 	},
 	"253000904": {
@@ -25889,6 +25935,97 @@
 		"stats_pattern":1,
 		"equip":[],
 		"categories":[null,null,null]
+	},
+	"253001807": {
+		"name":"不為人知的英雄拉姆薩",
+		"roles":["physicalAttacker","magicalAttacker"],
+		"wikiEntry":"Unsung_Hero Ramza",
+		"id":"253001807",
+		"game_id":"11002",
+		"game":"FFT",
+		"braveShift":"253001817",
+		"exAwakening": [{"hp":683,"mp":43,"atk":86,"def":34,"mag":86,"spr":33},{"hp":526,"mp":33,"atk":66,"def":26,"mag":66,"spr":25},{"hp":368,"mp":23,"atk":46,"def":18,"mag":46,"spr":18}],
+		"fragmentId": "250024200",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5024,"mp":332,"atk":290,"def":248,"mag":330,"spr":249},
+			"minStats":{"hp":1658,"mp":110,"atk":96,"def":82,"mag":109,"spr":82},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","greatSword","katana","axe","hammer","harp","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
+		"enhancementSkills":["Suppressive Sword","Knight House's Blade","Cheer","Sword Mastery","Fira","Firaga","Blizzara","Blizzaga","Thundara","Thundaga","Stonra","Stonga"],
+		"categories":["Earth","Attacker","Mage","FFT","The Rebellion","Clash of Wills","CW - Earth"]
+	},
+	"253001817": {
+		"name":"不為人知的英雄拉姆薩 BS",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Unsung_Hero Ramza",
+		"id":"253001817",
+		"game_id":"11002",
+		"game":"FFT",
+		"braveShifted":"253001807",
+		"exAwakening": [{"hp":683,"mp":43,"atk":86,"def":34,"mag":86,"spr":33},{"hp":526,"mp":33,"atk":66,"def":26,"mag":66,"spr":25},{"hp":368,"mp":23,"atk":46,"def":18,"mag":46,"spr":18}],
+		"fragmentId": "250024200",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5257,"mp":314,"atk":330,"def":259,"mag":185,"spr":186},
+			"minStats":{"hp":1735,"mp":104,"atk":109,"def":85,"mag":61,"spr":61},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","greatSword","katana","axe","hammer","harp","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
+		"enhancementSkills":["Suppressive Sword","Knight House's Blade","Sword Mastery"],
+		"categories":["Earth","Attacker","FFT","The Rebellion","Clash of Wills","CW - Earth"]
+	},
+	"253002007": {
+		"name":"信義騎士阿格莉亞絲",
+		"roles":["physicalAttacker","debuffer"],
+		"wikiEntry":"Steadfast_Knight Agrias",
+		"id":"253002007",
+		"game_id":"11002",
+		"game":"FFT",
+		"braveShift":"253002017",
+		"exAwakening": [{"hp":694,"mp":39,"atk":82,"def":36,"mag":21,"spr":26},{"hp":534,"mp":30,"atk":63,"def":28,"mag":16,"spr":20},{"hp":374,"mp":21,"atk":44,"def":19,"mag":11,"spr":14}],
+		"fragmentId": "250024300",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":5341,"mp":301,"atk":315,"def":277,"mag":162,"spr":199},
+			"minStats":{"hp":1763,"mp":99,"atk":104,"def":91,"mag":53,"spr":66},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","axe","mace","lightShield","heavyShield","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
+		"enhancementSkills":["Sundering Lightning","Pulverizing Strike","Sword Mastery","Divine Ruination","Protectga"],
+		"categories":["Earth","Attacker","Breaker","FFT","The Rebellion"]
+	},
+	"253002017": {
+		"name":"信義騎士阿格莉亞絲 BS",
+		"roles":["physicalAttacker","debuffer"],
+		"wikiEntry":"Steadfast_Knight Agrias",
+		"id":"253002017",
+		"game_id":"11002",
+		"game":"FFT",
+		"braveShifted":"253002007",
+		"exAwakening": [{"hp":694,"mp":39,"atk":82,"def":36,"mag":21,"spr":26},{"hp":534,"mp":30,"atk":63,"def":28,"mag":16,"spr":20},{"hp":374,"mp":21,"atk":44,"def":19,"mag":11,"spr":14}],
+		"fragmentId": "250024300",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":5341,"mp":301,"atk":315,"def":277,"mag":162,"spr":199},
+			"minStats":{"hp":1763,"mp":99,"atk":104,"def":91,"mag":53,"spr":66},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","axe","mace","lightShield","heavyShield","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
+		"categories":["Earth","Attacker","Breaker","FFT","The Rebellion"]
 	},
 	"254000105": {
 		"name":"艾斯",
@@ -37613,13 +37750,8 @@
   "215003117":{"name":"真の王ノクティス BS","roles":["physicalAttacker"],"id":"215003117","game_id":"undefined","game":"undefined","braveShifted":"215003107","exAwakening":[{"hp":709,"mp":47,"atk":86,"def":32,"mag":37,"spr":29},{"hp":546,"mp":36,"atk":66,"def":25,"mag":28,"spr":22},{"hp":382,"mp":25,"atk":46,"def":17,"mag":20,"spr":15}],"fragmentId":"250025000","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5458,"mp":361,"atk":330,"def":232,"mag":267,"spr":214},"minStats":{"hp":1801,"mp":119,"atk":109,"def":77,"mag":88,"spr":71},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","katana","spear","throwing","gun","lightShield","heavyShield","hat","clothes","lightArmor","visionCard"],"enhancementSkills":["ファントムシャイン","ファントムソード・ストライク","剣の極意"]},
   "215003407":{"name":"選ばれし王の親友プロンプト","roles":["physicalAttacker","debuffer"],"id":"215003407","game_id":"undefined","game":"undefined","braveShift":"215003417","exAwakening":[{"hp":689,"mp":43,"atk":82,"def":33,"mag":23,"spr":32},{"hp":530,"mp":33,"atk":63,"def":25,"mag":17,"spr":25},{"hp":371,"mp":23,"atk":44,"def":18,"mag":12,"spr":17}],"fragmentId":"250025300","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5159,"mp":331,"atk":290,"def":239,"mag":172,"spr":246},"minStats":{"hp":1702,"mp":109,"atk":96,"def":79,"mag":57,"spr":81},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","hammer","harp","whip","throwing","gun","lightShield","hat","clothes","lightArmor","robe","visionCard"],"enhancementSkills":["フローズンペネトレイト","シャイニングペネトレイト","銃の極意"]},
   "215003417":{"name":"選ばれし王の親友プロンプト BS","roles":["physicalAttacker"],"id":"215003417","game_id":"undefined","game":"undefined","braveShifted":"215003407","exAwakening":[{"hp":689,"mp":43,"atk":82,"def":33,"mag":23,"spr":32},{"hp":530,"mp":33,"atk":63,"def":25,"mag":17,"spr":25},{"hp":371,"mp":23,"atk":44,"def":18,"mag":12,"spr":17}],"fragmentId":"250025300","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5298,"mp":308,"atk":315,"def":252,"mag":169,"spr":221},"minStats":{"hp":1748,"mp":102,"atk":104,"def":83,"mag":56,"spr":73},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","hammer","harp","whip","throwing","gun","lightShield","hat","clothes","lightArmor","robe","visionCard"],"enhancementSkills":["フローズンペネトレイト","シャイニングペネトレイト","銃の極意"]},
-  "253000237":{"name":"ディリータ BS","roles":["physicalAttacker","debuffer","support"],"id":"253000237","game_id":"undefined","game":"undefined","braveShifted":"253000205","exAwakening":[{"hp":711,"mp":33,"atk":38,"def":29,"mag":22,"spr":25},{"hp":547,"mp":26,"atk":29,"def":22,"mag":17,"spr":19},{"hp":383,"mp":18,"atk":20,"def":16,"mag":12,"spr":13}],"fragmentId":"250022100","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5471,"mp":258,"atk":291,"def":223,"mag":170,"spr":191},"minStats":{"hp":1805,"mp":85,"atk":96,"def":74,"mag":56,"spr":63},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","katana","axe","hammer","spear","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"]},
-  "253001807":{"name":"知られざる英雄ラムザ","roles":["physicalAttacker","magicalAttacker"],"id":"253001807","game_id":"undefined","game":"undefined","braveShift":"253001817","exAwakening":[{"hp":683,"mp":43,"atk":86,"def":34,"mag":86,"spr":33},{"hp":526,"mp":33,"atk":66,"def":26,"mag":66,"spr":25},{"hp":368,"mp":23,"atk":46,"def":18,"mag":46,"spr":18}],"fragmentId":"250024200","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5024,"mp":332,"atk":290,"def":248,"mag":330,"spr":249},"minStats":{"hp":1658,"mp":110,"atk":96,"def":82,"mag":109,"spr":82},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","katana","axe","hammer","harp","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],"enhancementSkills":["制乱の剣","武門の剣","はげます","剣の極意","見習北天剣","ファイラ","ファイガ","ブリザラ","ブリザガ","サンダラ","サンダガ","ストンラ","ストンガ"]},
-  "253001817":{"name":"知られざる英雄ラムザ BS","roles":["physicalAttacker"],"id":"253001817","game_id":"undefined","game":"undefined","braveShifted":"253001807","exAwakening":[{"hp":683,"mp":43,"atk":86,"def":34,"mag":86,"spr":33},{"hp":526,"mp":33,"atk":66,"def":26,"mag":66,"spr":25},{"hp":368,"mp":23,"atk":46,"def":18,"mag":46,"spr":18}],"fragmentId":"250024200","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5257,"mp":314,"atk":330,"def":259,"mag":185,"spr":186},"minStats":{"hp":1735,"mp":104,"atk":109,"def":85,"mag":61,"spr":61},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","katana","axe","hammer","harp","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],"enhancementSkills":["制乱の剣","武門の剣","剣の極意"]},
   "253001907":{"name":"剣聖オルランドゥ","roles":["physicalAttacker"],"id":"253001907","game_id":"undefined","game":"undefined","braveShift":"253001917","exAwakening":[{"hp":702,"mp":44,"atk":86,"def":34,"mag":29,"spr":27},{"hp":540,"mp":34,"atk":66,"def":26,"mag":23,"spr":21},{"hp":378,"mp":24,"atk":46,"def":18,"mag":16,"spr":14}],"fragmentId":"250024800","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5397,"mp":340,"atk":330,"def":263,"mag":228,"spr":207},"minStats":{"hp":1781,"mp":112,"atk":109,"def":87,"mag":75,"spr":68},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","katana","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],"enhancementSkills":["剣聖の雷鳴","剣聖の強攻","強甲破点突き","黒獅子の紋章","剣の極意","大剣の極意","冥界恐叫打","聖光爆裂破"]},
   "253001917":{"name":"剣聖オルランドゥ BS","roles":["physicalAttacker"],"id":"253001917","game_id":"undefined","game":"undefined","braveShifted":"253001907","exAwakening":[{"hp":702,"mp":44,"atk":86,"def":34,"mag":29,"spr":27},{"hp":540,"mp":34,"atk":66,"def":26,"mag":23,"spr":21},{"hp":378,"mp":24,"atk":46,"def":18,"mag":16,"spr":14}],"fragmentId":"250024800","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5397,"mp":340,"atk":330,"def":263,"mag":228,"spr":207},"minStats":{"hp":1781,"mp":112,"atk":109,"def":87,"mag":75,"spr":68},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","katana","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"]},
-  "253002007":{"name":"信義の騎士アグリアス","roles":["physicalAttacker","debuffer"],"id":"253002007","game_id":"undefined","game":"undefined","braveShift":"253002017","exAwakening":[{"hp":694,"mp":39,"atk":82,"def":36,"mag":21,"spr":26},{"hp":534,"mp":30,"atk":63,"def":28,"mag":16,"spr":20},{"hp":374,"mp":21,"atk":44,"def":19,"mag":11,"spr":14}],"fragmentId":"250024300","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5341,"mp":301,"atk":315,"def":277,"mag":162,"spr":199},"minStats":{"hp":1763,"mp":99,"atk":104,"def":91,"mag":53,"spr":66},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","axe","mace","lightShield","heavyShield","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],"enhancementSkills":["雷霆剛撃剣","破岩撃砕打","剣の極意","聖光爆裂破","プロテガ"]},
-  "253002017":{"name":"信義の騎士アグリアス BS","roles":["physicalAttacker","debuffer"],"id":"253002017","game_id":"undefined","game":"undefined","braveShifted":"253002007","exAwakening":[{"hp":694,"mp":39,"atk":82,"def":36,"mag":21,"spr":26},{"hp":534,"mp":30,"atk":63,"def":28,"mag":16,"spr":20},{"hp":374,"mp":21,"atk":44,"def":19,"mag":11,"spr":14}],"fragmentId":"250024300","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5341,"mp":301,"atk":315,"def":277,"mag":162,"spr":199},"minStats":{"hp":1763,"mp":99,"atk":104,"def":91,"mag":53,"spr":66},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","axe","mace","lightShield","heavyShield","helm","clothes","lightArmor","heavyArmor","robe","visionCard"]},
   "253002107":{"name":"アルガス","roles":["physicalAttacker","debuffer"],"id":"253002107","game_id":"undefined","game":"undefined","braveShift":"253002117","exAwakening":[{"hp":696,"mp":46,"atk":75,"def":33,"mag":24,"spr":31},{"hp":535,"mp":35,"atk":58,"def":25,"mag":19,"spr":24},{"hp":375,"mp":25,"atk":41,"def":18,"mag":13,"spr":17}],"fragmentId":"250024900","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5350,"mp":349,"atk":290,"def":254,"mag":187,"spr":238},"minStats":{"hp":1766,"mp":115,"atk":96,"def":84,"mag":62,"spr":79},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","bow","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["マインドブレイク","ウエポンブレイク","シャドウブレイク","貴族の誅剣","弓の極意","シールドブレイク","ヘッドブレイク"]},
   "253002117":{"name":"アルガス BS","roles":["physicalAttacker","debuffer"],"id":"253002117","game_id":"undefined","game":"undefined","braveShifted":"253002107","exAwakening":[{"hp":696,"mp":46,"atk":75,"def":33,"mag":24,"spr":31},{"hp":535,"mp":35,"atk":58,"def":25,"mag":19,"spr":24},{"hp":375,"mp":25,"atk":41,"def":18,"mag":13,"spr":17}],"fragmentId":"250024900","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5350,"mp":349,"atk":290,"def":254,"mag":187,"spr":238},"minStats":{"hp":1766,"mp":115,"atk":96,"def":84,"mag":62,"spr":79},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","bow","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"]},
   "254002407":{"name":"朱を纏いし０組ケイト","jpname":"朱を纏いし０組ケイト","roles":["debuffer"],"id":"254002407","game_id":"undefined","game":"undefined","braveShift":"254002417","exAwakening":[{"hp":657,"mp":41,"atk":35,"def":26,"mag":75,"spr":26},{"hp":505,"mp":31,"atk":27,"def":20,"mag":58,"spr":20},{"hp":354,"mp":22,"atk":19,"def":14,"mag":41,"spr":14}],"fragmentId":"250019200","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5051,"mp":312,"atk":267,"def":199,"mag":290,"spr":203},"minStats":{"hp":1667,"mp":103,"atk":88,"def":66,"mag":96,"spr":67},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","gun","hat","clothes","visionCard"],"enhancementSkills":["魂に刻まれた記憶","爆発弾","ファイガ","ブリザガ","サンダガ","エアロガ"]},

@@ -1482,6 +1482,21 @@
 	{"atk":99, "mag":99, "killers":[{"name":"undead","physical":75,"magical":75},{"name":"machine","physical":75,"magical":75}]},
 	{"atk":110, "mag":110, "killers":[{"name":"undead","physical":75,"magical":75},{"name":"machine","physical":75,"magical":75},{"name":"human","physical":75,"magical":75}]}
 ]},
+{"id":"253000101", "name":"Blades of Grass", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_253000101.png", "sortId":199, "vc":["253001807"], "levels":[
+	{"atk":170, "mag":170, "conditional":[{"lbDamage":50},{"killers":[{"name":"demon","physical":75,"magical":75},{"name":"undead","physical":75,"magical":75}]},{"staticStats":{"atk":650,"mag":650}}]}
+]},
+{"id":"253000301", "name":"Abduction at Orbonne Monastery", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_253000301.png", "sortId":200, "vc":["253002007"], "levels":[
+	{"atk":65},
+	{"atk":71},
+	{"atk":78},
+	{"atk":84, "atk%":50},
+	{"atk":91, "atk%":50},
+	{"atk":97, "atk%":50},
+	{"atk":104, "atk%":50, "lbDamage":25},
+	{"atk":110, "atk%":50, "lbDamage":25},
+	{"atk":117, "atk%":50, "lbDamage":25},
+	{"atk":130, "atk%":50, "lbDamage":25, "conditional":[{"staticStats":{"atk":500}}]}
+]},
 {"id":"254000101", "name":"We Have Arrived", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_254000101.png", "sortId":66, "vc":["254002207"], "levels":[
 	{"atk":50, "mag":50},
 	{"atk":55, "mag":55},
