@@ -822,3 +822,25 @@ Starting
 "253001817":Unsung Hero Ramza BS
 "253002007":Steadfast Knight Agrias
 "253002017":Steadfast Knight Agrias BS
+Starting
+"302024300":Excalibur (FFT)
+"302024300":Excalibur (FFT)
+"312006900":Hunting Bow (FFT)
+"312006900":Hunting Bow (FFT)
+"404007500":Crystal Helm (FFT)
+"404007600":Crystal Helm (FFT)
+"404007700":Crystal Helm (FFT)
+"404007700":Crystal Helm (FFT)
+"405031600":Argath's Clothes
+"405033100":Orlandeau's Cloak
+"405033200":Orlandeau's Cloak
+"405033300":Orlandeau's Cloak
+"405033400":Orlandeau's Cloak
+"405033500":Orlandeau's Cloak
+"405033500":Orlandeau's Cloak
+"504244765":Thunder God's Sword Technique
+Starting
+"253001907":Sword Saint Orlandeau
+"253001917":Sword Saint Orlandeau BS
+"253002107":Argath
+"253002117":Argath BS

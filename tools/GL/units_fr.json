@@ -25478,7 +25478,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","axe","hammer","harp","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 		"enhancementSkills":["Mind Break","Weapon Break","Hero's Rime"],
-		"categories":[null,null,"Light","Attacker","Breaker","Support","FFT"],
+		"categories":["Light","Attacker","Breaker","FFT","The Rebellion","Light","Attacker","Support","Breaker","FFT","The Rebellion","Light","Attacker","Breaker","Support","FFT","The Rebellion"],
 		"6_form": {
 			"name":"Ramza",
 			"roles":["physicalAttacker","debuffer","support"],
@@ -25498,7 +25498,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","axe","hammer","harp","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Mind Break","Weapon Break","Hero's Rime"],
-			"categories":[null,null,"Light","Attacker","Breaker","Support","FFT"]
+			"categories":["Light","Attacker","Breaker","FFT","The Rebellion","Light","Attacker","Support","Breaker","FFT","The Rebellion","Light","Attacker","Breaker","Support","FFT","The Rebellion"]
 		}
 	},
 	"253000115": {
@@ -25518,8 +25518,8 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","axe","hammer","harp","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
-		"enhancementSkills":["Stone Throw","Branded Heretic","True Justice","Blade of Justice","True Hero"],
-		"categories":[null,null,"Fire","Attacker","Breaker","Physical Tank","FFT"],
+		"enhancementSkills":["Second Wind","Stone Throw","Branded Heretic","Warrior's Pride","Last of the Beoulve","True Justice","Blade of Justice","True Hero"],
+		"categories":["Fire","Attacker","Breaker","FFT","The Rebellion","Fire","Attacker","Physical Tank","Breaker","FFT","The Rebellion","Fire","Attacker","Breaker","Physical Tank","FFT","The Rebellion"],
 		"6_form": {
 			"name":"Ramza mercenaire",
 			"roles":["physicalAttacker","debuffer","physicalTank"],
@@ -25538,8 +25538,8 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","axe","hammer","harp","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
-			"enhancementSkills":["Stone Throw","Branded Heretic","True Justice","Blade of Justice","True Hero"],
-			"categories":[null,null,"Fire","Attacker","Breaker","Physical Tank","FFT"]
+			"enhancementSkills":["Second Wind","Stone Throw","Branded Heretic","Warrior's Pride","Last of the Beoulve","True Justice","Blade of Justice","True Hero"],
+			"categories":["Fire","Attacker","Breaker","FFT","The Rebellion","Fire","Attacker","Physical Tank","Breaker","FFT","The Rebellion","Fire","Attacker","Breaker","Physical Tank","FFT","The Rebellion"]
 		}
 	},
 	"253000205": {
@@ -25624,8 +25624,8 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","axe","hammer","spear","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
-		"enhancementSkills":["War Hero","Commanding Blade","Black Sheep Knight"],
-		"categories":[null,null,"Fire","Attacker","Breaker","FFT"],
+		"enhancementSkills":["Revenging Edge","War Hero","Commanding Blade","Black Sheep Knight","Strategic Blade"],
+		"categories":["Fire","Attacker","Breaker","FFT","The Rebellion","Fire","Attacker","Breaker","FFT","The Rebellion","Fire","Attacker","Breaker","FFT","The Rebellion"],
 		"6_form": {
 			"name":"Delita chevalier",
 			"roles":["physicalAttacker","debuffer"],
@@ -25644,8 +25644,8 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","axe","hammer","spear","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
-			"enhancementSkills":["War Hero","Commanding Blade","Black Sheep Knight"],
-			"categories":[null,null,"Fire","Attacker","Breaker","FFT"]
+			"enhancementSkills":["Revenging Edge","War Hero","Commanding Blade","Black Sheep Knight","Strategic Blade"],
+			"categories":["Fire","Attacker","Breaker","FFT","The Rebellion","Fire","Attacker","Breaker","FFT","The Rebellion","Fire","Attacker","Breaker","FFT","The Rebellion"]
 		}
 	},
 	"253000237": {
@@ -25689,7 +25689,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","sword","greatSword","katana","axe","hammer","spear","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 		"enhancementSkills":["Full Break","Knighthood","Divine Ruination"],
-		"categories":[null,null,null]
+		"categories":["Light","Attacker","FFT","The Rebellion","Light","Attacker","Breaker","FFT","The Rebellion","Light","Attacker","Breaker","FFT","The Rebellion"]
 	},
 	"253000403": {
 		"name":"Alma",
@@ -25748,7 +25748,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","bow","throwing","gun","hat","clothes"],
-		"categories":[null,null,null]
+		"categories":["Attacker","FFT","The Rebellion","Attacker","Breaker","FFT","The Rebellion","Attacker","Breaker","FFT","The Rebellion"]
 	},
 	"253000704": {
 		"name":"Reis",
@@ -25886,7 +25886,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["staff","hat","clothes","robe"],
-		"categories":[null,null,null]
+		"categories":["Healer","FFT","The Rebellion","Healer","FFT","The Rebellion","Healer","FFT","The Rebellion"]
 	},
 	"253001204": {
 		"name":"Orran",
@@ -25906,7 +25906,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","staff","rod","harp","hat","clothes","lightArmor","robe"],
 		"enhancementSkills":["Nameless Song","Writer of History","Durai Papers"],
-		"categories":[null,null,null]
+		"categories":["Healer","Support","FFT","Healer","Support","FFT","Healer","Support","FFT"]
 	},
 	"253001305": {
 		"name":"Ultima, le Grand Séraphin",
@@ -26013,6 +26013,52 @@
 		"enhancementSkills":["Suppressive Sword","Knight House's Blade","Sword Mastery"],
 		"categories":["Earth","Attacker","FFT","The Rebellion","Clash of Wills","CW - Earth"]
 	},
+	"253001907": {
+		"name":"Sword Saint Orlandeau",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Sword_Saint Orlandeau",
+		"id":"253001907",
+		"game_id":"11002",
+		"game":"FFT",
+		"braveShift":"253001917",
+		"exAwakening": [{"hp":702,"mp":44,"atk":86,"def":34,"mag":29,"spr":27},{"hp":540,"mp":34,"atk":66,"def":26,"mag":23,"spr":21},{"hp":378,"mp":24,"atk":46,"def":18,"mag":16,"spr":14}],
+		"fragmentId": "250024800",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5397,"mp":340,"atk":330,"def":263,"mag":228,"spr":207},
+			"minStats":{"hp":1781,"mp":112,"atk":109,"def":87,"mag":75,"spr":68},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","katana","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
+		"enhancementSkills":["Sword Saint Thunderclap","Sword Saint Assault","Black Lion's Crest","Sword Mastery","Large Sword Mastery","Crush Weapon","Divine Ruination"],
+		"categories":["Lightning","Attacker","FFT","The Rebellion"]
+	},
+	"253001917": {
+		"name":"Sword Saint Orlandeau BS",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Sword_Saint Orlandeau",
+		"id":"253001917",
+		"game_id":"11002",
+		"game":"FFT",
+		"braveShifted":"253001907",
+		"exAwakening": [{"hp":702,"mp":44,"atk":86,"def":34,"mag":29,"spr":27},{"hp":540,"mp":34,"atk":66,"def":26,"mag":23,"spr":21},{"hp":378,"mp":24,"atk":46,"def":18,"mag":16,"spr":14}],
+		"fragmentId": "250024800",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5397,"mp":340,"atk":330,"def":263,"mag":228,"spr":207},
+			"minStats":{"hp":1781,"mp":112,"atk":109,"def":87,"mag":75,"spr":68},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","katana","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
+		"enhancementSkills":["Sword Saint Thunderclap","Sword Saint Assault","Black Lion's Crest","Sword Mastery","Large Sword Mastery","Crush Weapon","Divine Ruination"],
+		"categories":["Lightning","Attacker","FFT","The Rebellion"]
+	},
 	"253002007": {
 		"name":"Agrias, chevaleresse loyale",
 		"roles":["physicalAttacker","debuffer"],
@@ -26057,6 +26103,52 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","axe","mace","lightShield","heavyShield","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"categories":["Earth","Attacker","Breaker","FFT","The Rebellion"]
+	},
+	"253002107": {
+		"name":"Argath",
+		"roles":["physicalAttacker","debuffer"],
+		"wikiEntry":"Argath",
+		"id":"253002107",
+		"game_id":"11002",
+		"game":"FFT",
+		"braveShift":"253002117",
+		"exAwakening": [{"hp":696,"mp":46,"atk":75,"def":33,"mag":24,"spr":31},{"hp":535,"mp":35,"atk":58,"def":25,"mag":19,"spr":24},{"hp":375,"mp":25,"atk":41,"def":18,"mag":13,"spr":17}],
+		"fragmentId": "250024900",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5350,"mp":349,"atk":290,"def":254,"mag":187,"spr":238},
+			"minStats":{"hp":1766,"mp":115,"atk":96,"def":84,"mag":62,"spr":79},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","bow","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Mind Break","Weapon Break","Rend Darkness","Nobility's Execution","Bow Mastery","Shield Break","Helm Break"],
+		"categories":["Dark","Attacker","Breaker","FFT","Bestowed Power"]
+	},
+	"253002117": {
+		"name":"Argath BS",
+		"roles":["physicalAttacker","debuffer"],
+		"wikiEntry":"Argath",
+		"id":"253002117",
+		"game_id":"11002",
+		"game":"FFT",
+		"braveShifted":"253002107",
+		"exAwakening": [{"hp":696,"mp":46,"atk":75,"def":33,"mag":24,"spr":31},{"hp":535,"mp":35,"atk":58,"def":25,"mag":19,"spr":24},{"hp":375,"mp":25,"atk":41,"def":18,"mag":13,"spr":17}],
+		"fragmentId": "250024900",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5350,"mp":349,"atk":290,"def":254,"mag":187,"spr":238},
+			"minStats":{"hp":1766,"mp":115,"atk":96,"def":84,"mag":62,"spr":79},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","bow","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Mind Break","Weapon Break","Rend Darkness","Nobility's Execution","Bow Mastery","Shield Break","Helm Break"],
+		"categories":["Dark","Attacker","Breaker","FFT","Bestowed Power"]
 	},
 	"254000105": {
 		"name":"Ace",
@@ -37792,10 +37884,6 @@
   "215003117":{"name":"真の王ノクティス BS","roles":["physicalAttacker"],"id":"215003117","game_id":"undefined","game":"undefined","braveShifted":"215003107","exAwakening":[{"hp":709,"mp":47,"atk":86,"def":32,"mag":37,"spr":29},{"hp":546,"mp":36,"atk":66,"def":25,"mag":28,"spr":22},{"hp":382,"mp":25,"atk":46,"def":17,"mag":20,"spr":15}],"fragmentId":"250025000","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5458,"mp":361,"atk":330,"def":232,"mag":267,"spr":214},"minStats":{"hp":1801,"mp":119,"atk":109,"def":77,"mag":88,"spr":71},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","katana","spear","throwing","gun","lightShield","heavyShield","hat","clothes","lightArmor","visionCard"],"enhancementSkills":["ファントムシャイン","ファントムソード・ストライク","剣の極意"]},
   "215003407":{"name":"選ばれし王の親友プロンプト","roles":["physicalAttacker","debuffer"],"id":"215003407","game_id":"undefined","game":"undefined","braveShift":"215003417","exAwakening":[{"hp":689,"mp":43,"atk":82,"def":33,"mag":23,"spr":32},{"hp":530,"mp":33,"atk":63,"def":25,"mag":17,"spr":25},{"hp":371,"mp":23,"atk":44,"def":18,"mag":12,"spr":17}],"fragmentId":"250025300","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5159,"mp":331,"atk":290,"def":239,"mag":172,"spr":246},"minStats":{"hp":1702,"mp":109,"atk":96,"def":79,"mag":57,"spr":81},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","hammer","harp","whip","throwing","gun","lightShield","hat","clothes","lightArmor","robe","visionCard"],"enhancementSkills":["フローズンペネトレイト","シャイニングペネトレイト","銃の極意"]},
   "215003417":{"name":"選ばれし王の親友プロンプト BS","roles":["physicalAttacker"],"id":"215003417","game_id":"undefined","game":"undefined","braveShifted":"215003407","exAwakening":[{"hp":689,"mp":43,"atk":82,"def":33,"mag":23,"spr":32},{"hp":530,"mp":33,"atk":63,"def":25,"mag":17,"spr":25},{"hp":371,"mp":23,"atk":44,"def":18,"mag":12,"spr":17}],"fragmentId":"250025300","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5298,"mp":308,"atk":315,"def":252,"mag":169,"spr":221},"minStats":{"hp":1748,"mp":102,"atk":104,"def":83,"mag":56,"spr":73},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","hammer","harp","whip","throwing","gun","lightShield","hat","clothes","lightArmor","robe","visionCard"],"enhancementSkills":["フローズンペネトレイト","シャイニングペネトレイト","銃の極意"]},
-  "253001907":{"name":"剣聖オルランドゥ","roles":["physicalAttacker"],"id":"253001907","game_id":"undefined","game":"undefined","braveShift":"253001917","exAwakening":[{"hp":702,"mp":44,"atk":86,"def":34,"mag":29,"spr":27},{"hp":540,"mp":34,"atk":66,"def":26,"mag":23,"spr":21},{"hp":378,"mp":24,"atk":46,"def":18,"mag":16,"spr":14}],"fragmentId":"250024800","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5397,"mp":340,"atk":330,"def":263,"mag":228,"spr":207},"minStats":{"hp":1781,"mp":112,"atk":109,"def":87,"mag":75,"spr":68},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","katana","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],"enhancementSkills":["剣聖の雷鳴","剣聖の強攻","強甲破点突き","黒獅子の紋章","剣の極意","大剣の極意","冥界恐叫打","聖光爆裂破"]},
-  "253001917":{"name":"剣聖オルランドゥ BS","roles":["physicalAttacker"],"id":"253001917","game_id":"undefined","game":"undefined","braveShifted":"253001907","exAwakening":[{"hp":702,"mp":44,"atk":86,"def":34,"mag":29,"spr":27},{"hp":540,"mp":34,"atk":66,"def":26,"mag":23,"spr":21},{"hp":378,"mp":24,"atk":46,"def":18,"mag":16,"spr":14}],"fragmentId":"250024800","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5397,"mp":340,"atk":330,"def":263,"mag":228,"spr":207},"minStats":{"hp":1781,"mp":112,"atk":109,"def":87,"mag":75,"spr":68},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","katana","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"]},
-  "253002107":{"name":"アルガス","roles":["physicalAttacker","debuffer"],"id":"253002107","game_id":"undefined","game":"undefined","braveShift":"253002117","exAwakening":[{"hp":696,"mp":46,"atk":75,"def":33,"mag":24,"spr":31},{"hp":535,"mp":35,"atk":58,"def":25,"mag":19,"spr":24},{"hp":375,"mp":25,"atk":41,"def":18,"mag":13,"spr":17}],"fragmentId":"250024900","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5350,"mp":349,"atk":290,"def":254,"mag":187,"spr":238},"minStats":{"hp":1766,"mp":115,"atk":96,"def":84,"mag":62,"spr":79},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","bow","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["マインドブレイク","ウエポンブレイク","シャドウブレイク","貴族の誅剣","弓の極意","シールドブレイク","ヘッドブレイク"]},
-  "253002117":{"name":"アルガス BS","roles":["physicalAttacker","debuffer"],"id":"253002117","game_id":"undefined","game":"undefined","braveShifted":"253002107","exAwakening":[{"hp":696,"mp":46,"atk":75,"def":33,"mag":24,"spr":31},{"hp":535,"mp":35,"atk":58,"def":25,"mag":19,"spr":24},{"hp":375,"mp":25,"atk":41,"def":18,"mag":13,"spr":17}],"fragmentId":"250024900","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5350,"mp":349,"atk":290,"def":254,"mag":187,"spr":238},"minStats":{"hp":1766,"mp":115,"atk":96,"def":84,"mag":62,"spr":79},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","bow","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"]},
   "254002407":{"name":"朱を纏いし０組ケイト","jpname":"朱を纏いし０組ケイト","roles":["debuffer"],"id":"254002407","game_id":"undefined","game":"undefined","braveShift":"254002417","exAwakening":[{"hp":657,"mp":41,"atk":35,"def":26,"mag":75,"spr":26},{"hp":505,"mp":31,"atk":27,"def":20,"mag":58,"spr":20},{"hp":354,"mp":22,"atk":19,"def":14,"mag":41,"spr":14}],"fragmentId":"250019200","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5051,"mp":312,"atk":267,"def":199,"mag":290,"spr":203},"minStats":{"hp":1667,"mp":103,"atk":88,"def":66,"mag":96,"spr":67},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","gun","hat","clothes","visionCard"],"enhancementSkills":["魂に刻まれた記憶","爆発弾","ファイガ","ブリザガ","サンダガ","エアロガ"]},
   "254002417":{"name":"朱を纏いし０組ケイト BS","jpname":"朱を纏いし０組ケイト BS","roles":["debuffer"],"id":"254002417","game_id":"undefined","game":"undefined","braveShifted":"254002407","exAwakening":[{"hp":657,"mp":41,"atk":35,"def":26,"mag":75,"spr":26},{"hp":505,"mp":31,"atk":27,"def":20,"mag":58,"spr":20},{"hp":354,"mp":22,"atk":19,"def":14,"mag":41,"spr":14}],"fragmentId":"250019200","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5051,"mp":312,"atk":267,"def":199,"mag":290,"spr":203},"minStats":{"hp":1667,"mp":103,"atk":88,"def":66,"mag":96,"spr":67},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","gun","hat","clothes","visionCard"]},
   "256000101":{"name":"Riko","jpname":"リコ(リコドキッ！)","roles":["healer","support"],"id":"256000101","game_id":"undefined","game":"undefined","max_rarity":"6","min_rarity":"1","sex":"female","stats":{"maxStats":{"hp":3575,"mp":183,"atk":104,"def":109,"mag":124,"spr":136},"minStats":{"hp":1180,"mp":60,"atk":34,"def":36,"mag":41,"spr":45},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["dagger","staff","rod","hammer","harp","hat","clothes","lightArmor","robe"]},

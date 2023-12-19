@@ -1485,6 +1485,9 @@
 {"id":"253000101", "name":"Blades of Grass", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_253000101.png", "sortId":199, "vc":["253001807"], "levels":[
 	{"atk":170, "mag":170, "conditional":[{"lbDamage":50},{"killers":[{"name":"demon","physical":75,"magical":75},{"name":"undead","physical":75,"magical":75}]},{"staticStats":{"atk":650,"mag":650}}]}
 ]},
+{"id":"253000201", "name":"Attack of the Thunder God", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_253000201.png", "sortId":201, "vc":["253001907"], "levels":[
+	{"atk":170, "mag":170, "staticStats":{"atk":400,"mag":400}, "singleWielding":{"atk":150,"accuracy":25,"mag":150}, "lbDamage":75}
+]},
 {"id":"253000301", "name":"Abduction at Orbonne Monastery", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_253000301.png", "sortId":200, "vc":["253002007"], "levels":[
 	{"atk":65},
 	{"atk":71},
