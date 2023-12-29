@@ -1,5 +1,13 @@
 [  
     {
+        "date":"November 21st, 2023","sources": 
+        [
+            {"type":"banner", "units":["401015807"]},
+            {"type":"storyPart", "name":"Vision Cards", "ids": ["401008901", "401009301"]},
+            {"type":"storyPart", "name":"Clash of Wills: Xenostone Shard Equippable Ability Pop-Up Exchange", "ids": ["1500000252", "1500000253"]}
+        ]
+    }, 
+    {
         "date":"November 7th, 2023","sources": 
         [
             {"type":"banner", "units":["344001107", "344001207", "344001307"]},
