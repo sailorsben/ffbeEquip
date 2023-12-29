@@ -51116,7 +51116,7 @@
 		"enhancementSkills":["Blade of the Vampyr","Hemomancer's Delirium"],
 		"categories":["Dark","Breaker","FFBE","Clash of Wills","Bonds","CW - Support","CW - Dark"],
 		"enhancements": [
-			{"name":"Blade of the Vampyr","levels":[[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":200}},{"equipedConditions":["katana"],"atk%":100}],[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":225}},{"equipedConditions":["katana"],"atk%":100}],[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":250}},{"equipedConditions":["katana"],"atk%":100}],[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":275}},{"equipedConditions":["katana"],"atk%":100}],[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":300}},{"equipedConditions":["katana"],"atk%":100}]]}
+			{"name":"Blade of the Vampyr","levels":[[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":200},"chainMastery":100},{"equipedConditions":["katana"],"atk%":100}],[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":225},"chainMastery":100},{"equipedConditions":["katana"],"atk%":100}],[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":250},"chainMastery":100},{"equipedConditions":["katana"],"atk%":100}],[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":275},"chainMastery":100},{"equipedConditions":["katana"],"atk%":100}],[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":300},"chainMastery":100},{"equipedConditions":["katana"],"atk%":100}]]}
 		],
 		"skills": [
 			{"evade":{"physical":50,"magical":50}, "lbPerTurn":{"min":10,"max":10}, "resist":[{"name":"fire","percent":50},{"name":"ice","percent":50},{"name":"lightning","percent":50},{"name":"water","percent":50},{"name":"wind","percent":50},{"name":"earth","percent":50},{"name":"light","percent":50},{"name":"dark","percent":100},{"name":"blind","percent":100},{"name":"paralysis","percent":100},{"name":"confuse","percent":100},{"name":"petrification","percent":100}], "killers":[{"name":"demon","physical":200},{"name":"human","physical":200},{"name":"machine","physical":200},{"name":"dragon","physical":200},{"name":"spirit","physical":200},{"name":"undead","physical":200}]},
@@ -51148,7 +51148,7 @@
 		"enhancementSkills":["Blade of the Vampyr","Hemomancer's Delirium"],
 		"categories":["Dark","Breaker","FFBE","Clash of Wills","Bonds","CW - Support","CW - Dark"],
 		"enhancements": [
-			{"name":"Blade of the Vampyr","levels":[[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":200}},{"equipedConditions":["katana"],"atk%":100}],[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":225}},{"equipedConditions":["katana"],"atk%":100}],[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":250}},{"equipedConditions":["katana"],"atk%":100}],[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":275}},{"equipedConditions":["katana"],"atk%":100}],[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":300}},{"equipedConditions":["katana"],"atk%":100}]]}
+			{"name":"Blade of the Vampyr","levels":[[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":200},"chainMastery":100},{"equipedConditions":["katana"],"atk%":100}],[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":225},"chainMastery":100},{"equipedConditions":["katana"],"atk%":100}],[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":250},"chainMastery":100},{"equipedConditions":["katana"],"atk%":100}],[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":275},"chainMastery":100},{"equipedConditions":["katana"],"atk%":100}],[{"spr%":100,"def%":100,"atk%":150,"hp%":100,"singleWielding":{"accuracy":50,"atk":300},"chainMastery":100},{"equipedConditions":["katana"],"atk%":100}]]}
 		],
 		"skills": [
 			{"evade":{"physical":50,"magical":50}, "lbPerTurn":{"min":10,"max":10}, "resist":[{"name":"fire","percent":50},{"name":"ice","percent":50},{"name":"lightning","percent":50},{"name":"water","percent":50},{"name":"wind","percent":50},{"name":"earth","percent":50},{"name":"light","percent":50},{"name":"dark","percent":100},{"name":"blind","percent":100},{"name":"paralysis","percent":100},{"name":"confuse","percent":100},{"name":"petrification","percent":100}], "killers":[{"name":"demon","physical":200},{"name":"human","physical":200},{"name":"machine","physical":200},{"name":"dragon","physical":200},{"name":"spirit","physical":200},{"name":"undead","physical":200}]},
@@ -51479,6 +51479,68 @@
 			{"atk":500, "evade":{"physical":50}, "lbPerTurn":{"min":10,"max":10}, "exLevelCondition":2},
 			{"atk":500, "atk%":100, "def":500, "def%":100, "spr":500, "spr%":100, "dualWielding":{"atk":100}, "exLevelCondition":2},
 			{"killers":[{"name":"beast","physical":100,"magical":100},{"name":"bird","physical":100,"magical":100},{"name":"aquatic","physical":100,"magical":100},{"name":"demon","physical":100,"magical":100},{"name":"human","physical":100,"magical":100},{"name":"machine","physical":100,"magical":100},{"name":"dragon","physical":100,"magical":100},{"name":"spirit","physical":100,"magical":100},{"name":"bug","physical":100,"magical":100},{"name":"stone","physical":100,"magical":100},{"name":"plant","physical":100,"magical":100},{"name":"undead","physical":100,"magical":100}], "exLevelCondition":2}
+		]
+	},
+	"401015807": {
+		"name":"Ghost of Winter Past Beryl",
+		"roles":["physicalAttacker","support"],
+		"wikiEntry":"Ghost_of Winter Past Beryl",
+		"id":"401015807",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShift":"401015817",
+		"exAwakening": [{"hp":769,"mp":49,"atk":78,"def":34,"mag":23,"spr":19},{"hp":591,"mp":38,"atk":60,"def":26,"mag":18,"spr":15},{"hp":414,"mp":26,"atk":42,"def":18,"mag":13,"spr":10}],
+		"fragmentId": "310001170",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"other",
+		"stats": {
+			"maxStats":{"hp":5913,"mp":378,"atk":300,"def":260,"mag":181,"spr":145},
+			"minStats":{"hp":1951,"mp":125,"atk":99,"def":86,"mag":60,"spr":48},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","greatSword","hat","clothes","robe","visionCard"],
+		"enhancementSkills":["Sharpened Pastry Knife","Earth Eclipse"],
+		"categories":["Earth","CW - Earth","Attacker","Support","FFBE","Bonds","Clash of Wills"],
+		"enhancements": [
+			{"name":"Sharpened Pastry Knife","levels":[[{"atk":1000,"singleWielding":{"accuracy":50,"atk":150},"equipedConditions":[["1500000251","1100000814","401008901"]]},{"equipedConditions":["dagger",["1500000251","1100000814","401008901"]],"atk%":100}],[{"atk":1000,"singleWielding":{"accuracy":50,"atk":160},"equipedConditions":[["1500000251","1100000814","401008901"]]},{"equipedConditions":["dagger",["1500000251","1100000814","401008901"]],"atk%":100}],[{"atk":1000,"singleWielding":{"accuracy":50,"atk":170},"equipedConditions":[["1500000251","1100000814","401008901"]]},{"equipedConditions":["dagger",["1500000251","1100000814","401008901"]],"atk%":100}],[{"atk":1000,"singleWielding":{"accuracy":50,"atk":180},"equipedConditions":[["1500000251","1100000814","401008901"]]},{"equipedConditions":["dagger",["1500000251","1100000814","401008901"]],"atk%":100}],[{"atk":1000,"singleWielding":{"accuracy":50,"atk":200},"equipedConditions":[["1500000251","1100000814","401008901"]]},{"equipedConditions":["dagger",["1500000251","1100000814","401008901"]],"atk%":100}]]}
+		],
+		"skills": [
+			{"hp":1000, "hp%":200, "mp%":100, "atk%":100, "evade":{"physical":30}, "chainMastery":100, "resist":[{"name":"stop","percent":100},{"name":"charm","percent":100},{"name":"ice","percent":80},{"name":"earth","percent":80},{"name":"blind","percent":100},{"name":"sleep","percent":100},{"name":"paralysis","percent":100},{"name":"confuse","percent":100},{"name":"petrification","percent":100}], "killers":[{"name":"demon","physical":200,"magical":200},{"name":"dragon","physical":200,"magical":200},{"name":"beast","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"human","physical":200,"magical":200},{"name":"bug","physical":200,"magical":200}], "mpRefresh":15, "lbDamage":100},
+			{"hp%":100, "atk":500, "singleWielding":{"accuracy":50,"atk":100}, "exLevelCondition":2},
+			{"hp":1000, "atk":500, "chainMastery":100, "exLevelCondition":3}
+		]
+	},
+	"401015817": {
+		"name":"Ghost of Winter Past Beryl BS",
+		"roles":["physicalAttacker","debuffer"],
+		"wikiEntry":"Ghost_of Winter Past Beryl",
+		"id":"401015817",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShifted":"401015807",
+		"exAwakening": [{"hp":769,"mp":49,"atk":78,"def":34,"mag":23,"spr":19},{"hp":591,"mp":38,"atk":60,"def":26,"mag":18,"spr":15},{"hp":414,"mp":26,"atk":42,"def":18,"mag":13,"spr":10}],
+		"fragmentId": "310001170",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"other",
+		"stats": {
+			"maxStats":{"hp":5230,"mp":330,"atk":328,"def":280,"mag":136,"spr":155},
+			"minStats":{"hp":1726,"mp":109,"atk":108,"def":92,"mag":45,"spr":51},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","greatSword","hat","clothes","robe","visionCard"],
+		"enhancementSkills":["Sharpened Pastry Knife","Sacrilegious Present"],
+		"categories":["Earth","CW - Earth","Attacker","Breaker","FFBE","Bonds","Clash of Wills"],
+		"enhancements": [
+			{"name":"Sharpened Pastry Knife","levels":[[{"atk":1000,"singleWielding":{"accuracy":50,"atk":150},"equipedConditions":[["1500000251","1100000814","401008901"]]},{"equipedConditions":["dagger",["1500000251","1100000814","401008901"]],"atk%":100}],[{"atk":1000,"singleWielding":{"accuracy":50,"atk":160},"equipedConditions":[["1500000251","1100000814","401008901"]]},{"equipedConditions":["dagger",["1500000251","1100000814","401008901"]],"atk%":100}],[{"atk":1000,"singleWielding":{"accuracy":50,"atk":170},"equipedConditions":[["1500000251","1100000814","401008901"]]},{"equipedConditions":["dagger",["1500000251","1100000814","401008901"]],"atk%":100}],[{"atk":1000,"singleWielding":{"accuracy":50,"atk":180},"equipedConditions":[["1500000251","1100000814","401008901"]]},{"equipedConditions":["dagger",["1500000251","1100000814","401008901"]],"atk%":100}],[{"atk":1000,"singleWielding":{"accuracy":50,"atk":200},"equipedConditions":[["1500000251","1100000814","401008901"]]},{"equipedConditions":["dagger",["1500000251","1100000814","401008901"]],"atk%":100}]]}
+		],
+		"skills": [
+			{"hp%":100, "mp%":100, "atk":500, "atk%":200, "chainMastery":100, "resist":[{"name":"stop","percent":100},{"name":"charm","percent":100},{"name":"ice","percent":80},{"name":"earth","percent":80},{"name":"blind","percent":100},{"name":"sleep","percent":100},{"name":"paralysis","percent":100},{"name":"confuse","percent":100},{"name":"petrification","percent":100}], "killers":[{"name":"demon","physical":200,"magical":200},{"name":"dragon","physical":200,"magical":200},{"name":"beast","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"human","physical":200,"magical":200},{"name":"bug","physical":200,"magical":200}], "mpRefresh":15, "lbDamage":200},
+			{"hp%":100, "atk":500, "singleWielding":{"accuracy":50,"atk":100}, "exLevelCondition":2},
+			{"hp":1000, "atk":500, "chainMastery":100, "exLevelCondition":3}
 		]
 	}
 ,

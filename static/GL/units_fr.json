@@ -37789,6 +37789,52 @@
 		"equip":["katana","spear","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Man of Mystery","Katana Flick"],
 		"categories":["Ice","CW - Ice","Attacker","Breaker","FFBE","Clash of Wills"]
+	},
+	"401015807": {
+		"name":"Ghost of Winter Past Beryl",
+		"roles":["physicalAttacker","support"],
+		"wikiEntry":"Ghost_of Winter Past Beryl",
+		"id":"401015807",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShift":"401015817",
+		"exAwakening": [{"hp":769,"mp":49,"atk":78,"def":34,"mag":23,"spr":19},{"hp":591,"mp":38,"atk":60,"def":26,"mag":18,"spr":15},{"hp":414,"mp":26,"atk":42,"def":18,"mag":13,"spr":10}],
+		"fragmentId": "310001170",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"other",
+		"stats": {
+			"maxStats":{"hp":5913,"mp":378,"atk":300,"def":260,"mag":181,"spr":145},
+			"minStats":{"hp":1951,"mp":125,"atk":99,"def":86,"mag":60,"spr":48},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","greatSword","hat","clothes","robe","visionCard"],
+		"enhancementSkills":["Sharpened Pastry Knife","Earth Eclipse"],
+		"categories":["Earth","CW - Earth","Attacker","Support","FFBE","Bonds","Clash of Wills"]
+	},
+	"401015817": {
+		"name":"Ghost of Winter Past Beryl BS",
+		"roles":["physicalAttacker","debuffer"],
+		"wikiEntry":"Ghost_of Winter Past Beryl",
+		"id":"401015817",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShifted":"401015807",
+		"exAwakening": [{"hp":769,"mp":49,"atk":78,"def":34,"mag":23,"spr":19},{"hp":591,"mp":38,"atk":60,"def":26,"mag":18,"spr":15},{"hp":414,"mp":26,"atk":42,"def":18,"mag":13,"spr":10}],
+		"fragmentId": "310001170",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"other",
+		"stats": {
+			"maxStats":{"hp":5230,"mp":330,"atk":328,"def":280,"mag":136,"spr":155},
+			"minStats":{"hp":1726,"mp":109,"atk":108,"def":92,"mag":45,"spr":51},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","greatSword","hat","clothes","robe","visionCard"],
+		"enhancementSkills":["Sharpened Pastry Knife","Sacrilegious Present"],
+		"categories":["Earth","CW - Earth","Attacker","Breaker","FFBE","Bonds","Clash of Wills"]
 	}
 ,
   "100000115":{"name":"Hunter Rain","jpname":"ハンターレイン","roles":["physicalAttacker","support"],"id":"100000115","game_id":"undefined","game":"undefined","max_rarity":"6","min_rarity":"5","sex":"male","stats":{"maxStats":{"hp":3652,"mp":150,"atk":152,"def":120,"mag":110,"spr":116},"minStats":{"hp":1205,"mp":50,"atk":50,"def":40,"mag":36,"spr":38},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["sword","greatSword","helm","lightArmor","heavyArmor"]},

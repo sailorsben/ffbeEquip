@@ -844,3 +844,13 @@ Starting
 "253001917":Sword Saint Orlandeau BS
 "253002107":Argath
 "253002117":Argath BS
+Starting
+"1100000814":Winter Angle
+"1100000814":Winter Angle
+"1500000251":Fairy Light's Vengeance
+"1500000251":Fairy Light's Vengeance
+"1500000252":Cyclopedia Mythica - Eradication
+"1500000253":Cyclopedia Mythica - Preservation
+Starting
+"401015807":Ghost of Winter Past Beryl
+"401015817":Ghost of Winter Past Beryl BS
