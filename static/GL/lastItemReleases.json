@@ -1,6 +1,15 @@
 [  
     {
-        "date":"November 21st, 2023","sources": 
+        "date":"January 4th, 2024","sources": 
+        [
+            {"type":"banner", "units":["215003107"]},
+            {"type":"storyPart", "name":"Vision Cards", "ids": ["215000401"]},
+            {"type":"storyPart", "name":"City of Daemons", "ids": ["301009300","301009400","301009500","301009600","301009700"]},
+            {"type":"storyPart", "name":"Return To Insomnia", "ids":["409083600"]}
+        ]
+    }, 
+    {
+        "date":"December 21st, 2023","sources": 
         [
             {"type":"banner", "units":["401015807"]},
             {"type":"storyPart", "name":"Vision Cards", "ids": ["401008901", "401009301"]},

@@ -2092,8 +2092,8 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "In one particular world, there exists a tradition wherein participants show off their talents at feasts for special occasions. To the delight of the guests, Rain's and Lasswell's visions decide to cross swords for their performance, putting on a bold show in the process.",
-            "info": "In one particular world, there exists a tradition wherein participants show off their talents at feasts for special occasions. To the delight of the guests, Rain's and Lasswell's visions decide to cross swords for their performance, putting on a bold show in the process.",
+            "desc": "In one particular world, there exists a tradition wherein participants show off their talents at feasts for special occasions. For their performance, Rain and Lasswell crossed swords and put on a bold show in the process, to the delight of the guests.",
+            "info": "In one particular world, there exists a tradition wherein participants show off their talents at feasts for special occasions. For their performance, Rain and Lasswell crossed swords and put on a bold show in the process, to the delight of the guests.",
             "shop": "A Dynamic Demonstration",
             "music": "MUSASABI",
             "music_id": "400214"
@@ -2703,7 +2703,7 @@
         }
     },
     "100008001": {
-        "name": "自己犠牲と別れ",
+        "name": "Parting in Self-Sacrifice",
         "compendium_id": 172,
         "compendium_shown": true,
         "rarity": 1,
@@ -2736,15 +2736,15 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "オメガと一体化したスネフリンガは、火口に飛び込むことでこの怪物を倒そうとする。その決断を認められず涙するリダル。自分のために泣いてくれる幼馴染に感謝の言葉を残し、彼女は溶岩の中へと没した。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "自己犠牲と別れ",
-            "music": "♪The Oath",
+            "desc": "Now fully merged with Omega, Snovlinka prepares to leap into a volcano, that she may destroy the monster once and for all. Riddar weeps bitterly, unwilling to accept her decision. Touched by her friend's tears, Snovlinka offers words of heartfelt thanks before sinking into the lava below.",
+            "info": "Now fully merged with Omega, Snovlinka prepares to leap into a volcano, that she may destroy the monster once and for all. Riddar weeps bitterly, unwilling to accept her decision. Touched by her friend's tears, Snovlinka offers words of heartfelt thanks before sinking into the lava below.",
+            "shop": "Parting in Self-Sacrifice",
+            "music": "The Oath",
             "music_id": "400106"
         }
     },
     "100008101": {
-        "name": "ドレスでお散歩",
+        "name": "Dressed for a Stroll",
         "compendium_id": 181,
         "compendium_shown": true,
         "rarity": 1,
@@ -2775,10 +2775,10 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "完成したドレスを受け取るためグランシェルトを訪れたアヤカ。自分のために仕立てられた特別な一着に心弾んだ彼女は、ドレス姿で城下をお散歩。春の陽気も、着飾ったアヤカを祝福してくれているようだ。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "ドレスでお散歩",
-            "music": "♪Once more Dance?",
+            "desc": "Ayaka arrives in Grandshelt to pick up a dress that is finally finished. Heart sent aflutter at the gorgeous garment specially made for her, Ayaka dons it for a stroll in the castle town. Dressed to the nines, even the brisk spring weather seems to offer its tidings to her.",
+            "info": "Ayaka arrives in Grandshelt to pick up a dress that is finally finished. Heart sent aflutter at the gorgeous garment specially made for her, Ayaka dons it for a stroll in the castle town. Dressed to the nines, even the brisk spring weather seems to offer its tidings to her.",
+            "shop": "Dressed for a Stroll",
+            "music": "Once more Dance?",
             "music_id": "400203"
         }
     },
@@ -2818,7 +2818,7 @@
         }
     },
     "100008401": {
-        "name": "融合せし英雄たち",
+        "name": "Fusion of Heroes",
         "compendium_id": 186,
         "compendium_shown": true,
         "rarity": 1,
@@ -2845,15 +2845,15 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "タイヴァスとマディーン、英雄として名を馳せた両者のビジョンの激突。刃を交えるごとに、彼らは互いに理解を深め、認め合う。やがて二つの闘志は融合し、新たな力を持つ戦士が誕生した。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "融合せし英雄たち",
-            "music": "♪Celestial Battle",
+            "desc": "A collision of Taivas and Madeen, two figures known as heroes. By crossing their swords, they come to understand and acknowledge one another. Their fighting spirit then fuses together, giving birth to a new warrior.",
+            "info": "A collision of Taivas and Madeen, two figures known as heroes. By crossing their swords, they come to understand and acknowledge one another. Their fighting spirit then fuses together, giving birth to a new warrior.",
+            "shop": "Fusion of Heroes",
+            "music": "Celestial Battle",
             "music_id": "400007"
         }
     },
     "100008501": {
-        "name": "幻獣と気高き槍",
+        "name": "Esper and E-Spear",
         "compendium_id": 187,
         "compendium_shown": true,
         "rarity": 1,
@@ -2886,15 +2886,15 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "槍術の研鑽に努めるイシェのビジョンと、その向上心に興味を抱き、力を貸すことにしたセイレーンのビジョン。融合した両者は、獲得した能力を限界まで磨くべく、さらなる高みを目指す。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "幻獣と気高き槍",
-            "music": "♪Celestial Battle",
+            "desc": "A vision of Siren lending her power to Yshe, having been intrigued by Yshe's devotion to her spearmanship. The fusion of the two aims to reach new heights, going to the very limit of their newly gained power.",
+            "info": "A vision of Siren lending her power to Yshe, having been intrigued by Yshe's devotion to her spearmanship. The fusion of the two aims to reach new heights, going to the very limit of their newly gained power.",
+            "shop": "Esper and E-Spear",
+            "music": "Celestial Battle",
             "music_id": "400007"
         }
     },
     "100008601": {
-        "name": "時魔道士と時空の幻獣",
+        "name": "Time Mage and Dimensional Esper",
         "compendium_id": 184,
         "compendium_shown": true,
         "rarity": 1,
@@ -2925,15 +2925,15 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "幻獣アトモスと融合したロカのビジョン。時空をも飲み込む幻獣は、彼女の時魔法にさらなる力を与える。……が、融合の直前、何かがアトモスに吸い込まれてしまったようだ。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "時魔道士と時空の幻獣",
-            "music": "♪Celestial Battle",
+            "desc": "A vision of Roca fused with the esper Atomos. This esper, which can swallow time and space, gives even greater strength to her time magic. ...However, it seems something else got swallowed up by Atomos just before their fusion.",
+            "info": "A vision of Roca fused with the esper Atomos. This esper, which can swallow time and space, gives even greater strength to her time magic. ...However, it seems something else got swallowed up by Atomos just before their fusion.",
+            "shop": "Time Mage and Dimensional Esper",
+            "music": "Celestial Battle",
             "music_id": "400007"
         }
     },
     "100008701": {
-        "name": "“暗き力”に染まりし竜王",
+        "name": "Dragon King in Darkness",
         "compendium_id": 185,
         "compendium_shown": true,
         "rarity": 1,
@@ -2966,11 +2966,428 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "幻獣たちを暴走させる“暗き力”に侵されてしまったバハムート。禍々しきオーラを放出しながら猛り狂う竜王は、かつて盟約を交わしたレインたちに敵意を向ける。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "“暗き力”に染まりし竜王",
-            "music": "♪Sinister Souls",
+            "desc": "A dark power, which caused the espers to rampage, has also infected Bahamut. The dragon king rages out of control while emitting an ominous aura, and while he once sided with Rain and his friends, he faces them now with animosity.",
+            "info": "A dark power, which caused the espers to rampage, has also infected Bahamut. The dragon king rages out of control while emitting an ominous aura, and while he once sided with Rain and his friends, he faces them now with animosity.",
+            "shop": "Dragon King in Darkness",
+            "music": "Sinister Souls",
             "music_id": "400403"
+        }
+    },
+    "100008801": {
+        "name": "白金の巫女の力",
+        "compendium_id": 206,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [65, 130, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [0, 0, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "4": [244944],
+            "7": [244945],
+            "10": [244946]
+        },
+        "restriction": {
+            "244946": [7216]
+        },
+        "max_level": 10,
+        "exp_pattern": 110,
+        "stat_pattern": 100,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "モンスターに囲まれたラスウェルたち。ピンチの中、ファイサリスが目覚めたばかりの巫女の力を発動させる。すると、モンスターのうち一体が動きを止め、ファイサリスの命令に従いはじめた。",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "白金の巫女の力",
+            "music": "♪Point of No Return",
+            "music_id": "400317"
+        }
+    },
+    "100008901": {
+        "name": "水神の力宿る一撃",
+        "compendium_id": 210,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [170, 170, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [170, 170, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "1": [245049, 245050, 245051]
+        },
+        "restriction": {
+            "245051": [7216],
+            "245049": [7704],
+            "245050": [7704]
+        },
+        "max_level": 1,
+        "exp_pattern": 1,
+        "stat_pattern": 1,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "水神の加護を受けたレインが放つ渾身の一撃、ギャラクシアス・ノヴァ。剣に宿った強大な力が海を割り、敵に向かって突き進む！",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "水神の力宿る一撃",
+            "music": "♪Fight for Truth",
+            "music_id": "400415"
+        }
+    },
+    "100009001": {
+        "name": "幻獣VS幻獣",
+        "compendium_id": 211,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [65, 130, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [0, 0, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "4": [245052],
+            "7": [245053],
+            "10": [245054]
+        },
+        "restriction": {
+            "245054": [7216]
+        },
+        "max_level": 10,
+        "exp_pattern": 110,
+        "stat_pattern": 100,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "ラピスに現れた破滅の幻獣ビスマルク。それを止めようとする水神リヴァイアサン。2体の幻獣の正面対決。強大な力がぶつかり合い、水中楼閣を舞台に死闘が繰り広げられる！",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "幻獣VS幻獣",
+            "music": "♪Immense Danger",
+            "music_id": "400414"
+        }
+    },
+    "100009101": {
+        "name": "ルートクリスタルを巡る死闘",
+        "compendium_id": 212,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [170, 170, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [170, 170, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "1": [245055, 245056, 245057]
+        },
+        "restriction": {
+            "245055": [7707],
+            "245056": [7707],
+            "245057": [8012]
+        },
+        "max_level": 1,
+        "exp_pattern": 1,
+        "stat_pattern": 1,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "水中楼閣にて、ルートクリスタルを巡り激しい戦いが繰り広げられる。水神の加護を得た戦士たちは、世界の消滅を目論む者に抗い、立ち向かう！",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "ルートクリスタルを巡る死闘",
+            "music": "♪Fight for Truth",
+            "music_id": "400415"
+        }
+    },
+    "100009201": {
+        "name": "窮地に現れしビジョン",
+        "compendium_id": 213,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [0, 0, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [65, 130, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "4": [245058],
+            "7": [245059],
+            "10": [245060]
+        },
+        "restriction": {
+            "245060": [7216]
+        },
+        "max_level": 10,
+        "exp_pattern": 110,
+        "stat_pattern": 100,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "窮地に陥ったレインたちを救うべく現れた魔人フィーナのビジョン。破滅の力にも匹敵する強大な力を放ち、カオス＝ビスマルクに立ち向かう！",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "窮地に現れしビジョン",
+            "music": "♪Chaotic Waves",
+            "music_id": "400416"
+        }
+    },
+    "100009301": {
+        "name": "「想い」を司る幻獣",
+        "compendium_id": 215,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [170, 170, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [170, 170, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "1": [245061, 245062, 245063]
+        },
+        "restriction": {
+            "245061": [7704],
+            "245062": [7704],
+            "245063": [8015]
+        },
+        "max_level": 1,
+        "exp_pattern": 1,
+        "stat_pattern": 1,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "魔人フィーナのビジョンが託した「永遠」が、ソフィの真の力を解放する。まばゆい光に包まれたソフィは、神々しい幻獣の姿へと変身。全てのものが想いに還元される空間を作りだし、決戦に挑む！",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "「想い」を司る幻獣",
+            "music": "♪Chaotic Waves",
+            "music_id": "400416"
+        }
+    },
+    "100009401": {
+        "name": "破滅の幻獣",
+        "compendium_id": 216,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [120, 120, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [120, 120, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "1": [245121, 245122, 245123]
+        },
+        "restriction": null,
+        "max_level": 1,
+        "exp_pattern": 1,
+        "stat_pattern": 1,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "「破滅の幻獣」を追って、ラピスに現れた少女ソフィ。迫り来る「破滅の幻獣」を止められなければ、ラピスは消滅する――彼女の警告を信じたレインと仲間たちは、世界を救うために立ち上がった。",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "破滅の幻獣",
+            "music": "♪Disruption in the Depths",
+            "music_id": "400413"
+        }
+    },
+    "100009501": {
+        "name": "融合はさせない！",
+        "compendium_id": 222,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [65, 130, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [65, 130, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "4": [245282],
+            "7": [245283],
+            "10": [245284]
+        },
+        "restriction": {
+            "245284": [7216]
+        },
+        "max_level": 10,
+        "exp_pattern": 110,
+        "stat_pattern": 100,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "オメガに取り込まれつつあるネイリッカとファイサリス。それを止めるべく、オメガの中に残されていたスネフリンガの意識は、二人に向かって手を差し伸べるが……。",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "融合はさせない！",
+            "music": "♪Dawn",
+            "music_id": "400329"
+        }
+    },
+    "100009601": {
+        "name": "7.5周年記念人気投票！",
+        "compendium_id": 214,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [100, 100, 0, 0],
+            "DEF": [100, 100, 0, 0],
+            "MAG": [100, 100, 0, 0],
+            "SPR": [100, 100, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "1": [245166, 245167, 245168]
+        },
+        "restriction": null,
+        "max_level": 1,
+        "exp_pattern": 1,
+        "stat_pattern": 1,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "7.5周年記念FFBEオリジナルキャラクター大投票で栄冠を掴んだ5人、レイン、フィーナ、魔人フィーナ、タイヴァス、そしてダークレインが激突！人々が夢見たアルドール・オーダーの幻影が今ここに！",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "7.5周年記念人気投票！",
+            "music": "♪The Sky's the Limit!",
+            "music_id": "400340"
+        }
+    },
+    "100009701": {
+        "name": "クリスタル・プラネット",
+        "compendium_id": 217,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [500, 500, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [0, 0, 0, 0],
+            "DEF": [100, 100, 0, 0],
+            "MAG": [0, 0, 0, 0],
+            "SPR": [100, 100, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "1": [245171, 245172, 245173]
+        },
+        "restriction": null,
+        "max_level": 1,
+        "exp_pattern": 1,
+        "stat_pattern": 1,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "「クリスタル・プラネット -海底のファンタジーアクアリウム-」開催記念。<br>BGM：IBERIs＆「Bloom up the sky」",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "クリスタル・プラネット",
+            "music": "♪Bloom up the sky",
+            "music_id": "400780"
+        }
+    },
+    "100009801": {
+        "name": "再び、魔人の力を",
+        "compendium_id": 223,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [170, 170, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [170, 170, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "1": [245285, 245286, 245287]
+        },
+        "restriction": {
+            "245285": [7706],
+            "245286": [7706],
+            "245287": [8018]
+        },
+        "max_level": 1,
+        "exp_pattern": 1,
+        "stat_pattern": 1,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "白金の鎧の男の攻撃で窮地に立たされたレインたち。絶体絶命の中、ロカが「力が欲しい」と願うと、内に眠る魔人の力の一部が目覚めた。彼女は、鎧の男に向かって渾身の力でメテオを放つ。",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "再び、魔人の力を",
+            "music": "♪Sacred Ground",
+            "music_id": "400319"
         }
     },
     "201000101": {
@@ -3051,7 +3468,7 @@
         }
     },
     "201000301": {
-        "name": "VSガーランド",
+        "name": "Battle with Garland",
         "compendium_id": 188,
         "compendium_shown": true,
         "rarity": 1,
@@ -3083,10 +3500,10 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "カオス神殿でガーランドと対峙する光の戦士たち。彼らは、連れ去られたコーネリアの王女セーラを救出するために戦う。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "VSガーランド",
-            "music": "♪カオスの神殿 FFPR Ver.",
+            "desc": "The Warriors of Light face Garland within the Chaos Shrine. They ready their swords to save the kidnapped princess of Cornelia.",
+            "info": "The Warriors of Light face Garland within the Chaos Shrine. They ready their swords to save the kidnapped princess of Cornelia.",
+            "shop": "Battle with Garland",
+            "music": "Chaos Shrine FFPR Ver.",
             "music_id": "4001503"
         }
     },
@@ -3323,7 +3740,7 @@
         }
     },
     "203000301": {
-        "name": "VS魔王ザンデ",
+        "name": "Battle with Xande",
         "compendium_id": 190,
         "compendium_shown": true,
         "rarity": 1,
@@ -3354,10 +3771,10 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "光の心を持つサラたちの助けにより、ついにクリスタルタワーの最上階へたどり着いた光の戦士たち。世界に闇の氾濫をもたらそうとするザンデに立ち向かう。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "VS魔王ザンデ",
-            "music": "♪クリスタルタワー FFPR Ver.",
+            "desc": "The Warriors of Light reach the top of the Crystal Tower thanks to the pure hearts of Sara and the others. There they face off against Xande, who aspires to drown the world in darkness.",
+            "info": "The Warriors of Light reach the top of the Crystal Tower thanks to the pure hearts of Sara and the others. There they face off against Xande, who aspires to drown the world in darkness.",
+            "shop": "Battle with Xande",
+            "music": "The Crystal Tower FFPR Ver.",
             "music_id": "4001512"
         }
     },
@@ -3755,7 +4172,7 @@
         }
     },
     "205000701": {
-        "name": "VSウイングラプター",
+        "name": "Battling the Wing Raptor",
         "compendium_id": 195,
         "compendium_shown": true,
         "rarity": 1,
@@ -3786,10 +4203,10 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "風の神殿の最上階へ向かう途中、立ちはだかるウイングラプターと戦うバッツたち。急に風が止まったことで、神聖な場所であるはずの風の神殿の内部にまで、魔物が入ってきたという。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "VSウイングラプター",
-            "music": "♪バトル2 FFPR Ver.",
+            "desc": "Bartz and his companions face a wing raptor that bars their way as they climb the stairs to the highest reaches of the Wind Shrine. Owing to the abrupt cessation of wind, monsters were able to make their way into the inner sanctum of the shrine.",
+            "info": "Bartz and his companions face a wing raptor that bars their way as they climb the stairs to the highest reaches of the Wind Shrine. Owing to the abrupt cessation of wind, monsters were able to make their way into the inner sanctum of the shrine.",
+            "shop": "Battling the Wing Raptor",
+            "music": "Battle 2 FFPR Ver.",
             "music_id": "4001606"
         }
     },
@@ -3950,7 +4367,7 @@
         }
     },
     "206000501": {
-        "name": "オルトロス再び",
+        "name": "Ultros Reprise",
         "compendium_id": 194,
         "compendium_shown": true,
         "rarity": 1,
@@ -3981,10 +4398,10 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "飛空艇を所持するセッツァーに接触しようとオペラ劇場を訪れたロックたち。しかし、オペラを邪魔するためにやってきたオルトロスと、舞台上で戦うことになる。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "オルトロス再び",
-            "music": "♪大団円 FFPR Ver.",
+            "desc": "Locke and his friends visit the Opera House in an attempt to reach Setzer, as they require use of his airship. Instead, they end up fighting on stage against Ultros, who has come to steal the show.",
+            "info": "Locke and his friends visit the Opera House in an attempt to reach Setzer, as they require use of his airship. Instead, they end up fighting on stage against Ultros, who has come to steal the show.",
+            "shop": "Ultros Reprise",
+            "music": "Grand Finale FFPR Ver.",
             "music_id": "4001610"
         }
     },
@@ -4934,7 +5351,7 @@
             "1": [242212, 242213, 242214]
         },
         "restriction": {
-            "242214": [7210]
+            "242214": [7910]
         },
         "max_level": 1,
         "exp_pattern": 1,
@@ -4971,7 +5388,7 @@
             "1": [242309, 242310, 242311]
         },
         "restriction": {
-            "242311": [7210]
+            "242311": [7910]
         },
         "max_level": 1,
         "exp_pattern": 1,
@@ -5010,7 +5427,7 @@
             "10": [242217]
         },
         "restriction": {
-            "242217": [7210]
+            "242217": [7910]
         },
         "max_level": 10,
         "exp_pattern": 110,
@@ -5073,7 +5490,7 @@
             "MP": [0, 0, 0, 0],
             "ATK": [0, 0, 0, 0],
             "DEF": [0, 0, 0, 0],
-            "MAG": [55, 110, 0, 0],
+            "MAG": [65, 130, 0, 0],
             "SPR": [0, 0, 0, 0],
             "element_resist": null,
             "status_resist": null
@@ -5084,7 +5501,7 @@
             "10": [243705]
         },
         "restriction": {
-            "243705": [7210]
+            "243705": [7910]
         },
         "max_level": 10,
         "exp_pattern": 110,
@@ -5157,7 +5574,9 @@
             "7": [243735],
             "10": [243736]
         },
-        "restriction": null,
+        "restriction": {
+            "243736": [7910]
+        },
         "max_level": 10,
         "exp_pattern": 110,
         "stat_pattern": 100,
@@ -5169,6 +5588,84 @@
             "shop": "Kimahri not pass!",
             "music": "Servants of the Mountain",
             "music_id": "400855"
+        }
+    },
+    "210000801": {
+        "name": "ジェクトの旅の始まり",
+        "compendium_id": 220,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 10010,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [170, 170, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [170, 170, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "1": [245229, 245230, 245231]
+        },
+        "restriction": {
+            "245229": [8022],
+            "245230": [8022],
+            "245231": [8022]
+        },
+        "max_level": 1,
+        "exp_pattern": 1,
+        "stat_pattern": 1,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "異世界からスピラに飛ばされた後、エボン寺院に怪しまれて投獄されていたジェクト。彼は召喚士のブラスカから、ザナルカンドへの旅に同行してほしいと頼まれる。",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "ジェクトの旅の始まり",
+            "music": "♪ジェクトのテーマ",
+            "music_id": "4000306"
+        }
+    },
+    "210000901": {
+        "name": "思い出してください",
+        "compendium_id": 221,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 10010,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [170, 170, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [170, 170, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "1": [245232, 245233, 245234]
+        },
+        "restriction": {
+            "245232": [7707],
+            "245233": [7707],
+            "245234": [8022]
+        },
+        "max_level": 1,
+        "exp_pattern": 1,
+        "stat_pattern": 1,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "ルカのスタジアムに集まった大観衆の前に立つユウナ。彼女は『シン』を完全に倒し、永遠のナギ節をもたらした大召喚士として人々に語りかける。",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "思い出してください",
+            "music": "♪Ending Theme",
+            "music_id": "4001905"
         }
     },
     "211000101": {
@@ -5483,7 +5980,7 @@
         }
     },
     "213000301": {
-        "name": "祝賀祭",
+        "name": "Crashing the Party",
         "compendium_id": 179,
         "compendium_shown": true,
         "rarity": 1,
@@ -5514,15 +6011,15 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "聖府首都エデンで開催される新聖府代表の就任祝賀式のレースイベントに、乱入したライトニング。オーディンの形態を切り替えながら、次々に襲い来る聖府軍の兵器を斬り伏せる。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "祝賀祭",
-            "music": "♪ブレイズエッジ",
+            "desc": "Lightning and the others barge into a celebration marking the appointment of a new Primarch in Eden. Odin doesn't miss a beat, switching between forms and taking down Sanctum warmechs left and right.",
+            "info": "Lightning and the others barge into a celebration marking the appointment of a new Primarch in Eden. Odin doesn't miss a beat, switching between forms and taking down Sanctum warmechs left and right.",
+            "shop": "Crashing the Party",
+            "music": "Saber's Edge",
             "music_id": "400805"
         }
     },
     "213000401": {
-        "name": "VSキングベヒーモス",
+        "name": "Battling a Behemoth King",
         "compendium_id": 180,
         "compendium_shown": true,
         "rarity": 1,
@@ -5553,15 +6050,15 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "アルカキルティ大平原で、キングベヒーモスと戦うライトニング、ホープ、ファング。自然豊かなグラン＝パルスには、強力な野生のモンスターが数多棲息しているという。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "VSキングベヒーモス",
-            "music": "♪閃光",
+            "desc": "Lightning, Hope, and Fang face off against a behemoth king on the Archylte Steppe. It's said a great number of powerful monsters dwell in the lush wildlands of Gran Pulse.",
+            "info": "Lightning, Hope, and Fang face off against a behemoth king on the Archylte Steppe. It's said a great number of powerful monsters dwell in the lush wildlands of Gran Pulse.",
+            "shop": "Battling a Behemoth King",
+            "music": "Blinded By Light",
             "music_id": "400804"
         }
     },
     "213000501": {
-        "name": "自然保護区サンレス水郷",
+        "name": "The Sunleth Waterscape Reserve",
         "compendium_id": 182,
         "compendium_shown": true,
         "rarity": 1,
@@ -5592,10 +6089,10 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "夢の街ノーチラスへ向かう途中、自然保護区サンレス水郷の一角で休憩を取るサッズとヴァニラ。ルシやドッジのことで、二人はそれぞれの悩みを抱えていた。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "自然保護区サンレス水郷",
-            "music": "♪サンレス水郷",
+            "desc": "Sazh and Vanille rest in a corner of the Sunleth Waterscape while on their way to Nautilus, the City of Dreams. Yet even among nature's bounty, their minds are troubled by thoughts of l'Cie and Dajh.",
+            "info": "Sazh and Vanille rest in a corner of the Sunleth Waterscape while on their way to Nautilus, the City of Dreams. Yet even among nature's bounty, their minds are troubled by thoughts of l'Cie and Dajh.",
+            "shop": "The Sunleth Waterscape Reserve",
+            "music": "The Sunleth Waterscape",
             "music_id": "4001405"
         }
     },
@@ -5832,7 +6329,7 @@
         }
     },
     "253000101": {
-        "name": "亡き父の草笛",
+        "name": "Blades of Grass",
         "compendium_id": 199,
         "compendium_shown": true,
         "rarity": 1,
@@ -5863,15 +6360,15 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "骸旅団との戦いのさなか、身分の違いという現実を突きつけられたラムザとディリータ。無力感に苛まれるディリータは複雑な胸中を明かす。二人は、バルバネスに教わった草笛を吹き、無聊を慰める。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "亡き父の草笛",
-            "music": "♪思い出",
+            "desc": "During a battle against the Corpse Brigade, Ramza and Delita were confronted by the harsh reality of their differences in birth. Despairing at his powerlessness, Delita confides in Ramza the tempestuous feelings tormenting him. Time hanging heavy on their hands, the two of them blow blades of grass as whistles, just as Ramza’s late father, Barbaneth, had once taught them.",
+            "info": "During a battle against the Corpse Brigade, Ramza and Delita were confronted by the harsh reality of their differences in birth. Despairing at his powerlessness, Delita confides in Ramza the tempestuous feelings tormenting him. Time hanging heavy on their hands, the two of them blow blades of grass as whistles, just as Ramza’s late father, Barbaneth, had once taught them.",
+            "shop": "Blades of Grass",
+            "music": "Memories",
             "music_id": "400765"
         }
     },
     "253000201": {
-        "name": "雷神シドの猛攻",
+        "name": "Attack of the Thunder God",
         "compendium_id": 201,
         "compendium_shown": true,
         "rarity": 1,
@@ -5898,15 +6395,15 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "南天騎士団長オルランドゥの本領発揮。次々と強力な剣技を繰り出し、瞬く間に眼前の敵を斬り伏せていく。電光石火の戦いぶりは、まさしく「雷神」の二つ名にふさわしい。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "雷神シドの猛攻",
-            "music": "♪Desert Land",
+            "desc": "Orlandeau, head of the Order of the Southern Sky, shows his true strength. His enemies fall before his eyes as he unleashes attack after attack. His slashes, like bolts of lightning, are worthy of the name \"Thunder God.\"",
+            "info": "Orlandeau, head of the Order of the Southern Sky, shows his true strength. His enemies fall before his eyes as he unleashes attack after attack. His slashes, like bolts of lightning, are worthy of the name \"Thunder God.\"",
+            "shop": "Attack of the Thunder God",
+            "music": "Desert Land",
             "music_id": "400762"
         }
     },
     "253000301": {
-        "name": "オーボンヌ修道院の変事",
+        "name": "Abduction at Orbonne Monastery",
         "compendium_id": 200,
         "compendium_shown": true,
         "rarity": 1,
@@ -5937,10 +6434,10 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "ゴルターナ公の手勢に襲われるオーボンヌ修道院。アグリアスとラムザが応戦する中、王女オヴェリアは一人の騎士によってさらわれてしまう。その騎士こそ、かつてのラムザの親友ディリータだった。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "オーボンヌ修道院の変事",
-            "music": "♪敵兵襲撃",
+            "desc": "Orbonne Monastery comes under attack by men under Duke Goltanna’s command. While Agrias and Ramza meet them in combat, Princess Ovelia is stolen away by a solitary knight – who is none other than Delita, a man Ramza once called friend.",
+            "info": "Orbonne Monastery comes under attack by men under Duke Goltanna’s command. While Agrias and Ramza meet them in combat, Princess Ovelia is stolen away by a solitary knight – who is none other than Delita, a man Ramza once called friend.",
+            "shop": "Abduction at Orbonne Monastery",
+            "music": "The Enemy Approaches",
             "music_id": "400766"
         }
     },
@@ -6190,9 +6687,9 @@
         "stats": {
             "HP": [0, 0, 0, 0],
             "MP": [0, 0, 0, 0],
-            "ATK": [50, 100, 0, 0],
+            "ATK": [60, 120, 0, 0],
             "DEF": [0, 0, 0, 0],
-            "MAG": [0, 0, 0, 0],
+            "MAG": [60, 120, 0, 0],
             "SPR": [0, 0, 0, 0],
             "element_resist": null,
             "status_resist": null
@@ -6203,7 +6700,7 @@
             "10": [242682]
         },
         "restriction": {
-            "242682": [7263]
+            "242682": [7954]
         },
         "max_level": 10,
         "exp_pattern": 110,
@@ -6242,8 +6739,8 @@
             "10": [243912]
         },
         "restriction": {
-            "243911": [7263],
-            "243912": [7263]
+            "243911": [7954],
+            "243912": [7954]
         },
         "max_level": 10,
         "exp_pattern": 110,
@@ -6282,8 +6779,8 @@
             "10": [243915]
         },
         "restriction": {
-            "243914": [7263],
-            "243915": [7263]
+            "243914": [7954],
+            "243915": [7954]
         },
         "max_level": 10,
         "exp_pattern": 110,
@@ -6465,9 +6962,9 @@
         "stats": {
             "HP": [0, 0, 0, 0],
             "MP": [0, 0, 0, 0],
-            "ATK": [50, 100, 0, 0],
+            "ATK": [65, 130, 0, 0],
             "DEF": [0, 0, 0, 0],
-            "MAG": [0, 0, 0, 0],
+            "MAG": [65, 130, 0, 0],
             "SPR": [0, 0, 0, 0],
             "element_resist": null,
             "status_resist": null
@@ -6478,7 +6975,8 @@
             "10": [239702]
         },
         "restriction": {
-            "239702": [7271]
+            "239701": [8021],
+            "239702": [8021]
         },
         "max_level": 10,
         "exp_pattern": 110,
@@ -6490,6 +6988,86 @@
             "info": "A scene depicting Edward awakening in a blank space following his attempt at a human transmutation. Truth awaits beyond the great gate, revealing that those who break the taboo will gain infinite knowledge, but only at a very high price.",
             "shop": "The Portal of Truth",
             "music": "Moment of Recall",
+            "music_id": "400003"
+        }
+    },
+    "338000301": {
+        "name": "ブリッグズの北壁",
+        "compendium_id": 207,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 20032,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [75, 150, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [0, 0, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "4": [244980],
+            "7": [244981],
+            "10": [244982]
+        },
+        "restriction": {
+            "244981": [8021],
+            "244982": [8021]
+        },
+        "max_level": 10,
+        "exp_pattern": 110,
+        "stat_pattern": 100,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "ブリッグズの要塞を訪れたエルリック兄弟の前に姿を現したオリヴィエ少将。氷の女王と呼ばれる女将軍は、アームストロング少佐の紹介状をその場で破り捨てるのだった。",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "ブリッグズの北壁",
+            "music": "♪Moment of Recall",
+            "music_id": "400003"
+        }
+    },
+    "338000401": {
+        "name": "傷の男VS紅蓮の錬金術師",
+        "compendium_id": 208,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 20032,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [70, 140, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [70, 140, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "4": [244993],
+            "7": [244994],
+            "10": [244995]
+        },
+        "restriction": {
+            "244994": [8021],
+            "244995": [8021]
+        },
+        "max_level": 10,
+        "exp_pattern": 110,
+        "stat_pattern": 100,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "列車上で戦う傷の男スカーと紅蓮の錬金術師キンブリー。イシュヴァールの内乱の際、スカーの兄や同胞を手にかけたキンブリーに、スカーは復讐心を燃やす。",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "傷の男VS紅蓮の錬金術師",
+            "music": "♪Moment of Recall",
             "music_id": "400003"
         }
     },
@@ -6534,7 +7112,7 @@
         }
     },
     "339000201": {
-        "name": "出でよ、光輝！",
+        "name": "I summon thee, Veritas of the Light!",
         "compendium_id": 176,
         "compendium_shown": true,
         "rarity": 1,
@@ -6565,10 +7143,10 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "アボットの砲撃に対し、ジェーダンが指輪の力を使う。ジェーダンが呼び出したビジョンは八盟傑のひとり「光輝のヴェリアス」だった。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "出でよ、光輝！",
-            "music": "♪Collided Armies",
+            "desc": "In an attempt to turn the tide against Abbott's cannon fire, Jayden uses the power of his ring. The vision he summons is none other than Veritas of the Light of the Sworn Eight.",
+            "info": "In an attempt to turn the tide against Abbott's cannon fire, Jayden uses the power of his ring. The vision he summons is none other than Veritas of the Light of the Sworn Eight.",
+            "shop": "I summon thee, Veritas of the Light!",
+            "music": "Collided Armies",
             "music_id": "400756"
         }
     },
@@ -6840,7 +7418,7 @@
         }
     },
     "344000501": {
-        "name": "奥義・天地魔闘の構え",
+        "name": "Demonic Guard of Heaven and Earth",
         "compendium_id": 191,
         "compendium_shown": true,
         "rarity": 1,
@@ -6872,15 +7450,15 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "大魔王バーンに挑むアバン、ラーハルト、ヒム。攻撃・防御・呪文の三動作を一瞬で行う奥義“天地魔闘の構え”は歴戦の戦士たちの必殺技をもってしても破ることはできなかった。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "奥義・天地魔闘の構え",
-            "music": "♪Moment of Recall",
+            "desc": "Avan, Larhart, and Hym face off against the Dark King Vearn. Even after launching their Coups de Grâce against him, these battle-seasoned warriors failed to pierce his ultimate technique, Demonic Guard of Heaven and Earth—a battle stance that executes three techniques of offense, defense, and spellcraft in an instant.",
+            "info": "Avan, Larhart, and Hym face off against the Dark King Vearn. Even after launching their Coups de Grâce against him, these battle-seasoned warriors failed to pierce his ultimate technique, Demonic Guard of Heaven and Earth—a battle stance that executes three techniques of offense, defense, and spellcraft in an instant.",
+            "shop": "Demonic Guard of Heaven and Earth",
+            "music": "Moment of Recall",
             "music_id": "400003"
         }
     },
     "344000601": {
-        "name": "ドルオーラ連発！！",
+        "name": "Double Doruora!",
         "compendium_id": 192,
         "compendium_shown": true,
         "rarity": 1,
@@ -6912,15 +7490,15 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "光魔の杖によってドルオーラを防ぐ大魔王バーンに、ある策を仕掛けるダイ。レオナが放ったシルバーフェザーによって回復したダイは、二発目のドルオーラを放つ。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "ドルオーラ連発！！",
-            "music": "♪Moment of Recall",
+            "desc": "Going up against Dark King Vearn, who can block Doruora with his Staff of Edacity, Dai pins everything on an impromptu plan. Using the Silver Feather Leona flings to him, Dai recovers his Magic Power to release a second Doruora!",
+            "info": "Going up against Dark King Vearn, who can block Doruora with his Staff of Edacity, Dai pins everything on an impromptu plan. Using the Silver Feather Leona flings to him, Dai recovers his Magic Power to release a second Doruora!",
+            "shop": "Double Doruora!",
+            "music": "Moment of Recall",
             "music_id": "400003"
         }
     },
     "344000701": {
-        "name": "竜魔人VS鬼眼王",
+        "name": "Dragonoid vs. Sovereign Supreme",
         "compendium_id": 193,
         "compendium_shown": true,
         "rarity": 1,
@@ -6952,10 +7530,10 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "竜（ドラゴン）の紋章の力を全開にして竜魔人化したダイと、第三の眼“鬼眼”を解放して魔獣となったバーンが戦う。死力を尽くした両者の戦いは、ついに最終局面を迎えようとしていた。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "竜魔人VS鬼眼王",
-            "music": "♪Moment of Recall",
+            "desc": "Dai, having unleashed the full strength of his Twin Dragon Crests and become a Dragonoid, battles Vearn, who has similarly unleashed the power of his third eye, the Sovereign Eye, and become a demon beast. The battle between these two, who fought to their very limits, finally comes to its climactic conclusion.",
+            "info": "Dai, having unleashed the full strength of his Twin Dragon Crests and become a Dragonoid, battles Vearn, who has similarly unleashed the power of his third eye, the Sovereign Eye, and become a demon beast. The battle between these two, who fought to their very limits, finally comes to its climactic conclusion.",
+            "shop": "Dragonoid vs. Sovereign Supreme",
+            "music": "Moment of Recall",
             "music_id": "400003"
         }
     },
@@ -7221,6 +7799,43 @@
             "music_id": "400769"
         }
     },
+    "349000101": {
+        "name": "ミトコンドリア・イヴ",
+        "compendium_id": 218,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 20042,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [65, 130, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [0, 0, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "4": [245124],
+            "7": [245125],
+            "10": [245126]
+        },
+        "restriction": null,
+        "max_level": 10,
+        "exp_pattern": 110,
+        "stat_pattern": 100,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "イヴに乗っ取られたメリッサによって観客が発火した後、アヤはピアノを弾いているメリッサを発見する。メリッサはイヴの正体を現し、ミトコンドリアを解放すると宣言。アヤと対峙する。",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "ミトコンドリア・イヴ",
+            "music": "♪Kyrie",
+            "music_id": "400775"
+        }
+    },
     "401000101": {
         "name": "Virtual Training",
         "compendium_id": 48,
@@ -7347,7 +7962,7 @@
         "stats": {
             "HP": [0, 0, 0, 0],
             "MP": [0, 0, 0, 0],
-            "ATK": [50, 100, 0, 0],
+            "ATK": [75, 150, 0, 0],
             "DEF": [0, 0, 0, 0],
             "MAG": [0, 0, 0, 0],
             "SPR": [0, 0, 0, 0],
@@ -7373,6 +7988,46 @@
             "shop": "By Lord Dario's Side",
             "music": "Shadow of Doubt",
             "music_id": "400206"
+        }
+    },
+    "401002101": {
+        "name": "私が生んだ最強の敵",
+        "compendium_id": 209,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [0, 0, 0, 0],
+            "DEF": [65, 130, 0, 0],
+            "MAG": [0, 0, 0, 0],
+            "SPR": [65, 130, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "4": [245046],
+            "7": [245047],
+            "10": [245048]
+        },
+        "restriction": {
+            "245047": [7216],
+            "245048": [7216]
+        },
+        "max_level": 10,
+        "exp_pattern": 110,
+        "stat_pattern": 100,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "「最強の英雄になる」という願いを卵にかけたエスターは、これまでで最も恐ろしい敵である自分自身と戦うことに。己と同じ姿をした者を相手に、エスターは光の如き高速の一撃を見舞うのだった。",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "私が生んだ最強の敵",
+            "music": "♪Another Tale to Tell",
+            "music_id": "400328"
         }
     },
     "401002201": {
@@ -7447,6 +8102,43 @@
             "shop": "Dramatic Costume Change",
             "music": "MUSASABI",
             "music_id": "400214"
+        }
+    },
+    "401006201": {
+        "name": "Heart Stronger than Darkness",
+        "compendium_id": 219,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [65, 130, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [65, 130, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "4": [245216],
+            "7": [245217],
+            "10": [245218]
+        },
+        "restriction": null,
+        "max_level": 10,
+        "exp_pattern": 110,
+        "stat_pattern": 100,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "During his travels, dark knight Duane happens to stumble upon a monster stuck in a trap. Although his blade is slowly eating away at his mind, he maintains control long enough to free the monster and mend the monster's wound. Perhaps one day he can finally overcome the darkness and make its power his own.",
+            "info": "During his travels, dark knight Duane happens to stumble upon a monster stuck in a trap. Although his blade is slowly eating away at his mind, he maintains control long enough to free the monster and mend the monster's wound. Perhaps one day he can finally overcome the darkness and make its power his own.",
+            "shop": "Heart Stronger than Darkness",
+            "music": "The Oath",
+            "music_id": "400106"
         }
     },
     "900020101": {
