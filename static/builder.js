@@ -1641,8 +1641,8 @@ function updateUnitLevelDisplay() {
             if (builds[currentUnitIndex]._exAwakeningLevel > -1) {
                 $("#unitExAwakeningLevel select").val(builds[currentUnitIndex]._exAwakeningLevel.toString());
             } else {
-                $("#unitExAwakeningLevel select").val("1");
-                builds[currentUnitIndex].setExAwakeningLevel(1);
+                $("#unitExAwakeningLevel select").val("3");
+                builds[currentUnitIndex].setExAwakeningLevel(3);
             }
         } else {
             $("#unitExAwakeningLevel").addClass("hidden");

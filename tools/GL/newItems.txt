@@ -854,3 +854,20 @@ Starting
 Starting
 "401015807":Ghost of Winter Past Beryl
 "401015817":Ghost of Winter Past Beryl BS
+Starting
+"301009300":True Ulric's Kukri
+"301009400":True Ulric's Kukri
+"301009500":True Ulric's Kukri
+"301009600":True Ulric's Kukri
+"301009700":True Ulric's Kukri
+"301009700":True Ulric's Kukri
+"302024400":True Ultima Blade (FFXV)
+"302024400":True Ultima Blade (FFXV)
+"409083600":The Rogue's Talisman
+"409083600":The Rogue's Talisman
+"504244791":A Photo to Remember
+"504244791":A Photo to Remember
+Starting
+"215002727":Regis BS
+"215003107":True King Noctis
+"215003117":True King Noctis BS
