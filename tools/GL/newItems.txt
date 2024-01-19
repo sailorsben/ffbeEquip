@@ -871,3 +871,67 @@ Starting
 "215002727":Regis BS
 "215003107":True King Noctis
 "215003117":True King Noctis BS
+Starting
+"301009200":Parrying Daggers (FFXV)
+"301009200":Parrying Daggers (FFXV)
+"303014200":Hyperion (FFXV)
+"303014200":Hyperion (FFXV)
+"308012700":Precision Lance
+"308012800":Precision Lance
+"308012900":Precision Lance
+"308013000":Precision Lance
+"308013000":Precision Lance
+"313012400":Quicksilver (FFXV)
+"313012400":Quicksilver (FFXV)
+"313012600":Valiant II
+"313012700":Valiant II
+"313012800":Valiant II
+"313012900":Valiant II
+"313012900":Valiant II
+"405035100":Bulletproof Suit (FFXV)+
+"405035200":Bulletproof Suit (FFXV)+
+"405035300":Bulletproof Suit (FFXV)+
+"405035400":Bulletproof Suit (FFXV)+
+"405035500":Kingsglaive Garb
+"405035600":Kingsglaive Garb
+"405035700":Kingsglaive Garb
+"405035800":Kingsglaive Garb
+"405035900":Kingsglaive Garb
+"405036000":The Fierce's Talisman
+"405036100":The Fierce's Talisman
+"405036200":The Fierce's Talisman
+"405036200":The Fierce's Talisman
+"405036300":The Mystic's Talisman
+"405036400":The Mystic's Talisman
+"405036500":The Mystic's Talisman
+"405036600":The Mystic's Talisman
+"405036700":The Mystic's Talisman
+"405036700":The Mystic's Talisman
+"409083700":A1-Class Powershield
+"409083800":A1-Class Powershield
+"409083900":A1-Class Powershield
+"409084000":A1-Class Powershield
+"1100000808":Slice Slice Revolution
+"1100000809":Slice Slice Revolution+
+"1100000810":T-Radius
+"1100000811":T-Radius+
+"1100000812":Solitude Snake
+"1100000813":Solitude Snake+
+"504244806":Lucian Tactician's Battleplan
+"504244812":Meister of Machinery
+"504244818":Crownsguard Martial Arts
+"504244910":Regalia Road Trip
+"504244911":Regalia Road Trip II
+"504244912":Regalia Road Trip III
+"504244913":Regalia Road Trip IV
+"504244914":Regalia Road Trip V
+Starting
+"215003207":Chosen King's Shield Gladiolus
+"215003217":Chosen King's Shield Gladiolus BS
+"215003307":Chosen King's Tactician Ignis
+"215003317":Chosen King's Tactician Ignis BS
+"215003407":Chosen King's Friend Prompto
+"215003417":Chosen King's Friend Prompto BS
+"331001517":ゼプツェン BS
+"331001717":ヴェルトール2 BS
+"331001817":E・アンドヴァリ BS

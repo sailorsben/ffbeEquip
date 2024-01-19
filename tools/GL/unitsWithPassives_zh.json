@@ -2,7 +2,7 @@
 
 	"100000102": {
 		"name":"雷因",
-		"roles":["physicalTank","debuffer","support"],
+		"roles":[null,"debuffer","support"],
 		"wikiEntry":"Rain",
 		"id":"100000102",
 		"game_id":"11001",
@@ -571,7 +571,7 @@
 	},
 	"100002103": {
 		"name":"克萊因",
-		"roles":["healer","physicalTank"],
+		"roles":["healer",null],
 		"wikiEntry":"Clyne",
 		"id":"100002103",
 		"game_id":"11001",
@@ -826,7 +826,7 @@
 	},
 	"100003302": {
 		"name":"奧里",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Ollie",
 		"id":"100003302",
 		"game_id":"11001",
@@ -1058,7 +1058,7 @@
 	},
 	"100004303": {
 		"name":"夏洛特",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Charlotte",
 		"id":"100004303",
 		"game_id":"11001",
@@ -1583,7 +1583,7 @@
 	},
 	"100006105": {
 		"name":"維魯赫魯姆",
-		"roles":["physicalTank","support","debuffer"],
+		"roles":[null,"support","debuffer"],
 		"wikiEntry":"Wilhelm",
 		"id":"100006105",
 		"game_id":"11001",
@@ -1611,7 +1611,7 @@
 		],
 		"6_form": {
 			"name":"維魯赫魯姆",
-			"roles":["physicalTank","support"],
+			"roles":[null,"support"],
 			"wikiEntry":"Wilhelm",
 			"id":"100006105",
 			"game_id":"11001",
@@ -2428,7 +2428,7 @@
 	},
 	"100008104": {
 		"name":"王土之維利亞斯",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Veritas_of the Earth",
 		"id":"100008104",
 		"game_id":"11001",
@@ -2962,7 +2962,7 @@
 	},
 	"100009805": {
 		"name":"艾爾弗里德",
-		"roles":["physicalTank","debuffer","support"],
+		"roles":[null,"debuffer","support"],
 		"wikiEntry":"Elfreeda",
 		"id":"100009805",
 		"game_id":"11001",
@@ -2995,7 +2995,7 @@
 		],
 		"6_form": {
 			"name":"艾爾弗里德",
-			"roles":["physicalTank","debuffer"],
+			"roles":[null,"debuffer"],
 			"wikiEntry":"Elfreeda",
 			"id":"100009805",
 			"game_id":"11001",
@@ -4141,7 +4141,7 @@
 	},
 	"100012304": {
 		"name":"奧澤塔",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"wikiEntry":"Ozetta",
 		"id":"100012304",
 		"game_id":"11001",
@@ -5502,7 +5502,7 @@
 	},
 	"100016304": {
 		"name":"喜塔爾",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Shatal",
 		"id":"100016304",
 		"game_id":"11001",
@@ -5824,7 +5824,7 @@
 	},
 	"100017204": {
 		"name":"雷歐波特",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Leopold",
 		"id":"100017204",
 		"game_id":"11001",
@@ -6132,7 +6132,7 @@
 	},
 	"100017905": {
 		"name":"吉克哈特",
-		"roles":["physicalTank","debuffer"],
+		"roles":[null,"debuffer"],
 		"wikiEntry":"Sieghard",
 		"id":"100017905",
 		"game_id":"11001",
@@ -6167,7 +6167,7 @@
 		],
 		"6_form": {
 			"name":"吉克哈特",
-			"roles":["physicalTank","debuffer"],
+			"roles":[null,"debuffer"],
 			"wikiEntry":"Sieghard",
 			"id":"100017905",
 			"game_id":"11001",
@@ -6197,7 +6197,7 @@
 		},
 		"7_form": {
 			"name":"吉克哈特",
-			"roles":["physicalTank","debuffer"],
+			"roles":[null,"debuffer"],
 			"wikiEntry":"Sieghard",
 			"id":"100017905",
 			"game_id":"11001",
@@ -6231,7 +6231,7 @@
 	},
 	"100017927": {
 		"name":"吉克哈特 BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Sieghard",
 		"id":"100017927",
 		"game_id":"11001",
@@ -9957,7 +9957,7 @@
 	},
 	"100027505": {
 		"name":"聖砦夏洛特",
-		"roles":["physicalTank","magicalTank","support"],
+		"roles":[null,"magicalTank","support"],
 		"wikiEntry":"Hallowed_Aegis Charlotte",
 		"id":"100027505",
 		"game_id":"11001",
@@ -9984,7 +9984,7 @@
 		],
 		"6_form": {
 			"name":"聖砦夏洛特",
-			"roles":["physicalTank","magicalTank","support"],
+			"roles":[null,"magicalTank","support"],
 			"wikiEntry":"Hallowed_Aegis Charlotte",
 			"id":"100027505",
 			"game_id":"11001",
@@ -10423,7 +10423,7 @@
 	},
 	"100028305": {
 		"name":"黛西",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"wikiEntry":"Daisy",
 		"id":"100028305",
 		"game_id":"11001",
@@ -10456,7 +10456,7 @@
 		],
 		"6_form": {
 			"name":"黛西",
-			"roles":["physicalTank","support"],
+			"roles":[null,"support"],
 			"wikiEntry":"Daisy",
 			"id":"100028305",
 			"game_id":"11001",
@@ -10480,7 +10480,7 @@
 		},
 		"7_form": {
 			"name":"黛西",
-			"roles":["physicalTank","support"],
+			"roles":[null,"support"],
 			"wikiEntry":"Daisy",
 			"id":"100028305",
 			"game_id":"11001",
@@ -10509,7 +10509,7 @@
 	},
 	"100028327": {
 		"name":"黛西 BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Daisy",
 		"id":"100028327",
 		"game_id":"11001",
@@ -11919,7 +11919,7 @@
 	},
 	"100032305": {
 		"name":"騎士團第一暖男勞倫斯",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Knightly_Paragon Lawrence",
 		"id":"100032305",
 		"game_id":"11001",
@@ -11947,7 +11947,7 @@
 		],
 		"6_form": {
 			"name":"騎士團第一暖男勞倫斯",
-			"roles":["physicalTank"],
+			"roles":[null],
 			"wikiEntry":"Knightly_Paragon Lawrence",
 			"id":"100032305",
 			"game_id":"11001",
@@ -13396,7 +13396,7 @@
 	},
 	"100037407": {
 		"name":"倫達",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Runda",
 		"id":"100037407",
 		"game_id":"11001",
@@ -13426,7 +13426,7 @@
 	},
 	"100037417": {
 		"name":"倫達 BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Runda",
 		"id":"100037417",
 		"game_id":"11001",
@@ -16426,7 +16426,7 @@
 	},
 	"201000104": {
 		"name":"光之戰士",
-		"roles":["physicalTank","debuffer","support"],
+		"roles":[null,"debuffer","support"],
 		"wikiEntry":"Warrior_of Light",
 		"id":"201000104",
 		"game_id":"10001",
@@ -16503,7 +16503,7 @@
 	},
 	"201000405": {
 		"name":"覺醒光之戰士",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"wikiEntry":"Awakened_Warrior of Light",
 		"id":"201000405",
 		"game_id":"10001",
@@ -16529,7 +16529,7 @@
 		],
 		"6_form": {
 			"name":"覺醒光之戰士",
-			"roles":["physicalTank","support"],
+			"roles":[null,"support"],
 			"wikiEntry":"Awakened_Warrior of Light",
 			"id":"201000405",
 			"game_id":"10001",
@@ -16696,7 +16696,7 @@
 	},
 	"201000607": {
 		"name":"初始戰士",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Fledgling_Warrior",
 		"id":"201000607",
 		"game_id":"10001",
@@ -16726,7 +16726,7 @@
 	},
 	"201000617": {
 		"name":"初始戰士 BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Fledgling_Warrior",
 		"id":"201000617",
 		"game_id":"10001",
@@ -16935,7 +16935,7 @@
 	},
 	"202000303": {
 		"name":"卡伊",
-		"roles":["physicalTank","debuffer"],
+		"roles":[null,"debuffer"],
 		"wikiEntry":"Guy",
 		"id":"202000303",
 		"game_id":"10002",
@@ -16976,7 +16976,7 @@
 		],
 		"6_form": {
 			"name":"卡伊",
-			"roles":["physicalTank","debuffer"],
+			"roles":[null,"debuffer"],
 			"wikiEntry":"Guy",
 			"id":"202000303",
 			"game_id":"10002",
@@ -17000,7 +17000,7 @@
 		},
 		"7_form": {
 			"name":"卡伊",
-			"roles":["physicalTank","debuffer"],
+			"roles":[null,"debuffer"],
 			"wikiEntry":"Guy",
 			"id":"202000303",
 			"game_id":"10002",
@@ -17030,7 +17030,7 @@
 	},
 	"202000327": {
 		"name":"卡伊 BS",
-		"roles":["physicalTank","debuffer"],
+		"roles":[null,"debuffer"],
 		"wikiEntry":"Guy",
 		"id":"202000327",
 		"game_id":"10002",
@@ -18911,7 +18911,7 @@
 	},
 	"204000103": {
 		"name":"塞西爾",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Cecil",
 		"id":"204000103",
 		"game_id":"10004",
@@ -19970,7 +19970,7 @@
 	},
 	"205000303": {
 		"name":"加拉夫",
-		"roles":["physicalTank","debuffer"],
+		"roles":[null,"debuffer"],
 		"wikiEntry":"Galuf",
 		"id":"205000303",
 		"game_id":"10005",
@@ -20446,7 +20446,7 @@
 	},
 	"205001005": {
 		"name":"曉之四戰士加拉夫",
-		"roles":["physicalAttacker","support","physicalTank"],
+		"roles":["physicalAttacker","support",null],
 		"wikiEntry":"Warrior_of Dawn Galuf",
 		"id":"205001005",
 		"game_id":"10005",
@@ -20485,7 +20485,7 @@
 		],
 		"6_form": {
 			"name":"曉之四戰士加拉夫",
-			"roles":["physicalAttacker","support","physicalTank"],
+			"roles":["physicalAttacker","support",null],
 			"wikiEntry":"Warrior_of Dawn Galuf",
 			"id":"205001005",
 			"game_id":"10005",
@@ -20514,7 +20514,7 @@
 		},
 		"7_form": {
 			"name":"曉之四戰士加拉夫",
-			"roles":["physicalAttacker","support","physicalTank"],
+			"roles":["physicalAttacker","support",null],
 			"wikiEntry":"Warrior_of Dawn Galuf",
 			"id":"205001005",
 			"game_id":"10005",
@@ -22047,7 +22047,7 @@
 	},
 	"206002005": {
 		"name":"科爾茲格鬥家馬修",
-		"roles":["physicalAttacker","physicalTank","magicalTank"],
+		"roles":["physicalAttacker",null,"magicalTank"],
 		"wikiEntry":"Monk_Sabin of Kolts",
 		"id":"206002005",
 		"game_id":"10006",
@@ -24479,7 +24479,7 @@
 	},
 	"207002127": {
 		"name":"巴雷特(FFVII REMAKE) BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Barret_(FFVII REMAKE)",
 		"id":"207002127",
 		"game_id":"10007",
@@ -25123,7 +25123,7 @@
 	},
 	"207003207": {
 		"name":"雪崩首領巴雷特",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Avalanche's_Barret",
 		"id":"207003207",
 		"game_id":"10007",
@@ -25155,7 +25155,7 @@
 	},
 	"207003217": {
 		"name":"雪崩首領巴雷特 BS",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Avalanche's_Barret",
 		"id":"207003217",
 		"game_id":"10007",
@@ -27592,7 +27592,7 @@
 	},
 	"209003005": {
 		"name":"忠義騎士斯坦納",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Loyal_Knight Steiner",
 		"id":"209003005",
 		"game_id":"10009",
@@ -27615,7 +27615,7 @@
 		],
 		"6_form": {
 			"name":"忠義騎士斯坦納",
-			"roles":["physicalTank"],
+			"roles":[null],
 			"wikiEntry":"Loyal_Knight Steiner",
 			"id":"209003005",
 			"game_id":"10009",
@@ -27830,7 +27830,7 @@
 	},
 	"209003507": {
 		"name":"冥王隊隊長斯坦納",
-		"roles":["physicalTank","debuffer"],
+		"roles":[null,"debuffer"],
 		"wikiEntry":"Knights_of Pluto Captain Steiner",
 		"id":"209003507",
 		"game_id":"10009",
@@ -27861,7 +27861,7 @@
 	},
 	"209003517": {
 		"name":"冥王隊隊長斯坦納 BS",
-		"roles":["physicalTank","physicalAttacker","debuffer"],
+		"roles":[null,"physicalAttacker","debuffer"],
 		"wikiEntry":"Knights_of Pluto Captain Steiner",
 		"id":"209003517",
 		"game_id":"10009",
@@ -29439,7 +29439,7 @@
 	},
 	"210002607": {
 		"name":"夢幻護衛傑克特",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Fabled_Guardian Jecht",
 		"id":"210002607",
 		"game_id":"10010",
@@ -29473,7 +29473,7 @@
 	},
 	"210002617": {
 		"name":"夢幻護衛傑克特 BS",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Fabled_Guardian Jecht",
 		"id":"210002617",
 		"game_id":"10010",
@@ -30144,7 +30144,7 @@
 	},
 	"211001517": {
 		"name":"無手傀儡師阿芙瑪烏 BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Royal_Puppeteer Aphmau",
 		"id":"211001517",
 		"game_id":"10011",
@@ -30540,7 +30540,7 @@
 	},
 	"212000905": {
 		"name":"巴修",
-		"roles":["physicalTank","magicalTank","debuffer"],
+		"roles":[null,"magicalTank","debuffer"],
 		"wikiEntry":"Basch",
 		"id":"212000905",
 		"game_id":"10012",
@@ -30570,7 +30570,7 @@
 		],
 		"6_form": {
 			"name":"巴修",
-			"roles":["physicalTank","magicalTank","debuffer"],
+			"roles":[null,"magicalTank","debuffer"],
 			"wikiEntry":"Basch",
 			"id":"212000905",
 			"game_id":"10012",
@@ -30598,7 +30598,7 @@
 	},
 	"212001004": {
 		"name":"拉斯勒",
-		"roles":["physicalTank","healer"],
+		"roles":[null,"healer"],
 		"wikiEntry":"Rasler",
 		"id":"212001004",
 		"game_id":"10012",
@@ -30625,7 +30625,7 @@
 	},
 	"212001105": {
 		"name":"加布藍斯",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Gabranth",
 		"id":"212001105",
 		"game_id":"10012",
@@ -30654,7 +30654,7 @@
 		],
 		"6_form": {
 			"name":"加布藍斯",
-			"roles":["physicalTank","physicalAttacker","debuffer"],
+			"roles":[null,"physicalAttacker","debuffer"],
 			"wikiEntry":"Gabranth",
 			"id":"212001105",
 			"game_id":"10012",
@@ -31263,7 +31263,7 @@
 	},
 	"212002207": {
 		"name":"加布藍斯-Neo Vision-",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Gabranth_-Neo Vision-",
 		"id":"212002207",
 		"game_id":"10012",
@@ -31312,7 +31312,7 @@
 	},
 	"212002217": {
 		"name":"加布藍斯-Neo Vision- BS",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Gabranth_-Neo Vision-",
 		"id":"212002217",
 		"game_id":"10012",
@@ -31737,7 +31737,7 @@
 	},
 	"213000204": {
 		"name":"冰雪",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Snow",
 		"id":"213000204",
 		"game_id":"10013",
@@ -32478,7 +32478,7 @@
 	},
 	"213001907": {
 		"name":"希德・雷恩斯",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Cid_Raines",
 		"id":"213001907",
 		"game_id":"10013",
@@ -32510,7 +32510,7 @@
 	},
 	"213001917": {
 		"name":"希德・雷恩斯 BS",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Cid_Raines",
 		"id":"213001917",
 		"game_id":"10013",
@@ -32792,7 +32792,7 @@
 	},
 	"215000205": {
 		"name":"格拉迪歐藍斯",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Gladiolus",
 		"id":"215000205",
 		"game_id":"10015",
@@ -32828,7 +32828,7 @@
 		],
 		"6_form": {
 			"name":"格拉迪歐藍斯",
-			"roles":["physicalTank","physicalAttacker"],
+			"roles":[null,"physicalAttacker"],
 			"wikiEntry":"Gladiolus",
 			"id":"215000205",
 			"game_id":"10015",
@@ -32856,7 +32856,7 @@
 		},
 		"7_form": {
 			"name":"格拉迪歐藍斯",
-			"roles":["physicalTank","physicalAttacker"],
+			"roles":[null,"physicalAttacker"],
 			"wikiEntry":"Gladiolus",
 			"id":"215000205",
 			"game_id":"10015",
@@ -33627,7 +33627,7 @@
 	},
 	"215001403": {
 		"name":"利波特斯",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"wikiEntry":"Libertus",
 		"id":"215001403",
 		"game_id":"10015",
@@ -34216,6 +34216,128 @@
 			{"atk":500, "exLevelCondition":2}
 		]
 	},
+	"215003207": {
+		"name":"被選上的王的護衛格拉迪歐藍斯",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Chosen_King's Shield Gladiolus",
+		"id":"215003207",
+		"game_id":"10015",
+		"game":"FFXV",
+		"braveShift":"215003217",
+		"exAwakening": [{"hp":709,"mp":38,"atk":82,"def":36,"mag":19,"spr":27},{"hp":545,"mp":29,"atk":63,"def":28,"mag":15,"spr":21},{"hp":382,"mp":21,"atk":44,"def":19,"mag":10,"spr":15}],
+		"fragmentId": "250025400",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5451,"mp":293,"atk":315,"def":277,"mag":148,"spr":209},
+			"minStats":{"hp":1799,"mp":97,"atk":104,"def":91,"mag":49,"spr":69},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Frozen Hammer","Shining Hammer","Large Sword Mastery"],
+		"categories":["Ice","Attacker","FFXV","Royal Arms"],
+		"enhancements": [
+			{"name":"Large Sword Mastery","levels":[[{"equipedConditions":["greatSword"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["greatSword"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["greatSword"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}
+		],
+		"skills": [
+			{"hp":5000, "hp%":60, "mp%":110, "atk%":200, "def%":110, "spr%":60, "singleWielding":{"accuracy":25,"atk":200}, "oneWeaponMastery":{"atk":100}, "chainMastery":100, "lbPerTurn":{"min":4,"max":4}, "resist":[{"name":"ice","percent":30}], "killers":[{"name":"machine","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"human","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200}], "mpRefresh":8, "lbDamage":200},
+			{"atk":1750, "equipedConditions":[["504244818","303014200"]]},
+			{"atk":500, "exLevelCondition":3}
+		]
+	},
+	"215003217": {
+		"name":"被選上的王的護衛格拉迪歐藍斯 BS",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Chosen_King's Shield Gladiolus",
+		"id":"215003217",
+		"game_id":"10015",
+		"game":"FFXV",
+		"braveShifted":"215003207",
+		"exAwakening": [{"hp":709,"mp":38,"atk":82,"def":36,"mag":19,"spr":27},{"hp":545,"mp":29,"atk":63,"def":28,"mag":15,"spr":21},{"hp":382,"mp":21,"atk":44,"def":19,"mag":10,"spr":15}],
+		"fragmentId": "250025400",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5451,"mp":293,"atk":315,"def":277,"mag":148,"spr":209},
+			"minStats":{"hp":1799,"mp":97,"atk":104,"def":91,"mag":49,"spr":69},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"categories":["Ice","Attacker","FFXV","Royal Arms"],
+		"skills": [
+			{"hp":5000, "hp%":60, "mp%":110, "atk%":200, "def%":110, "spr%":60, "singleWielding":{"accuracy":25,"atk":200}, "oneWeaponMastery":{"atk":100}, "chainMastery":100, "lbPerTurn":{"min":4,"max":4}, "resist":[{"name":"ice","percent":30}], "killers":[{"name":"machine","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"human","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200}], "mpRefresh":8, "lbDamage":200},
+			{"atk%":50, "def%":50, "mag%":50, "spr%":50, "equipedConditions":["greatSword"]},
+			{"atk":1750, "equipedConditions":[["504244818","303014200"]]},
+			{"atk":500, "exLevelCondition":3}
+		]
+	},
+	"215003307": {
+		"name":"被選上的王的軍師伊格尼斯",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Chosen_King's Tactician Ignis",
+		"id":"215003307",
+		"game_id":"10015",
+		"game":"FFXV",
+		"braveShift":"215003317",
+		"exAwakening": [{"hp":718,"mp":48,"atk":82,"def":36,"mag":32,"spr":31},{"hp":553,"mp":37,"atk":63,"def":28,"mag":24,"spr":24},{"hp":387,"mp":26,"atk":44,"def":19,"mag":17,"spr":17}],
+		"fragmentId": "250025100",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5183,"mp":366,"atk":315,"def":276,"mag":223,"spr":237},
+			"minStats":{"hp":1710,"mp":121,"atk":104,"def":91,"mag":74,"spr":78},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","staff","rod","spear","throwing","mace","lightShield","hat","clothes","lightArmor","robe","visionCard"],
+		"enhancementSkills":["Tactical Assault","Dagger Mastery"],
+		"categories":["Ice","Attacker","FFXV","Royal Arms"],
+		"enhancements": [
+			{"name":"Dagger Mastery","levels":[[{"equipedConditions":["dagger"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["dagger"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["dagger"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}
+		],
+		"skills": [
+			{"hp%":60, "mp%":110, "atk%":200, "def%":60, "spr%":60, "dualWielding":{"atk":200}, "chainMastery":200, "lbPerTurn":{"min":4,"max":4}, "resist":[{"name":"poison","percent":100},{"name":"blind","percent":100},{"name":"confuse","percent":100},{"name":"petrification","percent":100},{"name":"ice","percent":30}], "killers":[{"name":"human","physical":200,"magical":200},{"name":"machine","physical":200,"magical":200},{"name":"demon","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200}], "mpRefresh":12, "lbDamage":150, "special":["dualWield"]},
+			{"atk":1000, "equipedConditions":[["504244806","301009200"]]},
+			{"atk":500, "exLevelCondition":3}
+		]
+	},
+	"215003317": {
+		"name":"被選上的王的軍師伊格尼斯 BS",
+		"roles":["physicalAttacker","support"],
+		"wikiEntry":"Chosen_King's Tactician Ignis",
+		"id":"215003317",
+		"game_id":"10015",
+		"game":"FFXV",
+		"braveShifted":"215003307",
+		"exAwakening": [{"hp":718,"mp":48,"atk":82,"def":36,"mag":32,"spr":31},{"hp":553,"mp":37,"atk":63,"def":28,"mag":24,"spr":24},{"hp":387,"mp":26,"atk":44,"def":19,"mag":17,"spr":17}],
+		"fragmentId": "250025100",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5527,"mp":341,"atk":315,"def":259,"mag":242,"spr":219},
+			"minStats":{"hp":1824,"mp":113,"atk":104,"def":85,"mag":80,"spr":72},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","staff","rod","spear","throwing","mace","lightShield","hat","helm","clothes","lightArmor","robe","visionCard"],
+		"enhancementSkills":["Tactical Assault","Icicle Jump","Cooking","Dagger Mastery","Spear Mastery"],
+		"categories":["Ice","Attacker","Support","FFXV","Royal Arms"],
+		"enhancements": [
+			{"name":"Dagger Mastery","levels":[[{"equipedConditions":["dagger"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["dagger"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["dagger"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]},
+			{"name":"Spear Mastery","levels":[[{"equipedConditions":["spear"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["spear"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["spear"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}
+		],
+		"skills": [
+			{"hp%":60, "mp%":60, "atk%":200, "def%":100, "spr%":100, "dualWielding":{"atk":200}, "chainMastery":200, "jumpDamage":300, "lbPerTurn":{"min":4,"max":4}, "resist":[{"name":"poison","percent":100},{"name":"blind","percent":100},{"name":"confuse","percent":100},{"name":"petrification","percent":100},{"name":"ice","percent":30}], "killers":[{"name":"human","physical":200,"magical":200},{"name":"machine","physical":200,"magical":200},{"name":"demon","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200}], "mpRefresh":12, "lbDamage":150, "special":["dualWield"]},
+			{"atk":1250, "jumpDamage":200, "equipedConditions":[["504244806","301009200"]]},
+			{"atk":500, "exLevelCondition":3}
+		]
+	},
 	"215003407": {
 		"name":"被選上的王的摯友普羅恩普特",
 		"roles":["physicalAttacker","debuffer"],
@@ -34236,10 +34358,13 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","hammer","harp","whip","throwing","gun","lightShield","hat","clothes","lightArmor","robe","visionCard"],
+		"enhancementSkills":["Frozen Piercer","Shining Piercer","Gun Mastery"],
 		"categories":["Light","Attacker","Breaker","FFXV","Royal Arms"],
+		"enhancements": [
+			{"name":"Gun Mastery","levels":[[{"equipedConditions":["gun"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["gun"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["gun"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}
+		],
 		"skills": [
 			{"hp%":110, "mp%":60, "atk%":200, "def%":60, "spr%":60, "dualWielding":{"atk":200}, "chainMastery":200, "lbPerTurn":{"min":7,"max":7}, "resist":[{"name":"light","percent":30}], "killers":[{"name":"machine","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"human","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200}], "mpRefresh":8, "lbDamage":200, "special":["dualWield"]},
-			{"atk%":50, "def%":50, "mag%":50, "spr%":50, "equipedConditions":["gun"]},
 			{"atk":500, "equipedConditions":[["504244812","313012400"]]},
 			{"atk":500, "exLevelCondition":3}
 		]
@@ -34264,10 +34389,13 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","hammer","harp","whip","throwing","gun","lightShield","hat","clothes","lightArmor","robe","visionCard"],
+		"enhancementSkills":["Frozen Piercer","Shining Piercer","Gun Mastery"],
 		"categories":["Light","Attacker","FFXV","Royal Arms"],
+		"enhancements": [
+			{"name":"Gun Mastery","levels":[[{"equipedConditions":["gun"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["gun"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["gun"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}
+		],
 		"skills": [
 			{"hp%":60, "mp%":60, "atk%":200, "def%":60, "spr%":60, "dualWielding":{"atk":200}, "improvedDW":true, "chainMastery":200, "lbFillRate":50, "lbPerTurn":{"min":7,"max":7}, "resist":[{"name":"light","percent":30}], "killers":[{"name":"machine","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"human","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200}], "mpRefresh":8, "lbDamage":200, "special":["dualWield"]},
-			{"atk%":50, "def%":50, "mag%":50, "spr%":50, "equipedConditions":["gun"]},
 			{"atk":500, "equipedConditions":[["504244812","313012400"]]},
 			{"atk":500, "exLevelCondition":3}
 		]
@@ -35034,7 +35162,7 @@
 	},
 	"253000115": {
 		"name":"傭兵拉姆薩",
-		"roles":["physicalAttacker","debuffer","physicalTank"],
+		"roles":["physicalAttacker","debuffer",null],
 		"wikiEntry":"Mercenary_Ramza",
 		"id":"253000115",
 		"game_id":"11002",
@@ -35066,7 +35194,7 @@
 		],
 		"6_form": {
 			"name":"傭兵拉姆薩",
-			"roles":["physicalAttacker","debuffer","physicalTank"],
+			"roles":["physicalAttacker","debuffer",null],
 			"wikiEntry":"Mercenary_Ramza",
 			"id":"253000115",
 			"game_id":"11002",
@@ -37270,7 +37398,7 @@
 	},
 	"258000107": {
 		"name":"孤高的太守冰雪",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Solitary_Patron Snow",
 		"id":"258000107",
 		"game_id":"11007",
@@ -37579,7 +37707,7 @@
 	},
 	"302000705": {
 		"name":"白騎士諾埃爾",
-		"roles":["magicalAttacker","physicalTank","magicalTank"],
+		"roles":["magicalAttacker",null,"magicalTank"],
 		"wikiEntry":"White_Knight Noel",
 		"id":"302000705",
 		"game_id":"11001",
@@ -37618,7 +37746,7 @@
 		],
 		"6_form": {
 			"name":"白騎士諾埃爾",
-			"roles":["magicalAttacker","physicalTank","magicalTank"],
+			"roles":["magicalAttacker",null,"magicalTank"],
 			"wikiEntry":"White_Knight Noel",
 			"id":"302000705",
 			"game_id":"11001",
@@ -38378,7 +38506,7 @@
 	},
 	"306000503": {
 		"name":"巨像兵",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Golem",
 		"id":"306000503",
 		"game_id":"20006",
@@ -39010,7 +39138,7 @@
 	},
 	"312000517": {
 		"name":"杜蘭",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Duran",
 		"id":"312000517",
 		"game_id":"20012",
@@ -40440,7 +40568,7 @@
 	},
 	"334000205": {
 		"name":"歐爾貝克",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Olberic",
 		"id":"334000205",
 		"game_id":"20025",
@@ -40467,7 +40595,7 @@
 		],
 		"6_form": {
 			"name":"歐爾貝克",
-			"roles":["physicalAttacker","physicalTank"],
+			"roles":["physicalAttacker",null],
 			"wikiEntry":"Olberic",
 			"id":"334000205",
 			"game_id":"20025",
@@ -41362,7 +41490,7 @@
 	},
 	"338000205": {
 		"name":"阿爾馮斯·愛力克",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Alphonse_Elric",
 		"id":"338000205",
 		"game_id":"20032",
@@ -41391,7 +41519,7 @@
 		],
 		"6_form": {
 			"name":"阿爾馮斯·愛力克",
-			"roles":["physicalTank"],
+			"roles":[null],
 			"wikiEntry":"Alphonse_Elric",
 			"id":"338000205",
 			"game_id":"20032",
@@ -41855,7 +41983,7 @@
 	},
 	"339000205": {
 		"name":"蒙特·雷歐尼斯",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Mont_Leonis",
 		"id":"339000205",
 		"game_id":"11010",
@@ -41880,7 +42008,7 @@
 		],
 		"6_form": {
 			"name":"蒙特·雷歐尼斯",
-			"roles":["physicalTank"],
+			"roles":[null],
 			"wikiEntry":"Mont_Leonis",
 			"id":"339000205",
 			"game_id":"11010",
@@ -42075,7 +42203,7 @@
 	},
 	"339000607": {
 		"name":"雷歐尼斯國王蒙特",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"King_of Leonis Mont",
 		"id":"339000607",
 		"game_id":"11010",
@@ -42106,7 +42234,7 @@
 	},
 	"339000617": {
 		"name":"雷歐尼斯國王蒙特 BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"King_of Leonis Mont",
 		"id":"339000617",
 		"game_id":"11010",
@@ -42994,7 +43122,7 @@
 	},
 	"344000407": {
 		"name":"獸王庫羅克泰因",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Beast_King Crocodine",
 		"id":"344000407",
 		"game_id":"20037",
@@ -43025,7 +43153,7 @@
 	},
 	"344000417": {
 		"name":"獸王庫羅克泰因 BS",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Beast_King Crocodine",
 		"id":"344000417",
 		"game_id":"20037",
@@ -43796,7 +43924,7 @@
 	},
 	"401000205": {
 		"name":"惡魔雷因",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"wikiEntry":"Demon_Rain",
 		"id":"401000205",
 		"game_id":"11001",
@@ -43833,7 +43961,7 @@
 		],
 		"6_form": {
 			"name":"惡魔雷因",
-			"roles":["physicalTank","support"],
+			"roles":[null,"support"],
 			"wikiEntry":"Demon_Rain",
 			"id":"401000205",
 			"game_id":"11001",
@@ -44514,7 +44642,7 @@
 	},
 	"401001604": {
 		"name":"凱納槽",
-		"roles":["physicalTank","magicalTank"],
+		"roles":[null,"magicalTank"],
 		"wikiEntry":"Cagnazzo",
 		"id":"401001604",
 		"game_id":"10004",
@@ -44882,7 +45010,7 @@
 	},
 	"401002504": {
 		"name":"運動女孩亞莉安娜",
-		"roles":["physicalTank","magicalTank"],
+		"roles":[null,"magicalTank"],
 		"wikiEntry":"Sportive_Ariana",
 		"id":"401002504",
 		"game_id":"90001",
@@ -45191,7 +45319,7 @@
 	},
 	"401002905": {
 		"name":"雷佳克",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Ray_Jack",
 		"id":"401002905",
 		"game_id":"90002",
@@ -45218,7 +45346,7 @@
 	},
 	"401003004": {
 		"name":"巴魯薩",
-		"roles":["physicalTank","magicalTank","support"],
+		"roles":[null,"magicalTank","support"],
 		"wikiEntry":"Barusa",
 		"id":"401003004",
 		"game_id":"90002",
@@ -45979,7 +46107,7 @@
 	},
 	"401005005": {
 		"name":"維克托·馬爾琴科",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Viktor_Marchenko",
 		"id":"401005005",
 		"game_id":"90005",
@@ -46004,7 +46132,7 @@
 		],
 		"6_form": {
 			"name":"維克托·馬爾琴科",
-			"roles":["physicalAttacker","physicalTank"],
+			"roles":["physicalAttacker",null],
 			"wikiEntry":"Viktor_Marchenko",
 			"id":"401005005",
 			"game_id":"90005",
@@ -46073,7 +46201,7 @@
 	},
 	"401005305": {
 		"name":"拉斯韋爾（泳裝）",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Aloha_Lasswell",
 		"id":"401005305",
 		"game_id":"11001",
@@ -46101,7 +46229,7 @@
 		],
 		"6_form": {
 			"name":"拉斯韋爾（泳裝）",
-			"roles":["physicalAttacker","physicalTank"],
+			"roles":["physicalAttacker",null],
 			"wikiEntry":"Aloha_Lasswell",
 			"id":"401005305",
 			"game_id":"11001",
@@ -46280,7 +46408,7 @@
 	},
 	"401005905": {
 		"name":"莉莉絲",
-		"roles":["physicalTank","magicalTank","healer"],
+		"roles":[null,"magicalTank","healer"],
 		"wikiEntry":"Lilith",
 		"id":"401005905",
 		"game_id":"11001",
@@ -46307,7 +46435,7 @@
 		],
 		"6_form": {
 			"name":"莉莉絲",
-			"roles":["physicalTank","magicalTank","healer"],
+			"roles":[null,"magicalTank","healer"],
 			"wikiEntry":"Lilith",
 			"id":"401005905",
 			"game_id":"11001",
@@ -46848,7 +46976,7 @@
 	},
 	"401006805": {
 		"name":"艾斯德爾",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Esther",
 		"id":"401006805",
 		"game_id":"11001",
@@ -46877,7 +47005,7 @@
 		],
 		"6_form": {
 			"name":"艾斯德爾",
-			"roles":["physicalAttacker","physicalTank"],
+			"roles":["physicalAttacker",null],
 			"wikiEntry":"Esther",
 			"id":"401006805",
 			"game_id":"11001",
@@ -47083,7 +47211,7 @@
 	},
 	"401007205": {
 		"name":"卡爾頓",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Karten",
 		"id":"401007205",
 		"game_id":"11001",
@@ -47113,7 +47241,7 @@
 		],
 		"6_form": {
 			"name":"卡爾頓",
-			"roles":["physicalAttacker","physicalTank"],
+			"roles":["physicalAttacker",null],
 			"wikiEntry":"Karten",
 			"id":"401007205",
 			"game_id":"11001",
@@ -47489,7 +47617,7 @@
 	},
 	"401007905": {
 		"name":"醫生艾迪恩",
-		"roles":["healer","physicalTank"],
+		"roles":["healer",null],
 		"wikiEntry":"Doctor_Aiden",
 		"id":"401007905",
 		"game_id":"11001",
@@ -47515,7 +47643,7 @@
 		],
 		"6_form": {
 			"name":"醫生艾迪恩",
-			"roles":["healer","physicalTank"],
+			"roles":["healer",null],
 			"wikiEntry":"Doctor_Aiden",
 			"id":"401007905",
 			"game_id":"11001",
@@ -48047,7 +48175,7 @@
 	},
 	"401008805": {
 		"name":"玄武&青龍",
-		"roles":["physicalAttacker","physicalTank","magicalTank"],
+		"roles":["physicalAttacker",null,"magicalTank"],
 		"wikiEntry":"Xuan_Wu & Qing Long",
 		"id":"401008805",
 		"game_id":"11001",
@@ -48072,7 +48200,7 @@
 		],
 		"6_form": {
 			"name":"玄武&青龍",
-			"roles":["physicalAttacker","physicalTank","magicalTank"],
+			"roles":["physicalAttacker",null,"magicalTank"],
 			"wikiEntry":"Xuan_Wu & Qing Long",
 			"id":"401008805",
 			"game_id":"11001",
@@ -48097,7 +48225,7 @@
 	},
 	"401008905": {
 		"name":"吉克哈特&伊格尼西奧",
-		"roles":["physicalAttacker","physicalTank","support"],
+		"roles":["physicalAttacker",null,"support"],
 		"wikiEntry":"Sieghard_& Ignacio",
 		"id":"401008905",
 		"game_id":"11001",
@@ -48130,7 +48258,7 @@
 		],
 		"6_form": {
 			"name":"吉克哈特&伊格尼西奧",
-			"roles":["physicalAttacker","physicalTank","support"],
+			"roles":["physicalAttacker",null,"support"],
 			"wikiEntry":"Sieghard_& Ignacio",
 			"id":"401008905",
 			"game_id":"11001",
@@ -48645,7 +48773,7 @@
 	},
 	"401010407": {
 		"name":"諾比",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Noppy",
 		"id":"401010407",
 		"game_id":"11001",
@@ -48944,7 +49072,7 @@
 	},
 	"401010907": {
 		"name":"國王凶惡巨獸",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"wikiEntry":"King_Behemy",
 		"id":"401010907",
 		"game_id":"11001",
@@ -48976,7 +49104,7 @@
 	},
 	"401010917": {
 		"name":"國王凶惡巨獸 BS",
-		"roles":["physicalTank","physicalAttacker","debuffer"],
+		"roles":[null,"physicalAttacker","debuffer"],
 		"wikiEntry":"King_Behemy",
 		"id":"401010917",
 		"game_id":"11001",
@@ -49548,7 +49676,7 @@
 	},
 	"401012307": {
 		"name":"梅芙",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"wikiEntry":"Maeve",
 		"id":"401012307",
 		"game_id":"11001",
@@ -49816,7 +49944,7 @@
 	},
 	"401012817": {
 		"name":"風暴追尋者艾斯德爾 BS",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Storm_Seeker Esther",
 		"id":"401012817",
 		"game_id":"11001",
@@ -50345,7 +50473,7 @@
 	},
 	"401013707": {
 		"name":"優雅妖女莉莉絲",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Elegant_Temptress Lilith",
 		"id":"401013707",
 		"game_id":"11001",
@@ -50376,7 +50504,7 @@
 	},
 	"401013717": {
 		"name":"優雅妖女莉莉絲 BS",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Elegant_Temptress Lilith",
 		"id":"401013717",
 		"game_id":"11001",
@@ -51864,10 +51992,6 @@
   "214000627":{"name":"魔女ヤ・シュトラ BS","roles":["magicalAttacker","debuffer"],"id":"214000627","game_id":"undefined","game":"undefined","braveShifted":"214000605","exAwakening":[{"hp":638,"mp":42,"atk":26,"def":29,"mag":38,"spr":34},{"hp":491,"mp":32,"atk":20,"def":23,"mag":29,"spr":26},{"hp":343,"mp":23,"atk":14,"def":16,"mag":20,"spr":18}],"fragmentId":"250028000","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":4907,"mp":322,"atk":204,"def":228,"mag":290,"spr":263},"minStats":{"hp":1619,"mp":106,"atk":67,"def":75,"mag":96,"spr":87},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","hammer","lightShield","hat","clothes","robe","visionCard"],"skills":[{"hp%":120,"mp%":20,"def%":150,"mag%":180,"spr%":50,"singleWielding":{"mag":100},"chainMastery":100,"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"silence","percent":100},{"name":"paralysis","percent":100},{"name":"charm","percent":100}],"killers":[{"name":"stone","physical":200,"magical":200},{"name":"beast","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"dragon","physical":200,"magical":200}],"mpRefresh":8,"lbDamage":200,"skillEnhancement":{"232677":10,"232678":10,"1374240":10,"1374250":10}},{"mp%":50,"spr%":50,"equipedConditions":["robe"]},{"mag%":50,"spr%":50,"equipedConditions":["rod"]},{"hp%":30,"mp%":30,"mag":1500,"equipedConditions":[["504232670","504232671"]]},{"hp%":20,"levelCondition":115},{"mp%":20,"mag%":40,"singleWielding":{"mag":100},"skillEnhancement":{"232677":20,"232678":20,"510612":20,"510614":20,"510617":20,"510619":20,"1374240":20,"1374250":20,"1374280":20,"1374300":20,"1374320":20,"1374340":20},"levelCondition":120},{"mag":500,"exLevelCondition":3}]},
   "214000707":{"name":"アルフィノ","roles":["support","healer"],"id":"214000707","game_id":"undefined","game":"undefined","braveShift":"214000717","exAwakening":[{"hp":687,"mp":45,"atk":23,"def":29,"mag":75,"spr":35},{"hp":529,"mp":35,"atk":18,"def":22,"mag":58,"spr":27},{"hp":370,"mp":24,"atk":12,"def":16,"mag":41,"spr":19}],"fragmentId":"250027900","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5286,"mp":348,"atk":178,"def":223,"mag":290,"spr":267},"minStats":{"hp":1744,"mp":115,"atk":59,"def":74,"mag":96,"spr":88},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","hat","clothes","robe","visionCard"],"enhancementSkills":["暁の血盟【アルフィノ】","ロッドの極意","破陣法"],"enhancements":[{"name":"暁の血盟【アルフィノ】","levels":[[{"spr%":10,"mag%":10,"mp%":10,"mpRefresh":5}],[{"spr%":20,"mag%":20,"mp%":20,"mpRefresh":7}],[{"spr%":30,"mag%":30,"mp%":30,"mpRefresh":9}],[{"spr%":40,"mag%":40,"mp%":40,"mpRefresh":11}],[{"spr%":50,"mag%":50,"mp%":50,"mpRefresh":13}]]},{"name":"ロッドの極意","levels":[[{"equipedConditions":["rod"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["rod"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["rod"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]},{"name":"暁の血盟【アルフィノ】","levels":[[{"spr%":10,"mag%":10,"mp%":10,"mpRefresh":5}],[{"spr%":20,"mag%":20,"mp%":20,"mpRefresh":7}],[{"spr%":30,"mag%":30,"mp%":30,"mpRefresh":9}],[{"spr%":40,"mag%":40,"mp%":40,"mpRefresh":11}],[{"spr%":50,"mag%":50,"mp%":50,"mpRefresh":13}]]},{"name":"ロッドの極意","levels":[[{"equipedConditions":["rod"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["rod"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["rod"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}],"skills":[{"mp%":60,"spr%":150,"oneWeaponMastery":{"mag":50,"spr":200},"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"light","percent":30}],"mpRefresh":7},{"mag":500,"equipedConditions":[["504244955","405037200"]]},{"mag":500,"exLevelCondition":3}]},
   "214000717":{"name":"アルフィノ BS","roles":["support","healer"],"id":"214000717","game_id":"undefined","game":"undefined","braveShifted":"214000707","exAwakening":[{"hp":687,"mp":45,"atk":23,"def":29,"mag":75,"spr":35},{"hp":529,"mp":35,"atk":18,"def":22,"mag":58,"spr":27},{"hp":370,"mp":24,"atk":12,"def":16,"mag":41,"spr":19}],"fragmentId":"250027900","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5286,"mp":348,"atk":178,"def":223,"mag":290,"spr":267},"minStats":{"hp":1744,"mp":115,"atk":59,"def":74,"mag":96,"spr":88},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","hat","clothes","robe","visionCard"],"skills":[{"mp%":70,"mag%":10,"spr%":160,"oneWeaponMastery":{"mag":50,"spr":200},"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"light","percent":30}],"mpRefresh":12},{"atk%":50,"def%":50,"mag%":50,"spr%":50,"equipedConditions":["rod"]},{"mag":500,"equipedConditions":[["504244955","405037200"]]},{"mag":500,"exLevelCondition":3}]},
-  "215003207":{"name":"選ばれし王の護衛グラディオラス","roles":["physicalAttacker"],"id":"215003207","game_id":"undefined","game":"undefined","braveShift":"215003217","exAwakening":[{"hp":709,"mp":38,"atk":82,"def":36,"mag":19,"spr":27},{"hp":545,"mp":29,"atk":63,"def":28,"mag":15,"spr":21},{"hp":382,"mp":21,"atk":44,"def":19,"mag":10,"spr":15}],"fragmentId":"250025400","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5451,"mp":293,"atk":315,"def":277,"mag":148,"spr":209},"minStats":{"hp":1799,"mp":97,"atk":104,"def":91,"mag":49,"spr":69},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["フローズンブレイカー","シャイニングブレイカー","大剣の極意"],"enhancements":[{"name":"大剣の極意","levels":[[{"equipedConditions":["greatSword"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["greatSword"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["greatSword"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]},{"name":"大剣の極意","levels":[[{"equipedConditions":["greatSword"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["greatSword"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["greatSword"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}],"skills":[{"hp":5000,"hp%":60,"mp%":110,"atk%":200,"def%":110,"spr%":60,"singleWielding":{"accuracy":25,"atk":200},"oneWeaponMastery":{"atk":100},"chainMastery":100,"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"ice","percent":30}],"killers":[{"name":"machine","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"human","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200}],"mpRefresh":8,"lbDamage":200},{"atk":1750,"equipedConditions":[["504244818","303014200"]]},{"atk":500,"exLevelCondition":3}]},
-  "215003217":{"name":"選ばれし王の護衛グラディオラス BS","roles":["physicalAttacker"],"id":"215003217","game_id":"undefined","game":"undefined","braveShifted":"215003207","exAwakening":[{"hp":709,"mp":38,"atk":82,"def":36,"mag":19,"spr":27},{"hp":545,"mp":29,"atk":63,"def":28,"mag":15,"spr":21},{"hp":382,"mp":21,"atk":44,"def":19,"mag":10,"spr":15}],"fragmentId":"250025400","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5451,"mp":293,"atk":315,"def":277,"mag":148,"spr":209},"minStats":{"hp":1799,"mp":97,"atk":104,"def":91,"mag":49,"spr":69},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"skills":[{"hp":5000,"hp%":60,"mp%":110,"atk%":200,"def%":110,"spr%":60,"singleWielding":{"accuracy":25,"atk":200},"oneWeaponMastery":{"atk":100},"chainMastery":100,"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"ice","percent":30}],"killers":[{"name":"machine","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"human","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200}],"mpRefresh":8,"lbDamage":200},{"atk%":50,"def%":50,"mag%":50,"spr%":50,"equipedConditions":["greatSword"]},{"atk":1750,"equipedConditions":[["504244818","303014200"]]},{"atk":500,"exLevelCondition":3}]},
-  "215003307":{"name":"選ばれし王の軍師イグニス","roles":["physicalAttacker"],"id":"215003307","game_id":"undefined","game":"undefined","braveShift":"215003317","exAwakening":[{"hp":718,"mp":48,"atk":82,"def":36,"mag":32,"spr":31},{"hp":553,"mp":37,"atk":63,"def":28,"mag":24,"spr":24},{"hp":387,"mp":26,"atk":44,"def":19,"mag":17,"spr":17}],"fragmentId":"250025100","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5183,"mp":366,"atk":315,"def":276,"mag":223,"spr":237},"minStats":{"hp":1710,"mp":121,"atk":104,"def":91,"mag":74,"spr":78},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","staff","rod","spear","throwing","mace","lightShield","hat","clothes","lightArmor","robe","visionCard"],"enhancementSkills":["タクティカルアサルト","短剣の極意"],"enhancements":[{"name":"短剣の極意","levels":[[{"equipedConditions":["dagger"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["dagger"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["dagger"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]},{"name":"短剣の極意","levels":[[{"equipedConditions":["dagger"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["dagger"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["dagger"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}],"skills":[{"hp%":60,"mp%":110,"atk%":200,"def%":60,"spr%":60,"dualWielding":{"atk":200},"chainMastery":200,"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"poison","percent":100},{"name":"blind","percent":100},{"name":"confuse","percent":100},{"name":"petrification","percent":100},{"name":"ice","percent":30}],"killers":[{"name":"human","physical":200,"magical":200},{"name":"machine","physical":200,"magical":200},{"name":"demon","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200}],"mpRefresh":12,"lbDamage":150,"special":["dualWield"]},{"atk":1000,"equipedConditions":[["504244806","301009200"]]},{"atk":500,"exLevelCondition":3}]},
-  "215003317":{"name":"選ばれし王の軍師イグニス BS","roles":["physicalAttacker","support"],"id":"215003317","game_id":"undefined","game":"undefined","braveShifted":"215003307","exAwakening":[{"hp":718,"mp":48,"atk":82,"def":36,"mag":32,"spr":31},{"hp":553,"mp":37,"atk":63,"def":28,"mag":24,"spr":24},{"hp":387,"mp":26,"atk":44,"def":19,"mag":17,"spr":17}],"fragmentId":"250025100","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5527,"mp":341,"atk":315,"def":259,"mag":242,"spr":219},"minStats":{"hp":1824,"mp":113,"atk":104,"def":85,"mag":80,"spr":72},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","staff","rod","spear","throwing","mace","lightShield","hat","helm","clothes","lightArmor","robe","visionCard"],"enhancementSkills":["タクティカルアサルト","アイシクルジャンプ","調理","短剣の極意","槍の極意"],"enhancements":[{"name":"短剣の極意","levels":[[{"equipedConditions":["dagger"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["dagger"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["dagger"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]},{"name":"槍の極意","levels":[[{"equipedConditions":["spear"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["spear"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["spear"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]},{"name":"短剣の極意","levels":[[{"equipedConditions":["dagger"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["dagger"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["dagger"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]},{"name":"槍の極意","levels":[[{"equipedConditions":["spear"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["spear"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["spear"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}],"skills":[{"hp%":60,"mp%":60,"atk%":200,"def%":100,"spr%":100,"dualWielding":{"atk":200},"chainMastery":200,"jumpDamage":300,"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"poison","percent":100},{"name":"blind","percent":100},{"name":"confuse","percent":100},{"name":"petrification","percent":100},{"name":"ice","percent":30}],"killers":[{"name":"human","physical":200,"magical":200},{"name":"machine","physical":200,"magical":200},{"name":"demon","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200}],"mpRefresh":12,"lbDamage":150,"special":["dualWield"]},{"atk":1250,"jumpDamage":200,"equipedConditions":[["504244806","301009200"]]},{"atk":500,"exLevelCondition":3}]},
   "254002407":{"name":"朱を纏いし０組ケイト","jpname":"朱を纏いし０組ケイト","roles":["debuffer"],"id":"254002407","game_id":"undefined","game":"undefined","braveShift":"254002417","exAwakening":[{"hp":657,"mp":41,"atk":35,"def":26,"mag":75,"spr":26},{"hp":505,"mp":31,"atk":27,"def":20,"mag":58,"spr":20},{"hp":354,"mp":22,"atk":19,"def":14,"mag":41,"spr":14}],"fragmentId":"250019200","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5051,"mp":312,"atk":267,"def":199,"mag":290,"spr":203},"minStats":{"hp":1667,"mp":103,"atk":88,"def":66,"mag":96,"spr":67},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","gun","hat","clothes","visionCard"],"enhancementSkills":["魂に刻まれた記憶","爆発弾","ファイガ","ブリザガ","サンダガ","エアロガ"],"enhancements":[{"name":"魂に刻まれた記憶","levels":[[{"skillEnhancement":{"20200":120,"20210":120,"20220":120,"20240":120,"70010":120,"70020":120,"70170":120,"70180":120,"70250":120,"70260":120,"70270":120,"70280":120,"70480":120,"70481":120,"70482":120,"70493":120}}],[{"skillEnhancement":{"20200":140,"20210":140,"20220":140,"20240":140,"70010":140,"70020":140,"70170":140,"70180":140,"70250":140,"70260":140,"70270":140,"70280":140,"70480":140,"70481":140,"70482":140,"70493":140}}],[{"skillEnhancement":{"20200":160,"20210":160,"20220":160,"20240":160,"70010":160,"70020":160,"70170":160,"70180":160,"70250":160,"70260":160,"70270":160,"70280":160,"70480":160,"70481":160,"70482":160,"70493":160}}],[{"skillEnhancement":{"20200":180,"20210":180,"20220":180,"20240":180,"70010":180,"70020":180,"70170":180,"70180":180,"70250":180,"70260":180,"70270":180,"70280":180,"70480":180,"70481":180,"70482":180,"70493":180}}],[{"skillEnhancement":{"20200":200,"20210":200,"20220":200,"20240":200,"70010":200,"70020":200,"70170":200,"70180":200,"70250":200,"70260":200,"70270":200,"70280":200,"70480":200,"70481":200,"70482":200,"70493":200}}]]},{"name":"魂に刻まれた記憶","levels":[[{"skillEnhancement":{"20200":120,"20210":120,"20220":120,"20240":120,"70010":120,"70020":120,"70170":120,"70180":120,"70250":120,"70260":120,"70270":120,"70280":120,"70480":120,"70481":120,"70482":120,"70493":120}}],[{"skillEnhancement":{"20200":140,"20210":140,"20220":140,"20240":140,"70010":140,"70020":140,"70170":140,"70180":140,"70250":140,"70260":140,"70270":140,"70280":140,"70480":140,"70481":140,"70482":140,"70493":140}}],[{"skillEnhancement":{"20200":160,"20210":160,"20220":160,"20240":160,"70010":160,"70020":160,"70170":160,"70180":160,"70250":160,"70260":160,"70270":160,"70280":160,"70480":160,"70481":160,"70482":160,"70493":160}}],[{"skillEnhancement":{"20200":180,"20210":180,"20220":180,"20240":180,"70010":180,"70020":180,"70170":180,"70180":180,"70250":180,"70260":180,"70270":180,"70280":180,"70480":180,"70481":180,"70482":180,"70493":180}}],[{"skillEnhancement":{"20200":200,"20210":200,"20220":200,"20240":200,"70010":200,"70020":200,"70170":200,"70180":200,"70250":200,"70260":200,"70270":200,"70280":200,"70480":200,"70481":200,"70482":200,"70493":200}}]]}],"skills":[{"mp%":60,"atk%":150,"mag%":150,"evade":{"physical":20},"singleWielding":{"accuracy":25,"mag":100},"singleWieldingOneHanded":{"accuracy":25,"atk":100},"oneWeaponMastery":{"atk":100,"mag":100},"chainMastery":100,"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"fire","percent":15},{"name":"ice","percent":15},{"name":"lightning","percent":15},{"name":"wind","percent":15},{"name":"blind","percent":100}],"killers":[{"name":"beast","physical":150,"magical":150},{"name":"human","physical":150,"magical":150},{"name":"machine","physical":150,"magical":150},{"name":"stone","physical":150,"magical":150}],"mpRefresh":8,"esperStatsBonus":{"all":{"hp":100,"mp":100,"atk":100,"def":100,"mag":100,"spr":100}}},{"atk%":100,"def%":100,"mag%":100,"spr%":100,"equipedConditions":["gun"]},{"mag":500,"mag%":50,"lbDamage":150,"equipedConditions":[["409076900","313011600"]]},{"atk":500,"mag":500,"exLevelCondition":3}]},
   "254002417":{"name":"朱を纏いし０組ケイト BS","jpname":"朱を纏いし０組ケイト BS","roles":["debuffer"],"id":"254002417","game_id":"undefined","game":"undefined","braveShifted":"254002407","exAwakening":[{"hp":657,"mp":41,"atk":35,"def":26,"mag":75,"spr":26},{"hp":505,"mp":31,"atk":27,"def":20,"mag":58,"spr":20},{"hp":354,"mp":22,"atk":19,"def":14,"mag":41,"spr":14}],"fragmentId":"250019200","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5051,"mp":312,"atk":267,"def":199,"mag":290,"spr":203},"minStats":{"hp":1667,"mp":103,"atk":88,"def":66,"mag":96,"spr":67},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","gun","hat","clothes","visionCard"],"skills":[{"mp%":60,"atk%":150,"mag%":150,"evade":{"physical":20},"singleWielding":{"accuracy":25,"mag":100},"singleWieldingOneHanded":{"accuracy":25,"atk":100},"oneWeaponMastery":{"atk":100,"mag":100},"chainMastery":100,"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"fire","percent":15},{"name":"ice","percent":15},{"name":"lightning","percent":15},{"name":"wind","percent":15},{"name":"blind","percent":100}],"killers":[{"name":"beast","physical":150,"magical":150},{"name":"human","physical":150,"magical":150},{"name":"machine","physical":150,"magical":150},{"name":"stone","physical":150,"magical":150}],"mpRefresh":8,"esperStatsBonus":{"all":{"hp":100,"mp":100,"atk":100,"def":100,"mag":100,"spr":100}},"skillEnhancement":{"20200":120,"20210":120,"20220":120,"20240":120,"70010":120,"70020":120,"70170":120,"70180":120,"70250":120,"70260":120,"70270":120,"70280":120,"70480":120,"70481":120,"70482":120,"70493":120}},{"atk%":100,"def%":100,"mag%":100,"spr%":100,"equipedConditions":["gun"]},{"mag":500,"mag%":50,"lbDamage":150,"equipedConditions":[["409076900","313011600"]]},{"atk":500,"mag":500,"exLevelCondition":3}]},
   "256000101":{"name":"Riko","jpname":"リコ(リコドキッ！)","roles":["healer","support"],"id":"256000101","game_id":"undefined","game":"undefined","max_rarity":"6","min_rarity":"1","sex":"female","stats":{"maxStats":{"hp":3575,"mp":183,"atk":104,"def":109,"mag":124,"spr":136},"minStats":{"hp":1180,"mp":60,"atk":34,"def":36,"mag":41,"spr":45},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["dagger","staff","rod","hammer","harp","hat","clothes","lightArmor","robe"],"skills":[{"hp%":20,"mp%":30,"def%":20,"spr%":20,"evade":{"physical":20},"esperStatsBonus":{"all":{"hp":10,"mp":10,"atk":10,"def":10,"mag":10,"spr":10}}}]},

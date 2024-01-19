@@ -5761,7 +5761,7 @@
         }
     },
     "215000501": {
-        "name": "剣神と炎神の攻防",
+        "name": "Fight of the Draconian and the Infernian",
         "compendium_id": 204,
         "compendium_shown": true,
         "rarity": 1,
@@ -5792,10 +5792,10 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "炎神イフリートと死闘を繰り広げるノクティスに、剣神バハムートが加勢する。アルテマソードを放ち高高度から攻撃するバハムート。イフリートはそれを次々とかわして応戦する。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "剣神と炎神の攻防",
-            "music": "♪NOX DIVINA",
+            "desc": "The Infernian, Ifrit, is locked in a dead heat with Noctis when the Draconian, Bahamut, joins the battle. Bahamut unleashes Ultima Sword from high above, but Ifrit dodges each attack and returns fire.",
+            "info": "The Infernian, Ifrit, is locked in a dead heat with Noctis when the Draconian, Bahamut, joins the battle. Bahamut unleashes Ultima Sword from high above, but Ifrit dodges each attack and returns fire.",
+            "shop": "Fight of the Draconian and the Infernian",
+            "music": "NOX DIVINA",
             "music_id": "4001708"
         }
     },
@@ -10744,6 +10744,45 @@
             "shop": "Champion of the Light Crystal",
             "music": "Sacred Ground",
             "music_id": "400319"
+        }
+    },
+    "401009601": {
+        "name": "Equip Ultimate Armament!",
+        "compendium_id": 9095,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [170, 170, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [170, 170, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "1": [918137, 918138, 918139]
+        },
+        "restriction": {
+            "918137": [7702],
+            "918138": [7702],
+            "918139": [7702]
+        },
+        "max_level": 1,
+        "exp_pattern": 1,
+        "stat_pattern": 1,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "An automaton who perpetually wondered about the human heart. Gathering together the thoughts entrusted to her by her companions, she unleashes the ultimate blast of power. Although she has yet to understand the human heart completely, she thinks she feels a warmness in her chest from the bonds she has forged.",
+            "info": "An automaton who perpetually wondered about the human heart. Gathering together the thoughts entrusted to her by her companions, she unleashes the ultimate blast of power. Although she has yet to understand the human heart completely, she thinks she feels a warmness in her chest from the bonds she has forged.",
+            "shop": "Equip Ultimate Armament!",
+            "music": "Break the Limit!",
+            "music_id": "400341"
         }
     },
     "900020101": {

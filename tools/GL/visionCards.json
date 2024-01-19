@@ -1473,6 +1473,18 @@
 {"id":"215000401", "name":"Walk Tall, My Son", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_215000401.png", "sortId":203, "vc":["215003107"], "levels":[
 	{"atk":170, "mag":170, "conditional":[{"atk%":80,"mag%":80},{"lbDamage":100},{"staticStats":{"atk":650,"mag":650}}]}
 ]},
+{"id":"215000501", "name":"Fight of the Draconian and the Infernian", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_215000501.png", "sortId":204, "vc":["215003207","215003307","215003407"], "levels":[
+	{"atk":65},
+	{"atk":71},
+	{"atk":78},
+	{"atk":84, "atk%":50},
+	{"atk":91, "atk%":50},
+	{"atk":97, "atk%":50},
+	{"atk":104, "atk%":50, "lbDamage":25},
+	{"atk":110, "atk%":50, "lbDamage":25},
+	{"atk":117, "atk%":50, "lbDamage":25},
+	{"atk":130, "atk%":50, "lbDamage":25, "conditional":[{"staticStats":{"atk":500}}]}
+]},
 {"id":"249000101", "name":"Y, R, P. - It's showtime, girls.", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_249000101.png", "sortId":128, "vc":["249000407","249000507","249000607"], "levels":[
 	{"atk":55, "mag":55},
 	{"atk":60, "mag":60},
@@ -2550,6 +2562,9 @@
 ]},
 {"id":"401009401", "name":"Champion of the Light Crystal", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_401009401.png", "sortId":9093, "levels":[
 	{"atk":170, "def":170, "conditional":[{"atk%":80,"def%":80},{"killers":[{"name":"human","physical":100},{"name":"spirit","physical":100}]},{"staticStats":{"atk":500,"def":500}}]}
+]},
+{"id":"401009601", "name":"Equip Ultimate Armament!", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_401009601.png", "sortId":9095, "levels":[
+	{"atk":170, "mag":170, "conditional":[{"atk%":80,"mag%":80},{"chainMastery":100},{"lbDamage":100},{"staticStats":{"atk":500,"mag":500}}]}
 ]},
 {"id":"900020101", "name":"Metal Gigantuar's Here!", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_900020101.png", "sortId":6, "levels":[
 	{"hp":10, "mp":10}

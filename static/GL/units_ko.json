@@ -2,7 +2,7 @@
 
 	"100000102": {
 		"name":"레인",
-		"roles":["physicalTank","debuffer","support"],
+		"roles":[null,"debuffer","support"],
 		"wikiEntry":"Rain",
 		"id":"100000102",
 		"game_id":"11001",
@@ -470,7 +470,7 @@
 	},
 	"100002103": {
 		"name":"클라인",
-		"roles":["healer","physicalTank"],
+		"roles":["healer",null],
 		"wikiEntry":"Clyne",
 		"id":"100002103",
 		"game_id":"11001",
@@ -688,7 +688,7 @@
 	},
 	"100003302": {
 		"name":"올리",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Ollie",
 		"id":"100003302",
 		"game_id":"11001",
@@ -886,7 +886,7 @@
 	},
 	"100004303": {
 		"name":"샤를로트",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Charlotte",
 		"id":"100004303",
 		"game_id":"11001",
@@ -1292,7 +1292,7 @@
 	},
 	"100006105": {
 		"name":"빌헬름",
-		"roles":["physicalTank","support","debuffer"],
+		"roles":[null,"support","debuffer"],
 		"wikiEntry":"Wilhelm",
 		"id":"100006105",
 		"game_id":"11001",
@@ -1311,7 +1311,7 @@
 		"categories":["Physical Tank","Support","FFBE","Physical Tank","Support","FFBE","Physical Tank","Support","Breaker","FFBE"],
 		"6_form": {
 			"name":"빌헬름",
-			"roles":["physicalTank","support"],
+			"roles":[null,"support"],
 			"wikiEntry":"Wilhelm",
 			"id":"100006105",
 			"game_id":"11001",
@@ -1908,7 +1908,7 @@
 	},
 	"100008104": {
 		"name":"위대한 대지의 베리어스",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Veritas_of the Earth",
 		"id":"100008104",
 		"game_id":"11001",
@@ -2310,7 +2310,7 @@
 	},
 	"100009805": {
 		"name":"엘프리데",
-		"roles":["physicalTank","debuffer","support"],
+		"roles":[null,"debuffer","support"],
 		"wikiEntry":"Elfreeda",
 		"id":"100009805",
 		"game_id":"11001",
@@ -2329,7 +2329,7 @@
 		"categories":["Ice","Physical Tank","Breaker","FFBE","Ice","Physical Tank","Breaker","FFBE","Ice","Physical Tank","Breaker","Support","FFBE"],
 		"6_form": {
 			"name":"엘프리데",
-			"roles":["physicalTank","debuffer"],
+			"roles":[null,"debuffer"],
 			"wikiEntry":"Elfreeda",
 			"id":"100009805",
 			"game_id":"11001",
@@ -3134,7 +3134,7 @@
 	},
 	"100012304": {
 		"name":"오제타",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"wikiEntry":"Ozetta",
 		"id":"100012304",
 		"game_id":"11001",
@@ -4083,7 +4083,7 @@
 	},
 	"100016304": {
 		"name":"샤탈",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Shatal",
 		"id":"100016304",
 		"game_id":"11001",
@@ -4328,7 +4328,7 @@
 	},
 	"100017204": {
 		"name":"레오폴드",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Leopold",
 		"id":"100017204",
 		"game_id":"11001",
@@ -4555,7 +4555,7 @@
 	},
 	"100017905": {
 		"name":"지크하르트",
-		"roles":["physicalTank","debuffer"],
+		"roles":[null,"debuffer"],
 		"wikiEntry":"Sieghard",
 		"id":"100017905",
 		"game_id":"11001",
@@ -4577,7 +4577,7 @@
 		"categories":["Earth","Physical Tank","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"지크하르트",
-			"roles":["physicalTank","debuffer"],
+			"roles":[null,"debuffer"],
 			"wikiEntry":"Sieghard",
 			"id":"100017905",
 			"game_id":"11001",
@@ -4598,7 +4598,7 @@
 		},
 		"7_form": {
 			"name":"지크하르트",
-			"roles":["physicalTank","debuffer"],
+			"roles":[null,"debuffer"],
 			"wikiEntry":"Sieghard",
 			"id":"100017905",
 			"game_id":"11001",
@@ -4620,7 +4620,7 @@
 	},
 	"100017927": {
 		"name":"지크하르트 BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Sieghard",
 		"id":"100017927",
 		"game_id":"11001",
@@ -7395,7 +7395,7 @@
 	},
 	"100027505": {
 		"name":"신성한 요새 샤를로트",
-		"roles":["physicalTank","magicalTank","support"],
+		"roles":[null,"magicalTank","support"],
 		"wikiEntry":"Hallowed_Aegis Charlotte",
 		"id":"100027505",
 		"game_id":"11001",
@@ -7413,7 +7413,7 @@
 		"categories":["Light","Physical Tank","Support","FFBE","Anniversary (JP)","Evocation","Light","Physical Tank","Magic Tank","Support","FFBE","Anniversary (JP)","Evocation","Light","Physical Tank","Magic Tank","Support","FFBE","Anniversary (JP)","Evocation"],
 		"6_form": {
 			"name":"신성한 요새 샤를로트",
-			"roles":["physicalTank","magicalTank","support"],
+			"roles":[null,"magicalTank","support"],
 			"wikiEntry":"Hallowed_Aegis Charlotte",
 			"id":"100027505",
 			"game_id":"11001",
@@ -7727,7 +7727,7 @@
 	},
 	"100028305": {
 		"name":"데이지",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"wikiEntry":"Daisy",
 		"id":"100028305",
 		"game_id":"11001",
@@ -7749,7 +7749,7 @@
 		"categories":["Earth","Physical Tank","Support","FFBE","FFBE S3","The Gathering"],
 		"6_form": {
 			"name":"데이지",
-			"roles":["physicalTank","support"],
+			"roles":[null,"support"],
 			"wikiEntry":"Daisy",
 			"id":"100028305",
 			"game_id":"11001",
@@ -7770,7 +7770,7 @@
 		},
 		"7_form": {
 			"name":"데이지",
-			"roles":["physicalTank","support"],
+			"roles":[null,"support"],
 			"wikiEntry":"Daisy",
 			"id":"100028305",
 			"game_id":"11001",
@@ -7792,7 +7792,7 @@
 	},
 	"100028327": {
 		"name":"데이지 BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Daisy",
 		"id":"100028327",
 		"game_id":"11001",
@@ -8832,7 +8832,7 @@
 	},
 	"100032305": {
 		"name":"기사단의 미남자 로렌스",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Knightly_Paragon Lawrence",
 		"id":"100032305",
 		"game_id":"11001",
@@ -8850,7 +8850,7 @@
 		"categories":["Physical Tank","FFBE","Royal Arms","Physical Tank","FFBE","Royal Arms","Physical Tank","FFBE","Royal Arms"],
 		"6_form": {
 			"name":"기사단의 미남자 로렌스",
-			"roles":["physicalTank"],
+			"roles":[null],
 			"wikiEntry":"Knightly_Paragon Lawrence",
 			"id":"100032305",
 			"game_id":"11001",
@@ -9949,7 +9949,7 @@
 	},
 	"100037407": {
 		"name":"룬도",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Runda",
 		"id":"100037407",
 		"game_id":"11001",
@@ -9972,7 +9972,7 @@
 	},
 	"100037417": {
 		"name":"룬도 BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Runda",
 		"id":"100037417",
 		"game_id":"11001",
@@ -12260,7 +12260,7 @@
 	},
 	"201000104": {
 		"name":"빛의 전사",
-		"roles":["physicalTank","debuffer","support"],
+		"roles":[null,"debuffer","support"],
 		"wikiEntry":"Warrior_of Light",
 		"id":"201000104",
 		"game_id":"10001",
@@ -12320,7 +12320,7 @@
 	},
 	"201000405": {
 		"name":"워리어 오브 라이트",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"wikiEntry":"Awakened_Warrior of Light",
 		"id":"201000405",
 		"game_id":"10001",
@@ -12339,7 +12339,7 @@
 		"categories":["Light","Physical Tank","FFI","Blessing of the Crystals","Light","Physical Tank","Support","FFI","Blessing of the Crystals","Light","Physical Tank","Support","FFI","Blessing of the Crystals"],
 		"6_form": {
 			"name":"워리어 오브 라이트",
-			"roles":["physicalTank","support"],
+			"roles":[null,"support"],
 			"wikiEntry":"Awakened_Warrior of Light",
 			"id":"201000405",
 			"game_id":"10001",
@@ -12448,7 +12448,7 @@
 	},
 	"201000607": {
 		"name":"시작의 전사",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Fledgling_Warrior",
 		"id":"201000607",
 		"game_id":"10001",
@@ -12471,7 +12471,7 @@
 	},
 	"201000617": {
 		"name":"시작의 전사 BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Fledgling_Warrior",
 		"id":"201000617",
 		"game_id":"10001",
@@ -12624,7 +12624,7 @@
 	},
 	"202000303": {
 		"name":"가이",
-		"roles":["physicalTank","debuffer"],
+		"roles":[null,"debuffer"],
 		"wikiEntry":"Guy",
 		"id":"202000303",
 		"game_id":"10002",
@@ -12646,7 +12646,7 @@
 		"categories":["Earth","Physical Tank","Breaker","FFII","The Rebellion"],
 		"6_form": {
 			"name":"가이",
-			"roles":["physicalTank","debuffer"],
+			"roles":[null,"debuffer"],
 			"wikiEntry":"Guy",
 			"id":"202000303",
 			"game_id":"10002",
@@ -12667,7 +12667,7 @@
 		},
 		"7_form": {
 			"name":"가이",
-			"roles":["physicalTank","debuffer"],
+			"roles":[null,"debuffer"],
 			"wikiEntry":"Guy",
 			"id":"202000303",
 			"game_id":"10002",
@@ -12689,7 +12689,7 @@
 	},
 	"202000327": {
 		"name":"가이 BS",
-		"roles":["physicalTank","debuffer"],
+		"roles":[null,"debuffer"],
 		"wikiEntry":"Guy",
 		"id":"202000327",
 		"game_id":"10002",
@@ -13982,7 +13982,7 @@
 	},
 	"204000103": {
 		"name":"세실",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Cecil",
 		"id":"204000103",
 		"game_id":"10004",
@@ -14792,7 +14792,7 @@
 	},
 	"205000303": {
 		"name":"가라프",
-		"roles":["physicalTank","debuffer"],
+		"roles":[null,"debuffer"],
 		"wikiEntry":"Galuf",
 		"id":"205000303",
 		"game_id":"10005",
@@ -15045,7 +15045,7 @@
 	},
 	"205001005": {
 		"name":"새벽의 전사 가라프",
-		"roles":["physicalAttacker","support","physicalTank"],
+		"roles":["physicalAttacker","support",null],
 		"wikiEntry":"Warrior_of Dawn Galuf",
 		"id":"205001005",
 		"game_id":"10005",
@@ -15067,7 +15067,7 @@
 		"categories":["Fire","Attacker","Support","Physical Tank","FFV","Blessing of the Crystals","The Gathering","Royal Arms"],
 		"6_form": {
 			"name":"새벽의 전사 가라프",
-			"roles":["physicalAttacker","support","physicalTank"],
+			"roles":["physicalAttacker","support",null],
 			"wikiEntry":"Warrior_of Dawn Galuf",
 			"id":"205001005",
 			"game_id":"10005",
@@ -15088,7 +15088,7 @@
 		},
 		"7_form": {
 			"name":"새벽의 전사 가라프",
-			"roles":["physicalAttacker","support","physicalTank"],
+			"roles":["physicalAttacker","support",null],
 			"wikiEntry":"Warrior_of Dawn Galuf",
 			"id":"205001005",
 			"game_id":"10005",
@@ -16259,7 +16259,7 @@
 	},
 	"206002005": {
 		"name":"콜츠의 격투가 매시",
-		"roles":["physicalAttacker","physicalTank","magicalTank"],
+		"roles":["physicalAttacker",null,"magicalTank"],
 		"wikiEntry":"Monk_Sabin of Kolts",
 		"id":"206002005",
 		"game_id":"10006",
@@ -18045,7 +18045,7 @@
 	},
 	"207002127": {
 		"name":"바레트(FFVII REMAKE) BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Barret_(FFVII REMAKE)",
 		"id":"207002127",
 		"game_id":"10007",
@@ -18518,7 +18518,7 @@
 	},
 	"207003207": {
 		"name":"아발란치의 리더 바레트",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Avalanche's_Barret",
 		"id":"207003207",
 		"game_id":"10007",
@@ -18541,7 +18541,7 @@
 	},
 	"207003217": {
 		"name":"아발란치의 리더 바레트 BS",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Avalanche's_Barret",
 		"id":"207003217",
 		"game_id":"10007",
@@ -20322,7 +20322,7 @@
 	},
 	"209003005": {
 		"name":"충성스런 기사 스타이너",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Loyal_Knight Steiner",
 		"id":"209003005",
 		"game_id":"10009",
@@ -20340,7 +20340,7 @@
 		"categories":["Lightning","Physical Tank","FFIX","The Gathering","Royal Arms","Lightning","Physical Tank","FFIX","The Gathering","Royal Arms","Lightning","Physical Tank","FFIX","The Gathering","Royal Arms"],
 		"6_form": {
 			"name":"충성스런 기사 스타이너",
-			"roles":["physicalTank"],
+			"roles":[null],
 			"wikiEntry":"Loyal_Knight Steiner",
 			"id":"209003005",
 			"game_id":"10009",
@@ -20499,7 +20499,7 @@
 	},
 	"209003507": {
 		"name":"플루토 부대 대장 스타이너",
-		"roles":["physicalTank","debuffer"],
+		"roles":[null,"debuffer"],
 		"wikiEntry":"Knights_of Pluto Captain Steiner",
 		"id":"209003507",
 		"game_id":"10009",
@@ -20522,7 +20522,7 @@
 	},
 	"209003517": {
 		"name":"플루토 부대 대장 스타이너 BS",
-		"roles":["physicalTank","physicalAttacker","debuffer"],
+		"roles":[null,"physicalAttacker","debuffer"],
 		"wikiEntry":"Knights_of Pluto Captain Steiner",
 		"id":"209003517",
 		"game_id":"10009",
@@ -21617,7 +21617,7 @@
 	},
 	"210002607": {
 		"name":"환상의 가드 젝트",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Fabled_Guardian Jecht",
 		"id":"210002607",
 		"game_id":"10010",
@@ -21640,7 +21640,7 @@
 	},
 	"210002617": {
 		"name":"환상의 가드 젝트 BS",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Fabled_Guardian Jecht",
 		"id":"210002617",
 		"game_id":"10010",
@@ -22124,7 +22124,7 @@
 	},
 	"211001517": {
 		"name":"손을 쓰지 않는 인형사 아프마우 BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Royal_Puppeteer Aphmau",
 		"id":"211001517",
 		"game_id":"10011",
@@ -22424,7 +22424,7 @@
 	},
 	"212000905": {
 		"name":"바슈",
-		"roles":["physicalTank","magicalTank","debuffer"],
+		"roles":[null,"magicalTank","debuffer"],
 		"wikiEntry":"Basch",
 		"id":"212000905",
 		"game_id":"10012",
@@ -22443,7 +22443,7 @@
 		"categories":["Support","Breaker","FFXII","The Rebellion","The Gathering","Royal Arms","Physical Tank","Magic Tank","Breaker","FFXII","The Rebellion","The Gathering","Royal Arms","Physical Tank","Magic Tank","Breaker","FFXII","The Rebellion","The Gathering","Royal Arms"],
 		"6_form": {
 			"name":"바슈",
-			"roles":["physicalTank","magicalTank","debuffer"],
+			"roles":[null,"magicalTank","debuffer"],
 			"wikiEntry":"Basch",
 			"id":"212000905",
 			"game_id":"10012",
@@ -22465,7 +22465,7 @@
 	},
 	"212001004": {
 		"name":"라슬러",
-		"roles":["physicalTank","healer"],
+		"roles":[null,"healer"],
 		"wikiEntry":"Rasler",
 		"id":"212001004",
 		"game_id":"10012",
@@ -22485,7 +22485,7 @@
 	},
 	"212001105": {
 		"name":"가브라스",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Gabranth",
 		"id":"212001105",
 		"game_id":"10012",
@@ -22503,7 +22503,7 @@
 		"categories":[null,null,"Dark","Physical Tank","Attacker","FFXII"],
 		"6_form": {
 			"name":"가브라스",
-			"roles":["physicalTank","physicalAttacker","debuffer"],
+			"roles":[null,"physicalAttacker","debuffer"],
 			"wikiEntry":"Gabranth",
 			"id":"212001105",
 			"game_id":"10012",
@@ -22931,7 +22931,7 @@
 	},
 	"212002207": {
 		"name":"가브라스 -네오 비전-",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Gabranth_-Neo Vision-",
 		"id":"212002207",
 		"game_id":"10012",
@@ -22954,7 +22954,7 @@
 	},
 	"212002217": {
 		"name":"가브라스 -네오 비전- BS",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Gabranth_-Neo Vision-",
 		"id":"212002217",
 		"game_id":"10012",
@@ -23241,7 +23241,7 @@
 	},
 	"213000204": {
 		"name":"스노우",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Snow",
 		"id":"213000204",
 		"game_id":"10013",
@@ -23778,7 +23778,7 @@
 	},
 	"213001907": {
 		"name":"시드 레인즈",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Cid_Raines",
 		"id":"213001907",
 		"game_id":"10013",
@@ -23801,7 +23801,7 @@
 	},
 	"213001917": {
 		"name":"시드 레인즈 BS",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Cid_Raines",
 		"id":"213001917",
 		"game_id":"10013",
@@ -24003,7 +24003,7 @@
 	},
 	"215000205": {
 		"name":"글라디올러스",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Gladiolus",
 		"id":"215000205",
 		"game_id":"10015",
@@ -24025,7 +24025,7 @@
 		"categories":["Earth","Physical Tank","Attacker","FFXV","Royal Arms"],
 		"6_form": {
 			"name":"글라디올러스",
-			"roles":["physicalTank","physicalAttacker"],
+			"roles":[null,"physicalAttacker"],
 			"wikiEntry":"Gladiolus",
 			"id":"215000205",
 			"game_id":"10015",
@@ -24046,7 +24046,7 @@
 		},
 		"7_form": {
 			"name":"글라디올러스",
-			"roles":["physicalTank","physicalAttacker"],
+			"roles":[null,"physicalAttacker"],
 			"wikiEntry":"Gladiolus",
 			"id":"215000205",
 			"game_id":"10015",
@@ -24582,7 +24582,7 @@
 	},
 	"215001403": {
 		"name":"리베르투스",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"wikiEntry":"Libertus",
 		"id":"215001403",
 		"game_id":"10015",
@@ -25046,6 +25046,98 @@
 		"enhancementSkills":["Spectral Gleam","Armiger Strike","Sword Mastery"],
 		"categories":["Light","Attacker","FFXV","Blessing of the Crystals","Royal Arms","Clash of Wills","CW - Light"]
 	},
+	"215003207": {
+		"name":"Chosen King's Shield Gladiolus",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Chosen_King's Shield Gladiolus",
+		"id":"215003207",
+		"game_id":"10015",
+		"game":"FFXV",
+		"braveShift":"215003217",
+		"exAwakening": [{"hp":709,"mp":38,"atk":82,"def":36,"mag":19,"spr":27},{"hp":545,"mp":29,"atk":63,"def":28,"mag":15,"spr":21},{"hp":382,"mp":21,"atk":44,"def":19,"mag":10,"spr":15}],
+		"fragmentId": "250025400",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5451,"mp":293,"atk":315,"def":277,"mag":148,"spr":209},
+			"minStats":{"hp":1799,"mp":97,"atk":104,"def":91,"mag":49,"spr":69},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Frozen Hammer","Shining Hammer","Large Sword Mastery"],
+		"categories":["Ice","Attacker","FFXV","Royal Arms"]
+	},
+	"215003217": {
+		"name":"Chosen King's Shield Gladiolus BS",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Chosen_King's Shield Gladiolus",
+		"id":"215003217",
+		"game_id":"10015",
+		"game":"FFXV",
+		"braveShifted":"215003207",
+		"exAwakening": [{"hp":709,"mp":38,"atk":82,"def":36,"mag":19,"spr":27},{"hp":545,"mp":29,"atk":63,"def":28,"mag":15,"spr":21},{"hp":382,"mp":21,"atk":44,"def":19,"mag":10,"spr":15}],
+		"fragmentId": "250025400",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5451,"mp":293,"atk":315,"def":277,"mag":148,"spr":209},
+			"minStats":{"hp":1799,"mp":97,"atk":104,"def":91,"mag":49,"spr":69},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Frozen Hammer","Shining Hammer","Large Sword Mastery"],
+		"categories":["Ice","Attacker","FFXV","Royal Arms"]
+	},
+	"215003307": {
+		"name":"Chosen King's Tactician Ignis",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Chosen_King's Tactician Ignis",
+		"id":"215003307",
+		"game_id":"10015",
+		"game":"FFXV",
+		"braveShift":"215003317",
+		"exAwakening": [{"hp":718,"mp":48,"atk":82,"def":36,"mag":32,"spr":31},{"hp":553,"mp":37,"atk":63,"def":28,"mag":24,"spr":24},{"hp":387,"mp":26,"atk":44,"def":19,"mag":17,"spr":17}],
+		"fragmentId": "250025100",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5183,"mp":366,"atk":315,"def":276,"mag":223,"spr":237},
+			"minStats":{"hp":1710,"mp":121,"atk":104,"def":91,"mag":74,"spr":78},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","staff","rod","spear","throwing","mace","lightShield","hat","clothes","lightArmor","robe","visionCard"],
+		"enhancementSkills":["Tactical Assault","Dagger Mastery"],
+		"categories":["Ice","Attacker","FFXV","Royal Arms"]
+	},
+	"215003317": {
+		"name":"Chosen King's Tactician Ignis BS",
+		"roles":["physicalAttacker","support"],
+		"wikiEntry":"Chosen_King's Tactician Ignis",
+		"id":"215003317",
+		"game_id":"10015",
+		"game":"FFXV",
+		"braveShifted":"215003307",
+		"exAwakening": [{"hp":718,"mp":48,"atk":82,"def":36,"mag":32,"spr":31},{"hp":553,"mp":37,"atk":63,"def":28,"mag":24,"spr":24},{"hp":387,"mp":26,"atk":44,"def":19,"mag":17,"spr":17}],
+		"fragmentId": "250025100",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5527,"mp":341,"atk":315,"def":259,"mag":242,"spr":219},
+			"minStats":{"hp":1824,"mp":113,"atk":104,"def":85,"mag":80,"spr":72},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","staff","rod","spear","throwing","mace","lightShield","hat","helm","clothes","lightArmor","robe","visionCard"],
+		"enhancementSkills":["Tactical Assault","Icicle Jump","Cooking","Dagger Mastery","Spear Mastery"],
+		"categories":["Ice","Attacker","Support","FFXV","Royal Arms"]
+	},
 	"215003407": {
 		"name":"Chosen King's Friend Prompto",
 		"roles":["physicalAttacker","debuffer"],
@@ -25066,6 +25158,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","hammer","harp","whip","throwing","gun","lightShield","hat","clothes","lightArmor","robe","visionCard"],
+		"enhancementSkills":["Frozen Piercer","Shining Piercer","Gun Mastery"],
 		"categories":["Light","Attacker","Breaker","FFXV","Royal Arms"]
 	},
 	"215003417": {
@@ -25088,6 +25181,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","hammer","harp","whip","throwing","gun","lightShield","hat","clothes","lightArmor","robe","visionCard"],
+		"enhancementSkills":["Frozen Piercer","Shining Piercer","Gun Mastery"],
 		"categories":["Light","Attacker","FFXV","Royal Arms"]
 	},
 	"249000105": {
@@ -25612,7 +25706,7 @@
 	},
 	"253000115": {
 		"name":"용병 람자",
-		"roles":["physicalAttacker","debuffer","physicalTank"],
+		"roles":["physicalAttacker","debuffer",null],
 		"wikiEntry":"Mercenary_Ramza",
 		"id":"253000115",
 		"game_id":"11002",
@@ -25631,7 +25725,7 @@
 		"categories":["Fire","Attacker","Breaker","FFT","The Rebellion","Fire","Attacker","Physical Tank","Breaker","FFT","The Rebellion","Fire","Attacker","Breaker","Physical Tank","FFT","The Rebellion"],
 		"6_form": {
 			"name":"용병 람자",
-			"roles":["physicalAttacker","debuffer","physicalTank"],
+			"roles":["physicalAttacker","debuffer",null],
 			"wikiEntry":"Mercenary_Ramza",
 			"id":"253000115",
 			"game_id":"11002",
@@ -27289,7 +27383,7 @@
 	},
 	"258000107": {
 		"name":"고고한 태수 스노우",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Solitary_Patron Snow",
 		"id":"258000107",
 		"game_id":"11007",
@@ -27537,7 +27631,7 @@
 	},
 	"302000705": {
 		"name":"백기사 노엘",
-		"roles":["magicalAttacker","physicalTank","magicalTank"],
+		"roles":["magicalAttacker",null,"magicalTank"],
 		"wikiEntry":"White_Knight Noel",
 		"id":"302000705",
 		"game_id":"11001",
@@ -27556,7 +27650,7 @@
 		"categories":[null,null,null],
 		"6_form": {
 			"name":"백기사 노엘",
-			"roles":["magicalAttacker","physicalTank","magicalTank"],
+			"roles":["magicalAttacker",null,"magicalTank"],
 			"wikiEntry":"White_Knight Noel",
 			"id":"302000705",
 			"game_id":"11001",
@@ -28108,7 +28202,7 @@
 	},
 	"306000503": {
 		"name":"골렘",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Golem",
 		"id":"306000503",
 		"game_id":"20006",
@@ -28620,7 +28714,7 @@
 	},
 	"312000517": {
 		"name":"듀란",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Duran",
 		"id":"312000517",
 		"game_id":"20012",
@@ -29695,7 +29789,7 @@
 	},
 	"334000205": {
 		"name":"올베릭",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Olberic",
 		"id":"334000205",
 		"game_id":"20025",
@@ -29713,7 +29807,7 @@
 		"categories":[null,null,"Attacker","Physical Tank","Another World"],
 		"6_form": {
 			"name":"올베릭",
-			"roles":["physicalAttacker","physicalTank"],
+			"roles":["physicalAttacker",null],
 			"wikiEntry":"Olberic",
 			"id":"334000205",
 			"game_id":"20025",
@@ -30384,7 +30478,7 @@
 	},
 	"338000205": {
 		"name":"알폰스 엘릭",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Alphonse_Elric",
 		"id":"338000205",
 		"game_id":"20032",
@@ -30402,7 +30496,7 @@
 		"categories":[null,null,"Fire","Physical Tank","Another World"],
 		"6_form": {
 			"name":"알폰스 엘릭",
-			"roles":["physicalTank"],
+			"roles":[null],
 			"wikiEntry":"Alphonse_Elric",
 			"id":"338000205",
 			"game_id":"20032",
@@ -30760,7 +30854,7 @@
 	},
 	"339000205": {
 		"name":"몬트 레오니스",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"Mont_Leonis",
 		"id":"339000205",
 		"game_id":"11010",
@@ -30778,7 +30872,7 @@
 		"categories":["Fire","Physical Tank","Another World","WOTV FFBE","Fire","Physical Tank","Another World","WOTV FFBE","Fire","Physical Tank","Another World","WOTV FFBE"],
 		"6_form": {
 			"name":"몬트 레오니스",
-			"roles":["physicalTank"],
+			"roles":[null],
 			"wikiEntry":"Mont_Leonis",
 			"id":"339000205",
 			"game_id":"11010",
@@ -30926,7 +31020,7 @@
 	},
 	"339000607": {
 		"name":"레오니스의 왕 몬트",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"King_of Leonis Mont",
 		"id":"339000607",
 		"game_id":"11010",
@@ -30949,7 +31043,7 @@
 	},
 	"339000617": {
 		"name":"레오니스의 왕 몬트 BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"wikiEntry":"King_of Leonis Mont",
 		"id":"339000617",
 		"game_id":"11010",
@@ -31599,7 +31693,7 @@
 	},
 	"344000407": {
 		"name":"수왕 크로코다인",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Beast_King Crocodine",
 		"id":"344000407",
 		"game_id":"20037",
@@ -31622,7 +31716,7 @@
 	},
 	"344000417": {
 		"name":"수왕 크로코다인 BS",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Beast_King Crocodine",
 		"id":"344000417",
 		"game_id":"20037",
@@ -32206,7 +32300,7 @@
 	},
 	"401000205": {
 		"name":"악마 레인",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"wikiEntry":"Demon_Rain",
 		"id":"401000205",
 		"game_id":"11001",
@@ -32225,7 +32319,7 @@
 		"categories":[null,null,null],
 		"6_form": {
 			"name":"악마 레인",
-			"roles":["physicalTank","support"],
+			"roles":[null,"support"],
 			"wikiEntry":"Demon_Rain",
 			"id":"401000205",
 			"game_id":"11001",
@@ -32698,7 +32792,7 @@
 	},
 	"401001604": {
 		"name":"카이나초",
-		"roles":["physicalTank","magicalTank"],
+		"roles":[null,"magicalTank"],
 		"wikiEntry":"Cagnazzo",
 		"id":"401001604",
 		"game_id":"10004",
@@ -32962,7 +33056,7 @@
 	},
 	"401002504": {
 		"name":"스포츠걸 아리아나",
-		"roles":["physicalTank","magicalTank"],
+		"roles":[null,"magicalTank"],
 		"wikiEntry":"Sportive_Ariana",
 		"id":"401002504",
 		"game_id":"90001",
@@ -33177,7 +33271,7 @@
 	},
 	"401002905": {
 		"name":"레이 잭",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Ray_Jack",
 		"id":"401002905",
 		"game_id":"90002",
@@ -33197,7 +33291,7 @@
 	},
 	"401003004": {
 		"name":"바루사",
-		"roles":["physicalTank","magicalTank","support"],
+		"roles":[null,"magicalTank","support"],
 		"wikiEntry":"Barusa",
 		"id":"401003004",
 		"game_id":"90002",
@@ -33767,7 +33861,7 @@
 	},
 	"401005005": {
 		"name":"빅토르 마르첸코",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Viktor_Marchenko",
 		"id":"401005005",
 		"game_id":"90005",
@@ -33785,7 +33879,7 @@
 		"categories":[null,null,null],
 		"6_form": {
 			"name":"빅토르 마르첸코",
-			"roles":["physicalAttacker","physicalTank"],
+			"roles":["physicalAttacker",null],
 			"wikiEntry":"Viktor_Marchenko",
 			"id":"401005005",
 			"game_id":"90005",
@@ -33844,7 +33938,7 @@
 	},
 	"401005305": {
 		"name":"알로하 라스웰",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Aloha_Lasswell",
 		"id":"401005305",
 		"game_id":"11001",
@@ -33862,7 +33956,7 @@
 		"categories":[null,null,null],
 		"6_form": {
 			"name":"알로하 라스웰",
-			"roles":["physicalAttacker","physicalTank"],
+			"roles":["physicalAttacker",null],
 			"wikiEntry":"Aloha_Lasswell",
 			"id":"401005305",
 			"game_id":"11001",
@@ -34002,7 +34096,7 @@
 	},
 	"401005905": {
 		"name":"릴리스",
-		"roles":["physicalTank","magicalTank","healer"],
+		"roles":[null,"magicalTank","healer"],
 		"wikiEntry":"Lilith",
 		"id":"401005905",
 		"game_id":"11001",
@@ -34021,7 +34115,7 @@
 		"categories":[null,null,null],
 		"6_form": {
 			"name":"릴리스",
-			"roles":["physicalTank","magicalTank","healer"],
+			"roles":[null,"magicalTank","healer"],
 			"wikiEntry":"Lilith",
 			"id":"401005905",
 			"game_id":"11001",
@@ -34410,7 +34504,7 @@
 	},
 	"401006805": {
 		"name":"에스더",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Esther",
 		"id":"401006805",
 		"game_id":"11001",
@@ -34429,7 +34523,7 @@
 		"categories":[null,null,null],
 		"6_form": {
 			"name":"에스더",
-			"roles":["physicalAttacker","physicalTank"],
+			"roles":["physicalAttacker",null],
 			"wikiEntry":"Esther",
 			"id":"401006805",
 			"game_id":"11001",
@@ -34572,7 +34666,7 @@
 	},
 	"401007205": {
 		"name":"카튼",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Karten",
 		"id":"401007205",
 		"game_id":"11001",
@@ -34590,7 +34684,7 @@
 		"categories":[null,null,null],
 		"6_form": {
 			"name":"카튼",
-			"roles":["physicalAttacker","physicalTank"],
+			"roles":["physicalAttacker",null],
 			"wikiEntry":"Karten",
 			"id":"401007205",
 			"game_id":"11001",
@@ -34808,7 +34902,7 @@
 	},
 	"401007905": {
 		"name":"의사 에이단",
-		"roles":["healer","physicalTank"],
+		"roles":["healer",null],
 		"wikiEntry":"Doctor_Aiden",
 		"id":"401007905",
 		"game_id":"11001",
@@ -34826,7 +34920,7 @@
 		"categories":[null,null,null],
 		"6_form": {
 			"name":"의사 에이단",
-			"roles":["healer","physicalTank"],
+			"roles":["healer",null],
 			"wikiEntry":"Doctor_Aiden",
 			"id":"401007905",
 			"game_id":"11001",
@@ -35208,7 +35302,7 @@
 	},
 	"401008805": {
 		"name":"현무와 청룡",
-		"roles":["physicalAttacker","physicalTank","magicalTank"],
+		"roles":["physicalAttacker",null,"magicalTank"],
 		"wikiEntry":"Xuan_Wu & Qing Long",
 		"id":"401008805",
 		"game_id":"11001",
@@ -35226,7 +35320,7 @@
 		"categories":[null,null,null],
 		"6_form": {
 			"name":"현무와 청룡",
-			"roles":["physicalAttacker","physicalTank","magicalTank"],
+			"roles":["physicalAttacker",null,"magicalTank"],
 			"wikiEntry":"Xuan_Wu & Qing Long",
 			"id":"401008805",
 			"game_id":"11001",
@@ -35247,7 +35341,7 @@
 	},
 	"401008905": {
 		"name":"지크하르트&이그니시오",
-		"roles":["physicalAttacker","physicalTank","support"],
+		"roles":["physicalAttacker",null,"support"],
 		"wikiEntry":"Sieghard_& Ignacio",
 		"id":"401008905",
 		"game_id":"11001",
@@ -35265,7 +35359,7 @@
 		"categories":[null,null,null],
 		"6_form": {
 			"name":"지크하르트&이그니시오",
-			"roles":["physicalAttacker","physicalTank","support"],
+			"roles":["physicalAttacker",null,"support"],
 			"wikiEntry":"Sieghard_& Ignacio",
 			"id":"401008905",
 			"game_id":"11001",
@@ -35636,7 +35730,7 @@
 	},
 	"401010407": {
 		"name":"노피",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"wikiEntry":"Noppy",
 		"id":"401010407",
 		"game_id":"11001",
@@ -35866,7 +35960,7 @@
 	},
 	"401010907": {
 		"name":"킹 베헤미",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"wikiEntry":"King_Behemy",
 		"id":"401010907",
 		"game_id":"11001",
@@ -35889,7 +35983,7 @@
 	},
 	"401010917": {
 		"name":"킹 베헤미 BS",
-		"roles":["physicalTank","physicalAttacker","debuffer"],
+		"roles":[null,"physicalAttacker","debuffer"],
 		"wikiEntry":"King_Behemy",
 		"id":"401010917",
 		"game_id":"11001",
@@ -36326,7 +36420,7 @@
 	},
 	"401012307": {
 		"name":"마에브",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"wikiEntry":"Maeve",
 		"id":"401012307",
 		"game_id":"11001",
@@ -36533,7 +36627,7 @@
 	},
 	"401012817": {
 		"name":"폭풍 추적자 에스더 BS",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Storm_Seeker Esther",
 		"id":"401012817",
 		"game_id":"11001",
@@ -36923,7 +37017,7 @@
 	},
 	"401013707": {
 		"name":"우아한 요부 릴리스",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Elegant_Temptress Lilith",
 		"id":"401013707",
 		"game_id":"11001",
@@ -36946,7 +37040,7 @@
 	},
 	"401013717": {
 		"name":"우아한 요부 릴리스 BS",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"wikiEntry":"Elegant_Temptress Lilith",
 		"id":"401013717",
 		"game_id":"11001",
@@ -38069,10 +38163,6 @@
   "214000627":{"name":"魔女ヤ・シュトラ BS","roles":["magicalAttacker","debuffer"],"id":"214000627","game_id":"undefined","game":"undefined","braveShifted":"214000605","exAwakening":[{"hp":638,"mp":42,"atk":26,"def":29,"mag":38,"spr":34},{"hp":491,"mp":32,"atk":20,"def":23,"mag":29,"spr":26},{"hp":343,"mp":23,"atk":14,"def":16,"mag":20,"spr":18}],"fragmentId":"250028000","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":4907,"mp":322,"atk":204,"def":228,"mag":290,"spr":263},"minStats":{"hp":1619,"mp":106,"atk":67,"def":75,"mag":96,"spr":87},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","hammer","lightShield","hat","clothes","robe","visionCard"]},
   "214000707":{"name":"アルフィノ","roles":["support","healer"],"id":"214000707","game_id":"undefined","game":"undefined","braveShift":"214000717","exAwakening":[{"hp":687,"mp":45,"atk":23,"def":29,"mag":75,"spr":35},{"hp":529,"mp":35,"atk":18,"def":22,"mag":58,"spr":27},{"hp":370,"mp":24,"atk":12,"def":16,"mag":41,"spr":19}],"fragmentId":"250027900","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5286,"mp":348,"atk":178,"def":223,"mag":290,"spr":267},"minStats":{"hp":1744,"mp":115,"atk":59,"def":74,"mag":96,"spr":88},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","hat","clothes","robe","visionCard"],"enhancementSkills":["暁の血盟【アルフィノ】","ロッドの極意","破陣法"]},
   "214000717":{"name":"アルフィノ BS","roles":["support","healer"],"id":"214000717","game_id":"undefined","game":"undefined","braveShifted":"214000707","exAwakening":[{"hp":687,"mp":45,"atk":23,"def":29,"mag":75,"spr":35},{"hp":529,"mp":35,"atk":18,"def":22,"mag":58,"spr":27},{"hp":370,"mp":24,"atk":12,"def":16,"mag":41,"spr":19}],"fragmentId":"250027900","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5286,"mp":348,"atk":178,"def":223,"mag":290,"spr":267},"minStats":{"hp":1744,"mp":115,"atk":59,"def":74,"mag":96,"spr":88},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","hat","clothes","robe","visionCard"]},
-  "215003207":{"name":"選ばれし王の護衛グラディオラス","roles":["physicalAttacker"],"id":"215003207","game_id":"undefined","game":"undefined","braveShift":"215003217","exAwakening":[{"hp":709,"mp":38,"atk":82,"def":36,"mag":19,"spr":27},{"hp":545,"mp":29,"atk":63,"def":28,"mag":15,"spr":21},{"hp":382,"mp":21,"atk":44,"def":19,"mag":10,"spr":15}],"fragmentId":"250025400","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5451,"mp":293,"atk":315,"def":277,"mag":148,"spr":209},"minStats":{"hp":1799,"mp":97,"atk":104,"def":91,"mag":49,"spr":69},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["フローズンブレイカー","シャイニングブレイカー","大剣の極意"]},
-  "215003217":{"name":"選ばれし王の護衛グラディオラス BS","roles":["physicalAttacker"],"id":"215003217","game_id":"undefined","game":"undefined","braveShifted":"215003207","exAwakening":[{"hp":709,"mp":38,"atk":82,"def":36,"mag":19,"spr":27},{"hp":545,"mp":29,"atk":63,"def":28,"mag":15,"spr":21},{"hp":382,"mp":21,"atk":44,"def":19,"mag":10,"spr":15}],"fragmentId":"250025400","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5451,"mp":293,"atk":315,"def":277,"mag":148,"spr":209},"minStats":{"hp":1799,"mp":97,"atk":104,"def":91,"mag":49,"spr":69},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"]},
-  "215003307":{"name":"選ばれし王の軍師イグニス","roles":["physicalAttacker"],"id":"215003307","game_id":"undefined","game":"undefined","braveShift":"215003317","exAwakening":[{"hp":718,"mp":48,"atk":82,"def":36,"mag":32,"spr":31},{"hp":553,"mp":37,"atk":63,"def":28,"mag":24,"spr":24},{"hp":387,"mp":26,"atk":44,"def":19,"mag":17,"spr":17}],"fragmentId":"250025100","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5183,"mp":366,"atk":315,"def":276,"mag":223,"spr":237},"minStats":{"hp":1710,"mp":121,"atk":104,"def":91,"mag":74,"spr":78},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","staff","rod","spear","throwing","mace","lightShield","hat","clothes","lightArmor","robe","visionCard"],"enhancementSkills":["タクティカルアサルト","短剣の極意"]},
-  "215003317":{"name":"選ばれし王の軍師イグニス BS","roles":["physicalAttacker","support"],"id":"215003317","game_id":"undefined","game":"undefined","braveShifted":"215003307","exAwakening":[{"hp":718,"mp":48,"atk":82,"def":36,"mag":32,"spr":31},{"hp":553,"mp":37,"atk":63,"def":28,"mag":24,"spr":24},{"hp":387,"mp":26,"atk":44,"def":19,"mag":17,"spr":17}],"fragmentId":"250025100","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5527,"mp":341,"atk":315,"def":259,"mag":242,"spr":219},"minStats":{"hp":1824,"mp":113,"atk":104,"def":85,"mag":80,"spr":72},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","staff","rod","spear","throwing","mace","lightShield","hat","helm","clothes","lightArmor","robe","visionCard"],"enhancementSkills":["タクティカルアサルト","アイシクルジャンプ","調理","短剣の極意","槍の極意"]},
   "254002407":{"name":"朱を纏いし０組ケイト","jpname":"朱を纏いし０組ケイト","roles":["debuffer"],"id":"254002407","game_id":"undefined","game":"undefined","braveShift":"254002417","exAwakening":[{"hp":657,"mp":41,"atk":35,"def":26,"mag":75,"spr":26},{"hp":505,"mp":31,"atk":27,"def":20,"mag":58,"spr":20},{"hp":354,"mp":22,"atk":19,"def":14,"mag":41,"spr":14}],"fragmentId":"250019200","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5051,"mp":312,"atk":267,"def":199,"mag":290,"spr":203},"minStats":{"hp":1667,"mp":103,"atk":88,"def":66,"mag":96,"spr":67},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","gun","hat","clothes","visionCard"],"enhancementSkills":["魂に刻まれた記憶","爆発弾","ファイガ","ブリザガ","サンダガ","エアロガ"]},
   "254002417":{"name":"朱を纏いし０組ケイト BS","jpname":"朱を纏いし０組ケイト BS","roles":["debuffer"],"id":"254002417","game_id":"undefined","game":"undefined","braveShifted":"254002407","exAwakening":[{"hp":657,"mp":41,"atk":35,"def":26,"mag":75,"spr":26},{"hp":505,"mp":31,"atk":27,"def":20,"mag":58,"spr":20},{"hp":354,"mp":22,"atk":19,"def":14,"mag":41,"spr":14}],"fragmentId":"250019200","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5051,"mp":312,"atk":267,"def":199,"mag":290,"spr":203},"minStats":{"hp":1667,"mp":103,"atk":88,"def":66,"mag":96,"spr":67},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","gun","hat","clothes","visionCard"]},
   "256000101":{"name":"Riko","jpname":"リコ(リコドキッ！)","roles":["healer","support"],"id":"256000101","game_id":"undefined","game":"undefined","max_rarity":"6","min_rarity":"1","sex":"female","stats":{"maxStats":{"hp":3575,"mp":183,"atk":104,"def":109,"mag":124,"spr":136},"minStats":{"hp":1180,"mp":60,"atk":34,"def":36,"mag":41,"spr":45},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["dagger","staff","rod","hammer","harp","hat","clothes","lightArmor","robe"]},

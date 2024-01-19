@@ -2,7 +2,7 @@
 
 	"100000102": {
 		"name":"Rain",
-		"roles":["physicalTank","debuffer","support"],
+		"roles":[null,"debuffer","support"],
 		"id":"100000102",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -548,7 +548,7 @@
 	},
 	"100002103": {
 		"name":"Clyne",
-		"roles":["healer","physicalTank"],
+		"roles":["healer",null],
 		"id":"100002103",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -792,7 +792,7 @@
 	},
 	"100003302": {
 		"name":"Ollie",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"100003302",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -1014,7 +1014,7 @@
 	},
 	"100004303": {
 		"name":"Charlotte",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"100004303",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -1519,7 +1519,7 @@
 	},
 	"100006105": {
 		"name":"Wilhelm",
-		"roles":["physicalTank","support","debuffer"],
+		"roles":[null,"support","debuffer"],
 		"id":"100006105",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -1546,7 +1546,7 @@
 		],
 		"6_form": {
 			"name":"Wilhelm",
-			"roles":["physicalTank","support"],
+			"roles":[null,"support"],
 			"id":"100006105",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -2337,7 +2337,7 @@
 	},
 	"100008104": {
 		"name":"Veritas of the Earth",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"100008104",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -2851,7 +2851,7 @@
 	},
 	"100009805": {
 		"name":"Elfreeda",
-		"roles":["physicalTank","debuffer","support"],
+		"roles":[null,"debuffer","support"],
 		"id":"100009805",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -2883,7 +2883,7 @@
 		],
 		"6_form": {
 			"name":"Elfreeda",
-			"roles":["physicalTank","debuffer"],
+			"roles":[null,"debuffer"],
 			"id":"100009805",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -3990,7 +3990,7 @@
 	},
 	"100012304": {
 		"name":"Ozetta",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"id":"100012304",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -5304,7 +5304,7 @@
 	},
 	"100016304": {
 		"name":"Shatal",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"100016304",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -5614,7 +5614,7 @@
 	},
 	"100017204": {
 		"name":"Leopold",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"100017204",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -5911,7 +5911,7 @@
 	},
 	"100017905": {
 		"name":"Sieghard",
-		"roles":["physicalTank","debuffer"],
+		"roles":[null,"debuffer"],
 		"id":"100017905",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -5945,7 +5945,7 @@
 		],
 		"6_form": {
 			"name":"Sieghard",
-			"roles":["physicalTank","debuffer"],
+			"roles":[null,"debuffer"],
 			"id":"100017905",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -5974,7 +5974,7 @@
 		},
 		"7_form": {
 			"name":"Sieghard",
-			"roles":["physicalTank","debuffer"],
+			"roles":[null,"debuffer"],
 			"id":"100017905",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -6007,7 +6007,7 @@
 	},
 	"100017927": {
 		"name":"Sieghard BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"100017927",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -9610,7 +9610,7 @@
 	},
 	"100027505": {
 		"name":"Hallowed Aegis Charlotte",
-		"roles":["physicalTank","magicalTank","support"],
+		"roles":[null,"magicalTank","support"],
 		"id":"100027505",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -9636,7 +9636,7 @@
 		],
 		"6_form": {
 			"name":"Hallowed Aegis Charlotte",
-			"roles":["physicalTank","magicalTank","support"],
+			"roles":[null,"magicalTank","support"],
 			"id":"100027505",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -10060,7 +10060,7 @@
 	},
 	"100028305": {
 		"name":"Daisy",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"id":"100028305",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -10092,7 +10092,7 @@
 		],
 		"6_form": {
 			"name":"Daisy",
-			"roles":["physicalTank","support"],
+			"roles":[null,"support"],
 			"id":"100028305",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -10115,7 +10115,7 @@
 		},
 		"7_form": {
 			"name":"Daisy",
-			"roles":["physicalTank","support"],
+			"roles":[null,"support"],
 			"id":"100028305",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -10143,7 +10143,7 @@
 	},
 	"100028327": {
 		"name":"Daisy BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"100028327",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -11504,7 +11504,7 @@
 	},
 	"100032305": {
 		"name":"Knightly Paragon Lawrence",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"100032305",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -11531,7 +11531,7 @@
 		],
 		"6_form": {
 			"name":"Knightly Paragon Lawrence",
-			"roles":["physicalTank"],
+			"roles":[null],
 			"id":"100032305",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -12944,7 +12944,7 @@
 	},
 	"100037407": {
 		"name":"Runda",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"100037407",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -12973,7 +12973,7 @@
 	},
 	"100037417": {
 		"name":"Runda BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"100037417",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -15960,7 +15960,7 @@
 	},
 	"201000104": {
 		"name":"Warrior of Light",
-		"roles":["physicalTank","debuffer","support"],
+		"roles":[null,"debuffer","support"],
 		"id":"201000104",
 		"game_id":"10001",
 		"game":"FFI",
@@ -16034,7 +16034,7 @@
 	},
 	"201000405": {
 		"name":"Awakened Warrior of Light",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"id":"201000405",
 		"game_id":"10001",
 		"game":"FFI",
@@ -16059,7 +16059,7 @@
 		],
 		"6_form": {
 			"name":"Awakened Warrior of Light",
-			"roles":["physicalTank","support"],
+			"roles":[null,"support"],
 			"id":"201000405",
 			"game_id":"10001",
 			"game":"FFI",
@@ -16217,7 +16217,7 @@
 	},
 	"201000607": {
 		"name":"Fledgling Warrior",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"201000607",
 		"game_id":"10001",
 		"game":"FFI",
@@ -16246,7 +16246,7 @@
 	},
 	"201000617": {
 		"name":"Fledgling Warrior BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"201000617",
 		"game_id":"10001",
 		"game":"FFI",
@@ -16452,7 +16452,7 @@
 	},
 	"202000303": {
 		"name":"Guy",
-		"roles":["physicalTank","debuffer"],
+		"roles":[null,"debuffer"],
 		"id":"202000303",
 		"game_id":"10002",
 		"game":"FFII",
@@ -16492,7 +16492,7 @@
 		],
 		"6_form": {
 			"name":"Guy",
-			"roles":["physicalTank","debuffer"],
+			"roles":[null,"debuffer"],
 			"id":"202000303",
 			"game_id":"10002",
 			"game":"FFII",
@@ -16515,7 +16515,7 @@
 		},
 		"7_form": {
 			"name":"Guy",
-			"roles":["physicalTank","debuffer"],
+			"roles":[null,"debuffer"],
 			"id":"202000303",
 			"game_id":"10002",
 			"game":"FFII",
@@ -16544,7 +16544,7 @@
 	},
 	"202000327": {
 		"name":"Guy BS",
-		"roles":["physicalTank","debuffer"],
+		"roles":[null,"debuffer"],
 		"id":"202000327",
 		"game_id":"10002",
 		"game":"FFII",
@@ -18365,7 +18365,7 @@
 	},
 	"204000103": {
 		"name":"Cecil",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"204000103",
 		"game_id":"10004",
 		"game":"FFIV",
@@ -19391,7 +19391,7 @@
 	},
 	"205000303": {
 		"name":"Galuf",
-		"roles":["physicalTank","debuffer"],
+		"roles":[null,"debuffer"],
 		"id":"205000303",
 		"game_id":"10005",
 		"game":"FFV",
@@ -19860,7 +19860,7 @@
 	},
 	"205001005": {
 		"name":"Warrior of Dawn Galuf",
-		"roles":["physicalAttacker","support","physicalTank"],
+		"roles":["physicalAttacker","support",null],
 		"id":"205001005",
 		"game_id":"10005",
 		"game":"FFV",
@@ -19898,7 +19898,7 @@
 		],
 		"6_form": {
 			"name":"Warrior of Dawn Galuf",
-			"roles":["physicalAttacker","support","physicalTank"],
+			"roles":["physicalAttacker","support",null],
 			"id":"205001005",
 			"game_id":"10005",
 			"game":"FFV",
@@ -19926,7 +19926,7 @@
 		},
 		"7_form": {
 			"name":"Warrior of Dawn Galuf",
-			"roles":["physicalAttacker","support","physicalTank"],
+			"roles":["physicalAttacker","support",null],
 			"id":"205001005",
 			"game_id":"10005",
 			"game":"FFV",
@@ -21413,7 +21413,7 @@
 	},
 	"206002005": {
 		"name":"Monk Sabin of Kolts",
-		"roles":["physicalAttacker","physicalTank","magicalTank"],
+		"roles":["physicalAttacker",null,"magicalTank"],
 		"id":"206002005",
 		"game_id":"10006",
 		"game":"FFVI",
@@ -23771,7 +23771,7 @@
 	},
 	"207002127": {
 		"name":"Barret (FFVII REMAKE) BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"207002127",
 		"game_id":"10007",
 		"game":"FFVII",
@@ -24404,7 +24404,7 @@
 	},
 	"207003207": {
 		"name":"Avalanche's Barret",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"id":"207003207",
 		"game_id":"10007",
 		"game":"FFVII",
@@ -24435,7 +24435,7 @@
 	},
 	"207003217": {
 		"name":"Avalanche's Barret BS",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"id":"207003217",
 		"game_id":"10007",
 		"game":"FFVII",
@@ -26808,7 +26808,7 @@
 	},
 	"209003005": {
 		"name":"Loyal Knight Steiner",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"209003005",
 		"game_id":"10009",
 		"game":"FFIX",
@@ -26830,7 +26830,7 @@
 		],
 		"6_form": {
 			"name":"Loyal Knight Steiner",
-			"roles":["physicalTank"],
+			"roles":[null],
 			"id":"209003005",
 			"game_id":"10009",
 			"game":"FFIX",
@@ -27038,7 +27038,7 @@
 	},
 	"209003507": {
 		"name":"Knights of Pluto Captain Steiner",
-		"roles":["physicalTank","debuffer"],
+		"roles":[null,"debuffer"],
 		"id":"209003507",
 		"game_id":"10009",
 		"game":"FFIX",
@@ -27068,7 +27068,7 @@
 	},
 	"209003517": {
 		"name":"Knights of Pluto Captain Steiner BS",
-		"roles":["physicalTank","physicalAttacker","debuffer"],
+		"roles":[null,"physicalAttacker","debuffer"],
 		"id":"209003517",
 		"game_id":"10009",
 		"game":"FFIX",
@@ -28583,7 +28583,7 @@
 	},
 	"210002607": {
 		"name":"Fabled Guardian Jecht",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"id":"210002607",
 		"game_id":"10010",
 		"game":"FFX",
@@ -28616,7 +28616,7 @@
 	},
 	"210002617": {
 		"name":"Fabled Guardian Jecht BS",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"id":"210002617",
 		"game_id":"10010",
 		"game":"FFX",
@@ -29267,7 +29267,7 @@
 	},
 	"211001517": {
 		"name":"Royal Puppeteer Aphmau BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"211001517",
 		"game_id":"10011",
 		"game":"FFXI",
@@ -29656,7 +29656,7 @@
 	},
 	"212000905": {
 		"name":"Basch",
-		"roles":["physicalTank","magicalTank","debuffer"],
+		"roles":[null,"magicalTank","debuffer"],
 		"id":"212000905",
 		"game_id":"10012",
 		"game":"FFXII",
@@ -29685,7 +29685,7 @@
 		],
 		"6_form": {
 			"name":"Basch",
-			"roles":["physicalTank","magicalTank","debuffer"],
+			"roles":[null,"magicalTank","debuffer"],
 			"id":"212000905",
 			"game_id":"10012",
 			"game":"FFXII",
@@ -29712,7 +29712,7 @@
 	},
 	"212001004": {
 		"name":"Rasler",
-		"roles":["physicalTank","healer"],
+		"roles":[null,"healer"],
 		"id":"212001004",
 		"game_id":"10012",
 		"game":"FFXII",
@@ -29738,7 +29738,7 @@
 	},
 	"212001105": {
 		"name":"Gabranth",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"id":"212001105",
 		"game_id":"10012",
 		"game":"FFXII",
@@ -29766,7 +29766,7 @@
 		],
 		"6_form": {
 			"name":"Gabranth",
-			"roles":["physicalTank","physicalAttacker","debuffer"],
+			"roles":[null,"physicalAttacker","debuffer"],
 			"id":"212001105",
 			"game_id":"10012",
 			"game":"FFXII",
@@ -30354,7 +30354,7 @@
 	},
 	"212002207": {
 		"name":"Gabranth -Neo Vision-",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"id":"212002207",
 		"game_id":"10012",
 		"game":"FFXII",
@@ -30402,7 +30402,7 @@
 	},
 	"212002217": {
 		"name":"Gabranth -Neo Vision- BS",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"id":"212002217",
 		"game_id":"10012",
 		"game":"FFXII",
@@ -30817,7 +30817,7 @@
 	},
 	"213000204": {
 		"name":"Snow",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"213000204",
 		"game_id":"10013",
 		"game":"FFXIII",
@@ -31546,7 +31546,7 @@
 	},
 	"213001907": {
 		"name":"Cid Raines",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"id":"213001907",
 		"game_id":"10013",
 		"game":"FFXIII",
@@ -31577,7 +31577,7 @@
 	},
 	"213001917": {
 		"name":"Cid Raines BS",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"id":"213001917",
 		"game_id":"10013",
 		"game":"FFXIII",
@@ -31852,7 +31852,7 @@
 	},
 	"215000205": {
 		"name":"Gladiolus",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"id":"215000205",
 		"game_id":"10015",
 		"game":"FFXV",
@@ -31887,7 +31887,7 @@
 		],
 		"6_form": {
 			"name":"Gladiolus",
-			"roles":["physicalTank","physicalAttacker"],
+			"roles":[null,"physicalAttacker"],
 			"id":"215000205",
 			"game_id":"10015",
 			"game":"FFXV",
@@ -31914,7 +31914,7 @@
 		},
 		"7_form": {
 			"name":"Gladiolus",
-			"roles":["physicalTank","physicalAttacker"],
+			"roles":[null,"physicalAttacker"],
 			"id":"215000205",
 			"game_id":"10015",
 			"game":"FFXV",
@@ -32660,7 +32660,7 @@
 	},
 	"215001403": {
 		"name":"Libertus",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"id":"215001403",
 		"game_id":"10015",
 		"game":"FFXV",
@@ -33230,6 +33230,127 @@
 			{"atk":500, "exLevelCondition":2}
 		]
 	},
+	"215003207": {
+		"name":"Chosen King's Shield Gladiolus",
+		"roles":["physicalAttacker"],
+		"id":"215003207",
+		"game_id":"10015",
+		"game":"FFXV",
+		"braveShift":"215003217",
+		"exAwakening": [{"hp":709,"mp":38,"atk":82,"def":36,"mag":19,"spr":27},{"hp":545,"mp":29,"atk":63,"def":28,"mag":15,"spr":21},{"hp":382,"mp":21,"atk":44,"def":19,"mag":10,"spr":15}],
+		"fragmentId": "250025400",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5451,"mp":293,"atk":315,"def":277,"mag":148,"spr":209},
+			"minStats":{"hp":1799,"mp":97,"atk":104,"def":91,"mag":49,"spr":69},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Frozen Hammer","Shining Hammer","Large Sword Mastery"],
+		"categories":["Ice","Attacker","FFXV","Royal Arms"],
+		"enhancements": [
+			{"name":"Large Sword Mastery","levels":[[{"equipedConditions":["greatSword"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["greatSword"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["greatSword"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}
+		],
+		"skills": [
+			{"hp":5000, "hp%":60, "mp%":110, "atk%":200, "def%":110, "spr%":60, "singleWielding":{"accuracy":25,"atk":200}, "oneWeaponMastery":{"atk":100}, "chainMastery":100, "lbPerTurn":{"min":4,"max":4}, "resist":[{"name":"ice","percent":30}], "killers":[{"name":"machine","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"human","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200}], "mpRefresh":8, "lbDamage":200},
+			{"atk":1750, "equipedConditions":[["504244818","303014200"]]},
+			{"atk":500, "exLevelCondition":3}
+		]
+	},
+	"215003217": {
+		"name":"Chosen King's Shield Gladiolus BS",
+		"roles":["physicalAttacker"],
+		"id":"215003217",
+		"game_id":"10015",
+		"game":"FFXV",
+		"braveShifted":"215003207",
+		"exAwakening": [{"hp":709,"mp":38,"atk":82,"def":36,"mag":19,"spr":27},{"hp":545,"mp":29,"atk":63,"def":28,"mag":15,"spr":21},{"hp":382,"mp":21,"atk":44,"def":19,"mag":10,"spr":15}],
+		"fragmentId": "250025400",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5451,"mp":293,"atk":315,"def":277,"mag":148,"spr":209},
+			"minStats":{"hp":1799,"mp":97,"atk":104,"def":91,"mag":49,"spr":69},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Frozen Hammer","Shining Hammer","Large Sword Mastery"],
+		"categories":["Ice","Attacker","FFXV","Royal Arms"],
+		"enhancements": [
+			{"name":"Large Sword Mastery","levels":[[{"equipedConditions":["greatSword"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["greatSword"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["greatSword"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}
+		],
+		"skills": [
+			{"hp":5000, "hp%":60, "mp%":110, "atk%":200, "def%":110, "spr%":60, "singleWielding":{"accuracy":25,"atk":200}, "oneWeaponMastery":{"atk":100}, "chainMastery":100, "lbPerTurn":{"min":4,"max":4}, "resist":[{"name":"ice","percent":30}], "killers":[{"name":"machine","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"human","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200}], "mpRefresh":8, "lbDamage":200},
+			{"atk":1750, "equipedConditions":[["504244818","303014200"]]},
+			{"atk":500, "exLevelCondition":3}
+		]
+	},
+	"215003307": {
+		"name":"Chosen King's Tactician Ignis",
+		"roles":["physicalAttacker"],
+		"id":"215003307",
+		"game_id":"10015",
+		"game":"FFXV",
+		"braveShift":"215003317",
+		"exAwakening": [{"hp":718,"mp":48,"atk":82,"def":36,"mag":32,"spr":31},{"hp":553,"mp":37,"atk":63,"def":28,"mag":24,"spr":24},{"hp":387,"mp":26,"atk":44,"def":19,"mag":17,"spr":17}],
+		"fragmentId": "250025100",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5183,"mp":366,"atk":315,"def":276,"mag":223,"spr":237},
+			"minStats":{"hp":1710,"mp":121,"atk":104,"def":91,"mag":74,"spr":78},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","staff","rod","spear","throwing","mace","lightShield","hat","clothes","lightArmor","robe","visionCard"],
+		"enhancementSkills":["Tactical Assault","Dagger Mastery"],
+		"categories":["Ice","Attacker","FFXV","Royal Arms"],
+		"enhancements": [
+			{"name":"Dagger Mastery","levels":[[{"equipedConditions":["dagger"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["dagger"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["dagger"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}
+		],
+		"skills": [
+			{"hp%":60, "mp%":110, "atk%":200, "def%":60, "spr%":60, "dualWielding":{"atk":200}, "chainMastery":200, "lbPerTurn":{"min":4,"max":4}, "resist":[{"name":"poison","percent":100},{"name":"blind","percent":100},{"name":"confuse","percent":100},{"name":"petrification","percent":100},{"name":"ice","percent":30}], "killers":[{"name":"human","physical":200,"magical":200},{"name":"machine","physical":200,"magical":200},{"name":"demon","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200}], "mpRefresh":12, "lbDamage":150, "special":["dualWield"]},
+			{"atk":1000, "equipedConditions":[["504244806","301009200"]]},
+			{"atk":500, "exLevelCondition":3}
+		]
+	},
+	"215003317": {
+		"name":"Chosen King's Tactician Ignis BS",
+		"roles":["physicalAttacker","support"],
+		"id":"215003317",
+		"game_id":"10015",
+		"game":"FFXV",
+		"braveShifted":"215003307",
+		"exAwakening": [{"hp":718,"mp":48,"atk":82,"def":36,"mag":32,"spr":31},{"hp":553,"mp":37,"atk":63,"def":28,"mag":24,"spr":24},{"hp":387,"mp":26,"atk":44,"def":19,"mag":17,"spr":17}],
+		"fragmentId": "250025100",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5527,"mp":341,"atk":315,"def":259,"mag":242,"spr":219},
+			"minStats":{"hp":1824,"mp":113,"atk":104,"def":85,"mag":80,"spr":72},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","staff","rod","spear","throwing","mace","lightShield","hat","helm","clothes","lightArmor","robe","visionCard"],
+		"enhancementSkills":["Tactical Assault","Icicle Jump","Cooking","Dagger Mastery","Spear Mastery"],
+		"categories":["Ice","Attacker","Support","FFXV","Royal Arms"],
+		"enhancements": [
+			{"name":"Dagger Mastery","levels":[[{"equipedConditions":["dagger"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["dagger"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["dagger"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]},
+			{"name":"Spear Mastery","levels":[[{"equipedConditions":["spear"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["spear"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["spear"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}
+		],
+		"skills": [
+			{"hp%":60, "mp%":60, "atk%":200, "def%":100, "spr%":100, "dualWielding":{"atk":200}, "chainMastery":200, "jumpDamage":300, "lbPerTurn":{"min":4,"max":4}, "resist":[{"name":"poison","percent":100},{"name":"blind","percent":100},{"name":"confuse","percent":100},{"name":"petrification","percent":100},{"name":"ice","percent":30}], "killers":[{"name":"human","physical":200,"magical":200},{"name":"machine","physical":200,"magical":200},{"name":"demon","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200}], "mpRefresh":12, "lbDamage":150, "special":["dualWield"]},
+			{"atk":1250, "jumpDamage":200, "equipedConditions":[["504244806","301009200"]]},
+			{"atk":500, "exLevelCondition":3}
+		]
+	},
 	"215003407": {
 		"name":"Chosen King's Friend Prompto",
 		"roles":["physicalAttacker","debuffer"],
@@ -33249,10 +33370,13 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","hammer","harp","whip","throwing","gun","lightShield","hat","clothes","lightArmor","robe","visionCard"],
+		"enhancementSkills":["Frozen Piercer","Shining Piercer","Gun Mastery"],
 		"categories":["Light","Attacker","Breaker","FFXV","Royal Arms"],
+		"enhancements": [
+			{"name":"Gun Mastery","levels":[[{"equipedConditions":["gun"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["gun"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["gun"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}
+		],
 		"skills": [
 			{"hp%":110, "mp%":60, "atk%":200, "def%":60, "spr%":60, "dualWielding":{"atk":200}, "chainMastery":200, "lbPerTurn":{"min":7,"max":7}, "resist":[{"name":"light","percent":30}], "killers":[{"name":"machine","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"human","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200}], "mpRefresh":8, "lbDamage":200, "special":["dualWield"]},
-			{"atk%":50, "def%":50, "mag%":50, "spr%":50, "equipedConditions":["gun"]},
 			{"atk":500, "equipedConditions":[["504244812","313012400"]]},
 			{"atk":500, "exLevelCondition":3}
 		]
@@ -33276,10 +33400,13 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","hammer","harp","whip","throwing","gun","lightShield","hat","clothes","lightArmor","robe","visionCard"],
+		"enhancementSkills":["Frozen Piercer","Shining Piercer","Gun Mastery"],
 		"categories":["Light","Attacker","FFXV","Royal Arms"],
+		"enhancements": [
+			{"name":"Gun Mastery","levels":[[{"equipedConditions":["gun"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["gun"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["gun"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}
+		],
 		"skills": [
 			{"hp%":60, "mp%":60, "atk%":200, "def%":60, "spr%":60, "dualWielding":{"atk":200}, "improvedDW":true, "chainMastery":200, "lbFillRate":50, "lbPerTurn":{"min":7,"max":7}, "resist":[{"name":"light","percent":30}], "killers":[{"name":"machine","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"human","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200}], "mpRefresh":8, "lbDamage":200, "special":["dualWield"]},
-			{"atk%":50, "def%":50, "mag%":50, "spr%":50, "equipedConditions":["gun"]},
 			{"atk":500, "equipedConditions":[["504244812","313012400"]]},
 			{"atk":500, "exLevelCondition":3}
 		]
@@ -34021,7 +34148,7 @@
 	},
 	"253000115": {
 		"name":"Mercenary Ramza",
-		"roles":["physicalAttacker","debuffer","physicalTank"],
+		"roles":["physicalAttacker","debuffer",null],
 		"id":"253000115",
 		"game_id":"11002",
 		"game":"FFT",
@@ -34052,7 +34179,7 @@
 		],
 		"6_form": {
 			"name":"Mercenary Ramza",
-			"roles":["physicalAttacker","debuffer","physicalTank"],
+			"roles":["physicalAttacker","debuffer",null],
 			"id":"253000115",
 			"game_id":"11002",
 			"game":"FFT",
@@ -36218,7 +36345,7 @@
 	},
 	"258000107": {
 		"name":"Solitary Patron Snow",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"258000107",
 		"game_id":"11007",
 		"game":"LRFFXIII",
@@ -36515,7 +36642,7 @@
 	},
 	"302000705": {
 		"name":"White Knight Noel",
-		"roles":["magicalAttacker","physicalTank","magicalTank"],
+		"roles":["magicalAttacker",null,"magicalTank"],
 		"id":"302000705",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -36553,7 +36680,7 @@
 		],
 		"6_form": {
 			"name":"White Knight Noel",
-			"roles":["magicalAttacker","physicalTank","magicalTank"],
+			"roles":["magicalAttacker",null,"magicalTank"],
 			"id":"302000705",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -37286,7 +37413,7 @@
 	},
 	"306000503": {
 		"name":"Golem",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"306000503",
 		"game_id":"20006",
 		"game":"Dragon Quest",
@@ -37893,7 +38020,7 @@
 	},
 	"312000517": {
 		"name":"Duran",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"id":"312000517",
 		"game_id":"20012",
 		"game":"Seiken Densetsu 3",
@@ -39271,7 +39398,7 @@
 	},
 	"334000205": {
 		"name":"Olberic",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"id":"334000205",
 		"game_id":"20025",
 		"game":"Octopath Traveler",
@@ -39297,7 +39424,7 @@
 		],
 		"6_form": {
 			"name":"Olberic",
-			"roles":["physicalAttacker","physicalTank"],
+			"roles":["physicalAttacker",null],
 			"id":"334000205",
 			"game_id":"20025",
 			"game":"Octopath Traveler",
@@ -40158,7 +40285,7 @@
 	},
 	"338000205": {
 		"name":"Alphonse Elric",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"338000205",
 		"game_id":"20032",
 		"game":"Other",
@@ -40186,7 +40313,7 @@
 		],
 		"6_form": {
 			"name":"Alphonse Elric",
-			"roles":["physicalTank"],
+			"roles":[null],
 			"id":"338000205",
 			"game_id":"20032",
 			"game":"Other",
@@ -40636,7 +40763,7 @@
 	},
 	"339000205": {
 		"name":"Mont Leonis",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"339000205",
 		"game_id":"11010",
 		"game":"WOTV FFBE",
@@ -40660,7 +40787,7 @@
 		],
 		"6_form": {
 			"name":"Mont Leonis",
-			"roles":["physicalTank"],
+			"roles":[null],
 			"id":"339000205",
 			"game_id":"11010",
 			"game":"WOTV FFBE",
@@ -40848,7 +40975,7 @@
 	},
 	"339000607": {
 		"name":"King of Leonis Mont",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"339000607",
 		"game_id":"11010",
 		"game":"WOTV FFBE",
@@ -40878,7 +41005,7 @@
 	},
 	"339000617": {
 		"name":"King of Leonis Mont BS",
-		"roles":["physicalTank"],
+		"roles":[null],
 		"id":"339000617",
 		"game_id":"11010",
 		"game":"WOTV FFBE",
@@ -41754,7 +41881,7 @@
 	},
 	"344000407": {
 		"name":"Beast King Crocodine",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"id":"344000407",
 		"game_id":"20037",
 		"game":"DRAGON QUEST The Adventure of Dai",
@@ -41784,7 +41911,7 @@
 	},
 	"344000417": {
 		"name":"Beast King Crocodine BS",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"id":"344000417",
 		"game_id":"20037",
 		"game":"DRAGON QUEST The Adventure of Dai",
@@ -42556,7 +42683,7 @@
 	},
 	"401000205": {
 		"name":"Demon Rain",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"id":"401000205",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -42592,7 +42719,7 @@
 		],
 		"6_form": {
 			"name":"Demon Rain",
-			"roles":["physicalTank","support"],
+			"roles":[null,"support"],
 			"id":"401000205",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -43250,7 +43377,7 @@
 	},
 	"401001604": {
 		"name":"Cagnazzo",
-		"roles":["physicalTank","magicalTank"],
+		"roles":[null,"magicalTank"],
 		"id":"401001604",
 		"game_id":"10004",
 		"game":"FFIV",
@@ -43605,7 +43732,7 @@
 	},
 	"401002504": {
 		"name":"Sportive Ariana",
-		"roles":["physicalTank","magicalTank"],
+		"roles":[null,"magicalTank"],
 		"id":"401002504",
 		"game_id":"90001",
 		"game":"Ariana Grande",
@@ -43904,7 +44031,7 @@
 	},
 	"401002905": {
 		"name":"Ray Jack",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"id":"401002905",
 		"game_id":"90002",
 		"game":"King's Knight",
@@ -43930,7 +44057,7 @@
 	},
 	"401003004": {
 		"name":"Barusa",
-		"roles":["physicalTank","magicalTank","support"],
+		"roles":[null,"magicalTank","support"],
 		"id":"401003004",
 		"game_id":"90002",
 		"game":"King's Knight",
@@ -44662,7 +44789,7 @@
 	},
 	"401005005": {
 		"name":"Viktor Marchenko",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"id":"401005005",
 		"game_id":"90005",
 		"game":"Deus Ex: Mankind Divided",
@@ -44686,7 +44813,7 @@
 		],
 		"6_form": {
 			"name":"Viktor Marchenko",
-			"roles":["physicalAttacker","physicalTank"],
+			"roles":["physicalAttacker",null],
 			"id":"401005005",
 			"game_id":"90005",
 			"game":"Deus Ex: Mankind Divided",
@@ -44752,7 +44879,7 @@
 	},
 	"401005305": {
 		"name":"Aloha Lasswell",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"id":"401005305",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -44779,7 +44906,7 @@
 		],
 		"6_form": {
 			"name":"Aloha Lasswell",
-			"roles":["physicalAttacker","physicalTank"],
+			"roles":["physicalAttacker",null],
 			"id":"401005305",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -44951,7 +45078,7 @@
 	},
 	"401005905": {
 		"name":"Lilith",
-		"roles":["physicalTank","magicalTank","healer"],
+		"roles":[null,"magicalTank","healer"],
 		"id":"401005905",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -44977,7 +45104,7 @@
 		],
 		"6_form": {
 			"name":"Lilith",
-			"roles":["physicalTank","magicalTank","healer"],
+			"roles":[null,"magicalTank","healer"],
 			"id":"401005905",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -45499,7 +45626,7 @@
 	},
 	"401006805": {
 		"name":"Esther",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"id":"401006805",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -45527,7 +45654,7 @@
 		],
 		"6_form": {
 			"name":"Esther",
-			"roles":["physicalAttacker","physicalTank"],
+			"roles":["physicalAttacker",null],
 			"id":"401006805",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -45726,7 +45853,7 @@
 	},
 	"401007205": {
 		"name":"Karten",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"id":"401007205",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -45755,7 +45882,7 @@
 		],
 		"6_form": {
 			"name":"Karten",
-			"roles":["physicalAttacker","physicalTank"],
+			"roles":["physicalAttacker",null],
 			"id":"401007205",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -46120,7 +46247,7 @@
 	},
 	"401007905": {
 		"name":"Doctor Aiden",
-		"roles":["healer","physicalTank"],
+		"roles":["healer",null],
 		"id":"401007905",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -46145,7 +46272,7 @@
 		],
 		"6_form": {
 			"name":"Doctor Aiden",
-			"roles":["healer","physicalTank"],
+			"roles":["healer",null],
 			"id":"401007905",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -46658,7 +46785,7 @@
 	},
 	"401008805": {
 		"name":"Xuan Wu & Qing Long",
-		"roles":["physicalAttacker","physicalTank","magicalTank"],
+		"roles":["physicalAttacker",null,"magicalTank"],
 		"id":"401008805",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -46682,7 +46809,7 @@
 		],
 		"6_form": {
 			"name":"Xuan Wu & Qing Long",
-			"roles":["physicalAttacker","physicalTank","magicalTank"],
+			"roles":["physicalAttacker",null,"magicalTank"],
 			"id":"401008805",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -46706,7 +46833,7 @@
 	},
 	"401008905": {
 		"name":"Sieghard & Ignacio",
-		"roles":["physicalAttacker","physicalTank","support"],
+		"roles":["physicalAttacker",null,"support"],
 		"id":"401008905",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -46738,7 +46865,7 @@
 		],
 		"6_form": {
 			"name":"Sieghard & Ignacio",
-			"roles":["physicalAttacker","physicalTank","support"],
+			"roles":["physicalAttacker",null,"support"],
 			"id":"401008905",
 			"game_id":"11001",
 			"game":"FFBE",
@@ -47236,7 +47363,7 @@
 	},
 	"401010407": {
 		"name":"Noppy",
-		"roles":["physicalAttacker","physicalTank"],
+		"roles":["physicalAttacker",null],
 		"id":"401010407",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -47525,7 +47652,7 @@
 	},
 	"401010907": {
 		"name":"King Behemy",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"id":"401010907",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -47556,7 +47683,7 @@
 	},
 	"401010917": {
 		"name":"King Behemy BS",
-		"roles":["physicalTank","physicalAttacker","debuffer"],
+		"roles":[null,"physicalAttacker","debuffer"],
 		"id":"401010917",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -48109,7 +48236,7 @@
 	},
 	"401012307": {
 		"name":"Maeve",
-		"roles":["physicalTank","support"],
+		"roles":[null,"support"],
 		"id":"401012307",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -48368,7 +48495,7 @@
 	},
 	"401012817": {
 		"name":"Storm Seeker Esther BS",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"id":"401012817",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -48883,7 +49010,7 @@
 	},
 	"401013707": {
 		"name":"Elegant Temptress Lilith",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"id":"401013707",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -48913,7 +49040,7 @@
 	},
 	"401013717": {
 		"name":"Elegant Temptress Lilith BS",
-		"roles":["physicalTank","physicalAttacker"],
+		"roles":[null,"physicalAttacker"],
 		"id":"401013717",
 		"game_id":"11001",
 		"game":"FFBE",
@@ -50360,10 +50487,6 @@
   "214000627":{"name":"魔女ヤ・シュトラ BS","roles":["magicalAttacker","debuffer"],"id":"214000627","game_id":"undefined","game":"undefined","braveShifted":"214000605","exAwakening":[{"hp":638,"mp":42,"atk":26,"def":29,"mag":38,"spr":34},{"hp":491,"mp":32,"atk":20,"def":23,"mag":29,"spr":26},{"hp":343,"mp":23,"atk":14,"def":16,"mag":20,"spr":18}],"fragmentId":"250028000","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":4907,"mp":322,"atk":204,"def":228,"mag":290,"spr":263},"minStats":{"hp":1619,"mp":106,"atk":67,"def":75,"mag":96,"spr":87},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","hammer","lightShield","hat","clothes","robe","visionCard"],"skills":[{"hp%":120,"mp%":20,"def%":150,"mag%":180,"spr%":50,"singleWielding":{"mag":100},"chainMastery":100,"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"silence","percent":100},{"name":"paralysis","percent":100},{"name":"charm","percent":100}],"killers":[{"name":"stone","physical":200,"magical":200},{"name":"beast","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"dragon","physical":200,"magical":200}],"mpRefresh":8,"lbDamage":200,"skillEnhancement":{"232677":10,"232678":10,"1374240":10,"1374250":10}},{"mp%":50,"spr%":50,"equipedConditions":["robe"]},{"mag%":50,"spr%":50,"equipedConditions":["rod"]},{"hp%":30,"mp%":30,"mag":1500,"equipedConditions":[["504232670","504232671"]]},{"hp%":20,"levelCondition":115},{"mp%":20,"mag%":40,"singleWielding":{"mag":100},"skillEnhancement":{"232677":20,"232678":20,"510612":20,"510614":20,"510617":20,"510619":20,"1374240":20,"1374250":20,"1374280":20,"1374300":20,"1374320":20,"1374340":20},"levelCondition":120},{"mag":500,"exLevelCondition":3}]},
   "214000707":{"name":"アルフィノ","roles":["support","healer"],"id":"214000707","game_id":"undefined","game":"undefined","braveShift":"214000717","exAwakening":[{"hp":687,"mp":45,"atk":23,"def":29,"mag":75,"spr":35},{"hp":529,"mp":35,"atk":18,"def":22,"mag":58,"spr":27},{"hp":370,"mp":24,"atk":12,"def":16,"mag":41,"spr":19}],"fragmentId":"250027900","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5286,"mp":348,"atk":178,"def":223,"mag":290,"spr":267},"minStats":{"hp":1744,"mp":115,"atk":59,"def":74,"mag":96,"spr":88},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","hat","clothes","robe","visionCard"],"enhancementSkills":["暁の血盟【アルフィノ】","ロッドの極意","破陣法"],"enhancements":[{"name":"暁の血盟【アルフィノ】","levels":[[{"spr%":10,"mag%":10,"mp%":10,"mpRefresh":5}],[{"spr%":20,"mag%":20,"mp%":20,"mpRefresh":7}],[{"spr%":30,"mag%":30,"mp%":30,"mpRefresh":9}],[{"spr%":40,"mag%":40,"mp%":40,"mpRefresh":11}],[{"spr%":50,"mag%":50,"mp%":50,"mpRefresh":13}]]},{"name":"ロッドの極意","levels":[[{"equipedConditions":["rod"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["rod"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["rod"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]},{"name":"暁の血盟【アルフィノ】","levels":[[{"spr%":10,"mag%":10,"mp%":10,"mpRefresh":5}],[{"spr%":20,"mag%":20,"mp%":20,"mpRefresh":7}],[{"spr%":30,"mag%":30,"mp%":30,"mpRefresh":9}],[{"spr%":40,"mag%":40,"mp%":40,"mpRefresh":11}],[{"spr%":50,"mag%":50,"mp%":50,"mpRefresh":13}]]},{"name":"ロッドの極意","levels":[[{"equipedConditions":["rod"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["rod"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["rod"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}],"skills":[{"mp%":60,"spr%":150,"oneWeaponMastery":{"mag":50,"spr":200},"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"light","percent":30}],"mpRefresh":7},{"mag":500,"equipedConditions":[["504244955","405037200"]]},{"mag":500,"exLevelCondition":3}]},
   "214000717":{"name":"アルフィノ BS","roles":["support","healer"],"id":"214000717","game_id":"undefined","game":"undefined","braveShifted":"214000707","exAwakening":[{"hp":687,"mp":45,"atk":23,"def":29,"mag":75,"spr":35},{"hp":529,"mp":35,"atk":18,"def":22,"mag":58,"spr":27},{"hp":370,"mp":24,"atk":12,"def":16,"mag":41,"spr":19}],"fragmentId":"250027900","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5286,"mp":348,"atk":178,"def":223,"mag":290,"spr":267},"minStats":{"hp":1744,"mp":115,"atk":59,"def":74,"mag":96,"spr":88},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","hat","clothes","robe","visionCard"],"skills":[{"mp%":70,"mag%":10,"spr%":160,"oneWeaponMastery":{"mag":50,"spr":200},"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"light","percent":30}],"mpRefresh":12},{"atk%":50,"def%":50,"mag%":50,"spr%":50,"equipedConditions":["rod"]},{"mag":500,"equipedConditions":[["504244955","405037200"]]},{"mag":500,"exLevelCondition":3}]},
-  "215003207":{"name":"選ばれし王の護衛グラディオラス","roles":["physicalAttacker"],"id":"215003207","game_id":"undefined","game":"undefined","braveShift":"215003217","exAwakening":[{"hp":709,"mp":38,"atk":82,"def":36,"mag":19,"spr":27},{"hp":545,"mp":29,"atk":63,"def":28,"mag":15,"spr":21},{"hp":382,"mp":21,"atk":44,"def":19,"mag":10,"spr":15}],"fragmentId":"250025400","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5451,"mp":293,"atk":315,"def":277,"mag":148,"spr":209},"minStats":{"hp":1799,"mp":97,"atk":104,"def":91,"mag":49,"spr":69},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["フローズンブレイカー","シャイニングブレイカー","大剣の極意"],"enhancements":[{"name":"大剣の極意","levels":[[{"equipedConditions":["greatSword"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["greatSword"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["greatSword"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]},{"name":"大剣の極意","levels":[[{"equipedConditions":["greatSword"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["greatSword"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["greatSword"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}],"skills":[{"hp":5000,"hp%":60,"mp%":110,"atk%":200,"def%":110,"spr%":60,"singleWielding":{"accuracy":25,"atk":200},"oneWeaponMastery":{"atk":100},"chainMastery":100,"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"ice","percent":30}],"killers":[{"name":"machine","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"human","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200}],"mpRefresh":8,"lbDamage":200},{"atk":1750,"equipedConditions":[["504244818","303014200"]]},{"atk":500,"exLevelCondition":3}]},
-  "215003217":{"name":"選ばれし王の護衛グラディオラス BS","roles":["physicalAttacker"],"id":"215003217","game_id":"undefined","game":"undefined","braveShifted":"215003207","exAwakening":[{"hp":709,"mp":38,"atk":82,"def":36,"mag":19,"spr":27},{"hp":545,"mp":29,"atk":63,"def":28,"mag":15,"spr":21},{"hp":382,"mp":21,"atk":44,"def":19,"mag":10,"spr":15}],"fragmentId":"250025400","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5451,"mp":293,"atk":315,"def":277,"mag":148,"spr":209},"minStats":{"hp":1799,"mp":97,"atk":104,"def":91,"mag":49,"spr":69},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"skills":[{"hp":5000,"hp%":60,"mp%":110,"atk%":200,"def%":110,"spr%":60,"singleWielding":{"accuracy":25,"atk":200},"oneWeaponMastery":{"atk":100},"chainMastery":100,"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"ice","percent":30}],"killers":[{"name":"machine","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"human","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200}],"mpRefresh":8,"lbDamage":200},{"atk%":50,"def%":50,"mag%":50,"spr%":50,"equipedConditions":["greatSword"]},{"atk":1750,"equipedConditions":[["504244818","303014200"]]},{"atk":500,"exLevelCondition":3}]},
-  "215003307":{"name":"選ばれし王の軍師イグニス","roles":["physicalAttacker"],"id":"215003307","game_id":"undefined","game":"undefined","braveShift":"215003317","exAwakening":[{"hp":718,"mp":48,"atk":82,"def":36,"mag":32,"spr":31},{"hp":553,"mp":37,"atk":63,"def":28,"mag":24,"spr":24},{"hp":387,"mp":26,"atk":44,"def":19,"mag":17,"spr":17}],"fragmentId":"250025100","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5183,"mp":366,"atk":315,"def":276,"mag":223,"spr":237},"minStats":{"hp":1710,"mp":121,"atk":104,"def":91,"mag":74,"spr":78},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","staff","rod","spear","throwing","mace","lightShield","hat","clothes","lightArmor","robe","visionCard"],"enhancementSkills":["タクティカルアサルト","短剣の極意"],"enhancements":[{"name":"短剣の極意","levels":[[{"equipedConditions":["dagger"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["dagger"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["dagger"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]},{"name":"短剣の極意","levels":[[{"equipedConditions":["dagger"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["dagger"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["dagger"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}],"skills":[{"hp%":60,"mp%":110,"atk%":200,"def%":60,"spr%":60,"dualWielding":{"atk":200},"chainMastery":200,"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"poison","percent":100},{"name":"blind","percent":100},{"name":"confuse","percent":100},{"name":"petrification","percent":100},{"name":"ice","percent":30}],"killers":[{"name":"human","physical":200,"magical":200},{"name":"machine","physical":200,"magical":200},{"name":"demon","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200}],"mpRefresh":12,"lbDamage":150,"special":["dualWield"]},{"atk":1000,"equipedConditions":[["504244806","301009200"]]},{"atk":500,"exLevelCondition":3}]},
-  "215003317":{"name":"選ばれし王の軍師イグニス BS","roles":["physicalAttacker","support"],"id":"215003317","game_id":"undefined","game":"undefined","braveShifted":"215003307","exAwakening":[{"hp":718,"mp":48,"atk":82,"def":36,"mag":32,"spr":31},{"hp":553,"mp":37,"atk":63,"def":28,"mag":24,"spr":24},{"hp":387,"mp":26,"atk":44,"def":19,"mag":17,"spr":17}],"fragmentId":"250025100","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5527,"mp":341,"atk":315,"def":259,"mag":242,"spr":219},"minStats":{"hp":1824,"mp":113,"atk":104,"def":85,"mag":80,"spr":72},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","staff","rod","spear","throwing","mace","lightShield","hat","helm","clothes","lightArmor","robe","visionCard"],"enhancementSkills":["タクティカルアサルト","アイシクルジャンプ","調理","短剣の極意","槍の極意"],"enhancements":[{"name":"短剣の極意","levels":[[{"equipedConditions":["dagger"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["dagger"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["dagger"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]},{"name":"槍の極意","levels":[[{"equipedConditions":["spear"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["spear"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["spear"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]},{"name":"短剣の極意","levels":[[{"equipedConditions":["dagger"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["dagger"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["dagger"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]},{"name":"槍の極意","levels":[[{"equipedConditions":["spear"],"atk%":50,"def%":50,"mag%":50,"spr%":50}],[{"equipedConditions":["spear"],"atk%":75,"def%":75,"mag%":75,"spr%":75}],[{"equipedConditions":["spear"],"atk%":100,"def%":100,"mag%":100,"spr%":100}]]}],"skills":[{"hp%":60,"mp%":60,"atk%":200,"def%":100,"spr%":100,"dualWielding":{"atk":200},"chainMastery":200,"jumpDamage":300,"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"poison","percent":100},{"name":"blind","percent":100},{"name":"confuse","percent":100},{"name":"petrification","percent":100},{"name":"ice","percent":30}],"killers":[{"name":"human","physical":200,"magical":200},{"name":"machine","physical":200,"magical":200},{"name":"demon","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200},{"name":"stone","physical":200,"magical":200}],"mpRefresh":12,"lbDamage":150,"special":["dualWield"]},{"atk":1250,"jumpDamage":200,"equipedConditions":[["504244806","301009200"]]},{"atk":500,"exLevelCondition":3}]},
   "254002407":{"name":"朱を纏いし０組ケイト","jpname":"朱を纏いし０組ケイト","roles":["debuffer"],"id":"254002407","game_id":"undefined","game":"undefined","braveShift":"254002417","exAwakening":[{"hp":657,"mp":41,"atk":35,"def":26,"mag":75,"spr":26},{"hp":505,"mp":31,"atk":27,"def":20,"mag":58,"spr":20},{"hp":354,"mp":22,"atk":19,"def":14,"mag":41,"spr":14}],"fragmentId":"250019200","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5051,"mp":312,"atk":267,"def":199,"mag":290,"spr":203},"minStats":{"hp":1667,"mp":103,"atk":88,"def":66,"mag":96,"spr":67},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","gun","hat","clothes","visionCard"],"enhancementSkills":["魂に刻まれた記憶","爆発弾","ファイガ","ブリザガ","サンダガ","エアロガ"],"enhancements":[{"name":"魂に刻まれた記憶","levels":[[{"skillEnhancement":{"20200":120,"20210":120,"20220":120,"20240":120,"70010":120,"70020":120,"70170":120,"70180":120,"70250":120,"70260":120,"70270":120,"70280":120,"70480":120,"70481":120,"70482":120,"70493":120}}],[{"skillEnhancement":{"20200":140,"20210":140,"20220":140,"20240":140,"70010":140,"70020":140,"70170":140,"70180":140,"70250":140,"70260":140,"70270":140,"70280":140,"70480":140,"70481":140,"70482":140,"70493":140}}],[{"skillEnhancement":{"20200":160,"20210":160,"20220":160,"20240":160,"70010":160,"70020":160,"70170":160,"70180":160,"70250":160,"70260":160,"70270":160,"70280":160,"70480":160,"70481":160,"70482":160,"70493":160}}],[{"skillEnhancement":{"20200":180,"20210":180,"20220":180,"20240":180,"70010":180,"70020":180,"70170":180,"70180":180,"70250":180,"70260":180,"70270":180,"70280":180,"70480":180,"70481":180,"70482":180,"70493":180}}],[{"skillEnhancement":{"20200":200,"20210":200,"20220":200,"20240":200,"70010":200,"70020":200,"70170":200,"70180":200,"70250":200,"70260":200,"70270":200,"70280":200,"70480":200,"70481":200,"70482":200,"70493":200}}]]},{"name":"魂に刻まれた記憶","levels":[[{"skillEnhancement":{"20200":120,"20210":120,"20220":120,"20240":120,"70010":120,"70020":120,"70170":120,"70180":120,"70250":120,"70260":120,"70270":120,"70280":120,"70480":120,"70481":120,"70482":120,"70493":120}}],[{"skillEnhancement":{"20200":140,"20210":140,"20220":140,"20240":140,"70010":140,"70020":140,"70170":140,"70180":140,"70250":140,"70260":140,"70270":140,"70280":140,"70480":140,"70481":140,"70482":140,"70493":140}}],[{"skillEnhancement":{"20200":160,"20210":160,"20220":160,"20240":160,"70010":160,"70020":160,"70170":160,"70180":160,"70250":160,"70260":160,"70270":160,"70280":160,"70480":160,"70481":160,"70482":160,"70493":160}}],[{"skillEnhancement":{"20200":180,"20210":180,"20220":180,"20240":180,"70010":180,"70020":180,"70170":180,"70180":180,"70250":180,"70260":180,"70270":180,"70280":180,"70480":180,"70481":180,"70482":180,"70493":180}}],[{"skillEnhancement":{"20200":200,"20210":200,"20220":200,"20240":200,"70010":200,"70020":200,"70170":200,"70180":200,"70250":200,"70260":200,"70270":200,"70280":200,"70480":200,"70481":200,"70482":200,"70493":200}}]]}],"skills":[{"mp%":60,"atk%":150,"mag%":150,"evade":{"physical":20},"singleWielding":{"accuracy":25,"mag":100},"singleWieldingOneHanded":{"accuracy":25,"atk":100},"oneWeaponMastery":{"atk":100,"mag":100},"chainMastery":100,"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"fire","percent":15},{"name":"ice","percent":15},{"name":"lightning","percent":15},{"name":"wind","percent":15},{"name":"blind","percent":100}],"killers":[{"name":"beast","physical":150,"magical":150},{"name":"human","physical":150,"magical":150},{"name":"machine","physical":150,"magical":150},{"name":"stone","physical":150,"magical":150}],"mpRefresh":8,"esperStatsBonus":{"all":{"hp":100,"mp":100,"atk":100,"def":100,"mag":100,"spr":100}}},{"atk%":100,"def%":100,"mag%":100,"spr%":100,"equipedConditions":["gun"]},{"mag":500,"mag%":50,"lbDamage":150,"equipedConditions":[["409076900","313011600"]]},{"atk":500,"mag":500,"exLevelCondition":3}]},
   "254002417":{"name":"朱を纏いし０組ケイト BS","jpname":"朱を纏いし０組ケイト BS","roles":["debuffer"],"id":"254002417","game_id":"undefined","game":"undefined","braveShifted":"254002407","exAwakening":[{"hp":657,"mp":41,"atk":35,"def":26,"mag":75,"spr":26},{"hp":505,"mp":31,"atk":27,"def":20,"mag":58,"spr":20},{"hp":354,"mp":22,"atk":19,"def":14,"mag":41,"spr":14}],"fragmentId":"250019200","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5051,"mp":312,"atk":267,"def":199,"mag":290,"spr":203},"minStats":{"hp":1667,"mp":103,"atk":88,"def":66,"mag":96,"spr":67},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","gun","hat","clothes","visionCard"],"skills":[{"mp%":60,"atk%":150,"mag%":150,"evade":{"physical":20},"singleWielding":{"accuracy":25,"mag":100},"singleWieldingOneHanded":{"accuracy":25,"atk":100},"oneWeaponMastery":{"atk":100,"mag":100},"chainMastery":100,"lbPerTurn":{"min":4,"max":4},"resist":[{"name":"fire","percent":15},{"name":"ice","percent":15},{"name":"lightning","percent":15},{"name":"wind","percent":15},{"name":"blind","percent":100}],"killers":[{"name":"beast","physical":150,"magical":150},{"name":"human","physical":150,"magical":150},{"name":"machine","physical":150,"magical":150},{"name":"stone","physical":150,"magical":150}],"mpRefresh":8,"esperStatsBonus":{"all":{"hp":100,"mp":100,"atk":100,"def":100,"mag":100,"spr":100}},"skillEnhancement":{"20200":120,"20210":120,"20220":120,"20240":120,"70010":120,"70020":120,"70170":120,"70180":120,"70250":120,"70260":120,"70270":120,"70280":120,"70480":120,"70481":120,"70482":120,"70493":120}},{"atk%":100,"def%":100,"mag%":100,"spr%":100,"equipedConditions":["gun"]},{"mag":500,"mag%":50,"lbDamage":150,"equipedConditions":[["409076900","313011600"]]},{"atk":500,"mag":500,"exLevelCondition":3}]},
   "256000101":{"name":"Riko","jpname":"リコ(リコドキッ！)","roles":["healer","support"],"id":"256000101","game_id":"undefined","game":"undefined","max_rarity":"6","min_rarity":"1","sex":"female","stats":{"maxStats":{"hp":3575,"mp":183,"atk":104,"def":109,"mag":124,"spr":136},"minStats":{"hp":1180,"mp":60,"atk":34,"def":36,"mag":41,"spr":45},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["dagger","staff","rod","hammer","harp","hat","clothes","lightArmor","robe"],"skills":[{"hp%":20,"mp%":30,"def%":20,"spr%":20,"evade":{"physical":20},"esperStatsBonus":{"all":{"hp":10,"mp":10,"atk":10,"def":10,"mag":10,"spr":10}}}]},
