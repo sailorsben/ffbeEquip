@@ -1,5 +1,14 @@
 [  
     {
+        "date":"February 3rd, 2024","sources": 
+        [
+            {"type":"banner", "units":["206003507","401015907"]},
+            {"type":"storyPart", "name":"Vision Cards", "ids": ["401009501","401009701","206000601"]},
+            {"type":"storyPart", "name":"Hellknight at Tomb's End", "ids": ["405031700","405031800"]},
+            {"type":"storyPart", "name":"Clash of Wills: Obnixus Drop (Inferno) Exchange", "ids": ["1100000816","1100000817","1100000818","1500000256","1500000257"]}
+        ]
+    },
+    {
         "date":"January 18th, 2024","sources": 
         [
             {"type":"banner", "units":["215003307","215003207"]},

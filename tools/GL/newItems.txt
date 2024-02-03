@@ -935,3 +935,22 @@ Starting
 "331001517":ゼプツェン BS
 "331001717":ヴェルトール2 BS
 "331001817":E・アンドヴァリ BS
+Starting
+"405031700":Sniper Eye (FFVI)
+"405031800":Sniper Eye (FFVI)
+"409082900":Master's Scroll (FFVI)
+"409082900":Master's Scroll (FFVI)
+"1100000815":Kusariboshi
+"1100000816":High Celestite Mask of Will
+"1100000817":High Celestite Coat of Will
+"1100000818":High Celestite Pendant of Will
+"504244772":Gambler's Tricks of the Trade
+"504244772":Gambler's Tricks of the Trade
+"1500000254":Kunai With Chain
+"1500000256":Scorched Earth
+"1500000257":Warrior's Bulwark
+Starting
+"206003507":Fastest in the Skies Setzer
+"206003517":Fastest in the Skies Setzer BS
+"401015907":Chains of Fate Mirei
+"401015917":Chains of Fate Mirei BS

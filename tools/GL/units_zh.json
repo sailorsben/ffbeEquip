@@ -17035,6 +17035,51 @@
 		"equip":["dagger","sword","greatSword","whip","throwing","fist","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"categories":["Fire","Attacker","FFVI","The Rebellion","The Gathering"]
 	},
+	"206003507": {
+		"name":"以最快為目標的男人塞策",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Fastest_in the Skies Setzer",
+		"id":"206003507",
+		"game_id":"10006",
+		"game":"FFVI",
+		"braveShift":"206003517",
+		"exAwakening": [{"hp":677,"mp":49,"atk":82,"def":33,"mag":22,"spr":30},{"hp":521,"mp":38,"atk":63,"def":25,"mag":17,"spr":23},{"hp":364,"mp":26,"atk":44,"def":18,"mag":12,"spr":16}],
+		"fragmentId": "250024700",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5208,"mp":377,"atk":315,"def":252,"mag":167,"spr":229},
+			"minStats":{"hp":1719,"mp":124,"atk":104,"def":83,"mag":55,"spr":76},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","throwing","hat","helm","clothes","lightArmor","robe","visionCard"],
+		"enhancementSkills":["Gale Darts","Hurricane Card","Throwing Weapon Mastery"],
+		"categories":["Wind","Attacker","FFVI","The Gathering"]
+	},
+	"206003517": {
+		"name":"以最快為目標的男人塞策 BS",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Fastest_in the Skies Setzer",
+		"id":"206003517",
+		"game_id":"10006",
+		"game":"FFVI",
+		"braveShifted":"206003507",
+		"exAwakening": [{"hp":677,"mp":49,"atk":82,"def":33,"mag":22,"spr":30},{"hp":521,"mp":38,"atk":63,"def":25,"mag":17,"spr":23},{"hp":364,"mp":26,"atk":44,"def":18,"mag":12,"spr":16}],
+		"fragmentId": "250024700",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5208,"mp":377,"atk":315,"def":252,"mag":167,"spr":229},
+			"minStats":{"hp":1719,"mp":124,"atk":104,"def":83,"mag":55,"spr":76},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","throwing","hat","helm","clothes","lightArmor","robe","visionCard"],
+		"categories":["Wind","Attacker","FFVI","The Gathering"]
+	},
 	"207000105": {
 		"name":"克勞德",
 		"roles":["physicalAttacker"],
@@ -25365,7 +25410,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["fist","hat","clothes","robe","visionCard"],
-		"enhancementSkills":["Crackdown"],
+		"enhancementSkills":["Martial Arts Mastery","Crackdown"],
 		"categories":["Lightning","Attacker","FFX"]
 	},
 	"249000517": {
@@ -38022,6 +38067,52 @@
 		"equip":["dagger","sword","greatSword","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Sharpened Pastry Knife","Sacrilegious Present"],
 		"categories":["Earth","CW - Earth","Attacker","Breaker","FFBE","Bonds","Clash of Wills"]
+	},
+	"401015907": {
+		"name":"宿命鎖鏈未澪",
+		"roles":["physicalAttacker","support"],
+		"wikiEntry":"Chains_of Fate Mirei",
+		"id":"401015907",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShift":"401015917",
+		"exAwakening": [{"hp":650,"mp":40,"atk":82,"def":35,"mag":17,"spr":29},{"hp":500,"mp":31,"atk":63,"def":27,"mag":13,"spr":23},{"hp":350,"mp":22,"atk":44,"def":18,"mag":9,"spr":16}],
+		"fragmentId": "310001180",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":5000,"mp":310,"atk":315,"def":265,"mag":130,"spr":225},
+			"minStats":{"hp":1650,"mp":102,"atk":104,"def":87,"mag":43,"spr":74},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","katana","bow","whip","throwing","fist","hat","clothes","visionCard"],
+		"enhancementSkills":["Chain Connection - Elusion","Master Kunoichi"],
+		"categories":["Light","Attacker","Support","FFBE","Clash of Wills","CW - Light"]
+	},
+	"401015917": {
+		"name":"宿命鎖鏈未澪 BS",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Chains_of Fate Mirei",
+		"id":"401015917",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShifted":"401015907",
+		"exAwakening": [{"hp":650,"mp":40,"atk":82,"def":35,"mag":17,"spr":29},{"hp":500,"mp":31,"atk":63,"def":27,"mag":13,"spr":23},{"hp":350,"mp":22,"atk":44,"def":18,"mag":9,"spr":16}],
+		"fragmentId": "310001180",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":5250,"mp":300,"atk":315,"def":280,"mag":130,"spr":250},
+			"minStats":{"hp":1733,"mp":99,"atk":104,"def":92,"mag":43,"spr":83},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","katana","bow","whip","throwing","fist","hat","clothes","visionCard"],
+		"enhancementSkills":["Universal Absorption","Master Kunoichi"],
+		"categories":["Light","Attacker","FFBE","Clash of Wills","CW - Light"]
 	}
 ,
   "100000115":{"name":"Hunter Rain","jpname":"ハンターレイン","roles":["physicalAttacker","support"],"id":"100000115","game_id":"undefined","game":"undefined","max_rarity":"6","min_rarity":"5","sex":"male","stats":{"maxStats":{"hp":3652,"mp":150,"atk":152,"def":120,"mag":110,"spr":116},"minStats":{"hp":1205,"mp":50,"atk":50,"def":40,"mag":36,"spr":38},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["sword","greatSword","helm","lightArmor","heavyArmor"]},
@@ -38143,8 +38234,6 @@
   "204003417":{"name":"幻獣と通じ合う少女リディア BS","jpname":"幻獣と通じ合う少女リディア BS","roles":["magicalAttacker"],"id":"204003417","game_id":"undefined","game":"undefined","braveShifted":"204003407","exAwakening":[{"hp":665,"mp":49,"atk":24,"def":30,"mag":82,"spr":37},{"hp":512,"mp":38,"atk":19,"def":23,"mag":63,"spr":28},{"hp":358,"mp":26,"atk":13,"def":16,"mag":44,"spr":20}],"fragmentId":"250024400","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5118,"mp":376,"atk":185,"def":231,"mag":315,"spr":284},"minStats":{"hp":1689,"mp":124,"atk":61,"def":76,"mag":104,"spr":94},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","bow","hat","clothes","robe","visionCard"]},
   "205001527":{"name":"ゼザ BS","jpname":"ゼザ BS","roles":["magicalTank"],"id":"205001527","game_id":"undefined","game":"undefined","braveShifted":"205001505","exAwakening":[{"hp":863,"mp":34,"atk":22,"def":38,"mag":21,"spr":38},{"hp":664,"mp":26,"atk":17,"def":29,"mag":16,"spr":29},{"hp":465,"mp":18,"atk":12,"def":20,"mag":11,"spr":21}],"fragmentId":"250024500","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":6636,"mp":264,"atk":167,"def":289,"mag":162,"spr":293},"minStats":{"hp":2190,"mp":87,"atk":55,"def":95,"mag":53,"spr":97},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","staff","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"]},
   "206002127":{"name":"魔導戦士ティナ BS","jpname":"魔導戦士ティナ BS","roles":["magicalAttacker","debuffer"],"id":"206002127","game_id":"undefined","game":"undefined","braveShifted":"206002105","exAwakening":[{"hp":637,"mp":49,"atk":20,"def":21,"mag":38,"spr":33},{"hp":490,"mp":38,"atk":15,"def":16,"mag":29,"spr":26},{"hp":343,"mp":26,"atk":11,"def":11,"mag":21,"spr":18}],"fragmentId":"250024600","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":4895,"mp":375,"atk":151,"def":159,"mag":294,"spr":258},"minStats":{"hp":1615,"mp":124,"atk":50,"def":52,"mag":97,"spr":85},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","staff","rod","gun","mace","lightShield","hat","clothes","robe","visionCard"]},
-  "206003507":{"name":"最速を目指す男セッツァー","jpname":"最速を目指す男セッツァー","roles":["physicalAttacker"],"id":"206003507","game_id":"undefined","game":"undefined","braveShift":"206003517","exAwakening":[{"hp":677,"mp":49,"atk":82,"def":33,"mag":22,"spr":30},{"hp":521,"mp":38,"atk":63,"def":25,"mag":17,"spr":23},{"hp":364,"mp":26,"atk":44,"def":18,"mag":12,"spr":16}],"fragmentId":"250024700","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5208,"mp":377,"atk":315,"def":252,"mag":167,"spr":229},"minStats":{"hp":1719,"mp":124,"atk":104,"def":83,"mag":55,"spr":76},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","throwing","hat","helm","clothes","lightArmor","robe","visionCard"],"enhancementSkills":["疾風のダーツ","烈風のカード","投擲の極意"]},
-  "206003517":{"name":"最速を目指す男セッツァー BS","jpname":"最速を目指す男セッツァー BS","roles":["physicalAttacker"],"id":"206003517","game_id":"undefined","game":"undefined","braveShifted":"206003507","exAwakening":[{"hp":677,"mp":49,"atk":82,"def":33,"mag":22,"spr":30},{"hp":521,"mp":38,"atk":63,"def":25,"mag":17,"spr":23},{"hp":364,"mp":26,"atk":44,"def":18,"mag":12,"spr":16}],"fragmentId":"250024700","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5208,"mp":377,"atk":315,"def":252,"mag":167,"spr":229},"minStats":{"hp":1719,"mp":124,"atk":104,"def":83,"mag":55,"spr":76},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","throwing","hat","helm","clothes","lightArmor","robe","visionCard"]},
   "209001305":{"name":"Dagger","jpname":"ダガー","roles":["healer","support","magicalAttacker"],"id":"209001305","game_id":"undefined","game":"undefined","max_rarity":"7","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":4747,"mp":264,"atk":128,"def":166,"mag":176,"spr":216},"minStats":{"hp":1567,"mp":87,"atk":42,"def":55,"mag":58,"spr":71},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","staff","rod","mace","hat","clothes","robe"],"6_form":{"name":"Dagger","jpname":"ダガー","roles":["healer","support","magicalAttacker"],"id":"209001305","game_id":"undefined","game":"undefined","sixStarForm":true,"max_rarity":"6","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":3651,"mp":203,"atk":98,"def":127,"mag":135,"spr":166},"minStats":{"hp":1205,"mp":67,"atk":32,"def":42,"mag":45,"spr":55},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["dagger","staff","rod","mace","hat","clothes","robe"]}},
   "209002505":{"name":"Summoner Scion Eiko","jpname":"召喚士の末裔エーコ","roles":["magicalAttacker","healer"],"id":"209002505","game_id":"undefined","game":"undefined","max_rarity":"7","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":4379,"mp":241,"atk":134,"def":164,"mag":178,"spr":218},"minStats":{"hp":1445,"mp":80,"atk":44,"def":54,"mag":59,"spr":72},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","staff","rod","harp","hat","clothes","robe"],"enhancementSkills":["召喚士の角","エーコのおくのて"],"6_form":{"name":"Summoner Scion Eiko","jpname":"召喚士の末裔エーコ","roles":["magicalAttacker","healer"],"id":"209002505","game_id":"undefined","game":"undefined","sixStarForm":true,"max_rarity":"6","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":3368,"mp":185,"atk":103,"def":126,"mag":136,"spr":167},"minStats":{"hp":1111,"mp":61,"atk":34,"def":42,"mag":45,"spr":55},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["dagger","staff","rod","harp","hat","clothes","robe"],"enhancementSkills":["召喚士の角","エーコのおくのて"]}},
   "209002704":{"name":"Queen Brahne","jpname":"ブラネ女王","roles":["debuffer","support"],"id":"209002704","game_id":"undefined","game":"undefined","max_rarity":"6","min_rarity":"4","sex":"female","stats":{"maxStats":{"hp":3639,"mp":146,"atk":113,"def":119,"mag":133,"spr":149},"minStats":{"hp":1201,"mp":48,"atk":37,"def":39,"mag":44,"spr":49},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["staff","rod","hat","clothes","robe"]},
