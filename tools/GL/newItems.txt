@@ -954,3 +954,20 @@ Starting
 "206003517":Fastest in the Skies Setzer BS
 "401015907":Chains of Fate Mirei
 "401015917":Chains of Fate Mirei BS
+Starting
+"302024600":Skálmöld
+"302024600":Skálmöld
+"313013000":Peacekeeper Successor
+"313013000":Peacekeeper Successor
+"405036800":Aevintýri
+"405036900":Gunner's Dress
+"405037000":Gunner's Dress
+"405037100":Gunner's Dress
+"405037100":Gunner's Dress
+"504244938":Physalis's Gifted Aim
+"504244938":Physalis's Gifted Aim
+Starting
+"100044107":Magic Markswoman Physalis
+"100044117":Magic Markswoman Physalis BS
+"100044207":Metze
+"100044217":Metze BS
