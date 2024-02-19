@@ -971,3 +971,10 @@ Starting
 "100044117":Magic Markswoman Physalis BS
 "100044207":Metze
 "100044217":Metze BS
+Starting
+"1100000819":True Sun Breaker
+"1100000819":True Sun Breaker
+"1500000255":True Sharpshooter
+Starting
+"401016007":Divine Archer Ang
+"401016017":Divine Archer Ang BS

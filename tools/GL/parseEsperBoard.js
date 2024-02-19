@@ -1,7 +1,5 @@
 import fs from 'fs';
 import request from 'request';
-import experiments  from 'webpack';
-import PNG from 'pngjs';
 
 var stats = ["HP","MP","ATK","DEF","MAG","SPR"];
 var elements = ["fire", "ice", "lightning", "water", "wind", "earth", "light", "dark"];
@@ -185,6 +183,8 @@ function beginScript() {
 
                             console.log("Writing esperBoards.json to static/GL")
                             fs.writeFileSync('../../static/GL/esperBoards.json', JSON.stringify(out));
+                            //once this is done also write it to esperBoards.json in the tools/GL folder
+                            fs.writeFileSync('./esperBoards.json', JSON.stringify(out));
                     });
                 });
             });

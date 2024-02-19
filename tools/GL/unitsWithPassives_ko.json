@@ -52116,6 +52116,70 @@
 			{"atk":300, "exLevelCondition":2},
 			{"hp":2000, "atk":500, "chainMastery":100, "exLevelCondition":3}
 		]
+	},
+	"401016007": {
+		"name":"Divine Archer Ang",
+		"roles":["physicalAttacker","support"],
+		"wikiEntry":"Divine_Archer Ang",
+		"id":"401016007",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShift":"401016017",
+		"exAwakening": [{"hp":689,"mp":49,"atk":82,"def":32,"mag":21,"spr":32},{"hp":530,"mp":38,"atk":63,"def":25,"mag":16,"spr":25},{"hp":371,"mp":27,"atk":44,"def":17,"mag":12,"spr":17}],
+		"fragmentId": "310001190",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5300,"mp":380,"atk":315,"def":247,"mag":163,"spr":246},
+			"minStats":{"hp":1749,"mp":125,"atk":104,"def":82,"mag":54,"spr":81},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["bow","throwing","hat","clothes","lightArmor","visionCard"],
+		"enhancementSkills":["Deadly Arrows","Sky Shooter"],
+		"categories":["Water","Attacker","Support","FFBE","Clash of Wills","Bonds","CW - Water"],
+		"enhancements": [
+			{"name":"Deadly Arrows","levels":[[{"atk":1000,"lbDamage":200,"singleWielding":{"accuracy":50,"atk":120},"equipedConditions":[["1500000255","1100000819","401009801"]]}],[{"atk":1000,"lbDamage":200,"singleWielding":{"accuracy":50,"atk":140},"equipedConditions":[["1500000255","1100000819","401009801"]]}],[{"atk":1000,"lbDamage":200,"singleWielding":{"accuracy":50,"atk":160},"equipedConditions":[["1500000255","1100000819","401009801"]]}],[{"atk":1000,"lbDamage":200,"singleWielding":{"accuracy":50,"atk":180},"equipedConditions":[["1500000255","1100000819","401009801"]]}],[{"atk":1000,"lbDamage":200,"singleWielding":{"accuracy":50,"atk":200},"equipedConditions":[["1500000255","1100000819","401009801"]]}]]}
+		],
+		"skills": [
+			{"hp%":100, "mp%":100, "atk%":100, "def%":100, "chainMastery":100, "resist":[{"name":"stop","percent":100},{"name":"charm","percent":100},{"name":"fire","percent":50},{"name":"ice","percent":50},{"name":"lightning","percent":50},{"name":"water","percent":75},{"name":"wind","percent":50},{"name":"earth","percent":50},{"name":"light","percent":50},{"name":"dark","percent":50},{"name":"blind","percent":100},{"name":"sleep","percent":100},{"name":"confuse","percent":100},{"name":"disease","percent":100},{"name":"petrification","percent":100}], "killers":[{"name":"dragon","physical":200,"magical":200},{"name":"beast","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"bug","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200}], "mpRefresh":15},
+			{"atk%":100, "equipedConditions":["bow"]},
+			{"singleWielding":{"accuracy":50,"atk":100}, "exLevelCondition":2},
+			{"atk":500, "atk%":100, "def":500, "spr":500, "chainMastery":100, "exLevelCondition":3}
+		]
+	},
+	"401016017": {
+		"name":"Divine Archer Ang BS",
+		"roles":["physicalAttacker","support"],
+		"wikiEntry":"Divine_Archer Ang",
+		"id":"401016017",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShifted":"401016007",
+		"exAwakening": [{"hp":689,"mp":49,"atk":82,"def":32,"mag":21,"spr":32},{"hp":530,"mp":38,"atk":63,"def":25,"mag":16,"spr":25},{"hp":371,"mp":27,"atk":44,"def":17,"mag":12,"spr":17}],
+		"fragmentId": "310001190",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5300,"mp":380,"atk":315,"def":247,"mag":163,"spr":246},
+			"minStats":{"hp":1749,"mp":125,"atk":104,"def":82,"mag":54,"spr":81},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["bow","throwing","hat","clothes","lightArmor","visionCard"],
+		"enhancementSkills":["Deadly Arrows","Sky Shooter"],
+		"categories":["Water","Attacker","Support","FFBE","Clash of Wills","Bonds","CW - Water"],
+		"enhancements": [
+			{"name":"Deadly Arrows","levels":[[{"atk":1000,"lbDamage":200,"singleWielding":{"accuracy":50,"atk":120},"equipedConditions":[["1500000255","1100000819","401009801"]]}],[{"atk":1000,"lbDamage":200,"singleWielding":{"accuracy":50,"atk":140},"equipedConditions":[["1500000255","1100000819","401009801"]]}],[{"atk":1000,"lbDamage":200,"singleWielding":{"accuracy":50,"atk":160},"equipedConditions":[["1500000255","1100000819","401009801"]]}],[{"atk":1000,"lbDamage":200,"singleWielding":{"accuracy":50,"atk":180},"equipedConditions":[["1500000255","1100000819","401009801"]]}],[{"atk":1000,"lbDamage":200,"singleWielding":{"accuracy":50,"atk":200},"equipedConditions":[["1500000255","1100000819","401009801"]]}]]}
+		],
+		"skills": [
+			{"hp%":100, "mp%":100, "atk%":100, "def%":100, "chainMastery":100, "resist":[{"name":"stop","percent":100},{"name":"charm","percent":100},{"name":"fire","percent":50},{"name":"ice","percent":50},{"name":"lightning","percent":50},{"name":"water","percent":75},{"name":"wind","percent":50},{"name":"earth","percent":50},{"name":"light","percent":50},{"name":"dark","percent":50},{"name":"blind","percent":100},{"name":"sleep","percent":100},{"name":"confuse","percent":100},{"name":"disease","percent":100},{"name":"petrification","percent":100}], "killers":[{"name":"dragon","physical":200,"magical":200},{"name":"beast","physical":200,"magical":200},{"name":"bird","physical":200,"magical":200},{"name":"bug","physical":200,"magical":200},{"name":"spirit","physical":200,"magical":200},{"name":"undead","physical":200,"magical":200}], "mpRefresh":15},
+			{"atk%":100, "equipedConditions":["bow"]},
+			{"singleWielding":{"accuracy":50,"atk":100}, "exLevelCondition":2},
+			{"atk":500, "atk%":100, "def":500, "spr":500, "chainMastery":100, "exLevelCondition":3}
+		]
 	}
 ,
   "100000115":{"name":"Hunter Rain","jpname":"ハンターレイン","roles":["physicalAttacker","support"],"id":"100000115","game_id":"undefined","game":"undefined","max_rarity":"6","min_rarity":"5","sex":"male","stats":{"maxStats":{"hp":3652,"mp":150,"atk":152,"def":120,"mag":110,"spr":116},"minStats":{"hp":1205,"mp":50,"atk":50,"def":40,"mag":36,"spr":38},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["sword","greatSword","helm","lightArmor","heavyArmor"],"skills":[{"hp%":30,"def%":30,"singleWieldingOneHanded":{"accuracy":25,"atk":75},"resist":[{"name":"fire","percent":50},{"name":"ice","percent":50}],"killers":[{"name":"beast","physical":25},{"name":"bird","physical":25},{"name":"aquatic","physical":25},{"name":"dragon","physical":25},{"name":"bug","physical":25}]},{"def%":60,"equipedConditions":["heavyArmor"]},{"atk%":50,"equipedConditions":["greatSword"]}]},

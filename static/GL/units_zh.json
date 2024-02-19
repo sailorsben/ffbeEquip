@@ -38203,6 +38203,52 @@
 		"equip":["dagger","katana","bow","whip","throwing","fist","hat","clothes","visionCard"],
 		"enhancementSkills":["Universal Absorption","Master Kunoichi"],
 		"categories":["Light","Attacker","FFBE","Clash of Wills","CW - Light"]
+	},
+	"401016007": {
+		"name":"神聖射手昂",
+		"roles":["physicalAttacker","support"],
+		"wikiEntry":"Divine_Archer Ang",
+		"id":"401016007",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShift":"401016017",
+		"exAwakening": [{"hp":689,"mp":49,"atk":82,"def":32,"mag":21,"spr":32},{"hp":530,"mp":38,"atk":63,"def":25,"mag":16,"spr":25},{"hp":371,"mp":27,"atk":44,"def":17,"mag":12,"spr":17}],
+		"fragmentId": "310001190",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5300,"mp":380,"atk":315,"def":247,"mag":163,"spr":246},
+			"minStats":{"hp":1749,"mp":125,"atk":104,"def":82,"mag":54,"spr":81},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["bow","throwing","hat","clothes","lightArmor","visionCard"],
+		"enhancementSkills":["Deadly Arrows","Sky Shooter"],
+		"categories":["Water","Attacker","Support","FFBE","Clash of Wills","Bonds","CW - Water"]
+	},
+	"401016017": {
+		"name":"神聖射手昂 BS",
+		"roles":["physicalAttacker","support"],
+		"wikiEntry":"Divine_Archer Ang",
+		"id":"401016017",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShifted":"401016007",
+		"exAwakening": [{"hp":689,"mp":49,"atk":82,"def":32,"mag":21,"spr":32},{"hp":530,"mp":38,"atk":63,"def":25,"mag":16,"spr":25},{"hp":371,"mp":27,"atk":44,"def":17,"mag":12,"spr":17}],
+		"fragmentId": "310001190",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5300,"mp":380,"atk":315,"def":247,"mag":163,"spr":246},
+			"minStats":{"hp":1749,"mp":125,"atk":104,"def":82,"mag":54,"spr":81},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["bow","throwing","hat","clothes","lightArmor","visionCard"],
+		"enhancementSkills":["Deadly Arrows","Sky Shooter"],
+		"categories":["Water","Attacker","Support","FFBE","Clash of Wills","Bonds","CW - Water"]
 	}
 ,
   "100000115":{"name":"Hunter Rain","jpname":"ハンターレイン","roles":["physicalAttacker","support"],"id":"100000115","game_id":"undefined","game":"undefined","max_rarity":"6","min_rarity":"5","sex":"male","stats":{"maxStats":{"hp":3652,"mp":150,"atk":152,"def":120,"mag":110,"spr":116},"minStats":{"hp":1205,"mp":50,"atk":50,"def":40,"mag":36,"spr":38},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["sword","greatSword","helm","lightArmor","heavyArmor"]},
