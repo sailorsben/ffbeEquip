@@ -199,12 +199,12 @@ table.allEspers > tbody > tr > td.stats .bonus {
 }
 
 #gridTrimmer.star3 {
-    width:940px;
+    width: 970px;
     height:860px;
 }
 
 #gridTrimmer.star3 #gridContainer {
-    margin-left: 10px;
+    margin-left: -1px;
     margin-top: 20px;
 }
 
