@@ -2,8 +2,7 @@
 	{
 		"date": "February 29th, 2024",
 		"sources": [
-			{"type": "banner", "units": ["304000807"]},
-			{"type": "storyPart", "name": "Items", "ids": ["403060100", "504244844"]}
+			{"type": "banner", "units": ["304000807"]}
 		]
 	},
 	{
