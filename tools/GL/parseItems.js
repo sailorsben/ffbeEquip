@@ -411,6 +411,7 @@ getData('equipment.json', function (items) {
                                                                                         filename = 'data_' + languages[languageId] + '.json';
                                                                                     }
                                                                                     fs.writeFileSync(filename, formatOutput(result.items));
+                                                                                    
                                                                                     let cards = [];
                                                                                     for (let visionCardId in visionCards) {
                                                                                         if (visionCards[visionCardId].name) {
@@ -422,6 +423,23 @@ getData('equipment.json', function (items) {
                                                                                     }
                                                                                     fs.writeFileSync('visionCards.json', formatVisionCards(cards.filter(card => card))); // filter out the null values
 
+                                                                                    //if cards has a card that is not in alreadyKnownVisionCardNames
+                                                                                    //then print the name of the card to newVisionCards.txt
+                                                                                    let newVisionCards = [];
+                                                                                    Object.keys(visionCards).forEach(card => {
+                                                                                        console.log(visionCards[card].name)
+                                                                                        console.log(alreadyKnownVisionCardNames[card])
+                                                                                        if (!alreadyKnownVisionCardNames[card]) {
+                                                                                            console.log("NEW CARD FOUND: " + visionCards[card].name + " - " + card)
+                                                                                            //check if the visionCards[card].name is japanese
+                                                                                            if (checkForJapanese(visionCards[card].name)) {
+                                                                                                newVisionCards.push("\"" + card.toString() + "\":" +  visionCards[card].name);
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                    );
+                                                                                    console.log(newVisionCards);
+                                                                                    fs.writeFileSync('newVisionCards.txt', newVisionCards.join('\n'));
 
                                                                                 }
                                                                                 // Object.keys(notParsedSkillType).forEach(key => {

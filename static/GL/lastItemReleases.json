@@ -1,4 +1,18 @@
-[  
+[
+	{
+		"date": "February 29th, 2024",
+		"sources": [
+			{"type": "banner", "units": ["304000101"]},
+			{"type": "storyPart", "name": "Items", "ids": ["403060100", "504244844"]}
+		]
+	},
+	{
+		"date": "February 22th, 2024",
+		"sources": [
+			{"type": "banner", "units": ["304000607", "304000707"]},
+            {"type": "storyPart", "name": "Vision Cards", "ids":["304000101"]},
+			{"type": "storyPart", "name": "Items", "ids": ["302024500", "302024700", "303014400", "403060000", "405032500", "405032600", "405032700", "405033000", "409083200", "409083300", "504244851", "504244963"]}		]
+	},
     {
         "date":"February 15th, 2024","sources": 
         [
