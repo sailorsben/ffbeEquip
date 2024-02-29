@@ -16,7 +16,7 @@
     {
         "date":"February 15th, 2024","sources": 
         [
-            {"type":"banner", "units":["401016007","100044207"]},
+            {"type":"banner", "units":["401016007"]},
             {"type":"storyPart", "name":"Vision Cards", "ids": ["401009801","401010001"]}
         ]
     },
