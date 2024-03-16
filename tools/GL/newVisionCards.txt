@@ -1,1 +1,3 @@
-"304000101":The Beginning of a Legend
+"100008901":Strike of the Water God
+"100009001":Esper Against Esper
+"100009101":Struggle for the Root Crystal

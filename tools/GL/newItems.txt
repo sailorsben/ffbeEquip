@@ -1,9 +1,11 @@
 Starting
-"403060100":Quilted Hood (Secret of Mana)
-"403060100":Quilted Hood (Secret of Mana)
-"504244844":A Knack for Magic
-Starting 
-"304000101":The Beginning of a Legend
+"405037300":Abyssal Armor
+"504244970":Sublime Swordsmanship
+"304012900":Azuretide Wyrmblade
+"304012900":Azuretide Wyrmblade
 Starting
-"304000807":Little Great Mage Popoi
-"304000817":Little Great Mage Popoi BS
+"100009001":Esper Against Esper
+"207000401":The Star of Seventh Heaven
+Starting
+"100043107":Lasswell -Esper of Destruction-
+"100043117":Lasswell -Esper of Destruction- BS

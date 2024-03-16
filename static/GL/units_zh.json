@@ -941,7 +941,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","katana","hat","helm","clothes","lightArmor","heavyArmor"],
-		"enhancementSkills":["High Tide","Molt","Phantom Shadow"],
+		"enhancementSkills":["Fingersnap","High Tide","Molt","Phantom Shadow"],
 		"categories":["Attacker","FFBE","Attacker","FFBE","Attacker","FFBE"]
 	},
 	"100004703": {
@@ -1469,7 +1469,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","spear","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"],
-		"enhancementSkills":["Bladeblitz","Spear Mastery","Aggravate","Vortex","Sonic Blast","Chocoboback Lance","Chocobo Trample","Chocobo Sonic Dive"],
+		"enhancementSkills":["Bladeblitz","Chocoboback Lance","Chocobo Trample","Chocobo Sonic Dive","Spear Mastery","Aggravate","Vortex","Sonic Blast"],
 		"categories":["Wind","Attacker","Support","FFBE","FFBE S1","The Gathering"],
 		"6_form": {
 			"name":"福倫",
@@ -1489,7 +1489,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","spear","lightShield","heavyShield","helm","lightArmor","heavyArmor"],
-			"enhancementSkills":["Bladeblitz","Spear Mastery","Aggravate","Vortex","Sonic Blast","Chocoboback Lance","Chocobo Trample","Chocobo Sonic Dive"],
+			"enhancementSkills":["Bladeblitz","Chocoboback Lance","Chocobo Trample","Chocobo Sonic Dive","Spear Mastery","Aggravate","Vortex","Sonic Blast"],
 			"categories":["Wind","Attacker","Support","FFBE","FFBE S1","The Gathering"]
 		},
 		"7_form": {
@@ -1510,7 +1510,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["dagger","sword","spear","lightShield","heavyShield","helm","lightArmor","heavyArmor"],
-			"enhancementSkills":["Bladeblitz","Spear Mastery","Aggravate","Vortex","Sonic Blast","Chocoboback Lance","Chocobo Trample","Chocobo Sonic Dive"],
+			"enhancementSkills":["Bladeblitz","Chocoboback Lance","Chocobo Trample","Chocobo Sonic Dive","Spear Mastery","Aggravate","Vortex","Sonic Blast"],
 			"categories":["Wind","Attacker","Support","FFBE","FFBE S1","The Gathering"]
 		}
 	},
@@ -2388,7 +2388,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","bow","spear","gun","fist","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
-		"enhancementSkills":["Blades of Azure Crimson","Octostrike Blade","Forsaken Armor","Azure Flame Edge","Crimson Frost Edge","Kingdom's Hero","Sonic Octostrike Blade","Crimson-Dyed Blade","Azure-Dyed Blade","Entrusted by a Friend"],
+		"enhancementSkills":["Blades of Azure Crimson","Octostrike Blade","Forsaken Armor","Azure Flame Edge","Crimson Frost Edge","Sonic Octostrike Blade","Crimson-Dyed Blade","Azure-Dyed Blade","Entrusted by a Friend","Kingdom's Hero"],
 		"categories":["Fire","Attacker","Support","FFBE","FFBE S2","WOTV FFBE","The Rebellion","Royal Arms"],
 		"6_form": {
 			"name":"雷根",
@@ -2408,7 +2408,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","bow","spear","gun","fist","lightShield","hat","helm","clothes","lightArmor","heavyArmor"],
-			"enhancementSkills":["Blades of Azure Crimson","Octostrike Blade","Forsaken Armor","Azure Flame Edge","Crimson Frost Edge","Kingdom's Hero","Sonic Octostrike Blade","Crimson-Dyed Blade","Azure-Dyed Blade","Entrusted by a Friend"],
+			"enhancementSkills":["Blades of Azure Crimson","Octostrike Blade","Forsaken Armor","Azure Flame Edge","Crimson Frost Edge","Sonic Octostrike Blade","Crimson-Dyed Blade","Azure-Dyed Blade","Entrusted by a Friend","Kingdom's Hero"],
 			"categories":["Fire","Attacker","Support","FFBE","FFBE S2","WOTV FFBE","The Rebellion","Royal Arms"]
 		},
 		"7_form": {
@@ -2429,7 +2429,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["dagger","sword","greatSword","katana","bow","spear","gun","fist","lightShield","hat","helm","clothes","lightArmor","heavyArmor"],
-			"enhancementSkills":["Blades of Azure Crimson","Octostrike Blade","Forsaken Armor","Azure Flame Edge","Crimson Frost Edge","Kingdom's Hero","Sonic Octostrike Blade","Crimson-Dyed Blade","Azure-Dyed Blade","Entrusted by a Friend"],
+			"enhancementSkills":["Blades of Azure Crimson","Octostrike Blade","Forsaken Armor","Azure Flame Edge","Crimson Frost Edge","Sonic Octostrike Blade","Crimson-Dyed Blade","Azure-Dyed Blade","Entrusted by a Friend","Kingdom's Hero"],
 			"categories":["Fire","Attacker","Support","FFBE","FFBE S2","WOTV FFBE","The Rebellion","Royal Arms"]
 		}
 	},
@@ -5049,7 +5049,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","rod","bow","whip","mace","hat","clothes","lightArmor","robe","visionCard"],
-		"enhancementSkills":["Malboro Rider","Bad Breath","Ground Whip","Gamma Star","Get Serious","Brutal Whip","Toxic Whip","Malboro Support","Landslide Whip","I'll fight for everyone's sake!"],
+		"enhancementSkills":["Landslide Whip","I'll fight for everyone's sake!","Malboro Rider","Bad Breath","Ground Whip","Gamma Star","Get Serious","Brutal Whip","Toxic Whip","Malboro Support"],
 		"categories":["Earth","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"],
 		"6_form": {
 			"name":"伊戈",
@@ -5069,7 +5069,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","rod","bow","whip","mace","hat","clothes","lightArmor","robe"],
-			"enhancementSkills":["Malboro Rider","Bad Breath","Ground Whip","Gamma Star","Get Serious","Brutal Whip","Toxic Whip","Malboro Support","Landslide Whip","I'll fight for everyone's sake!"],
+			"enhancementSkills":["Landslide Whip","I'll fight for everyone's sake!","Malboro Rider","Bad Breath","Ground Whip","Gamma Star","Get Serious","Brutal Whip","Toxic Whip","Malboro Support"],
 			"categories":["Earth","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"]
 		},
 		"7_form": {
@@ -5090,7 +5090,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["dagger","sword","rod","bow","whip","mace","hat","clothes","lightArmor","robe"],
-			"enhancementSkills":["Malboro Rider","Bad Breath","Ground Whip","Gamma Star","Get Serious","Brutal Whip","Toxic Whip","Malboro Support","Landslide Whip","I'll fight for everyone's sake!"],
+			"enhancementSkills":["Landslide Whip","I'll fight for everyone's sake!","Malboro Rider","Bad Breath","Ground Whip","Gamma Star","Get Serious","Brutal Whip","Toxic Whip","Malboro Support"],
 			"categories":["Earth","Attacker","Breaker","FFBE","FFBE S2","Dark Lineage","The Rebellion","The Gathering"]
 		}
 	},
@@ -5320,7 +5320,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","katana","staff","rod","spear","harp","whip","mace","hat","clothes","lightArmor","robe","visionCard"],
-		"enhancementSkills":["Waterja","Aeroja","Firaja","Thundaja","Aquatic Creation","Empowering Force","Combination Assault","Firaga","Thundaga","Waterga","Aeroga","Flare","Flood","Burst (FFBE)","Tornado"],
+		"enhancementSkills":["Empowering Force","Combination Assault","Firaga","Thundaga","Waterga","Aeroga","Flare","Flood","Burst (FFBE)","Tornado","Waterja","Aeroja","Firaja","Thundaja","Aquatic Creation"],
 		"categories":["Wind","Attacker","Mage","Breaker","FFBE"],
 		"6_form": {
 			"name":"卡瑞菈特",
@@ -5340,7 +5340,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","katana","staff","rod","spear","harp","whip","mace","hat","clothes","lightArmor","robe"],
-			"enhancementSkills":["Waterja","Aeroja","Firaja","Thundaja","Aquatic Creation","Empowering Force","Combination Assault","Firaga","Thundaga","Waterga","Aeroga","Flare","Flood","Burst (FFBE)","Tornado"],
+			"enhancementSkills":["Empowering Force","Combination Assault","Firaga","Thundaga","Waterga","Aeroga","Flare","Flood","Burst (FFBE)","Tornado","Waterja","Aeroja","Firaja","Thundaja","Aquatic Creation"],
 			"categories":["Wind","Attacker","Mage","Breaker","FFBE"]
 		},
 		"7_form": {
@@ -5361,7 +5361,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["dagger","sword","katana","staff","rod","spear","harp","whip","mace","hat","clothes","lightArmor","robe"],
-			"enhancementSkills":["Waterja","Aeroja","Firaja","Thundaja","Aquatic Creation","Empowering Force","Combination Assault","Firaga","Thundaga","Waterga","Aeroga","Flare","Flood","Burst (FFBE)","Tornado"],
+			"enhancementSkills":["Empowering Force","Combination Assault","Firaga","Thundaga","Waterga","Aeroga","Flare","Flood","Burst (FFBE)","Tornado","Waterja","Aeroja","Firaja","Thundaja","Aquatic Creation"],
 			"categories":["Wind","Attacker","Mage","Breaker","FFBE"]
 		}
 	},
@@ -7452,7 +7452,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
-		"enhancementSkills":["Fatal Bloom (Sh)","Silver Edge"],
+		"enhancementSkills":["Silver Edge","Fatal Bloom (Sh)"],
 		"categories":["Ice","Attacker","Breaker","FFBE","Anniversary (JP)","Evocation","Blood of Hess"],
 		"6_form": {
 			"name":"冰魔拉斯韋爾",
@@ -7472,7 +7472,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor"],
-			"enhancementSkills":["Fatal Bloom (Sh)","Silver Edge"],
+			"enhancementSkills":["Silver Edge","Fatal Bloom (Sh)"],
 			"categories":["Ice","Attacker","Breaker","FFBE","Anniversary (JP)","Evocation","Blood of Hess"]
 		},
 		"7_form": {
@@ -7493,7 +7493,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor"],
-			"enhancementSkills":["Fatal Bloom (Sh)","Silver Edge"],
+			"enhancementSkills":["Silver Edge","Fatal Bloom (Sh)"],
 			"categories":["Ice","Attacker","Breaker","FFBE","Anniversary (JP)","Evocation","Blood of Hess"]
 		}
 	},
@@ -8503,7 +8503,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor","visionCard"],
-		"enhancementSkills":["Death Blade - Falling Star Frost","Destructive Blade - Glacial Fissure","Reigning Blade - Nation Division"],
+		"enhancementSkills":["Destructive Blade - Glacial Fissure","Reigning Blade - Nation Division","Death Blade - Falling Star Frost"],
 		"categories":["Ice","Attacker","FFBE","FFBE S3","The Gathering"]
 	},
 	"100031517": {
@@ -9468,7 +9468,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
-		"enhancementSkills":["A Knight That Doesn't Just Defend","Shellga","Freezing Strike"],
+		"enhancementSkills":["Shellga","Freezing Strike","A Knight That Doesn't Just Defend"],
 		"categories":["Ice","Attacker","FFBE","FFBE S2","Royal Arms"]
 	},
 	"100034317": {
@@ -9491,7 +9491,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
-		"enhancementSkills":["A Knight That Doesn't Just Defend","Slashing Hail","Slashing Flurry"],
+		"enhancementSkills":["Slashing Hail","Slashing Flurry","A Knight That Doesn't Just Defend"],
 		"categories":["Ice","Attacker","FFBE","FFBE S2","Royal Arms"]
 	},
 	"100034407": {
@@ -9741,7 +9741,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["staff","rod","spear","hat","clothes","lightArmor","robe","visionCard"],
-		"enhancementSkills":["Burst (FFBE)","Unleashed Evocation (Sage of Thunder Sakura)","Thundaja","Thundaga","Protectga","Shellga","True Thunder Stone"],
+		"enhancementSkills":["Thundaja","Thundaga","Protectga","Shellga","True Thunder Stone","Burst (FFBE)","Unleashed Evocation (Sage of Thunder Sakura)"],
 		"categories":["Lightning","Support","FFBE","Evocation"]
 	},
 	"100035817": {
@@ -9764,7 +9764,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["staff","rod","spear","hat","clothes","lightArmor","robe","visionCard"],
-		"enhancementSkills":["Burst (FFBE)","Unleashed Evocation (Sage of Thunder Sakura)","Thundaja","Thundaga","True Thunder Stone","Sage's Support","Sage's Rage"],
+		"enhancementSkills":["Unleashed Evocation (Sage of Thunder Sakura)","Thundaja","Thundaga","True Thunder Stone","Sage's Support","Sage's Rage","Burst (FFBE)"],
 		"categories":["Lightning","Support","FFBE","Evocation"]
 	},
 	"100035907": {
@@ -12258,6 +12258,141 @@
 		"equip":["spear","harp","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"categories":["Ice","Mage","FFBE","Evocation","Blood of Hess","Royal Arms"]
 	},
+	"100043007": {
+		"name":"雷因-破滅的幻獸-",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Rain_-Esper of Destruction-",
+		"id":"100043007",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShift":"100043017",
+		"exAwakening": [{"hp":692,"mp":44,"atk":86,"def":33,"mag":29,"spr":31},{"hp":532,"mp":34,"atk":66,"def":25,"mag":22,"spr":24},{"hp":372,"mp":24,"atk":46,"def":18,"mag":16,"spr":17}],
+		"fragmentId": "250028400",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5321,"mp":338,"atk":330,"def":249,"mag":223,"spr":236},
+			"minStats":{"hp":1756,"mp":112,"atk":109,"def":82,"mag":74,"spr":78},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","greatSword","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Hadal Saber","Deep Edge","Large Sword Mastery","Leadership"],
+		"categories":["Water","Attacker","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals","Royal Arms","Clash of Wills","CW - Water"]
+	},
+	"100043017": {
+		"name":"雷因-破滅的幻獸- BS",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Rain_-Esper of Destruction-",
+		"id":"100043017",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShifted":"100043007",
+		"exAwakening": [{"hp":692,"mp":44,"atk":86,"def":33,"mag":29,"spr":31},{"hp":532,"mp":34,"atk":66,"def":25,"mag":22,"spr":24},{"hp":372,"mp":24,"atk":46,"def":18,"mag":16,"spr":17}],
+		"fragmentId": "250028400",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5321,"mp":338,"atk":330,"def":249,"mag":223,"spr":236},
+			"minStats":{"hp":1756,"mp":112,"atk":109,"def":82,"mag":74,"spr":78},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","greatSword","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"categories":["Water","Attacker","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals","Royal Arms","Clash of Wills","CW - Water"]
+	},
+	"100043107": {
+		"name":"拉斯韋爾-破滅的幻獸-",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Lasswell_-Esper of Destruction-",
+		"id":"100043107",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShift":"100043117",
+		"exAwakening": [{"hp":653,"mp":46,"atk":117,"def":28,"mag":31,"spr":24},{"hp":502,"mp":35,"atk":90,"def":22,"mag":24,"spr":18},{"hp":352,"mp":25,"atk":63,"def":15,"mag":17,"spr":13}],
+		"fragmentId": "250028100",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5023,"mp":351,"atk":450,"def":217,"mag":238,"spr":182},
+			"minStats":{"hp":1658,"mp":116,"atk":149,"def":72,"mag":79,"spr":60},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Mirror of Equity - Cerulean Seas","Sonorous Sea","Fingersnap","Heir to the Blade","Perfect Selflessness","Final Mirror of Equity"],
+		"categories":["Water","Attacker","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals","Blood of Hess","Royal Arms"]
+	},
+	"100043117": {
+		"name":"拉斯韋爾-破滅的幻獸- BS",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Lasswell_-Esper of Destruction-",
+		"id":"100043117",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShifted":"100043107",
+		"exAwakening": [{"hp":653,"mp":46,"atk":117,"def":28,"mag":31,"spr":24},{"hp":502,"mp":35,"atk":90,"def":22,"mag":24,"spr":18},{"hp":352,"mp":25,"atk":63,"def":15,"mag":17,"spr":13}],
+		"fragmentId": "250028100",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5023,"mp":351,"atk":450,"def":217,"mag":238,"spr":182},
+			"minStats":{"hp":1658,"mp":116,"atk":149,"def":72,"mag":79,"spr":60},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"categories":["Water","Attacker","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals","Blood of Hess","Royal Arms"]
+	},
+	"100043207": {
+		"name":"菲娜-破滅的幻獸-",
+		"roles":["magicalAttacker"],
+		"wikiEntry":"Fina_-Esper of Destruction-",
+		"id":"100043207",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShift":"100043217",
+		"exAwakening": [{"hp":618,"mp":45,"atk":18,"def":30,"mag":86,"spr":34},{"hp":475,"mp":35,"atk":14,"def":23,"mag":66,"spr":26},{"hp":333,"mp":24,"atk":10,"def":16,"mag":46,"spr":18}],
+		"fragmentId": "250028300",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":4754,"mp":346,"atk":141,"def":232,"mag":330,"spr":263},
+			"minStats":{"hp":1569,"mp":114,"atk":47,"def":77,"mag":109,"spr":87},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["bow","hat","clothes","robe","visionCard"],
+		"enhancementSkills":["Illuminating Wave","Illuminating Arrow","Bow Mastery","Watera","Waterga","Flood"],
+		"categories":["Light","Mage","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals"]
+	},
+	"100043217": {
+		"name":"菲娜-破滅的幻獸- BS",
+		"roles":["magicalAttacker"],
+		"wikiEntry":"Fina_-Esper of Destruction-",
+		"id":"100043217",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShifted":"100043207",
+		"exAwakening": [{"hp":618,"mp":45,"atk":18,"def":30,"mag":86,"spr":34},{"hp":475,"mp":35,"atk":14,"def":23,"mag":66,"spr":26},{"hp":333,"mp":24,"atk":10,"def":16,"mag":46,"spr":18}],
+		"fragmentId": "250028300",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":4754,"mp":346,"atk":141,"def":232,"mag":330,"spr":263},
+			"minStats":{"hp":1569,"mp":114,"atk":47,"def":77,"mag":109,"spr":87},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["bow","hat","clothes","robe","visionCard"],
+		"categories":["Light","Mage","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals"]
+	},
 	"100044107": {
 		"name":"魔槍騎士法伊薩利斯",
 		"roles":["physicalAttacker"],
@@ -14428,7 +14563,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","mace","helm","lightArmor","heavyArmor","robe","visionCard"],
-		"enhancementSkills":["Bioga","Meteor","Come, Shadow Dragon!","Dark Coercion","Twin Moon","Abyssal Quasar","Twin Meteor","Star-Transcending Power","Black Mage's Might","Ruler of the Night","Rod Mastery"],
+		"enhancementSkills":["Bioga","Black Mage's Might","Ruler of the Night","Rod Mastery","Meteor","Come, Shadow Dragon!","Dark Coercion","Twin Moon","Abyssal Quasar","Twin Meteor","Star-Transcending Power"],
 		"categories":["Dark","Mage","Breaker","FFIV"],
 		"6_form": {
 			"name":"漆黑魔道士高貝扎",
@@ -14448,7 +14583,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","staff","rod","mace","helm","lightArmor","heavyArmor","robe"],
-			"enhancementSkills":["Bioga","Meteor","Come, Shadow Dragon!","Dark Coercion","Twin Moon","Abyssal Quasar","Twin Meteor","Star-Transcending Power","Black Mage's Might","Ruler of the Night","Rod Mastery"],
+			"enhancementSkills":["Bioga","Black Mage's Might","Ruler of the Night","Rod Mastery","Meteor","Come, Shadow Dragon!","Dark Coercion","Twin Moon","Abyssal Quasar","Twin Meteor","Star-Transcending Power"],
 			"categories":["Dark","Mage","Breaker","FFIV"]
 		},
 		"7_form": {
@@ -14469,7 +14604,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["dagger","sword","staff","rod","mace","helm","lightArmor","heavyArmor","robe"],
-			"enhancementSkills":["Bioga","Meteor","Come, Shadow Dragon!","Dark Coercion","Twin Moon","Abyssal Quasar","Twin Meteor","Star-Transcending Power","Black Mage's Might","Ruler of the Night","Rod Mastery"],
+			"enhancementSkills":["Bioga","Black Mage's Might","Ruler of the Night","Rod Mastery","Meteor","Come, Shadow Dragon!","Dark Coercion","Twin Moon","Abyssal Quasar","Twin Meteor","Star-Transcending Power"],
 			"categories":["Dark","Mage","Breaker","FFIV"]
 		}
 	},
@@ -15066,7 +15201,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"],
-		"enhancementSkills":["Firaga","Blizzaga","Thundaga","Meteor","Wicked Light (Dark Mage Exdeath)","Wicked Magic","Quake"],
+		"enhancementSkills":["Wicked Magic","Quake","Firaga","Blizzaga","Thundaga","Meteor","Wicked Light (Dark Mage Exdeath)"],
 		"categories":["Earth","Mage","FFV"],
 		"6_form": {
 			"name":"暗黑魔道士艾克斯迪司",
@@ -15086,7 +15221,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","staff","rod","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor"],
-			"enhancementSkills":["Firaga","Blizzaga","Thundaga","Meteor","Wicked Light (Dark Mage Exdeath)","Wicked Magic","Quake"],
+			"enhancementSkills":["Wicked Magic","Quake","Firaga","Blizzaga","Thundaga","Meteor","Wicked Light (Dark Mage Exdeath)"],
 			"categories":["Earth","Mage","FFV"]
 		},
 		"7_form": {
@@ -15107,7 +15242,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["dagger","sword","staff","rod","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor"],
-			"enhancementSkills":["Firaga","Blizzaga","Thundaga","Meteor","Wicked Light (Dark Mage Exdeath)","Wicked Magic","Quake"],
+			"enhancementSkills":["Wicked Magic","Quake","Firaga","Blizzaga","Thundaga","Meteor","Wicked Light (Dark Mage Exdeath)"],
 			"categories":["Earth","Mage","FFV"]
 		}
 	},
@@ -16112,7 +16247,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","fist","clothes","lightArmor","visionCard"],
-		"enhancementSkills":["Megavolt","Martial Arts Mastery","Dried Meat Power"],
+		"enhancementSkills":["Dried Meat Power","Megavolt","Martial Arts Mastery"],
 		"categories":["Lightning","Attacker","FFVI","The Gathering"],
 		"6_form": {
 			"name":"嘎嗚",
@@ -16132,7 +16267,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","fist","clothes","lightArmor"],
-			"enhancementSkills":["Megavolt","Martial Arts Mastery","Dried Meat Power"],
+			"enhancementSkills":["Dried Meat Power","Megavolt","Martial Arts Mastery"],
 			"categories":["Lightning","Attacker","FFVI","The Gathering"]
 		},
 		"7_form": {
@@ -16153,7 +16288,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["dagger","fist","clothes","lightArmor"],
-			"enhancementSkills":["Megavolt","Martial Arts Mastery","Dried Meat Power"],
+			"enhancementSkills":["Dried Meat Power","Megavolt","Martial Arts Mastery"],
 			"categories":["Lightning","Attacker","FFVI","The Gathering"]
 		}
 	},
@@ -18970,7 +19105,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","harp","whip","mace","fist","hat","clothes","lightArmor","robe","visionCard"],
-		"enhancementSkills":["Intense Water","Intense Quake","Furious Watera","Furious Quakera","The Heart of the Party","Intense Banish","Furious Banishra","Martial Arts Mastery","GF","Fira","Thundara","Aerora","Firaga","Thundaga","Aeroga"],
+		"enhancementSkills":["The Heart of the Party","Intense Banish","Furious Banishra","Martial Arts Mastery","GF","Fira","Thundara","Aerora","Firaga","Thundaga","Aeroga","Intense Water","Intense Quake","Furious Watera","Furious Quakera"],
 		"categories":["Light","Mage","Breaker","Support","FFVIII","Evocation"],
 		"6_form": {
 			"name":"瑟爾菲",
@@ -18990,7 +19125,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","staff","rod","harp","whip","mace","fist","hat","clothes","lightArmor","robe"],
-			"enhancementSkills":["Intense Water","Intense Quake","Furious Watera","Furious Quakera","The Heart of the Party","Intense Banish","Furious Banishra","Martial Arts Mastery","GF","Fira","Thundara","Aerora","Firaga","Thundaga","Aeroga"],
+			"enhancementSkills":["The Heart of the Party","Intense Banish","Furious Banishra","Martial Arts Mastery","GF","Fira","Thundara","Aerora","Firaga","Thundaga","Aeroga","Intense Water","Intense Quake","Furious Watera","Furious Quakera"],
 			"categories":["Light","Mage","Breaker","Support","FFVIII","Evocation"]
 		},
 		"7_form": {
@@ -19011,7 +19146,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["dagger","sword","staff","rod","harp","whip","mace","fist","hat","clothes","lightArmor","robe"],
-			"enhancementSkills":["Intense Water","Intense Quake","Furious Watera","Furious Quakera","The Heart of the Party","Intense Banish","Furious Banishra","Martial Arts Mastery","GF","Fira","Thundara","Aerora","Firaga","Thundaga","Aeroga"],
+			"enhancementSkills":["The Heart of the Party","Intense Banish","Furious Banishra","Martial Arts Mastery","GF","Fira","Thundara","Aerora","Firaga","Thundaga","Aeroga","Intense Water","Intense Quake","Furious Watera","Furious Quakera"],
 			"categories":["Light","Mage","Breaker","Support","FFVIII","Evocation"]
 		}
 	},
@@ -19847,7 +19982,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
-		"enhancementSkills":["Seiken - Stock Break","Seiken - Climhazzard","Graceful Paladin","Seiken - Saint Bringer","Sword of the Clear Mind","Reflect","Unrivaled Drive"],
+		"enhancementSkills":["Unrivaled Drive","Seiken - Stock Break","Seiken - Climhazzard","Graceful Paladin","Seiken - Saint Bringer","Sword of the Clear Mind","Reflect"],
 		"categories":["Lightning","Attacker","Mage","Breaker","FFIX","Royal Arms"],
 		"6_form": {
 			"name":"貝特麗克絲",
@@ -19867,7 +20002,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
-			"enhancementSkills":["Seiken - Stock Break","Seiken - Climhazzard","Graceful Paladin","Seiken - Saint Bringer","Sword of the Clear Mind","Reflect","Unrivaled Drive"],
+			"enhancementSkills":["Unrivaled Drive","Seiken - Stock Break","Seiken - Climhazzard","Graceful Paladin","Seiken - Saint Bringer","Sword of the Clear Mind","Reflect"],
 			"categories":["Lightning","Attacker","Mage","Breaker","FFIX","Royal Arms"]
 		},
 		"7_form": {
@@ -19888,7 +20023,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["dagger","sword","greatSword","katana","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
-			"enhancementSkills":["Seiken - Stock Break","Seiken - Climhazzard","Graceful Paladin","Seiken - Saint Bringer","Sword of the Clear Mind","Reflect","Unrivaled Drive"],
+			"enhancementSkills":["Unrivaled Drive","Seiken - Stock Break","Seiken - Climhazzard","Graceful Paladin","Seiken - Saint Bringer","Sword of the Clear Mind","Reflect"],
 			"categories":["Lightning","Attacker","Mage","Breaker","FFIX","Royal Arms"]
 		}
 	},
@@ -20383,7 +20518,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","throwing","mace","hat","clothes","lightArmor","visionCard"],
-		"enhancementSkills":["Dagger Mastery","Speedy Evasion (Lightning-Fast Zidane)","Swift Raid"],
+		"enhancementSkills":["Speedy Evasion (Lightning-Fast Zidane)","Swift Raid","Dagger Mastery"],
 		"categories":["Wind","Support","Attacker","FFIX"]
 	},
 	"209002817": {
@@ -20406,7 +20541,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","throwing","mace","hat","clothes","lightArmor","visionCard"],
-		"enhancementSkills":["Dagger Mastery","Light from a World in Red","Speedy Evasion (Lightning-Fast Zidane)","True Stellar Circle 5"],
+		"enhancementSkills":["Light from a World in Red","Speedy Evasion (Lightning-Fast Zidane)","True Stellar Circle 5","Dagger Mastery"],
 		"categories":["Wind","Attacker","Breaker","FFIX"]
 	},
 	"209002907": {
@@ -23662,7 +23797,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","spear","lightShield","hat","clothes","lightArmor","visionCard"],
-		"enhancementSkills":["Flying Dragon Rider","Power Pulse","Broken l'Cie's Return","Destroyer's Jump","Aerial Loop"],
+		"enhancementSkills":["Destroyer's Jump","Aerial Loop","Flying Dragon Rider","Power Pulse","Broken l'Cie's Return"],
 		"categories":["Earth","Attacker","FFXIII","The Rebellion"],
 		"6_form": {
 			"name":"麗人勇士牙",
@@ -23682,7 +23817,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","spear","lightShield","hat","clothes","lightArmor"],
-			"enhancementSkills":["Flying Dragon Rider","Power Pulse","Broken l'Cie's Return","Destroyer's Jump","Aerial Loop"],
+			"enhancementSkills":["Destroyer's Jump","Aerial Loop","Flying Dragon Rider","Power Pulse","Broken l'Cie's Return"],
 			"categories":["Earth","Attacker","FFXIII","The Rebellion"]
 		},
 		"7_form": {
@@ -23703,7 +23838,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["dagger","sword","spear","lightShield","hat","clothes","lightArmor"],
-			"enhancementSkills":["Flying Dragon Rider","Power Pulse","Broken l'Cie's Return","Destroyer's Jump","Aerial Loop"],
+			"enhancementSkills":["Destroyer's Jump","Aerial Loop","Flying Dragon Rider","Power Pulse","Broken l'Cie's Return"],
 			"categories":["Earth","Attacker","FFXIII","The Rebellion"]
 		}
 	},
@@ -24156,7 +24291,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
-		"enhancementSkills":["Auto-Regen","King's Shield","Large Sword Mastery","Intercept","Royal Guard","Razor Shield","Master and Pupil"],
+		"enhancementSkills":["Auto-Regen","Razor Shield","Master and Pupil","King's Shield","Large Sword Mastery","Intercept","Royal Guard"],
 		"categories":["Earth","Physical Tank","Attacker","FFXV","Royal Arms"],
 		"6_form": {
 			"name":"格拉迪歐藍斯",
@@ -24176,7 +24311,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
-			"enhancementSkills":["Auto-Regen","King's Shield","Large Sword Mastery","Intercept","Royal Guard","Razor Shield","Master and Pupil"],
+			"enhancementSkills":["Auto-Regen","Razor Shield","Master and Pupil","King's Shield","Large Sword Mastery","Intercept","Royal Guard"],
 			"categories":["Earth","Physical Tank","Attacker","FFXV","Royal Arms"]
 		},
 		"7_form": {
@@ -24197,7 +24332,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
-			"enhancementSkills":["Auto-Regen","King's Shield","Large Sword Mastery","Intercept","Royal Guard","Razor Shield","Master and Pupil"],
+			"enhancementSkills":["Auto-Regen","Razor Shield","Master and Pupil","King's Shield","Large Sword Mastery","Intercept","Royal Guard"],
 			"categories":["Earth","Physical Tank","Attacker","FFXV","Royal Arms"]
 		}
 	},
@@ -25898,7 +26033,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","axe","hammer","spear","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
-		"enhancementSkills":["Store","Helm Break","Barrage","Shield Break","Meditate","Ambitions of a Meager Man","Sword Mastery","Cunning Hero's Sword","Hero's Encouragement"],
+		"enhancementSkills":["Ambitions of a Meager Man","Sword Mastery","Cunning Hero's Sword","Hero's Encouragement","Store","Helm Break","Barrage","Shield Break","Meditate"],
 		"categories":["Lightning","Attacker","Breaker","Support","FFT","The Rebellion","Royal Arms"],
 		"6_form": {
 			"name":"迪利塔",
@@ -25918,7 +26053,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","axe","hammer","spear","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
-			"enhancementSkills":["Store","Helm Break","Barrage","Shield Break","Meditate","Ambitions of a Meager Man","Sword Mastery","Cunning Hero's Sword","Hero's Encouragement"],
+			"enhancementSkills":["Ambitions of a Meager Man","Sword Mastery","Cunning Hero's Sword","Hero's Encouragement","Store","Helm Break","Barrage","Shield Break","Meditate"],
 			"categories":["Lightning","Attacker","Breaker","Support","FFT","The Rebellion","Royal Arms"]
 		},
 		"7_form": {
@@ -25939,7 +26074,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["dagger","sword","greatSword","katana","axe","hammer","spear","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
-			"enhancementSkills":["Store","Helm Break","Barrage","Shield Break","Meditate","Ambitions of a Meager Man","Sword Mastery","Cunning Hero's Sword","Hero's Encouragement"],
+			"enhancementSkills":["Ambitions of a Meager Man","Sword Mastery","Cunning Hero's Sword","Hero's Encouragement","Store","Helm Break","Barrage","Shield Break","Meditate"],
 			"categories":["Lightning","Attacker","Breaker","Support","FFT","The Rebellion","Royal Arms"]
 		}
 	},
@@ -26827,7 +26962,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","axe","spear","hat","clothes","visionCard"],
-		"enhancementSkills":["Aerora","Darkra","Thundara","Aeroga","Darkga","Thundaga","Spear Mastery","Survival of the Fittest","Scythe of Hatred"],
+		"enhancementSkills":["Survival of the Fittest","Scythe of Hatred","Aerora","Darkra","Thundara","Aeroga","Darkga","Thundaga","Spear Mastery"],
 		"categories":["Wind","Attacker","Breaker","FF Type-0","Blessing of the Crystals"],
 		"6_form": {
 			"name":"薩絲",
@@ -26847,7 +26982,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","axe","spear","hat","clothes"],
-			"enhancementSkills":["Aerora","Darkra","Thundara","Aeroga","Darkga","Thundaga","Spear Mastery","Survival of the Fittest","Scythe of Hatred"],
+			"enhancementSkills":["Survival of the Fittest","Scythe of Hatred","Aerora","Darkra","Thundara","Aeroga","Darkga","Thundaga","Spear Mastery"],
 			"categories":["Wind","Attacker","Breaker","FF Type-0","Blessing of the Crystals"]
 		},
 		"7_form": {
@@ -26868,7 +27003,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["dagger","axe","spear","hat","clothes"],
-			"enhancementSkills":["Aerora","Darkra","Thundara","Aeroga","Darkga","Thundaga","Spear Mastery","Survival of the Fittest","Scythe of Hatred"],
+			"enhancementSkills":["Survival of the Fittest","Scythe of Hatred","Aerora","Darkra","Thundara","Aeroga","Darkga","Thundaga","Spear Mastery"],
 			"categories":["Wind","Attacker","Breaker","FF Type-0","Blessing of the Crystals"]
 		}
 	},
@@ -26953,7 +27088,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","whip","hat","clothes","lightArmor","robe","visionCard"],
-		"enhancementSkills":["Firaja","Blizzaja","Thundaja","Tornado","Freeze","Promise with Machina","Bearer of Magic Unimaginable","Dagger Mastery","Blizzaga","Thundaga","Protectga","Shellga","Firaga"],
+		"enhancementSkills":["Promise with Machina","Bearer of Magic Unimaginable","Dagger Mastery","Blizzaga","Thundaga","Protectga","Shellga","Firaga","Firaja","Blizzaja","Thundaja","Tornado","Freeze"],
 		"categories":["Fire","Mage","Breaker","FF Type-0","Blessing of the Crystals"],
 		"6_form": {
 			"name":"慈愛的少女蕾姆",
@@ -26973,7 +27108,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","staff","rod","whip","hat","clothes","lightArmor","robe"],
-			"enhancementSkills":["Firaja","Blizzaja","Thundaja","Tornado","Freeze","Promise with Machina","Bearer of Magic Unimaginable","Dagger Mastery","Blizzaga","Thundaga","Protectga","Shellga","Firaga"],
+			"enhancementSkills":["Promise with Machina","Bearer of Magic Unimaginable","Dagger Mastery","Blizzaga","Thundaga","Protectga","Shellga","Firaga","Firaja","Blizzaja","Thundaja","Tornado","Freeze"],
 			"categories":["Fire","Mage","Breaker","FF Type-0","Blessing of the Crystals"]
 		},
 		"7_form": {
@@ -26994,7 +27129,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["dagger","sword","staff","rod","whip","hat","clothes","lightArmor","robe"],
-			"enhancementSkills":["Firaja","Blizzaja","Thundaja","Tornado","Freeze","Promise with Machina","Bearer of Magic Unimaginable","Dagger Mastery","Blizzaga","Thundaga","Protectga","Shellga","Firaga"],
+			"enhancementSkills":["Promise with Machina","Bearer of Magic Unimaginable","Dagger Mastery","Blizzaga","Thundaga","Protectga","Shellga","Firaga","Firaja","Blizzaja","Thundaja","Tornado","Freeze"],
 			"categories":["Fire","Mage","Breaker","FF Type-0","Blessing of the Crystals"]
 		}
 	},
@@ -31052,7 +31187,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","rod","helm","lightArmor","heavyArmor","robe","visionCard"],
-		"enhancementSkills":["Defensive Barrier","Glacial Erosion","Heaven's Blade","Sword Mastery","Blizzara","Blizzaga","Blizzaja"],
+		"enhancementSkills":["Glacial Erosion","Heaven's Blade","Sword Mastery","Blizzara","Blizzaga","Blizzaja","Defensive Barrier"],
 		"categories":["Ice","Attacker","Mage","Support","Another World","WOTV FFBE"],
 		"6_form": {
 			"name":"吉爾伽美什(WOTV FFBE)",
@@ -31072,7 +31207,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","rod","helm","lightArmor","heavyArmor","robe"],
-			"enhancementSkills":["Defensive Barrier","Glacial Erosion","Heaven's Blade","Sword Mastery","Blizzara","Blizzaga","Blizzaja"],
+			"enhancementSkills":["Glacial Erosion","Heaven's Blade","Sword Mastery","Blizzara","Blizzaga","Blizzaja","Defensive Barrier"],
 			"categories":["Ice","Attacker","Mage","Support","Another World","WOTV FFBE"]
 		},
 		"7_form": {
@@ -31093,7 +31228,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["dagger","sword","greatSword","rod","helm","lightArmor","heavyArmor","robe"],
-			"enhancementSkills":["Defensive Barrier","Glacial Erosion","Heaven's Blade","Sword Mastery","Blizzara","Blizzaga","Blizzaja"],
+			"enhancementSkills":["Glacial Erosion","Heaven's Blade","Sword Mastery","Blizzara","Blizzaga","Blizzaja","Defensive Barrier"],
 			"categories":["Ice","Attacker","Mage","Support","Another World","WOTV FFBE"]
 		}
 	},
@@ -38455,12 +38590,6 @@
   "100041517":{"name":"黒鳳剣ヒョウ BS","jpname":"黒鳳剣ヒョウ BS","roles":["magicalAttacker"],"id":"100041517","game_id":"undefined","game":"undefined","braveShifted":"100041507","exAwakening":[{"hp":693,"mp":35,"atk":38,"def":26,"mag":78,"spr":24},{"hp":533,"mp":27,"atk":29,"def":20,"mag":60,"spr":19},{"hp":373,"mp":19,"atk":20,"def":14,"mag":42,"spr":13}],"fragmentId":"250016500","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5329,"mp":270,"atk":290,"def":198,"mag":300,"spr":187},"minStats":{"hp":1759,"mp":89,"atk":96,"def":65,"mag":99,"spr":62},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","hammer","spear","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"]},
   "100042207":{"name":"テグミン","roles":["physicalAttacker"],"id":"100042207","game_id":"undefined","game":"undefined","braveShift":"100042217","exAwakening":[{"hp":715,"mp":40,"atk":78,"def":31,"mag":23,"spr":32},{"hp":550,"mp":31,"atk":60,"def":24,"mag":17,"spr":25},{"hp":385,"mp":21,"atk":42,"def":17,"mag":12,"spr":17}],"fragmentId":"250030900","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5504,"mp":308,"atk":300,"def":241,"mag":172,"spr":247},"minStats":{"hp":1816,"mp":102,"atk":99,"def":80,"mag":57,"spr":82},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","hammer","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["ブレイド・オブ・オナー","ソードランページ","剣の極意","大剣の極意","ハンマーの極意"]},
   "100042217":{"name":"テグミン BS","roles":["physicalAttacker"],"id":"100042217","game_id":"undefined","game":"undefined","braveShifted":"100042207","exAwakening":[{"hp":715,"mp":40,"atk":78,"def":31,"mag":23,"spr":32},{"hp":550,"mp":31,"atk":60,"def":24,"mag":17,"spr":25},{"hp":385,"mp":21,"atk":42,"def":17,"mag":12,"spr":17}],"fragmentId":"250030900","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5504,"mp":308,"atk":300,"def":241,"mag":172,"spr":247},"minStats":{"hp":1816,"mp":102,"atk":99,"def":80,"mag":57,"spr":82},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","hammer","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"]},
-  "100043007":{"name":"レイン -破滅の幻獣-","roles":["physicalAttacker"],"id":"100043007","game_id":"undefined","game":"undefined","braveShift":"100043017","exAwakening":[{"hp":692,"mp":44,"atk":86,"def":33,"mag":29,"spr":31},{"hp":532,"mp":34,"atk":66,"def":25,"mag":22,"spr":24},{"hp":372,"mp":24,"atk":46,"def":18,"mag":16,"spr":17}],"fragmentId":"250028400","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5321,"mp":338,"atk":330,"def":249,"mag":223,"spr":236},"minStats":{"hp":1756,"mp":112,"atk":109,"def":82,"mag":74,"spr":78},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["ヘイダルセイバー","ディープエッジ","大剣の極意","リーダーシップ"]},
-  "100043017":{"name":"レイン -破滅の幻獣- BS","roles":["physicalAttacker"],"id":"100043017","game_id":"undefined","game":"undefined","braveShifted":"100043007","exAwakening":[{"hp":692,"mp":44,"atk":86,"def":33,"mag":29,"spr":31},{"hp":532,"mp":34,"atk":66,"def":25,"mag":22,"spr":24},{"hp":372,"mp":24,"atk":46,"def":18,"mag":16,"spr":17}],"fragmentId":"250028400","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5321,"mp":338,"atk":330,"def":249,"mag":223,"spr":236},"minStats":{"hp":1756,"mp":112,"atk":109,"def":82,"mag":74,"spr":78},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","hat","helm","clothes","lightArmor","heavyArmor","visionCard"]},
-  "100043107":{"name":"ラスウェル -破滅の幻獣-","roles":["physicalAttacker"],"id":"100043107","game_id":"undefined","game":"undefined","braveShift":"100043117","exAwakening":[{"hp":653,"mp":46,"atk":117,"def":28,"mag":31,"spr":24},{"hp":502,"mp":35,"atk":90,"def":22,"mag":24,"spr":18},{"hp":352,"mp":25,"atk":63,"def":15,"mag":17,"spr":13}],"fragmentId":"250028100","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5023,"mp":351,"atk":450,"def":217,"mag":238,"spr":182},"minStats":{"hp":1658,"mp":116,"atk":149,"def":72,"mag":79,"spr":60},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["明鏡・碧海","海鳴りの刃","醒夢","秘刀の継承者","終・明鏡"]},
-  "100043117":{"name":"ラスウェル -破滅の幻獣- BS","roles":["physicalAttacker"],"id":"100043117","game_id":"undefined","game":"undefined","braveShifted":"100043107","exAwakening":[{"hp":653,"mp":46,"atk":117,"def":28,"mag":31,"spr":24},{"hp":502,"mp":35,"atk":90,"def":22,"mag":24,"spr":18},{"hp":352,"mp":25,"atk":63,"def":15,"mag":17,"spr":13}],"fragmentId":"250028100","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5023,"mp":351,"atk":450,"def":217,"mag":238,"spr":182},"minStats":{"hp":1658,"mp":116,"atk":149,"def":72,"mag":79,"spr":60},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"]},
-  "100043207":{"name":"フィーナ -破滅の幻獣-","roles":["magicalAttacker"],"id":"100043207","game_id":"undefined","game":"undefined","braveShift":"100043217","exAwakening":[{"hp":618,"mp":45,"atk":18,"def":30,"mag":86,"spr":34},{"hp":475,"mp":35,"atk":14,"def":23,"mag":66,"spr":26},{"hp":333,"mp":24,"atk":10,"def":16,"mag":46,"spr":18}],"fragmentId":"250028300","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":4754,"mp":346,"atk":141,"def":232,"mag":330,"spr":263},"minStats":{"hp":1569,"mp":114,"atk":47,"def":77,"mag":109,"spr":87},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["bow","hat","clothes","robe","visionCard"],"enhancementSkills":["イルミネートウェイブ","イルミネートアロー","弓の極意","ウォタラ","ウォタガ","フラッド"]},
-  "100043217":{"name":"フィーナ -破滅の幻獣- BS","roles":["magicalAttacker"],"id":"100043217","game_id":"undefined","game":"undefined","braveShifted":"100043207","exAwakening":[{"hp":618,"mp":45,"atk":18,"def":30,"mag":86,"spr":34},{"hp":475,"mp":35,"atk":14,"def":23,"mag":66,"spr":26},{"hp":333,"mp":24,"atk":10,"def":16,"mag":46,"spr":18}],"fragmentId":"250028300","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":4754,"mp":346,"atk":141,"def":232,"mag":330,"spr":263},"minStats":{"hp":1569,"mp":114,"atk":47,"def":77,"mag":109,"spr":87},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["bow","hat","clothes","robe","visionCard"]},
   "100043307":{"name":"カオス＝ビスマルク","roles":["debuffer"],"id":"100043307","game_id":"undefined","game":"undefined","braveShift":"100043317","exAwakening":[{"hp":652,"mp":45,"atk":20,"def":32,"mag":75,"spr":30},{"hp":502,"mp":34,"atk":15,"def":25,"mag":58,"spr":23},{"hp":351,"mp":24,"atk":11,"def":17,"mag":41,"spr":16}],"fragmentId":"250028600","max_rarity":"NV","min_rarity":"NV","sex":"other","stats":{"maxStats":{"hp":5016,"mp":343,"atk":151,"def":248,"mag":290,"spr":232},"minStats":{"hp":1655,"mp":113,"atk":50,"def":82,"mag":96,"spr":77},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","spear","hat","helm","lightArmor","heavyArmor","robe","visionCard"],"enhancementSkills":["特異点への導き","デストラクトウェイブ","槍の極意","ウォタラ","ウォタガ","ダーラ","ダーガ"]},
   "100043317":{"name":"カオス＝ビスマルク BS","roles":["debuffer"],"id":"100043317","game_id":"undefined","game":"undefined","braveShifted":"100043307","exAwakening":[{"hp":652,"mp":45,"atk":20,"def":32,"mag":75,"spr":30},{"hp":502,"mp":34,"atk":15,"def":25,"mag":58,"spr":23},{"hp":351,"mp":24,"atk":11,"def":17,"mag":41,"spr":16}],"fragmentId":"250028600","max_rarity":"NV","min_rarity":"NV","sex":"other","stats":{"maxStats":{"hp":5016,"mp":343,"atk":151,"def":248,"mag":290,"spr":232},"minStats":{"hp":1655,"mp":113,"atk":50,"def":82,"mag":96,"spr":77},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","spear","hat","helm","lightArmor","heavyArmor","robe","visionCard"]},
   "100043407":{"name":"ネイリッカ -破滅の幻獣-","roles":["physicalAttacker","support"],"id":"100043407","game_id":"undefined","game":"undefined","braveShift":"100043417","exAwakening":[{"hp":696,"mp":45,"atk":82,"def":30,"mag":16,"spr":28},{"hp":535,"mp":34,"atk":63,"def":23,"mag":12,"spr":22},{"hp":375,"mp":24,"atk":44,"def":16,"mag":8,"spr":15}],"fragmentId":"250028900","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5351,"mp":343,"atk":315,"def":231,"mag":119,"spr":218},"minStats":{"hp":1766,"mp":113,"atk":104,"def":76,"mag":39,"spr":72},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["fist","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],"enhancementSkills":["ダーグリ・スケード","ストルムフルド・ネーヴェ","格闘の極意"]},

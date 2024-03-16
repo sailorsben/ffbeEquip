@@ -35,12 +35,20 @@ function filterItems(items, data) {
 
 function parseNewContent(content, data) {
     const sections = content.split('Starting').slice(1);
-    const rawItems = sections[0] ? sections[0].trim().split('\n') : [];
-    const units = sections[1] ? sections[1].trim().split('\n') : [];
+    const rawItems = sections.length > 0 ? sections[0].trim().split('\n') : [];
+    const visionCards = sections.length > 2 ? sections[1].trim().split('\n') : []; // Corrected the indexing here
+    const units = sections.length > 1 ? sections[2].trim().split('\n') : []; // And here
 
-    // Filter and remove duplicates
-    const uniqueUnits = Array.from(new Set(units.map(line => line.match(/\d+/)[0]))).filter(id => !units.includes(id.replace(/07$/, '17')));
-    let uniqueItems = Array.from(new Set(rawItems.map(line => line.match(/\d+/)[0])));
+    // Extracting just the numeric IDs for units
+    const uniqueUnits = Array.from(new Set(units.map(line => {
+        const match = line.match(/"(\d+)"/); // Adjusted regex to capture only the numeric ID
+        return match ? match[1] : null;
+    }))).filter(id => id && !units.includes(id.replace(/07$/, '17')));
+
+    let uniqueItems = Array.from(new Set(rawItems.map(line => {
+        const match = line.match(/"(\d+)"/); // Adjusted regex here as well
+        return match ? match[1] : null;
+    })));
 
     // Filter out items based on data.json
     uniqueItems = filterItems(uniqueItems, data);
@@ -49,10 +57,15 @@ function parseNewContent(content, data) {
         date: getTodaysDateFormatted(),
         sources: [
             { type: "banner", units: uniqueUnits },
+            { type: "storyPart", name: "Vision Cards", ids: visionCards.map(line => {
+                const match = line.match(/"(\d+)"/);
+                return match ? match[1] : null;
+            }).filter(id => id) }, // Added mapping and filtering for IDs
             { type: "storyPart", name: "Items", ids: uniqueItems }
         ]
     };
 }
+
 
 // This function takes the new release object and returns a string with the desired formatting
 function serializeReleaseObjectForPrepend(releaseObject) {
