@@ -1,3 +1,2 @@
-"100008901":Strike of the Water God
-"100009001":Esper Against Esper
-"100009101":Struggle for the Root Crystal
+"401010101":Magic Wrecking Ball
+"401010201":Warden of the Aquapolis

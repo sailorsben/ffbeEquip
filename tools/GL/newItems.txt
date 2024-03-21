@@ -1,11 +1,7 @@
 Starting
-"405037300":Abyssal Armor
-"504244970":Sublime Swordsmanship
-"304012900":Azuretide Wyrmblade
-"304012900":Azuretide Wyrmblade
+Starting 
+"401010101":Magic Wrecking Ball
+"401010201":Warden of the Aquapolis
 Starting
-"100009001":Esper Against Esper
-"207000401":The Star of Seventh Heaven
-Starting
-"100043107":Lasswell -Esper of Destruction-
-"100043117":Lasswell -Esper of Destruction- BS
+"401016107":Blood Mage Zyrus
+"401016117":Blood Mage Zyrus BS
