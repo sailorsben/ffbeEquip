@@ -11,15 +11,14 @@
 		"sources": [
 			{"type": "banner", "units": ["100043107", "100043117"]},
 			{"type": "storyPart", "name": "Vision Cards", "ids": ["100009001", "207000401"]},
-			{"type": "storyPart", "name": "Items", "ids": ["405037300", "504244970", "304012900"]}
+			{"type": "storyPart", "name": "Items", "ids": ["504244970"]}
 		]
 	},
 	{
 		"date": "March 7th, 2024",
 		"sources": [
 			{"type": "banner", "units": ["100043007", "100043017", "100043207", "100043217"]},
-			{"type": "storyPart", "name": "Vision Cards", "ids": ["100008901", "100009101"]},
-			{"type": "storyPart", "name": "Items", "ids": ["303014500", "312007000", "504245071", "504245075"]}
+			{"type": "storyPart", "name": "Vision Cards", "ids": ["100008901", "100009101"]}
 		]
 	},
 	{
