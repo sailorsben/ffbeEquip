@@ -204,6 +204,7 @@ const unitRules = {
     7401: (item) => item.exclusiveUnits = ["100031507", "100031517"],
     7402: (item) => item.exclusiveUnits = ["100039407"],
     7601: (item) => item.max7StarUnit = true, // not implemented yet. Only for unit max 7*
+    7903: (item) => item.exclusiveUnits = unitIdsByGameId[10003], // FF3 units
     7908: (item) => item.exclusiveUnits = unitIdsByGameId[10008], // FF8 units
     7909: (item) => item.exclusiveUnits = unitIdsByGameId[10011], // FF11 units
     7933: (item) => item.exclusiveUnits = unitIdsByGameId[11003], // FF type Zero Tag units
