@@ -1,2 +1,2 @@
-"401010101":Magic Wrecking Ball
-"401010201":Warden of the Aquapolis
+"100009201":Deliverance from Despair
+"401010301":A Hatred for Dragons

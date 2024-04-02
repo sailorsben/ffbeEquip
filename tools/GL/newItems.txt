@@ -1,7 +1,9 @@
 Starting
 Starting 
-"401010101":Magic Wrecking Ball
-"401010201":Warden of the Aquapolis
+"100009201":Deliverance from Despair
+"401010301":A Hatred for Dragons
 Starting
-"401016107":Blood Mage Zyrus
-"401016117":Blood Mage Zyrus BS
+"100043507":Charlotte -Esper of Destruction-
+"100043517":Charlotte -Esper of Destruction- BS
+"100043607":Dark Fina -Esper of Destruction-
+"100043617":Dark Fina -Esper of Destruction- BS

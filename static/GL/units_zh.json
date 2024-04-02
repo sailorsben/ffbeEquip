@@ -1758,7 +1758,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","axe","spear","heavyShield","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Darklord","Impact","Dark Punishment","Dark Edge","Dark Blade of Vengeance+","Shadowy Punishment","Heroic Aura"],
-		"categories":["Dark","Attacker","Support","Breaker","FFBE","FFBE S1"],
+		"categories":["Dark","Attacker","Support","Breaker","FFBE","FFBE S1","Harbingers of Chaos"],
 		"6_form": {
 			"name":"常暗之維利亞斯",
 			"roles":["physicalAttacker","support","debuffer"],
@@ -1778,7 +1778,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","axe","spear","heavyShield","helm","lightArmor","heavyArmor"],
 			"enhancementSkills":["Darklord","Impact","Dark Punishment","Dark Edge","Dark Blade of Vengeance+","Shadowy Punishment","Heroic Aura"],
-			"categories":["Dark","Attacker","Support","Breaker","FFBE","FFBE S1"]
+			"categories":["Dark","Attacker","Support","Breaker","FFBE","FFBE S1","Harbingers of Chaos"]
 		},
 		"7_form": {
 			"name":"常暗之維利亞斯",
@@ -1799,7 +1799,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","greatSword","katana","axe","spear","heavyShield","helm","lightArmor","heavyArmor"],
 			"enhancementSkills":["Darklord","Impact","Dark Punishment","Dark Edge","Dark Blade of Vengeance+","Shadowy Punishment","Heroic Aura"],
-			"categories":["Dark","Attacker","Support","Breaker","FFBE","FFBE S1"]
+			"categories":["Dark","Attacker","Support","Breaker","FFBE","FFBE S1","Harbingers of Chaos"]
 		}
 	},
 	"100007727": {
@@ -1823,7 +1823,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","axe","hammer","spear","fist","heavyShield","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Dark Blade of Vengeance+","Blade of Carnage","Lacerating Battle Blade","Demonic War Blade","Leader of the Sworn Six"],
-		"categories":["Dark","Attacker","FFBE","FFBE S1"]
+		"categories":["Dark","Attacker","FFBE","FFBE S1","Harbingers of Chaos"]
 	},
 	"100007804": {
 		"name":"天風之維利亞斯",
@@ -1883,7 +1883,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","bow","axe","hammer","spear","throwing","gun","mace","fist","heavyShield","helm","lightArmor","heavyArmor"],
 		"enhancementSkills":["Axe Mastery","Flamelord","Heavy Stomp","Uplift"],
-		"categories":["Fire","Attacker","Support","FFBE","FFBE S1","Dark Lineage","Fire","Attacker","Support","Breaker","FFBE","FFBE S1","Dark Lineage","Fire","Attacker","Support","Breaker","FFBE","FFBE S1","Dark Lineage"],
+		"categories":["Fire","Attacker","Support","FFBE","FFBE S1","Dark Lineage","Fire","Attacker","Support","Breaker","FFBE","FFBE S1","Dark Lineage","Fire","Attacker","Support","Breaker","FFBE","FFBE S1","Dark Lineage","Harbingers of Chaos"],
 		"6_form": {
 			"name":"劫火之維利亞斯",
 			"roles":["physicalAttacker","support","debuffer"],
@@ -1903,7 +1903,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","bow","axe","hammer","spear","throwing","gun","mace","fist","heavyShield","helm","lightArmor","heavyArmor"],
 			"enhancementSkills":["Axe Mastery","Flamelord","Heavy Stomp","Uplift"],
-			"categories":["Fire","Attacker","Support","FFBE","FFBE S1","Dark Lineage","Fire","Attacker","Support","Breaker","FFBE","FFBE S1","Dark Lineage","Fire","Attacker","Support","Breaker","FFBE","FFBE S1","Dark Lineage"]
+			"categories":["Fire","Attacker","Support","FFBE","FFBE S1","Dark Lineage","Fire","Attacker","Support","Breaker","FFBE","FFBE S1","Dark Lineage","Fire","Attacker","Support","Breaker","FFBE","FFBE S1","Dark Lineage","Harbingers of Chaos"]
 		}
 	},
 	"100008104": {
@@ -1944,7 +1944,7 @@
 		"stats_pattern":4,
 		"equip":["sword","rod","throwing","gun","helm","lightArmor","heavyArmor"],
 		"enhancementSkills":["Splendor","Ultima","License to Kill","Divine Shot"],
-		"categories":["Light","Attacker","Mage","FFBE","FFBE S1","Dark Lineage","Light","Attacker","Mage","Breaker","FFBE","FFBE S1","Dark Lineage","Light","Attacker","Mage","Breaker","FFBE","FFBE S1","Dark Lineage"],
+		"categories":["Light","Attacker","Mage","FFBE","FFBE S1","Dark Lineage","Light","Attacker","Mage","Breaker","FFBE","FFBE S1","Dark Lineage","Light","Attacker","Mage","Breaker","FFBE","FFBE S1","Dark Lineage","Harbingers of Chaos"],
 		"6_form": {
 			"name":"光輝之維利亞斯",
 			"roles":["physicalAttacker","magicalAttacker","debuffer"],
@@ -1964,7 +1964,7 @@
 			"stats_pattern":1,
 			"equip":["sword","rod","throwing","gun","helm","lightArmor","heavyArmor"],
 			"enhancementSkills":["Splendor","Ultima","License to Kill","Divine Shot"],
-			"categories":["Light","Attacker","Mage","FFBE","FFBE S1","Dark Lineage","Light","Attacker","Mage","Breaker","FFBE","FFBE S1","Dark Lineage","Light","Attacker","Mage","Breaker","FFBE","FFBE S1","Dark Lineage"]
+			"categories":["Light","Attacker","Mage","FFBE","FFBE S1","Dark Lineage","Light","Attacker","Mage","Breaker","FFBE","FFBE S1","Dark Lineage","Light","Attacker","Mage","Breaker","FFBE","FFBE S1","Dark Lineage","Harbingers of Chaos"]
 		}
 	},
 	"100008504": {
@@ -6116,7 +6116,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","mace","lightShield","hat","helm","clothes","lightArmor","robe"],
 		"enhancementSkills":["Yuraisha's Teachings","Endless Magic","Solar Divinity","Execution","Deflagrating Heat","Sage's Wisdom","Chaotic Nova"],
-		"categories":["Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering","Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering","Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering"],
+		"categories":["Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering","Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering","Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering","Harbingers of Chaos"],
 		"6_form": {
 			"name":"索菲拉",
 			"roles":["magicalAttacker","debuffer"],
@@ -6136,7 +6136,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","harp","mace","lightShield","hat","helm","clothes","lightArmor","robe"],
 			"enhancementSkills":["Yuraisha's Teachings","Endless Magic","Solar Divinity","Execution","Deflagrating Heat","Sage's Wisdom","Chaotic Nova"],
-			"categories":["Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering","Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering","Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering"]
+			"categories":["Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering","Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering","Dark","Mage","Breaker","FFBE","FFBE S2","WOTV FFBE","Dark Lineage","Blessing of the Crystals","The Gathering","Harbingers of Chaos"]
 		}
 	},
 	"100022404": {
@@ -7069,7 +7069,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","spear","hat","clothes","robe"],
-		"categories":["Fire","Mage","Breaker","FFBE","Fire","Mage","Breaker","FFBE","Fire","Mage","Breaker","FFBE"],
+		"categories":["Fire","Mage","Breaker","FFBE","Fire","Mage","Breaker","FFBE","Fire","Mage","Breaker","FFBE","Harbingers of Chaos"],
 		"6_form": {
 			"name":"阿爾赫那",
 			"roles":["magicalAttacker","debuffer"],
@@ -7088,7 +7088,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","spear","hat","clothes","robe"],
-			"categories":["Fire","Mage","Breaker","FFBE","Fire","Mage","Breaker","FFBE","Fire","Mage","Breaker","FFBE"]
+			"categories":["Fire","Mage","Breaker","FFBE","Fire","Mage","Breaker","FFBE","Fire","Mage","Breaker","FFBE","Harbingers of Chaos"]
 		}
 	},
 	"100027105": {
@@ -8550,7 +8550,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","mace","lightShield","hat","helm","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Darkness Beam","Dark Hail","Malicious Manslayer"],
-		"categories":["Dark","Mage","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals","The Rebellion","The Gathering"]
+		"categories":["Dark","Mage","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals","The Rebellion","The Gathering","Harbingers of Chaos"]
 	},
 	"100031617": {
 		"name":"索菲拉-Neo Vision- BS",
@@ -8573,7 +8573,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","whip","mace","lightShield","hat","helm","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Devastating Blizzard","Dark Hail"],
-		"categories":["Ice","Mage","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals","The Rebellion","The Gathering"]
+		"categories":["Ice","Mage","FFBE","FFBE S2","WOTV FFBE","Blessing of the Crystals","The Rebellion","The Gathering","Harbingers of Chaos"]
 	},
 	"100031707": {
 		"name":"海濱菲娜&黛西",
@@ -9166,7 +9166,7 @@
 		"stats_pattern":4,
 		"equip":["spear","hat","clothes","visionCard"],
 		"enhancementSkills":["Emotional Slash","Awakening of Power","Blazing Lance"],
-		"categories":["Fire","Attacker","Support","FFBE","FFBE S3","The Rebellion"]
+		"categories":["Fire","Attacker","Support","FFBE","FFBE S3","The Rebellion","Harbingers of Chaos"]
 	},
 	"100033217": {
 		"name":"瑪祖卡 BS",
@@ -9189,7 +9189,7 @@
 		"stats_pattern":4,
 		"equip":["spear","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Blooming Jump","Awakening of Power","Jump","Blazing Lance"],
-		"categories":["Fire","Attacker","FFBE","FFBE S3","The Rebellion"]
+		"categories":["Fire","Attacker","FFBE","FFBE S3","The Rebellion","Harbingers of Chaos"]
 	},
 	"100033305": {
 		"name":"特洛特",
@@ -9251,7 +9251,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","mace","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Waterga","Aeroga","Waterja","Flood","Lingering Drops"],
-		"categories":["Water","Mage","FFBE","FFBE S3","The Rebellion"]
+		"categories":["Water","Mage","FFBE","FFBE S3","The Rebellion","Harbingers of Chaos"]
 	},
 	"100033417": {
 		"name":"梅洛伊 BS",
@@ -9274,7 +9274,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","mace","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Hidden Magic Power","Waterga","Aeroga","Waterja","Flood","I can't call everything a pain..."],
-		"categories":["Water","Mage","FFBE","FFBE S3","The Rebellion"]
+		"categories":["Water","Mage","FFBE","FFBE S3","The Rebellion","Harbingers of Chaos"]
 	},
 	"100033505": {
 		"name":"芙蕾吉婭",
@@ -9338,7 +9338,7 @@
 		"stats_pattern":4,
 		"equip":["whip","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Whip Mastery","Princess's Steward","Abyss Whip","Cutting Punishment"],
-		"categories":["Dark","Breaker","FFBE","FFBE S3","The Rebellion"]
+		"categories":["Dark","Breaker","FFBE","FFBE S3","The Rebellion","Harbingers of Chaos"]
 	},
 	"100033917": {
 		"name":"克拉爾 BS",
@@ -9361,7 +9361,7 @@
 		"stats_pattern":4,
 		"equip":["whip","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Whip Mastery","Thoughts in a Flower","Abyss Whip","Shadow Whip Spiral"],
-		"categories":["Dark","Attacker","FFBE","FFBE S3","The Rebellion"]
+		"categories":["Dark","Attacker","FFBE","FFBE S3","The Rebellion","Harbingers of Chaos"]
 	},
 	"100034107": {
 		"name":"狄貝爾",
@@ -9384,7 +9384,7 @@
 		"stats_pattern":4,
 		"equip":["throwing","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Shellga","He Who Wished for Strength","Fired Up Earth","Damage Card Cut","Card Assault"],
-		"categories":["Earth","Attacker","Magic Tank","FFBE","FFBE S3","Evocation","The Rebellion"]
+		"categories":["Earth","Attacker","Magic Tank","FFBE","FFBE S3","Evocation","The Rebellion","Harbingers of Chaos"]
 	},
 	"100034117": {
 		"name":"狄貝爾 BS",
@@ -9407,7 +9407,7 @@
 		"stats_pattern":4,
 		"equip":["throwing","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Future Entrusted to Rinora","Fired Up Earth","Abyssal Summon"],
-		"categories":["Earth","Mage","Magic Tank","FFBE","FFBE S3","Evocation","The Rebellion"]
+		"categories":["Earth","Mage","Magic Tank","FFBE","FFBE S3","Evocation","The Rebellion","Harbingers of Chaos"]
 	},
 	"100034205": {
 		"name":"孔什",
@@ -9426,7 +9426,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["harp","hat","helm","clothes","lightArmor","heavyArmor","robe"],
-		"categories":["Lightning","Support","FFBE","FFBE S3","Lightning","Support","FFBE","FFBE S3","Lightning","Support","FFBE","FFBE S3"],
+		"categories":["Lightning","Support","FFBE","FFBE S3","Lightning","Support","FFBE","FFBE S3","Lightning","Support","FFBE","FFBE S3","Harbingers of Chaos"],
 		"6_form": {
 			"name":"孔什",
 			"roles":["support"],
@@ -9445,7 +9445,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["harp","hat","helm","clothes","lightArmor","heavyArmor","robe"],
-			"categories":["Lightning","Support","FFBE","FFBE S3","Lightning","Support","FFBE","FFBE S3","Lightning","Support","FFBE","FFBE S3"]
+			"categories":["Lightning","Support","FFBE","FFBE S3","Lightning","Support","FFBE","FFBE S3","Lightning","Support","FFBE","FFBE S3","Harbingers of Chaos"]
 		}
 	},
 	"100034307": {
@@ -9515,7 +9515,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","lightShield","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Soul Replication","Firaga","Thundaga","Flood","Darkra","Lone Mirror of Equity","Execrating Mirror of Equity"],
-		"categories":["Dark","Mage","FFBE","FFBE S2","Dark Lineage"]
+		"categories":["Dark","Mage","FFBE","FFBE S2","Dark Lineage","Harbingers of Chaos"]
 	},
 	"100034417": {
 		"name":"皇帝武拉德 BS",
@@ -9538,7 +9538,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","lightShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Soul Replication","Alpha Star's True Identity","Lone Mirror of Equity","True Power of Solitude"],
-		"categories":["Dark","Mage","FFBE","FFBE S2","Dark Lineage"]
+		"categories":["Dark","Mage","FFBE","FFBE S2","Dark Lineage","Harbingers of Chaos"]
 	},
 	"100034707": {
 		"name":"海王尼科爾",
@@ -10149,7 +10149,7 @@
 		"stats_pattern":4,
 		"equip":["rod","spear","hat","helm","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Darkga","Doomsday","Dark Suppression","Chaotic Mirage","One and Only Ruler","Warring Spirit"],
-		"categories":["Dark","Mage","FFBE","Anniversary (JP)"]
+		"categories":["Dark","Mage","FFBE","Anniversary (JP)","Harbingers of Chaos"]
 	},
 	"100037817": {
 		"name":"暗黑雷因 BS",
@@ -10172,7 +10172,7 @@
 		"stats_pattern":4,
 		"equip":["rod","spear","hat","helm","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Warring Spirit"],
-		"categories":["Dark","Mage","FFBE","Anniversary (JP)"]
+		"categories":["Dark","Mage","FFBE","Anniversary (JP)","Harbingers of Chaos"]
 	},
 	"100037907": {
 		"name":"雷根 -再臨帝王-",
@@ -11055,7 +11055,7 @@
 		"stats_pattern":4,
 		"equip":["axe","hammer","mace","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Eisen Schwall","Eisen Platzen","Weighty Stance","Axe Mastery","Awakening of Power"],
-		"categories":["Earth","Attacker","FFBE","FFBE S4","The Rebellion","The Gathering"]
+		"categories":["Earth","Attacker","FFBE","FFBE S4","The Rebellion","The Gathering","Harbingers of Chaos"]
 	},
 	"100040117": {
 		"name":"凡赫爾馬 BS",
@@ -11077,7 +11077,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["axe","hammer","mace","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
-		"categories":["Earth","Attacker","FFBE","FFBE S4","The Rebellion","The Gathering"]
+		"categories":["Earth","Attacker","FFBE","FFBE S4","The Rebellion","The Gathering","Harbingers of Chaos"]
 	},
 	"100040207": {
 		"name":"依花",
@@ -11100,7 +11100,7 @@
 		"stats_pattern":4,
 		"equip":["axe","mace","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Stonra","Stonga","Aura"],
-		"categories":["Earth","Support","Healer","FFBE","FFBE S4","The Rebellion","The Gathering"]
+		"categories":["Earth","Support","Healer","FFBE","FFBE S4","The Rebellion","The Gathering","Harbingers of Chaos"]
 	},
 	"100040217": {
 		"name":"依花 BS",
@@ -11122,7 +11122,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["axe","mace","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
-		"categories":["Earth","Support","Healer","FFBE","FFBE S4","The Rebellion","The Gathering"]
+		"categories":["Earth","Support","Healer","FFBE","FFBE S4","The Rebellion","The Gathering","Harbingers of Chaos"]
 	},
 	"100040307": {
 		"name":"泰瓦斯&伊榭",
@@ -11280,7 +11280,7 @@
 		"stats_pattern":4,
 		"equip":["greatSword","hat","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Fatal Black Fang","Large Sword Mastery","Blade of Carnage"],
-		"categories":["Dark","Attacker","FFBE","Anniversary (JP)","Dark Lineage"]
+		"categories":["Dark","Attacker","FFBE","Anniversary (JP)","Dark Lineage","Harbingers of Chaos"]
 	},
 	"100040617": {
 		"name":"迪歐賽斯 BS",
@@ -11303,7 +11303,7 @@
 		"stats_pattern":4,
 		"equip":["greatSword","hat","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Large Sword Mastery"],
-		"categories":["Dark","Attacker","FFBE","Anniversary (JP)","Dark Lineage"]
+		"categories":["Dark","Attacker","FFBE","Anniversary (JP)","Dark Lineage","Harbingers of Chaos"]
 	},
 	"100040707": {
 		"name":"雷根-魔將的譜系-",
@@ -11462,7 +11462,7 @@
 		"stats_pattern":4,
 		"equip":["katana","spear","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Iceshorn Execution","Katana Mastery","Spear Mastery"],
-		"categories":["Ice","Attacker","Support","FFBE","Anniversary (JP)","Dark Lineage"]
+		"categories":["Ice","Attacker","Support","FFBE","Anniversary (JP)","Dark Lineage","Harbingers of Chaos"]
 	},
 	"100041017": {
 		"name":"冰刃之維利亞斯 BS",
@@ -11484,7 +11484,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["katana","spear","helm","lightArmor","heavyArmor","visionCard"],
-		"categories":["Ice","Attacker","Support","FFBE","Anniversary (JP)","Dark Lineage"]
+		"categories":["Ice","Attacker","Support","FFBE","Anniversary (JP)","Dark Lineage","Harbingers of Chaos"]
 	},
 	"100041107": {
 		"name":"櫻-魔將的譜系-",
@@ -11781,7 +11781,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","harp","mace","lightShield","hat","helm","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Luminous Anguish","Darkness Beam","Fira","Blizzara","Darkra"],
-		"categories":["Dark","Mage","Breaker","FFBE","Dark Lineage"]
+		"categories":["Dark","Mage","Breaker","FFBE","Dark Lineage","Harbingers of Chaos"]
 	},
 	"100041817": {
 		"name":"巴別巨人 BS",
@@ -11804,7 +11804,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","mace","fist","visionCard"],
 		"enhancementSkills":["Military's Visionary Magic","Superior Domain"],
-		"categories":["Dark","Mage","FFBE","Dark Lineage"]
+		"categories":["Dark","Mage","FFBE","Dark Lineage","Harbingers of Chaos"]
 	},
 	"100041907": {
 		"name":"斯諾夫林卡",
@@ -12393,6 +12393,96 @@
 		"equip":["bow","hat","clothes","robe","visionCard"],
 		"categories":["Light","Mage","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals"]
 	},
+	"100043507": {
+		"name":"夏洛特 -破滅的幻獸-",
+		"roles":["magicalTank"],
+		"wikiEntry":"Charlotte_-Esper of Destruction-",
+		"id":"100043507",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShift":"100043517",
+		"exAwakening": [{"hp":718,"mp":46,"atk":31,"def":33,"mag":28,"spr":73},{"hp":553,"mp":35,"atk":24,"def":26,"mag":22,"spr":56},{"hp":387,"mp":25,"atk":17,"def":18,"mag":15,"spr":39}],
+		"fragmentId": "250028800",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":5527,"mp":352,"atk":241,"def":258,"mag":216,"spr":280},
+			"minStats":{"hp":1824,"mp":116,"atk":80,"def":85,"mag":71,"spr":92},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","greatSword","staff","rod","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
+		"enhancementSkills":["Knight's Swirling Blade","Knight's Whirling Blade","Sword Mastery","Knight's Voice","Healing Glory","Cover - Magic I","Shellga","Protectga"],
+		"categories":["Water","Magic Tank","FFBE","Bestowed Power","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals","Royal Arms"]
+	},
+	"100043517": {
+		"name":"夏洛特 -破滅的幻獸- BS",
+		"roles":["magicalTank"],
+		"wikiEntry":"Charlotte_-Esper of Destruction-",
+		"id":"100043517",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShifted":"100043507",
+		"exAwakening": [{"hp":718,"mp":46,"atk":31,"def":33,"mag":28,"spr":73},{"hp":553,"mp":35,"atk":24,"def":26,"mag":22,"spr":56},{"hp":387,"mp":25,"atk":17,"def":18,"mag":15,"spr":39}],
+		"fragmentId": "250028800",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":5527,"mp":352,"atk":241,"def":258,"mag":216,"spr":280},
+			"minStats":{"hp":1824,"mp":116,"atk":80,"def":85,"mag":71,"spr":92},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","greatSword","staff","rod","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
+		"categories":["Water","Magic Tank","FFBE","Bestowed Power","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals","Royal Arms"]
+	},
+	"100043607": {
+		"name":"魔人菲娜-破滅的幻獸-",
+		"roles":["magicalAttacker"],
+		"wikiEntry":"Dark_Fina -Esper of Destruction-",
+		"id":"100043607",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShift":"100043617",
+		"exAwakening": [{"hp":601,"mp":44,"atk":26,"def":27,"mag":117,"spr":34},{"hp":463,"mp":34,"atk":20,"def":21,"mag":90,"spr":26},{"hp":324,"mp":24,"atk":14,"def":15,"mag":63,"spr":18}],
+		"fragmentId": "250028500",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":4626,"mp":337,"atk":198,"def":209,"mag":450,"spr":261},
+			"minStats":{"hp":1527,"mp":111,"atk":65,"def":69,"mag":149,"spr":86},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["staff","rod","whip","hat","clothes","robe","visionCard"],
+		"enhancementSkills":["Whip Mastery","Eternal Shadow","Dark Vision's Secret","Waterga","Watera","Flood","Aeroga","Aerora","Tornado","Stonga","Stonra","Quake"],
+		"categories":["Dark","Mage","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals","The Gathering"]
+	},
+	"100043617": {
+		"name":"魔人菲娜-破滅的幻獸- BS",
+		"roles":["magicalAttacker"],
+		"wikiEntry":"Dark_Fina -Esper of Destruction-",
+		"id":"100043617",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShifted":"100043607",
+		"exAwakening": [{"hp":601,"mp":44,"atk":26,"def":27,"mag":117,"spr":34},{"hp":463,"mp":34,"atk":20,"def":21,"mag":90,"spr":26},{"hp":324,"mp":24,"atk":14,"def":15,"mag":63,"spr":18}],
+		"fragmentId": "250028500",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":4626,"mp":337,"atk":198,"def":209,"mag":450,"spr":261},
+			"minStats":{"hp":1527,"mp":111,"atk":65,"def":69,"mag":149,"spr":86},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["staff","rod","whip","hat","clothes","robe","visionCard"],
+		"categories":["Dark","Mage","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals","The Gathering"]
+	},
 	"100044107": {
 		"name":"魔槍騎士法伊薩利斯",
 		"roles":["physicalAttacker"],
@@ -12605,7 +12695,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Chaotic Influence","All-Consuming Chaos","Fira","Darkra","Round Edge"],
-		"categories":["Dark","Attacker","Support","Breaker","FFI","Royal Arms"],
+		"categories":["Dark","Attacker","Support","Breaker","FFI","Royal Arms","Harbingers of Chaos"],
 		"6_form": {
 			"name":"輪迴騎士加蘭德",
 			"roles":["physicalAttacker","support"],
@@ -12625,7 +12715,7 @@
 			"stats_pattern":1,
 			"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor"],
 			"enhancementSkills":["Chaotic Influence","All-Consuming Chaos","Fira","Darkra","Round Edge"],
-			"categories":["Dark","Attacker","Support","Breaker","FFI","Royal Arms"]
+			"categories":["Dark","Attacker","Support","Breaker","FFI","Royal Arms","Harbingers of Chaos"]
 		},
 		"7_form": {
 			"name":"輪迴騎士加蘭德",
@@ -12646,7 +12736,7 @@
 			"stats_pattern":4,
 			"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor"],
 			"enhancementSkills":["Chaotic Influence","All-Consuming Chaos","Fira","Darkra","Round Edge"],
-			"categories":["Dark","Attacker","Support","Breaker","FFI","Royal Arms"]
+			"categories":["Dark","Attacker","Support","Breaker","FFI","Royal Arms","Harbingers of Chaos"]
 		}
 	},
 	"201000527": {
@@ -12669,7 +12759,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","axe","hammer","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"],
-		"categories":["Dark","Attacker","Support","Breaker","FFI","Royal Arms"]
+		"categories":["Dark","Attacker","Support","Breaker","FFI","Royal Arms","Harbingers of Chaos"]
 	},
 	"201000607": {
 		"name":"初始戰士",
@@ -12738,7 +12828,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","rod","spear","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Fira","Firaga","Thundara","Thundaga","Raining Swords","Burn to ashes!"],
-		"categories":["Fire","Mage","FFI"]
+		"categories":["Fire","Mage","FFI","Harbingers of Chaos"]
 	},
 	"201000717": {
 		"name":"馬莉莉絲 BS",
@@ -12760,7 +12850,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","rod","spear","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
-		"categories":["Fire","Mage","FFI"]
+		"categories":["Fire","Mage","FFI","Harbingers of Chaos"]
 	},
 	"201000807": {
 		"name":"科內利亞的公主莎拉",
@@ -12975,7 +13065,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Fire From Below","I'll never die!","Insolent fools!","Control","Kneel Before Me","Red Soul","Conquesting Tyrant"],
-		"categories":["Fire","Mage","FFII"],
+		"categories":["Fire","Mage","FFII","Harbingers of Chaos"],
 		"6_form": {
 			"name":"皇帝",
 			"roles":["magicalAttacker"],
@@ -12995,7 +13085,7 @@
 			"stats_pattern":1,
 			"equip":["staff","rod","hat","clothes","robe"],
 			"enhancementSkills":["Fire From Below","I'll never die!","Insolent fools!","Control","Kneel Before Me","Red Soul","Conquesting Tyrant"],
-			"categories":["Fire","Mage","FFII"]
+			"categories":["Fire","Mage","FFII","Harbingers of Chaos"]
 		},
 		"7_form": {
 			"name":"皇帝",
@@ -13016,7 +13106,7 @@
 			"stats_pattern":4,
 			"equip":["staff","rod","hat","clothes","robe"],
 			"enhancementSkills":["Fire From Below","I'll never die!","Insolent fools!","Control","Kneel Before Me","Red Soul","Conquesting Tyrant"],
-			"categories":["Fire","Mage","FFII"]
+			"categories":["Fire","Mage","FFII","Harbingers of Chaos"]
 		}
 	},
 	"202000527": {
@@ -13040,7 +13130,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","whip","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Kneel Before Me","Fire From Below","Barrier Bomb","All You Hold Dear Shall be Mine"],
-		"categories":["Fire","Mage","FFII"]
+		"categories":["Fire","Mage","FFII","Harbingers of Chaos"]
 	},
 	"202001402": {
 		"name":"保羅",
@@ -13357,7 +13447,7 @@
 		"stats_pattern":4,
 		"equip":["sword","staff","rod","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Thunder","Rod Mastery","True Starfall","Glimpse hell's true fury!","Aeroga","Tornado","Fire"],
-		"categories":["Wind","Breaker","FFII"]
+		"categories":["Wind","Breaker","FFII","Harbingers of Chaos"]
 	},
 	"202002317": {
 		"name":"帕拉美奇亞皇帝 BS",
@@ -13379,7 +13469,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["sword","staff","rod","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
-		"categories":["Wind","Breaker","FFII"]
+		"categories":["Wind","Breaker","FFII","Harbingers of Chaos"]
 	},
 	"202002407": {
 		"name":"理查&飛龍",
@@ -13965,7 +14055,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["staff","rod","mace","hat","clothes","robe"],
-		"categories":["Dark","Mage","FFIII","Dark","Mage","FFIII","Dark","Mage","FFIII"],
+		"categories":["Dark","Mage","FFIII","Dark","Mage","FFIII","Dark","Mage","FFIII","Harbingers of Chaos"],
 		"6_form": {
 			"name":"魔王贊德",
 			"roles":["magicalAttacker"],
@@ -13984,7 +14074,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["staff","rod","mace","hat","clothes","robe"],
-			"categories":["Dark","Mage","FFIII","Dark","Mage","FFIII","Dark","Mage","FFIII"]
+			"categories":["Dark","Mage","FFIII","Dark","Mage","FFIII","Dark","Mage","FFIII","Harbingers of Chaos"]
 		}
 	},
 	"203001905": {
@@ -14004,7 +14094,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["staff","rod","hat","clothes","robe"],
-		"categories":["Ice","Mage","Support","FFIII","Ice","Mage","Support","FFIII","Ice","Support","Mage","FFIII"],
+		"categories":["Ice","Mage","Support","FFIII","Ice","Mage","Support","FFIII","Ice","Support","Mage","FFIII","Harbingers of Chaos"],
 		"6_form": {
 			"name":"魔道師海因",
 			"roles":["support","magicalAttacker"],
@@ -14023,7 +14113,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["staff","rod","hat","clothes","robe"],
-			"categories":["Ice","Mage","Support","FFIII","Ice","Mage","Support","FFIII","Ice","Support","Mage","FFIII"]
+			"categories":["Ice","Mage","Support","FFIII","Ice","Mage","Support","FFIII","Ice","Support","Mage","FFIII","Harbingers of Chaos"]
 		}
 	},
 	"203004207": {
@@ -14564,7 +14654,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","mace","helm","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Bioga","Black Mage's Might","Ruler of the Night","Rod Mastery","Meteor","Come, Shadow Dragon!","Dark Coercion","Twin Moon","Abyssal Quasar","Twin Meteor","Star-Transcending Power"],
-		"categories":["Dark","Mage","Breaker","FFIV"],
+		"categories":["Dark","Mage","Breaker","FFIV","Harbingers of Chaos"],
 		"6_form": {
 			"name":"漆黑魔道士高貝扎",
 			"roles":["magicalAttacker","debuffer"],
@@ -14584,7 +14674,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","staff","rod","mace","helm","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Bioga","Black Mage's Might","Ruler of the Night","Rod Mastery","Meteor","Come, Shadow Dragon!","Dark Coercion","Twin Moon","Abyssal Quasar","Twin Meteor","Star-Transcending Power"],
-			"categories":["Dark","Mage","Breaker","FFIV"]
+			"categories":["Dark","Mage","Breaker","FFIV","Harbingers of Chaos"]
 		},
 		"7_form": {
 			"name":"漆黑魔道士高貝扎",
@@ -14605,7 +14695,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","staff","rod","mace","helm","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Bioga","Black Mage's Might","Ruler of the Night","Rod Mastery","Meteor","Come, Shadow Dragon!","Dark Coercion","Twin Moon","Abyssal Quasar","Twin Meteor","Star-Transcending Power"],
-			"categories":["Dark","Mage","Breaker","FFIV"]
+			"categories":["Dark","Mage","Breaker","FFIV","Harbingers of Chaos"]
 		}
 	},
 	"204001727": {
@@ -14629,7 +14719,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","mace","helm","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Rod Mastery"],
-		"categories":["Dark","Mage","Breaker","FFIV"]
+		"categories":["Dark","Mage","Breaker","FFIV","Harbingers of Chaos"]
 	},
 	"204002205": {
 		"name":"聖騎士塞西爾",
@@ -15202,7 +15292,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Wicked Magic","Quake","Firaga","Blizzaga","Thundaga","Meteor","Wicked Light (Dark Mage Exdeath)"],
-		"categories":["Earth","Mage","FFV"],
+		"categories":["Earth","Mage","FFV","Harbingers of Chaos"],
 		"6_form": {
 			"name":"暗黑魔道士艾克斯迪司",
 			"roles":["magicalAttacker"],
@@ -15222,7 +15312,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","staff","rod","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor"],
 			"enhancementSkills":["Wicked Magic","Quake","Firaga","Blizzaga","Thundaga","Meteor","Wicked Light (Dark Mage Exdeath)"],
-			"categories":["Earth","Mage","FFV"]
+			"categories":["Earth","Mage","FFV","Harbingers of Chaos"]
 		},
 		"7_form": {
 			"name":"暗黑魔道士艾克斯迪司",
@@ -15243,7 +15333,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","staff","rod","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor"],
 			"enhancementSkills":["Wicked Magic","Quake","Firaga","Blizzaga","Thundaga","Meteor","Wicked Light (Dark Mage Exdeath)"],
-			"categories":["Earth","Mage","FFV"]
+			"categories":["Earth","Mage","FFV","Harbingers of Chaos"]
 		}
 	},
 	"205000927": {
@@ -15266,7 +15356,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","mace","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"],
-		"categories":["Earth","Mage","FFV"]
+		"categories":["Earth","Mage","FFV","Harbingers of Chaos"]
 	},
 	"205001005": {
 		"name":"曉之四戰士加拉夫",
@@ -16669,7 +16759,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","mace","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["UNBELIEVABLE!","Twisty-Turny Blizzaga","Warring Triad's Power"],
-		"categories":["Ice","Mage","Breaker","FFVI"],
+		"categories":["Ice","Mage","Breaker","FFVI","Harbingers of Chaos"],
 		"6_form": {
 			"name":"大魔導士凱夫卡",
 			"roles":["magicalAttacker","debuffer"],
@@ -16689,7 +16779,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","mace","hat","clothes","robe"],
 			"enhancementSkills":["UNBELIEVABLE!","Twisty-Turny Blizzaga","Warring Triad's Power"],
-			"categories":["Ice","Mage","Breaker","FFVI"]
+			"categories":["Ice","Mage","Breaker","FFVI","Harbingers of Chaos"]
 		},
 		"7_form": {
 			"name":"大魔導士凱夫卡",
@@ -16710,7 +16800,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","staff","rod","mace","hat","clothes","robe"],
 			"enhancementSkills":["UNBELIEVABLE!","Twisty-Turny Blizzaga","Warring Triad's Power"],
-			"categories":["Ice","Mage","Breaker","FFVI"]
+			"categories":["Ice","Mage","Breaker","FFVI","Harbingers of Chaos"]
 		}
 	},
 	"206002327": {
@@ -16734,7 +16824,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","mace","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["UNBELIEVABLE!","Zap-Trap Thundaga","Man Feared as a God"],
-		"categories":["Lightning","Mage","Breaker","FFVI"]
+		"categories":["Lightning","Mage","Breaker","FFVI","Harbingers of Chaos"]
 	},
 	"206002405": {
 		"name":"暗殺者暗影",
@@ -17742,7 +17832,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","fist","hat","helm","clothes","lightArmor","heavyArmor"],
 		"enhancementSkills":["Katana Mastery","Legendary SOLDIER","The Heavens Wept","Reunion","Tragic End","ATK +20%"],
-		"categories":["Dark","Attacker","FFVII","Dark","Attacker","Breaker","FFVII","Dark","Attacker","Breaker","FFVII"],
+		"categories":["Dark","Attacker","FFVII","Dark","Attacker","Breaker","FFVII","Dark","Attacker","Breaker","FFVII","Harbingers of Chaos"],
 		"6_form": {
 			"name":"賽菲羅斯",
 			"roles":["physicalAttacker","debuffer"],
@@ -17762,7 +17852,7 @@
 			"stats_pattern":1,
 			"equip":["sword","greatSword","katana","fist","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Katana Mastery","Legendary SOLDIER","The Heavens Wept","Reunion","Tragic End","ATK +20%"],
-			"categories":["Dark","Attacker","FFVII","Dark","Attacker","Breaker","FFVII","Dark","Attacker","Breaker","FFVII"]
+			"categories":["Dark","Attacker","FFVII","Dark","Attacker","Breaker","FFVII","Dark","Attacker","Breaker","FFVII","Harbingers of Chaos"]
 		}
 	},
 	"207001105": {
@@ -18164,7 +18254,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["sword","katana","gun","fist","hat","clothes","lightArmor","robe"],
-		"categories":["Dark","Attacker","Breaker","FFVII","Dark","Attacker","Breaker","FFVII","Dark","Attacker","Breaker","FFVII"],
+		"categories":["Dark","Attacker","Breaker","FFVII","Dark","Attacker","Breaker","FFVII","Dark","Attacker","Breaker","FFVII","Harbingers of Chaos"],
 		"6_form": {
 			"name":"卡達裘",
 			"roles":["physicalAttacker","debuffer"],
@@ -18183,7 +18273,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["sword","katana","gun","fist","hat","clothes","lightArmor","robe"],
-			"categories":["Dark","Attacker","Breaker","FFVII","Dark","Attacker","Breaker","FFVII","Dark","Attacker","Breaker","FFVII"]
+			"categories":["Dark","Attacker","Breaker","FFVII","Dark","Attacker","Breaker","FFVII","Dark","Attacker","Breaker","FFVII","Harbingers of Chaos"]
 		}
 	},
 	"207001904": {
@@ -18449,7 +18539,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","fist","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Purging Blade","Memories of Despair"],
-		"categories":["Dark","Attacker","FFVII"]
+		"categories":["Dark","Attacker","FFVII","Harbingers of Chaos"]
 	},
 	"207002417": {
 		"name":"片翼天使賽菲羅斯 BS",
@@ -18472,7 +18562,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","fist","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Boundless Void","Jet-Black Wing"],
-		"categories":["Dark","Attacker","FFVII"]
+		"categories":["Dark","Attacker","FFVII","Harbingers of Chaos"]
 	},
 	"207002505": {
 		"name":"雪崩畢格斯&威吉",
@@ -18624,7 +18714,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Cell Aggravation","Ancient Epic - Purgatory","Sword Mastery","Fira","Blizzara","Thundara","Darkra","Firaga","Blizzaga","Thundaga","Darkga"],
-		"categories":["Fire","Mage","FFVII"]
+		"categories":["Fire","Mage","FFVII","Harbingers of Chaos"]
 	},
 	"207002817": {
 		"name":"傑尼希斯 BS",
@@ -18646,7 +18736,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
-		"categories":["Fire","Mage","FFVII"]
+		"categories":["Fire","Mage","FFVII","Harbingers of Chaos"]
 	},
 	"207002907": {
 		"name":"魔晶石獵人尤菲",
@@ -19230,7 +19320,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["sword","greatSword","gun","mace","hat","helm","clothes","lightArmor","heavyArmor"],
-		"categories":["Dark","Attacker","FFVIII","Dark","Attacker","FFVIII","Dark","Attacker","FFVIII"],
+		"categories":["Dark","Attacker","FFVIII","Dark","Attacker","FFVIII","Dark","Attacker","FFVIII","Harbingers of Chaos"],
 		"6_form": {
 			"name":"塞法",
 			"roles":["physicalAttacker"],
@@ -19249,7 +19339,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["sword","greatSword","gun","mace","hat","helm","clothes","lightArmor","heavyArmor"],
-			"categories":["Dark","Attacker","FFVIII","Dark","Attacker","FFVIII","Dark","Attacker","FFVIII"]
+			"categories":["Dark","Attacker","FFVIII","Dark","Attacker","FFVIII","Dark","Attacker","FFVIII","Harbingers of Chaos"]
 		}
 	},
 	"208001304": {
@@ -19670,7 +19760,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","whip","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["The End of a Painful Story","Astral Abyss","Fira","Blizzara","Thundara","Aerora","Darkra","Firaga","Blizzaga","Thundaga","Aeroga","Darkga","Firaja","Blizzaja","Thundaja","Aeroja","Tornado"],
-		"categories":["Dark","Mage","FFVIII","Bestowed Power"]
+		"categories":["Dark","Mage","FFVIII","Bestowed Power","Harbingers of Chaos"]
 	},
 	"208002817": {
 		"name":"現代魔女伊迪雅 BS",
@@ -19692,7 +19782,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["staff","rod","whip","hat","clothes","robe","visionCard"],
-		"categories":["Dark","Mage","FFVIII","Bestowed Power"]
+		"categories":["Dark","Mage","FFVIII","Bestowed Power","Harbingers of Chaos"]
 	},
 	"209000103": {
 		"name":"吉坦",
@@ -20331,7 +20421,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","mace","hat","clothes","robe"],
-		"categories":["Fire","Mage","FFIX","Fire","Mage","FFIX","Fire","Mage","FFIX"],
+		"categories":["Fire","Mage","FFIX","Fire","Mage","FFIX","Fire","Mage","FFIX","Harbingers of Chaos"],
 		"6_form": {
 			"name":"美麗的死神庫加",
 			"roles":["magicalAttacker"],
@@ -20350,7 +20440,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","mace","hat","clothes","robe"],
-			"categories":["Fire","Mage","FFIX","Fire","Mage","FFIX","Fire","Mage","FFIX"]
+			"categories":["Fire","Mage","FFIX","Fire","Mage","FFIX","Fire","Mage","FFIX","Harbingers of Chaos"]
 		}
 	},
 	"209002205": {
@@ -20374,7 +20464,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","mace","fist","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Wicked Wave","Anti-Shield Wave","Anti-Spirit Wave"],
-		"categories":["Dark","Mage","Breaker","FFIX"],
+		"categories":["Dark","Mage","Breaker","FFIX","Harbingers of Chaos"],
 		"6_form": {
 			"name":"加蘭德(FFIX)",
 			"roles":["magicalAttacker","debuffer"],
@@ -20394,7 +20484,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","mace","fist","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Wicked Wave","Anti-Shield Wave","Anti-Spirit Wave"],
-			"categories":["Dark","Mage","Breaker","FFIX"]
+			"categories":["Dark","Mage","Breaker","FFIX","Harbingers of Chaos"]
 		},
 		"7_form": {
 			"name":"加蘭德(FFIX)",
@@ -20415,7 +20505,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","staff","rod","mace","fist","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Wicked Wave","Anti-Shield Wave","Anti-Spirit Wave"],
-			"categories":["Dark","Mage","Breaker","FFIX"]
+			"categories":["Dark","Mage","Breaker","FFIX","Harbingers of Chaos"]
 		}
 	},
 	"209002227": {
@@ -20438,7 +20528,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","mace","fist","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
-		"categories":["Dark","Mage","Breaker","FFIX"]
+		"categories":["Dark","Mage","Breaker","FFIX","Harbingers of Chaos"]
 	},
 	"209002305": {
 		"name":"冥王隊吉坦",
@@ -20696,7 +20786,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Rod Mastery","Ultima","Flare","Thundaga","True Seraphic Star","True Flare Star"],
-		"categories":["Fire","Breaker","Mage","FFIX"]
+		"categories":["Fire","Breaker","Mage","FFIX","Harbingers of Chaos"]
 	},
 	"209003217": {
 		"name":"入神庫加 BS",
@@ -20719,7 +20809,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Rod Mastery","Ultima","Flare","Thundaga","The Darkness of Eternity","True Seraphic Star","True Flare Star"],
-		"categories":["Light","Breaker","Mage","FFIX"]
+		"categories":["Light","Breaker","Mage","FFIX","Harbingers of Chaos"]
 	},
 	"209003407": {
 		"name":"坦塔羅斯的盜賊吉坦",
@@ -22185,7 +22275,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","axe","hammer","mace","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Hatred for the Talekeeper","Cross Smash","Dynamic Implosion","Doom Arc","Blood Weapon (FFXI: Shadow Lord)","Shadow Lord","SPR +20%","Immortal Justice","True Cross Smash"],
-		"categories":["Dark","Attacker","Breaker","FFXI"],
+		"categories":["Dark","Attacker","Breaker","FFXI","Harbingers of Chaos"],
 		"6_form": {
 			"name":"黑暗之王",
 			"roles":["physicalAttacker","debuffer"],
@@ -22205,7 +22295,7 @@
 			"stats_pattern":1,
 			"equip":["sword","greatSword","katana","axe","hammer","mace","helm","lightArmor","heavyArmor"],
 			"enhancementSkills":["Hatred for the Talekeeper","Cross Smash","Dynamic Implosion","Doom Arc","Blood Weapon (FFXI: Shadow Lord)","Shadow Lord","SPR +20%","Immortal Justice","True Cross Smash"],
-			"categories":["Dark","Attacker","Breaker","FFXI"]
+			"categories":["Dark","Attacker","Breaker","FFXI","Harbingers of Chaos"]
 		},
 		"7_form": {
 			"name":"黑暗之王",
@@ -22226,7 +22316,7 @@
 			"stats_pattern":4,
 			"equip":["sword","greatSword","katana","axe","hammer","mace","helm","lightArmor","heavyArmor"],
 			"enhancementSkills":["Hatred for the Talekeeper","Cross Smash","Dynamic Implosion","Doom Arc","Blood Weapon (FFXI: Shadow Lord)","Shadow Lord","SPR +20%","Immortal Justice","True Cross Smash"],
-			"categories":["Dark","Attacker","Breaker","FFXI"]
+			"categories":["Dark","Attacker","Breaker","FFXI","Harbingers of Chaos"]
 		}
 	},
 	"211000927": {
@@ -22250,7 +22340,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","axe","hammer","mace","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Blighting Blitz"],
-		"categories":["Dark","Attacker","FFXI"]
+		"categories":["Dark","Attacker","FFXI","Harbingers of Chaos"]
 	},
 	"211001004": {
 		"name":"喬吉姆",
@@ -22813,7 +22903,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","rod","fist","lightShield","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Bravery","Faith","Firaga","Thundaga","Archadian Emperor","Magick Barrier","Force Barrier","Battering Ram"],
-		"categories":["Light","Attacker","Support","Mage","FFXII"],
+		"categories":["Light","Attacker","Support","Mage","FFXII","Harbingers of Chaos"],
 		"6_form": {
 			"name":"裴因",
 			"roles":["physicalAttacker","support","magicalAttacker"],
@@ -22833,7 +22923,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","rod","fist","lightShield","hat","clothes","lightArmor","robe"],
 			"enhancementSkills":["Bravery","Faith","Firaga","Thundaga","Archadian Emperor","Magick Barrier","Force Barrier","Battering Ram"],
-			"categories":["Light","Attacker","Support","Mage","FFXII"]
+			"categories":["Light","Attacker","Support","Mage","FFXII","Harbingers of Chaos"]
 		},
 		"7_form": {
 			"name":"裴因",
@@ -22854,7 +22944,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","rod","fist","lightShield","hat","clothes","lightArmor","robe"],
 			"enhancementSkills":["Bravery","Faith","Firaga","Thundaga","Archadian Emperor","Magick Barrier","Force Barrier","Battering Ram"],
-			"categories":["Light","Attacker","Support","Mage","FFXII"]
+			"categories":["Light","Attacker","Support","Mage","FFXII","Harbingers of Chaos"]
 		}
 	},
 	"212001227": {
@@ -22877,7 +22967,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","rod","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
-		"categories":["Light","Attacker","Support","Mage","FFXII"]
+		"categories":["Light","Attacker","Support","Mage","FFXII","Harbingers of Chaos"]
 	},
 	"212001303": {
 		"name":"拉薩",
@@ -23220,7 +23310,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","spear","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Sentence","Judge's Defense"],
-		"categories":["Dark","Attacker","Physical Tank","FFXII"]
+		"categories":["Dark","Attacker","Physical Tank","FFXII","Harbingers of Chaos"]
 	},
 	"212002217": {
 		"name":"加布藍斯-Neo Vision- BS",
@@ -23243,7 +23333,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","spear","lightShield","heavyShield","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Sentence","Enrage","Guardian's Tenacity"],
-		"categories":["Dark","Attacker","Physical Tank","FFXII"]
+		"categories":["Dark","Attacker","Physical Tank","FFXII","Harbingers of Chaos"]
 	},
 	"212002305": {
 		"name":"未來之光拉薩",
@@ -24680,7 +24770,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","spear","throwing","gun","lightShield","hat","clothes","lightArmor","robe"],
-		"categories":[null,null,"Dark","Attacker","Breaker","FFXV"],
+		"categories":[null,null,"Dark","Attacker","Breaker","FFXV","Harbingers of Chaos"],
 		"6_form": {
 			"name":"亞丹",
 			"roles":["physicalAttacker","debuffer"],
@@ -24699,7 +24789,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","staff","rod","spear","throwing","gun","lightShield","hat","clothes","lightArmor","robe"],
-			"categories":[null,null,"Dark","Attacker","Breaker","FFXV"]
+			"categories":[null,null,"Dark","Attacker","Breaker","FFXV","Harbingers of Chaos"]
 		}
 	},
 	"215001004": {
@@ -25244,7 +25334,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","spear","throwing","gun","lightShield","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Inferno Sword"],
-		"categories":["Dark","Attacker","FFXV"]
+		"categories":["Dark","Attacker","FFXV","Harbingers of Chaos"]
 	},
 	"215003017": {
 		"name":"深紅劍亞丹 BS",
@@ -25267,7 +25357,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","spear","throwing","gun","lightShield","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Retribution (Vermilion Blade Ardyn)"],
-		"categories":["Dark","Attacker","FFXV"]
+		"categories":["Dark","Attacker","FFXV","Harbingers of Chaos"]
 	},
 	"215003107": {
 		"name":"真正之王諾克提斯",
@@ -26395,7 +26485,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","harp","whip","throwing","mace","hat","clothes","robe"],
-		"categories":[null,null,"Wind","Mage","Breaker","FFT"],
+		"categories":[null,null,"Wind","Mage","Breaker","FFT","Harbingers of Chaos"],
 		"6_form": {
 			"name":"聖天使阿爾蒂瑪",
 			"roles":["magicalAttacker","debuffer"],
@@ -26414,7 +26504,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","staff","rod","harp","whip","throwing","mace","hat","clothes","robe"],
-			"categories":[null,null,"Wind","Mage","Breaker","FFT"]
+			"categories":[null,null,"Wind","Mage","Breaker","FFT","Harbingers of Chaos"]
 		}
 	},
 	"253001403": {
@@ -27668,7 +27758,7 @@
 		"stats_pattern":4,
 		"equip":["axe","spear","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Heroic Guard","ATB Charge","Physical Spirit of Chaos"],
-		"categories":["Ice","Physical Tank","FFXIII"]
+		"categories":["Ice","Physical Tank","FFXIII","Harbingers of Chaos"]
 	},
 	"258000117": {
 		"name":"孤高的太守冰雪 BS",
@@ -27691,7 +27781,7 @@
 		"stats_pattern":4,
 		"equip":["axe","spear","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Heroic Guard","ATB Charge","Magic Spirit of Chaos"],
-		"categories":["Dark","Magic Tank","FFXIII"]
+		"categories":["Dark","Magic Tank","FFXIII","Harbingers of Chaos"]
 	},
 	"258000207": {
 		"name":"靈魂解放者雷光",
@@ -29987,7 +30077,7 @@
 		"stats_pattern":4,
 		"equip":["fist","hat","helm","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Martial Arts Mastery","Infernal Destruction"],
-		"categories":["Fire","Attacker","Another World"]
+		"categories":["Fire","Attacker","Another World","Harbingers of Chaos"]
 	},
 	"331001017": {
 		"name":"維爾托爾・伊多 BS",
@@ -30010,7 +30100,7 @@
 		"stats_pattern":4,
 		"equip":["visionCard"],
 		"enhancementSkills":["OMEGA100 (Id)","Flaming Hell"],
-		"categories":["Fire","Attacker","Another World"]
+		"categories":["Fire","Attacker","Another World","Harbingers of Chaos"]
 	},
 	"331001107": {
 		"name":"格拉夫",
@@ -30033,7 +30123,7 @@
 		"stats_pattern":4,
 		"equip":["fist","hat","helm","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Martial Arts Mastery","Koryu"],
-		"categories":["Earth","Attacker","Another World"]
+		"categories":["Earth","Attacker","Another World","Harbingers of Chaos"]
 	},
 	"331001117": {
 		"name":"α維爾托爾 BS",
@@ -30056,7 +30146,7 @@
 		"stats_pattern":4,
 		"equip":["visionCard"],
 		"enhancementSkills":["OMEGA100 (Grahf)","Boko"],
-		"categories":["Earth","Attacker","Another World"]
+		"categories":["Earth","Attacker","Another World","Harbingers of Chaos"]
 	},
 	"331001307": {
 		"name":"聖母再臨艾蕾",
@@ -33037,7 +33127,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","whip","mace","lightShield","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Aeroga","Cyclone Shield","Tornado","Empress of the Winds","Sunder"],
-		"categories":["Wind","Mage","FFIV"],
+		"categories":["Wind","Mage","FFIV","Harbingers of Chaos"],
 		"6_form": {
 			"name":"巴爾巴莉希亞",
 			"roles":["magicalAttacker"],
@@ -33057,7 +33147,7 @@
 			"stats_pattern":1,
 			"equip":["staff","rod","whip","mace","lightShield","hat","clothes","robe"],
 			"enhancementSkills":["Aeroga","Cyclone Shield","Tornado","Empress of the Winds","Sunder"],
-			"categories":["Wind","Mage","FFIV"]
+			"categories":["Wind","Mage","FFIV","Harbingers of Chaos"]
 		},
 		"7_form": {
 			"name":"巴爾巴莉希亞",
@@ -33078,7 +33168,7 @@
 			"stats_pattern":4,
 			"equip":["staff","rod","whip","mace","lightShield","hat","clothes","robe"],
 			"enhancementSkills":["Aeroga","Cyclone Shield","Tornado","Empress of the Winds","Sunder"],
-			"categories":["Wind","Mage","FFIV"]
+			"categories":["Wind","Mage","FFIV","Harbingers of Chaos"]
 		}
 	},
 	"401001427": {
@@ -33102,7 +33192,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","whip","mace","lightShield","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Aeroga","Tornado","Mirage Wind","Cyclone Shield"],
-		"categories":["Wind","Mage","FFIV"]
+		"categories":["Wind","Mage","FFIV","Harbingers of Chaos"]
 	},
 	"401001504": {
 		"name":"盧比坎特",
@@ -33125,7 +33215,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Fira","Firaga","Firelord","Blizzaga","Autarch of Flame","Flare","Meltdown","I'll Recover You!","Raging Fire","A Warrior's Pride"],
-		"categories":["Fire","Mage","Breaker","FFIV"],
+		"categories":["Fire","Mage","Breaker","FFIV","Harbingers of Chaos"],
 		"6_form": {
 			"name":"盧比坎特",
 			"roles":["magicalAttacker"],
@@ -33145,7 +33235,7 @@
 			"stats_pattern":1,
 			"equip":["staff","rod","hat","clothes","robe"],
 			"enhancementSkills":["Fira","Firaga","Firelord","Blizzaga","Autarch of Flame","Flare","Meltdown","I'll Recover You!","Raging Fire","A Warrior's Pride"],
-			"categories":["Fire","Mage","Breaker","FFIV"]
+			"categories":["Fire","Mage","Breaker","FFIV","Harbingers of Chaos"]
 		},
 		"7_form": {
 			"name":"盧比坎特",
@@ -33166,7 +33256,7 @@
 			"stats_pattern":4,
 			"equip":["staff","rod","hat","clothes","robe"],
 			"enhancementSkills":["Fira","Firaga","Firelord","Blizzaga","Autarch of Flame","Flare","Meltdown","I'll Recover You!","Raging Fire","A Warrior's Pride"],
-			"categories":["Fire","Mage","Breaker","FFIV"]
+			"categories":["Fire","Mage","Breaker","FFIV","Harbingers of Chaos"]
 		}
 	},
 	"401001527": {
@@ -33190,7 +33280,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["True Flame","Firaga","Blizzaga","Flare","Fira"],
-		"categories":["Fire","Mage","FFIV"]
+		"categories":["Fire","Mage","FFIV","Harbingers of Chaos"]
 	},
 	"401001604": {
 		"name":"凱納槽",
@@ -34558,7 +34648,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","axe","fist","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Dusk Barrage","Dawn Barrage","Demon Chemistry","Piercing Barrage","Cleaving Barrage","Crushing Barrage","Unholy Strength","Immortal Demon","Aggressive Presence","Dark Commandment","Umbral Slash","Unnatural Creation","Severing Slash"],
-		"categories":["Dark","Attacker","FFBE"],
+		"categories":["Dark","Attacker","FFBE","Harbingers of Chaos"],
 		"6_form": {
 			"name":"路西亞斯",
 			"roles":["physicalAttacker"],
@@ -34578,7 +34668,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","axe","fist","hat","clothes","lightArmor"],
 			"enhancementSkills":["Dusk Barrage","Dawn Barrage","Demon Chemistry","Piercing Barrage","Cleaving Barrage","Crushing Barrage","Unholy Strength","Immortal Demon","Aggressive Presence","Dark Commandment","Umbral Slash","Unnatural Creation","Severing Slash"],
-			"categories":["Dark","Attacker","FFBE"]
+			"categories":["Dark","Attacker","FFBE","Harbingers of Chaos"]
 		},
 		"7_form": {
 			"name":"路西亞斯",
@@ -34599,7 +34689,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","axe","fist","hat","clothes","lightArmor"],
 			"enhancementSkills":["Dusk Barrage","Dawn Barrage","Demon Chemistry","Piercing Barrage","Cleaving Barrage","Crushing Barrage","Unholy Strength","Immortal Demon","Aggressive Presence","Dark Commandment","Umbral Slash","Unnatural Creation","Severing Slash"],
-			"categories":["Dark","Attacker","FFBE"]
+			"categories":["Dark","Attacker","FFBE","Harbingers of Chaos"]
 		}
 	},
 	"401006027": {
@@ -34623,7 +34713,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","axe","spear","fist","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Umbral Slash","Demonic Pact","Shadow Assault"],
-		"categories":["Dark","Attacker","Breaker","FFBE"]
+		"categories":["Dark","Attacker","Breaker","FFBE","Harbingers of Chaos"]
 	},
 	"401006105": {
 		"name":"菲利克斯",
@@ -37438,7 +37528,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","whip","mace","lightShield","heavyShield","hat","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Kiss of Betrayal","Rousing Dream"],
-		"categories":["Dark","Physical Tank","Attacker","FFBE","Clash of Wills","CW - Support","CW - Dark"]
+		"categories":["Dark","Physical Tank","Attacker","FFBE","Clash of Wills","CW - Dark","CW - Support","Harbingers of Chaos"]
 	},
 	"401013717": {
 		"name":"優雅妖女莉莉絲 BS",
@@ -37461,7 +37551,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","whip","mace","lightShield","heavyShield","hat","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Kiss of Betrayal","Rousing Dream"],
-		"categories":["Dark","Physical Tank","Attacker","FFBE","Clash of Wills","CW - Support","CW - Dark"]
+		"categories":["Dark","Physical Tank","Attacker","FFBE","Clash of Wills","CW - Dark","CW - Support","Harbingers of Chaos"]
 	},
 	"401013807": {
 		"name":"2B -Neo Vision-",
@@ -38358,7 +38448,7 @@
 		"stats_pattern":4,
 		"equip":["katana","spear","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Man of Mystery","Katana Flick"],
-		"categories":["Ice","CW - Ice","Attacker","Breaker","FFBE","Clash of Wills"]
+		"categories":["Ice","Attacker","Breaker","FFBE","Clash of Wills","CW - Ice","Harbingers of Chaos"]
 	},
 	"401015717": {
 		"name":"孤高的武人 冰刃之維利亞斯 BS",
@@ -38381,7 +38471,7 @@
 		"stats_pattern":4,
 		"equip":["katana","spear","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Man of Mystery","Katana Flick"],
-		"categories":["Ice","CW - Ice","Attacker","Breaker","FFBE","Clash of Wills"]
+		"categories":["Ice","Attacker","Breaker","FFBE","Clash of Wills","CW - Ice","Harbingers of Chaos"]
 	},
 	"401015807": {
 		"name":"聖夜精靈貝利爾",
@@ -38640,10 +38730,6 @@
   "100043317":{"name":"カオス＝ビスマルク BS","roles":["debuffer"],"id":"100043317","game_id":"undefined","game":"undefined","braveShifted":"100043307","exAwakening":[{"hp":652,"mp":45,"atk":20,"def":32,"mag":75,"spr":30},{"hp":502,"mp":34,"atk":15,"def":25,"mag":58,"spr":23},{"hp":351,"mp":24,"atk":11,"def":17,"mag":41,"spr":16}],"fragmentId":"250028600","max_rarity":"NV","min_rarity":"NV","sex":"other","stats":{"maxStats":{"hp":5016,"mp":343,"atk":151,"def":248,"mag":290,"spr":232},"minStats":{"hp":1655,"mp":113,"atk":50,"def":82,"mag":96,"spr":77},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","spear","hat","helm","lightArmor","heavyArmor","robe","visionCard"]},
   "100043407":{"name":"ネイリッカ -破滅の幻獣-","roles":["physicalAttacker","support"],"id":"100043407","game_id":"undefined","game":"undefined","braveShift":"100043417","exAwakening":[{"hp":696,"mp":45,"atk":82,"def":30,"mag":16,"spr":28},{"hp":535,"mp":34,"atk":63,"def":23,"mag":12,"spr":22},{"hp":375,"mp":24,"atk":44,"def":16,"mag":8,"spr":15}],"fragmentId":"250028900","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5351,"mp":343,"atk":315,"def":231,"mag":119,"spr":218},"minStats":{"hp":1766,"mp":113,"atk":104,"def":76,"mag":39,"spr":72},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["fist","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],"enhancementSkills":["ダーグリ・スケード","ストルムフルド・ネーヴェ","格闘の極意"]},
   "100043417":{"name":"ネイリッカ -破滅の幻獣- BS","roles":["physicalAttacker","support"],"id":"100043417","game_id":"undefined","game":"undefined","braveShifted":"100043407","exAwakening":[{"hp":696,"mp":45,"atk":82,"def":30,"mag":16,"spr":28},{"hp":535,"mp":34,"atk":63,"def":23,"mag":12,"spr":22},{"hp":375,"mp":24,"atk":44,"def":16,"mag":8,"spr":15}],"fragmentId":"250028900","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5351,"mp":343,"atk":315,"def":231,"mag":119,"spr":218},"minStats":{"hp":1766,"mp":113,"atk":104,"def":76,"mag":39,"spr":72},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["fist","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"]},
-  "100043507":{"name":"シャルロット -破滅の幻獣-","roles":["magicalTank"],"id":"100043507","game_id":"undefined","game":"undefined","braveShift":"100043517","exAwakening":[{"hp":718,"mp":46,"atk":31,"def":33,"mag":28,"spr":73},{"hp":553,"mp":35,"atk":24,"def":26,"mag":22,"spr":56},{"hp":387,"mp":25,"atk":17,"def":18,"mag":15,"spr":39}],"fragmentId":"250028800","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5527,"mp":352,"atk":241,"def":258,"mag":216,"spr":280},"minStats":{"hp":1824,"mp":116,"atk":80,"def":85,"mag":71,"spr":92},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","staff","rod","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],"enhancementSkills":["波濤の騎士剣","渦潮の騎士剣","剣の極意","ヴォイスオブナイト","グロリアスヒール","かばう・魔法I","シェルガ","プロテガ"]},
-  "100043517":{"name":"シャルロット -破滅の幻獣- BS","roles":["magicalTank"],"id":"100043517","game_id":"undefined","game":"undefined","braveShifted":"100043507","exAwakening":[{"hp":718,"mp":46,"atk":31,"def":33,"mag":28,"spr":73},{"hp":553,"mp":35,"atk":24,"def":26,"mag":22,"spr":56},{"hp":387,"mp":25,"atk":17,"def":18,"mag":15,"spr":39}],"fragmentId":"250028800","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5527,"mp":352,"atk":241,"def":258,"mag":216,"spr":280},"minStats":{"hp":1824,"mp":116,"atk":80,"def":85,"mag":71,"spr":92},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","staff","rod","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"]},
-  "100043607":{"name":"魔人フィーナ -破滅の幻獣-","roles":["magicalAttacker"],"id":"100043607","game_id":"undefined","game":"undefined","braveShift":"100043617","exAwakening":[{"hp":601,"mp":44,"atk":26,"def":27,"mag":117,"spr":34},{"hp":463,"mp":34,"atk":20,"def":21,"mag":90,"spr":26},{"hp":324,"mp":24,"atk":14,"def":15,"mag":63,"spr":18}],"fragmentId":"250028500","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":4626,"mp":337,"atk":198,"def":209,"mag":450,"spr":261},"minStats":{"hp":1527,"mp":111,"atk":65,"def":69,"mag":149,"spr":86},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","whip","hat","clothes","robe","visionCard"],"enhancementSkills":["鞭の極意","シャドウ・エタニティ","魔人のビジョンが秘めし力","ウォタガ","ウォタラ","フラッド","エアロガ","エアロラ","トルネド","ストンガ","ストンラ","クエイク"]},
-  "100043617":{"name":"魔人フィーナ -破滅の幻獣- BS","roles":["magicalAttacker"],"id":"100043617","game_id":"undefined","game":"undefined","braveShifted":"100043607","exAwakening":[{"hp":601,"mp":44,"atk":26,"def":27,"mag":117,"spr":34},{"hp":463,"mp":34,"atk":20,"def":21,"mag":90,"spr":26},{"hp":324,"mp":24,"atk":14,"def":15,"mag":63,"spr":18}],"fragmentId":"250028500","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":4626,"mp":337,"atk":198,"def":209,"mag":450,"spr":261},"minStats":{"hp":1527,"mp":111,"atk":65,"def":69,"mag":149,"spr":86},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","whip","hat","clothes","robe","visionCard"]},
   "100043707":{"name":"リュース -破滅の幻獣-","roles":["physicalAttacker","support"],"id":"100043707","game_id":"undefined","game":"undefined","braveShift":"100043717","exAwakening":[{"hp":686,"mp":43,"atk":82,"def":33,"mag":20,"spr":27},{"hp":527,"mp":33,"atk":63,"def":25,"mag":16,"spr":21},{"hp":369,"mp":23,"atk":44,"def":18,"mag":11,"spr":14}],"fragmentId":"250028700","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5274,"mp":332,"atk":315,"def":251,"mag":157,"spr":206},"minStats":{"hp":1740,"mp":110,"atk":104,"def":83,"mag":52,"spr":68},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["迅速果断の剣撃","嵐穿剣","剣の極意"]},
   "100043717":{"name":"リュース -破滅の幻獣- BS","roles":["physicalAttacker","support"],"id":"100043717","game_id":"undefined","game":"undefined","braveShifted":"100043707","exAwakening":[{"hp":686,"mp":43,"atk":82,"def":33,"mag":20,"spr":27},{"hp":527,"mp":33,"atk":63,"def":25,"mag":16,"spr":21},{"hp":369,"mp":23,"atk":44,"def":18,"mag":11,"spr":14}],"fragmentId":"250028700","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5274,"mp":332,"atk":315,"def":251,"mag":157,"spr":206},"minStats":{"hp":1740,"mp":110,"atk":104,"def":83,"mag":52,"spr":68},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"]},
   "100043807":{"name":"ソフィ","roles":["magicalAttacker","support"],"id":"100043807","game_id":"undefined","game":"undefined","braveShift":"100043817","exAwakening":[{"hp":657,"mp":52,"atk":23,"def":24,"mag":86,"spr":29},{"hp":505,"mp":40,"atk":17,"def":18,"mag":66,"spr":22},{"hp":354,"mp":28,"atk":12,"def":13,"mag":46,"spr":15}],"fragmentId":"250029600","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":4904,"mp":363,"atk":168,"def":179,"mag":330,"spr":214},"minStats":{"hp":1618,"mp":120,"atk":55,"def":59,"mag":109,"spr":71},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","hat","clothes","robe","visionCard"],"enhancementSkills":["ママゆずりの魔力","ヴォルテクス・フォース","ロッドの極意","ウォタラ","シェルガ"]},
