@@ -204,15 +204,40 @@ const unitRules = {
     7401: (item) => item.exclusiveUnits = ["100031507", "100031517"],
     7402: (item) => item.exclusiveUnits = ["100039407"],
     7601: (item) => item.max7StarUnit = true, // not implemented yet. Only for unit max 7*
+    7701: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Fire"], // Fire Units
+    7702: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Ice"], // Ice Units
+    7703: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Lightning"], // Lightning Units
+    7704: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Water"], // Water Units
+    7706: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Earth"], // Earth Units
+    7707: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Light"], // Light Units
+    7708: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Dark"], // Dark Units
     7903: (item, nvFlag) => item.exclusiveUnits = unitIdsByGameId[10003], // FF3 units
+    7905: (item, nvFlag) => item.exclusiveUnits = unitIdsByGameId[10005], // FF5 units
+    7906: (item, nvFlag) => item.exclusiveUnits = unitIdsByGameId[10006], // FF6 units
     7907: (item, nvFlag) => item.exclusiveUnits = (unitIdsByGameId[11012] || []).concat(unitIdsByGameId[10007] || [] ), // FFBE units
     7908: (item, nvFlag) => item.exclusiveUnits = unitIdsByGameId[10008], // FF8 units
     7909: (item, nvFlag) => item.exclusiveUnits = unitIdsByGameId[10011], // FF11 units
+    7913: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["FFXIII"], // FF13 units
+    7915: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["FFXV"], // FF15 units
+    7932: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["FFT"], // FFT units
     7933: (item, nvFlag) => item.exclusiveUnits = unitIdsByGameId[11003], // FF type Zero Tag units
+    7952: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["WOTV FFBE"], // WOTV FFBE units
     7953: (item, nvFlag) => item.exclusiveUnits = unitIdsByGameId[20037], // The Adventure of Dai units
+    8012: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Anniversary (JP)"], // FFBE units
+    8014: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["The Rebellion"], // The Rebellion units
+    8015: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Evocation"], // Evocation units
+    8017: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Blessing of the Crystals"], // Blessing of the Crystals units
+    8018: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["The Gathering"], // The Gathering units
+    8019: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Royal Arms"], // Royal Arms units
+    8020: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Mana Series"], // Mana Series units
     9501: (item, nvFlag) => item.exclusiveUnits = unitIdsByGameId[11001].concat(unitIdsByGameId[11010]), // FFBE & WOTV units
     9502: (item, nvFlag) => item.exclusiveUnits = (unitIdsByGameId[90003] || []).concat((unitIdsByGameId[90008] || [])), // Tomb raider units
-    9516: (item, nvFlag) => item.exclusiveUnits = ["401015507","401015517"] // Halloween Chow
+    9503: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Clash of Wills"], // Clash of Wills units
+    9505: (item, nvFlag) => item.exclusiveUnits = ["401014707"], // Addison Rae
+    9515: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["CW-Fire"], //CW-Fire units
+    9516: (item, nvFlag) => item.exclusiveUnits = ["401015507","401015517"], // Halloween Chow
+    9517: (item, nvFlag) => item.exclusiveUnits = ["401015607","401015617", "401015707"], // Hyoh & Panthera Ultimas, Ultimate Power Hyoh, Solidaty Warrior Veritas of the Frost
+    9518: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Light"] // GL Light
 }
 
 const jpExclusiveItemIds = ["403044000", "404002700", "407002900", "310003500", "504227640", "405006100", "304004400", "409027300", "402003300", "403046700", "310005800", "409037500", "504233711", "301005400", "409037600", "504230014", "504227428", "303004700", "504227448", "504227459", "409020700", "504228470", "313004600", "313004700", "409023700", "311004000", "313004500", "405007200", "409033200", "310005500", "409033300", "504233410", "409037000", "409037100", "403049600", "408005800", "316002100", "308003700", "301002800", "409018100", "408003100", "403044300", "403044200", "311003300", "409018200", "301002900", "309002300", "314001300", "504227328", "401002400", "403045000", "405005000", "311003600", "504229432", "504229433", "504229434", "409026100", "403046400", "402003200", "309004000", "306002600", "409026200", "409035300", "402004400", "405007800", "405007900", "504232801", "409035400", "409035500", "404004300", "404004400", "302011700", "504234020", "504234021", "310007200", "409038400", "403049900", "408005900", "302011800", "303003100", "302003600", "302003700", "403043100", "406002500", "407002100", "504230245", "504230244", "305002000", "311002300", "409013200", "409013300", "301002400", "302004100", "404002500", "407002500", "504220280", "504220630", "504220620", "309003500", "504228287", "504220290", "301002600", "302004600", "302004700", "303003800", "304002300", "311003100", "403044100", "408002900", "408003000", "402002400", "409017500", "409017600", "409017600", "504221650", "504221660", "504230373", "303006100", "504230374", "310007200", "408004500", "302011000", "504233250", "303007200", "409036700", "310006500", "302011200", "303007300", "310006600", "504230243", "303006000", "504214720", "305001100", "308001600", "303002800", "305001800", "312001700", "304001600", "406002400", "406002300", "406002200", "406002100", "404002000", "404001900", "404001800", "403042500", "409012400", "409012200", "409012000", "409012300", "409012100", "409012500", "308002700", "303002700", "504213220", "504213230", "504213210", "301002500", "504235124", "409041400", "409049200", "302005200"];
@@ -232,6 +257,7 @@ var languageId;
 let skillNameTrads;
 let skillDescTrads;
 var unitIdsByGameId = {};
+let unitIdsByCategory = {};
 let alreadyKnownVisionCardNames = {};
 
 
@@ -325,11 +351,26 @@ getData('equipment.json', function (items) {
                                                                                     }
                                                                                 }
 
+                                                                                // Creates a list of units by gameId
+                                                                                // This is used to determine which units are part of a specific game
+                                                                                // Also we want to determine which units are part of a specific category
                                                                                 Object.keys(units).forEach(unitId => {
                                                                                     let unit = units[unitId];
                                                                                     if (unit.game_id && Object.keys(unit.entries)) {
                                                                                         if (!unitIdsByGameId[unit.game_id]) unitIdsByGameId[unit.game_id] = [];
                                                                                         unitIdsByGameId[unit.game_id].push(unitId);
+                                                                                    }
+                                                                                    
+                                                                                    if (unit.entries) {
+                                                                                        let entries = Object.keys(unit.entries);
+                                                                                        entries.forEach(entry => {
+                                                                                            if (unit.entries[entry].categories) {
+                                                                                                unit.entries[entry].categories.forEach(category => {
+                                                                                                    if (!unitIdsByCategory[category]) unitIdsByCategory[category] = [];
+                                                                                                    unitIdsByCategory[category].push(unitId);
+                                                                                                });
+                                                                                            }
+                                                                                        });
                                                                                     }
                                                                                 });
 
@@ -625,26 +666,29 @@ function readRequirements(itemIn, itemOut) {
   
 
 function treatVisionCard(visionCard, visionCardId, skills) {
-    let card = {};
-    card.id = visionCardId;
-    card.name = visionCard.name;
 
     if (!checkForJapanese(visionCard.name)) {
         return null;
     }
 
+    let card = {
+        id: visionCardId,
+        name: visionCard.name,
+        type: 'visionCard',
+        icon: 'vc_vignette_item_icon_' + visionCardId + '.png',
+        access: ["unknown"],
+        levels: []
+    };
 
     if (!card.name && alreadyKnownVisionCardNames[visionCardId]) {
         card.name = alreadyKnownVisionCardNames[visionCardId];
     }
-    card.type = 'visionCard';
-    card.icon = 'vc_vignette_item_icon_' + visionCardId + '.png';
-    verifyImage(card.icon);
+
+    //verifyImage(card.icon); This is defunct.
     if (visionCard.compendium_id) {
         card.sortId = visionCard.compendium_id;
     }
-    card.access = ["unknown"];
-    card.levels = [];
+
     for (let level = 1; level <= visionCard.max_level; level++) {
         let levelData = {};
         card.levels.push(levelData);
@@ -687,24 +731,32 @@ function treatVisionCard(visionCard, visionCardId, skills) {
                                     levelData.conditional.push(conditional)
                                 }
                             } else {
-                                //if (card.id == '207000401') console.log('HAS RESTRICTION ?', visionCard.restriction && visionCard.restriction[visionCard.skills[i][j].toString()]);
                                 if (visionCard.restriction && visionCard.restriction[visionCard.skills[i][j].toString()]) {
-                                    let ruleArray = visionCard.restriction[visionCard.skills[i][j].toString()]
-                                    let conditional = {}
+                                    let ruleArray = visionCard.restriction[visionCard.skills[i][j].toString()];
+                                    let conditional = {}; // This object represents the conditions applied to the skill
+                                    // Add effects to the conditional object based on the skill data
                                     addEffectToItem(conditional, skill, index, skills);
+                                
                                     ruleArray.forEach((ruleId) => {
-
                                         if (!levelData.conditional) levelData.conditional = [];
-                                        if (!Object.keys(unitRules).includes(ruleId.toString())) {
-                                            console.log('Missing rule ' + ruleId + ' for vision card ' + visionCard.name);
-                                        } else {
+                                        if (unitRules[ruleId]) { // If the rule exists in unitRules, apply it
                                             unitRules[ruleId](conditional);
+                                            if (ruleId == 8019) {
+                                                console.log("Royal Arms rule applied to " + visionCard.name)
+                                            }
+                                        } else if (unitIdsByCategory.hasOwnProperty(ruleId.toString())) { // Handle category-based restrictions
+                                            // Directly modify the conditional object to include exclusiveUnits
+                                            conditional.exclusiveUnits = (conditional.exclusiveUnits || []).concat(unitIdsByCategory[ruleId.toString()]);
+                                        } else {
+                                            console.log('Missing rule ' + ruleId + ' for vision card ' + visionCard.name);
                                         }
                                     });
-                                    levelData.conditional.push(conditional)
+                                
+                                    // Add the conditional object to the level data, ensuring exclusiveUnits are correctly applied
+                                    levelData.conditional.push(conditional);
                                 } else {
                                     addEffectToItem(levelData, skill, index, skills);
-                                }
+                                }                                
                             }
                         });
                     }
