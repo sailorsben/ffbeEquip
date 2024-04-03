@@ -237,7 +237,7 @@ const unitRules = {
     9505: (item, nvFlag) => item.exclusiveUnits = ["401014707"], // Addison Rae
     9515: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["CW-Fire"], //CW-Fire units
     9516: (item, nvFlag) => item.exclusiveUnits = ["401015507","401015517"], // Halloween Chow
-    9517: (item, nvFlag) => item.exclusiveUnits = ["401015607","401015617", "401015707"], // Hyoh & Panthera Ultimas, Ultimate Power Hyoh, Solidaty Warrior Veritas of the Frost
+    9517: (item, nvFlag) => item.exclusiveUnits = ["401015607", "401015617", "401015707", "401015717"], // Hyoh & Panthera Ultimas, Ultimate Power Hyoh, Solitary Warrior Veritas of the Frost
     9518: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Light"] // GL Light
 }
 

@@ -2621,7 +2621,7 @@
 	{"mag":140, "mag%":80, "staticStats":{"mag":500}, "singleWielding":{"mag":100}, "dualWielding":{"mag":100}, "resist":[{"name":"water","percent":50}], "lbDamage":100, "conditional":[{"staticStats":{"mag":1000},"exclusiveUnits":["401015507","401015517"]}]}
 ]},
 {"id":"401009201", "name":"Biting Frost vs. Burning Flame", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_401009201.png", "sortId":9091, "levels":[
-	{"atk":140, "atk%":80, "staticStats":{"atk":500}, "resist":[{"name":"fire","percent":40},{"name":"ice","percent":40}], "killers":[{"name":"human","physical":50},{"name":"machine","physical":50}], "lbDamage":100, "conditional":[{"staticStats":{"atk":1000},"exclusiveUnits":["401015607","401015617","401015707"]}]}
+	{"atk":140, "atk%":80, "staticStats":{"atk":500}, "resist":[{"name":"fire","percent":40},{"name":"ice","percent":40}], "killers":[{"name":"human","physical":50},{"name":"machine","physical":50}], "lbDamage":100, "conditional":[{"staticStats":{"atk":1000},"exclusiveUnits":["401015607","401015617","401015707","401015717"]}]}
 ]},
 {"id":"401009301", "name":"Training Grounds", "type":"visionCard", "access":["unknown"], "icon":"vc_vignette_item_icon_401009301.png", "sortId":9092, "levels":[
 	{"atk":140, "atk%":100, "staticStats":{"atk":500}, "resist":[{"name":"water","percent":50}], "killers":[{"name":"beast","physical":75,"magical":75},{"name":"demon","physical":75,"magical":75}]}
