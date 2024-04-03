@@ -226,6 +226,7 @@ const unitRules = {
     8012: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Anniversary (JP)"], // FFBE units
     8014: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["The Rebellion"], // The Rebellion units
     8015: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Evocation"], // Evocation units
+    8016: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Blood of Hess"], // Blood of Hess units
     8017: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Blessing of the Crystals"], // Blessing of the Crystals units
     8018: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["The Gathering"], // The Gathering units
     8019: (item, nvFlag) => item.exclusiveUnits = unitIdsByCategory["Royal Arms"], // Royal Arms units
