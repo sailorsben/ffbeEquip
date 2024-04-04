@@ -1,9 +1,6 @@
 Starting
 Starting 
-"100009201":Deliverance from Despair
-"401010301":A Hatred for Dragons
+"100009301":Esper of Hope
 Starting
-"100043507":Charlotte -Esper of Destruction-
-"100043517":Charlotte -Esper of Destruction- BS
-"100043607":Dark Fina -Esper of Destruction-
-"100043617":Dark Fina -Esper of Destruction- BS
+"100043807":Sophie
+"100043817":Sophie BS

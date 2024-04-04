@@ -1,5 +1,12 @@
 [
 	{
+		"date": "April 4th, 2024",
+		"sources": [
+			{"type": "banner", "units": ["100043807", "100043817"]},
+			{"type": "storyPart", "name": "Vision Cards", "ids": ["100009301"]}
+		]
+	},
+	{
 		"date": "March 28th, 2024",
 		"sources": [
 			{"type": "banner", "units": ["100043507", "100043517", "100043607", "100043617"]},
