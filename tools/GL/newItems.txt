@@ -1,6 +1,6 @@
 Starting
 Starting 
-"100009301":Esper of Hope
+"401010501":Knights of Boundless Power
 Starting
-"100043807":Sophie
-"100043817":Sophie BS
+"339000907":Wing of Destiny Sterne
+"339000917":Wing of Destiny Sterne BS
