@@ -1,5 +1,21 @@
 [
 	{
+		"date": "April 18th, 2024",
+		"sources": [
+			{"type": "banner", "units": ["401016207", "401016217"]},
+			{"type": "storyPart", "name": "Vision Cards", "ids": ["401010401"]},
+			{"type": "storyPart", "name": "Items", "ids": ["1100000822","1100000823","1100000824"]}
+		]
+	},
+	{
+		"date": "April 24th, 2024",
+		"sources": [
+			{"type": "banner", "units": ["339000907", "339000917"]},
+			{"type": "storyPart", "name": "Vision Cards", "ids": ["401010501"]},
+			{"type": "storyPart", "name": "Items", "ids": ["null"]}
+		]
+	},
+	{
 		"date": "April 11th, 2024",
 		"sources": [
 			{"type": "banner", "units": ["339000907", "339000917"]},

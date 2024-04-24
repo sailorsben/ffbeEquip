@@ -28859,7 +28859,7 @@
 		"stats_pattern":4,
 		"equip":["fist","hat","helm","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Martial Arts Mastery","Koryu"],
-		"categories":["Earth","Attacker","Another World","Harbingers of Chaos"]
+		"categories":["Earth","Attacker","Another World","Harbingers of Chaos",null]
 	},
 	"331001117": {
 		"name":"Alpha Weltall BS",
@@ -28881,7 +28881,7 @@
 		"stats_pattern":4,
 		"equip":["visionCard"],
 		"enhancementSkills":["OMEGA100 (Grahf)","Boko"],
-		"categories":["Earth","Attacker","Another World","Harbingers of Chaos"]
+		"categories":["Earth","Attacker","Another World","Harbingers of Chaos",null]
 	},
 	"331001307": {
 		"name":"Holy Mother Reborn Elly",
@@ -37057,6 +37057,50 @@
 		"equip":["dagger","staff","rod","whip","mace","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Magical Genius","Waterga","Darkga","Watera","Darkra","Flood","True Blood Rend"],
 		"categories":["Water","Mage","FFBE","Clash of Wills","CW - Water"]
+	},
+	"401016207": {
+		"name":"Winged Officer Celeste",
+		"roles":["physicalAttacker","support"],
+		"id":"401016207",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShift":"401016217",
+		"exAwakening": [{"hp":683,"mp":43,"atk":117,"def":29,"mag":20,"spr":27},{"hp":525,"mp":33,"atk":90,"def":22,"mag":15,"spr":21},{"hp":367,"mp":23,"atk":63,"def":15,"mag":10,"spr":15}],
+		"fragmentId": "310001210",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":5250,"mp":330,"atk":450,"def":220,"mag":150,"spr":210},
+			"minStats":{"hp":1733,"mp":109,"atk":149,"def":73,"mag":50,"spr":69},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Coordinated Teamwork","Intelligent Combat","Access Granted"],
+		"categories":["Light","Attacker","Support","FFBE","Clash of Wills","CW - Light","Elite Soldiers"]
+	},
+	"401016217": {
+		"name":"Winged Officer Celeste BS",
+		"roles":["physicalAttacker"],
+		"id":"401016217",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShifted":"401016207",
+		"exAwakening": [{"hp":683,"mp":43,"atk":117,"def":29,"mag":20,"spr":27},{"hp":525,"mp":33,"atk":90,"def":22,"mag":15,"spr":21},{"hp":367,"mp":23,"atk":63,"def":15,"mag":10,"spr":15}],
+		"fragmentId": "310001210",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":5350,"mp":360,"atk":450,"def":240,"mag":150,"spr":230},
+			"minStats":{"hp":1766,"mp":119,"atk":149,"def":79,"mag":50,"spr":76},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Access Granted"],
+		"categories":["Light","Attacker","FFBE","Clash of Wills","CW - Light","Elite Soldiers"]
 	}
 ,
   "100000115":{"name":"Hunter Rain","jpname":"ハンターレイン","roles":["physicalAttacker","support"],"id":"100000115","game_id":"undefined","game":"undefined","max_rarity":"6","min_rarity":"5","sex":"male","stats":{"maxStats":{"hp":3652,"mp":150,"atk":152,"def":120,"mag":110,"spr":116},"minStats":{"hp":1205,"mp":50,"atk":50,"def":40,"mag":36,"spr":38},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["sword","greatSword","helm","lightArmor","heavyArmor"]},

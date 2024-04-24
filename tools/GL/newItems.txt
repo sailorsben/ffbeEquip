@@ -1,6 +1,7 @@
+
+
 Starting
-Starting 
-"401010501":Knights of Boundless Power
 Starting
-"339000907":Wing of Destiny Sterne
-"339000917":Wing of Destiny Sterne BS
+"401016207":Winged Officer Celeste
+"401016217":Winged Officer Celeste BS
+Starting
