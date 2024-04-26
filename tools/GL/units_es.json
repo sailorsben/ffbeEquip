@@ -29845,7 +29845,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","spear","mace","fist","hat","clothes","lightArmor","robe","visionCard"],
-		"categories":["Dark","Attacker","Another World","The Gathering","The Guardians"],
+		"categories":["Dark","Attacker","Another World","Xenogears","The Gathering","The Guardians"],
 		"6_form": {
 			"name":"Fei",
 			"roles":["physicalAttacker"],
@@ -29864,7 +29864,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","spear","mace","fist","hat","clothes","lightArmor","robe"],
-			"categories":["Dark","Attacker","Another World","The Gathering","The Guardians"]
+			"categories":["Dark","Attacker","Another World","Xenogears","The Gathering","The Guardians"]
 		},
 		"7_form": {
 			"name":"Fei",
@@ -29884,7 +29884,7 @@
 			},
 			"stats_pattern":4,
 			"equip":["dagger","spear","mace","fist","hat","clothes","lightArmor","robe"],
-			"categories":["Dark","Attacker","Another World","The Gathering","The Guardians"]
+			"categories":["Dark","Attacker","Another World","Xenogears","The Gathering","The Guardians"]
 		}
 	},
 	"331000127": {
@@ -29908,7 +29908,7 @@
 		"stats_pattern":4,
 		"equip":["visionCard"],
 		"enhancementSkills":["OMEGA100 (Fei)","Meikyo X","Goten X"],
-		"categories":["Dark","Attacker","Another World","The Gathering","The Guardians"]
+		"categories":["Dark","Attacker","Another World","Xenogears","The Gathering","The Guardians"]
 	},
 	"331000205": {
 		"name":"Elly",
@@ -29928,7 +29928,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","staff","rod","bow","whip","gun","hat","clothes","robe"],
 		"enhancementSkills":["Myyah Factor","Anemo Wave","Terra Ghost","Thermo Largo","Aqua Lord","Elehayym","Paradigm Shift","Eschatology","The Antitype"],
-		"categories":["Wind","Mage","Another World","The Gathering","The Guardians","Elite Soldiers","Wind","Mage","Another World","The Gathering","The Guardians","Elite Soldiers","Wind","Mage","Another World","The Gathering","The Guardians","Elite Soldiers"],
+		"categories":["Wind","Mage","Another World","Xenogears","The Gathering","The Guardians","Elite Soldiers","Wind","Mage","Another World","Xenogears","The Gathering","The Guardians","Elite Soldiers","Wind","Mage","Another World","Xenogears","The Gathering","The Guardians","Elite Soldiers"],
 		"6_form": {
 			"name":"Elly",
 			"roles":["magicalAttacker"],
@@ -29948,7 +29948,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","staff","rod","bow","whip","gun","hat","clothes","robe"],
 			"enhancementSkills":["Myyah Factor","Anemo Wave","Terra Ghost","Thermo Largo","Aqua Lord","Elehayym","Paradigm Shift","Eschatology","The Antitype"],
-			"categories":["Wind","Mage","Another World","The Gathering","The Guardians","Elite Soldiers","Wind","Mage","Another World","The Gathering","The Guardians","Elite Soldiers","Wind","Mage","Another World","The Gathering","The Guardians","Elite Soldiers"]
+			"categories":["Wind","Mage","Another World","Xenogears","The Gathering","The Guardians","Elite Soldiers","Wind","Mage","Another World","Xenogears","The Gathering","The Guardians","Elite Soldiers","Wind","Mage","Another World","Xenogears","The Gathering","The Guardians","Elite Soldiers"]
 		}
 	},
 	"331000304": {
@@ -29968,7 +29968,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","harp","whip","throwing","gun","mace","fist","hat","clothes","robe"],
-		"categories":[null,null,null]
+		"categories":["Wind","Mage","Another World","Xenogears","The Gathering","Wind","Mage","Another World","Xenogears","The Gathering","Wind","Mage","Another World","Xenogears","The Gathering"]
 	},
 	"331000405": {
 		"name":"Bart",
@@ -29987,7 +29987,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","whip","fist","lightShield","hat","clothes","lightArmor","robe"],
-		"categories":[null,null,"Wind","Attacker","Support","Another World"],
+		"categories":["Wind","Attacker","Support","Another World","Xenogears","The Rebellion","The Gathering","Royal Arms","Wind","Attacker","Support","Another World","Xenogears","The Rebellion","The Gathering","Royal Arms","Wind","Attacker","Support","Another World","Xenogears","The Rebellion","The Gathering","Royal Arms"],
 		"6_form": {
 			"name":"Bart",
 			"roles":["physicalAttacker","support"],
@@ -30006,7 +30006,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","whip","fist","lightShield","hat","clothes","lightArmor","robe"],
-			"categories":[null,null,"Wind","Attacker","Support","Another World"]
+			"categories":["Wind","Attacker","Support","Another World","Xenogears","The Rebellion","The Gathering","Royal Arms","Wind","Attacker","Support","Another World","Xenogears","The Rebellion","The Gathering","Royal Arms","Wind","Attacker","Support","Another World","Xenogears","The Rebellion","The Gathering","Royal Arms"]
 		}
 	},
 	"331000503": {
@@ -30026,7 +30026,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["axe","hammer","spear","mace","fist","hat","clothes","lightArmor","robe"],
-		"categories":[null,null,null]
+		"categories":["Fire","Attacker","Another World","Xenogears","The Gathering","Fire","Attacker","Another World","Xenogears","The Gathering","Fire","Attacker","Another World","Xenogears","The Gathering"]
 	},
 	"331000603": {
 		"name":"Chu-Chu",
@@ -30045,7 +30045,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["whip","mace","fist","lightShield","hat","clothes","lightArmor","robe"],
-		"categories":[null,null,null]
+		"categories":["Healer","Another World","Xenogears","The Gathering","Healer","Another World","Xenogears","The Gathering","Mage","Another World","Xenogears","The Gathering"]
 	},
 	"331000705": {
 		"name":"Citán",
@@ -30064,7 +30064,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","katana","gun","fist","lightShield","hat","helm","clothes","lightArmor","robe"],
-		"categories":[null,null,"Water","Attacker","Another World"],
+		"categories":["Water","Attacker","Another World","Xenogears","The Gathering","Water","Attacker","Another World","Xenogears","The Gathering","Water","Attacker","Another World","Xenogears","The Gathering"],
 		"6_form": {
 			"name":"Citán",
 			"roles":["physicalAttacker"],
@@ -30083,7 +30083,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","katana","gun","fist","lightShield","hat","helm","clothes","lightArmor","robe"],
-			"categories":[null,null,"Water","Attacker","Another World"]
+			"categories":["Water","Attacker","Another World","Xenogears","The Gathering","Water","Attacker","Another World","Xenogears","The Gathering","Water","Attacker","Another World","Xenogears","The Gathering"]
 		}
 	},
 	"331000805": {
@@ -30103,7 +30103,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","rod","hammer","whip","mace","fist","lightShield","hat","clothes","robe"],
-		"categories":[null,null,"Fire","Mage","Another World"],
+		"categories":["Fire","Mage","Another World","Xenogears","The Gathering","Fire","Mage","Another World","Xenogears","The Gathering","Fire","Mage","Another World","Xenogears","The Gathering"],
 		"6_form": {
 			"name":"María (Xenogears)",
 			"roles":["magicalAttacker"],
@@ -30122,7 +30122,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","rod","hammer","whip","mace","fist","lightShield","hat","clothes","robe"],
-			"categories":[null,null,"Fire","Mage","Another World"]
+			"categories":["Fire","Mage","Another World","Xenogears","The Gathering","Fire","Mage","Another World","Xenogears","The Gathering","Fire","Mage","Another World","Xenogears","The Gathering"]
 		}
 	},
 	"331000904": {
@@ -30142,7 +30142,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","bow","gun","mace","lightShield","hat","lightArmor","robe"],
-		"categories":[null,null,null]
+		"categories":["Water","Attacker","Another World","Xenogears","The Gathering","Water","Attacker","Another World","Xenogears","The Gathering","Water","Attacker","Another World","Xenogears","The Gathering"]
 	},
 	"331001007": {
 		"name":"Id",
@@ -30165,7 +30165,7 @@
 		"stats_pattern":4,
 		"equip":["fist","hat","helm","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Martial Arts Mastery","Infernal Destruction"],
-		"categories":["Fire","Attacker","Another World","Harbingers of Chaos"]
+		"categories":["Fire","Attacker","Another World","Xenogears","Harbingers of Chaos"]
 	},
 	"331001017": {
 		"name":"Weltall-Id BS",
@@ -30188,7 +30188,7 @@
 		"stats_pattern":4,
 		"equip":["visionCard"],
 		"enhancementSkills":["OMEGA100 (Id)","Flaming Hell"],
-		"categories":["Fire","Attacker","Another World","Harbingers of Chaos"]
+		"categories":["Fire","Attacker","Another World","Xenogears","Harbingers of Chaos"]
 	},
 	"331001107": {
 		"name":"Graf",
@@ -30211,7 +30211,7 @@
 		"stats_pattern":4,
 		"equip":["fist","hat","helm","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Martial Arts Mastery","Koryu"],
-		"categories":["Earth","Attacker","Another World","Harbingers of Chaos",null]
+		"categories":["Earth","Attacker","Another World","Xenogears","Harbingers of Chaos",null]
 	},
 	"331001117": {
 		"name":"Weltall Alfa BS",
@@ -30234,7 +30234,7 @@
 		"stats_pattern":4,
 		"equip":["visionCard"],
 		"enhancementSkills":["OMEGA100 (Grahf)","Boko"],
-		"categories":["Earth","Attacker","Another World","Harbingers of Chaos",null]
+		"categories":["Earth","Attacker","Another World","Xenogears","Harbingers of Chaos",null]
 	},
 	"331001307": {
 		"name":"Elly, santa reencarnada",
@@ -30257,7 +30257,7 @@
 		"stats_pattern":4,
 		"equip":["rod","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Anemo Wave","Rod Mastery"],
-		"categories":["Wind","Mage","Another World","The Gathering","The Guardians","Elite Soldiers"]
+		"categories":["Wind","Mage","Another World","Xenogears","The Gathering","The Guardians","Elite Soldiers"]
 	},
 	"331001317": {
 		"name":"Vierge BS",
@@ -30280,7 +30280,7 @@
 		"stats_pattern":4,
 		"equip":["rod","visionCard"],
 		"enhancementSkills":["OMEGA100 (Elly)","Anemo Wave","Rod Mastery"],
-		"categories":["Wind","Mage","Another World","The Gathering","The Guardians","Elite Soldiers"]
+		"categories":["Wind","Mage","Another World","Xenogears","The Gathering","The Guardians","Elite Soldiers"]
 	},
 	"331001407": {
 		"name":"Citán, agente doble",
@@ -30303,7 +30303,7 @@
 		"stats_pattern":4,
 		"equip":["katana","fist","hat","helm","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Kakedori","Katana Mastery"],
-		"categories":["Wind","Attacker","Another World","The Gathering","The Guardians"]
+		"categories":["Wind","Attacker","Another World","Xenogears","The Gathering","The Guardians"]
 	},
 	"331001417": {
 		"name":"Fenrir BS",
@@ -30326,7 +30326,99 @@
 		"stats_pattern":4,
 		"equip":["greatSword","katana","visionCard"],
 		"enhancementSkills":["OMEGA100 (Citan)","Reppu"],
-		"categories":["Wind","Attacker","Another World","The Gathering","The Guardians"]
+		"categories":["Wind","Attacker","Another World","Xenogears","The Gathering","The Guardians"]
+	},
+	"331001507": {
+		"name":"Steel Wings of Bonds Maria",
+		"roles":["magicalAttacker"],
+		"wikiEntry":"Steel_Wings of Bonds Maria",
+		"id":"331001507",
+		"game_id":"20024",
+		"game":"Xenogears",
+		"braveShift":"331001517",
+		"exAwakening": [{"hp":847,"mp":45,"atk":39,"def":35,"mag":117,"spr":29},{"hp":651,"mp":34,"atk":30,"def":27,"mag":90,"spr":22},{"hp":456,"mp":24,"atk":21,"def":19,"mag":63,"spr":16}],
+		"fragmentId": "250029200",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":4947,"mp":322,"atk":138,"def":176,"mag":450,"spr":219},
+			"minStats":{"hp":1633,"mp":106,"atk":46,"def":58,"mag":149,"spr":72},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["staff","rod","hat","clothes","robe","visionCard"],
+		"enhancementSkills":["Robo Punch (Steel Wings of Bonds Maria)","Rod Mastery"],
+		"categories":["Light","Mage","Another World","Xenogears","The Gathering"]
+	},
+	"331001517": {
+		"name":"Seibzehn BS",
+		"roles":["magicalAttacker"],
+		"wikiEntry":"Seibzehn",
+		"id":"331001517",
+		"game_id":"20024",
+		"game":"Xenogears",
+		"braveShifted":"331001507",
+		"exAwakening": [{"hp":847,"mp":45,"atk":39,"def":35,"mag":117,"spr":29},{"hp":651,"mp":34,"atk":30,"def":27,"mag":90,"spr":22},{"hp":456,"mp":24,"atk":21,"def":19,"mag":63,"spr":16}],
+		"fragmentId": "250029200",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":6513,"mp":342,"atk":301,"def":269,"mag":450,"spr":224},
+			"minStats":{"hp":2149,"mp":113,"atk":99,"def":89,"mag":149,"spr":74},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["staff","rod","fist","visionCard"],
+		"enhancementSkills":["OMEGA100 (Seibzehn)","Seibzehn Hammer","Martial Arts Mastery","Rod Mastery"],
+		"categories":["Light","Mage","Another World","Xenogears","The Gathering"]
+	},
+	"331001807": {
+		"name":"Dunefaring King Bart",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Dunefaring_King Bart",
+		"id":"331001807",
+		"game_id":"20024",
+		"game":"Xenogears",
+		"braveShift":"331001817",
+		"exAwakening": [{"hp":701,"mp":46,"atk":86,"def":30,"mag":25,"spr":26},{"hp":539,"mp":35,"atk":66,"def":23,"mag":19,"spr":20},{"hp":378,"mp":25,"atk":46,"def":16,"mag":13,"spr":14}],
+		"fragmentId": "250029500",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5138,"mp":345,"atk":330,"def":224,"mag":176,"spr":187},
+			"minStats":{"hp":1696,"mp":114,"atk":109,"def":74,"mag":58,"spr":62},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["whip","lightShield","hat","clothes","lightArmor","robe","visionCard"],
+		"enhancementSkills":["Prominence (Dunefaring King Bart)","Whip Mastery"],
+		"categories":["Light","Attacker","Another World","Xenogears","The Rebellion","The Gathering","Royal Arms","Clash of Wills","CW - Light"]
+	},
+	"331001817": {
+		"name":"Andvari BS",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Andvari",
+		"id":"331001817",
+		"game_id":"20024",
+		"game":"Xenogears",
+		"braveShifted":"331001807",
+		"exAwakening": [{"hp":701,"mp":46,"atk":86,"def":30,"mag":25,"spr":26},{"hp":539,"mp":35,"atk":66,"def":23,"mag":19,"spr":20},{"hp":378,"mp":25,"atk":46,"def":16,"mag":13,"spr":14}],
+		"fragmentId": "250029500",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5392,"mp":353,"atk":330,"def":232,"mag":189,"spr":201},
+			"minStats":{"hp":1779,"mp":116,"atk":109,"def":77,"mag":62,"spr":66},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["whip","visionCard"],
+		"enhancementSkills":["OMEGA100 (Andvari)","Blood Snake","Whip Mastery"],
+		"categories":["Light","Attacker","Another World","Xenogears","The Rebellion","The Gathering","Royal Arms","Clash of Wills","CW - Light"]
 	},
 	"334000105": {
 		"name":"Primrose",
@@ -39029,14 +39121,10 @@
   "314000203":{"name":"Magnolia","jpname":"マグノリア","roles":["physicalAttacker"],"id":"314000203","game_id":"undefined","game":"undefined","max_rarity":"5","min_rarity":"3","sex":"female","stats":{"maxStats":{"hp":2576,"mp":113,"atk":108,"def":87,"mag":98,"spr":91},"minStats":{"hp":850,"mp":37,"atk":36,"def":29,"mag":32,"spr":30},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["dagger","sword","greatSword","staff","bow","spear","lightShield","hat","helm","clothes","lightArmor","robe"]},
   "315000104":{"name":"Rinne","jpname":"リンネ","roles":["magicalAttacker","debuffer"],"id":"315000104","game_id":"undefined","game":"undefined","max_rarity":"6","min_rarity":"4","sex":"other","stats":{"maxStats":{"hp":2794,"mp":176,"atk":106,"def":112,"mag":234,"spr":149},"minStats":{"hp":922,"mp":58,"atk":35,"def":37,"mag":77,"spr":49},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["hat","clothes","robe"],"enhancementSkills":["ジウスドラの罪","ギルタブリル","アマテラス"]},
   "318000205":{"name":"Sophia","jpname":"ソフィア","roles":["magicalAttacker","debuffer"],"id":"318000205","game_id":"undefined","game":"undefined","max_rarity":"7","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":4478,"mp":278,"atk":131,"def":152,"mag":218,"spr":205},"minStats":{"hp":1478,"mp":92,"atk":43,"def":50,"mag":72,"spr":68},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","staff","rod","harp","throwing","hat","clothes","lightArmor","robe"],"6_form":{"name":"Sophia","jpname":"ソフィア","roles":["magicalAttacker","debuffer"],"id":"318000205","game_id":"undefined","game":"undefined","sixStarForm":true,"max_rarity":"6","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":3445,"mp":214,"atk":101,"def":117,"mag":167,"spr":158},"minStats":{"hp":1137,"mp":71,"atk":33,"def":39,"mag":55,"spr":52},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["dagger","sword","staff","rod","harp","throwing","hat","clothes","lightArmor","robe"]}},
-  "331001507":{"name":"絆の鋼翼マリア","jpname":"絆の鋼翼マリア","roles":["magicalAttacker"],"id":"331001507","game_id":"undefined","game":"undefined","braveShift":"331001517","exAwakening":[{"hp":847,"mp":45,"atk":39,"def":35,"mag":117,"spr":29},{"hp":651,"mp":34,"atk":30,"def":27,"mag":90,"spr":22},{"hp":456,"mp":24,"atk":21,"def":19,"mag":63,"spr":16}],"fragmentId":"250029200","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":4947,"mp":322,"atk":138,"def":176,"mag":450,"spr":219},"minStats":{"hp":1633,"mp":106,"atk":46,"def":58,"mag":149,"spr":72},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","hat","clothes","robe","visionCard"],"enhancementSkills":["ロボパンチ","ロッドの極意"]},
-  "331001517":{"name":"ゼプツェン BS","jpname":"ゼプツェン BS","roles":["magicalAttacker"],"id":"331001517","game_id":"undefined","game":"undefined","braveShifted":"331001507","exAwakening":[{"hp":847,"mp":45,"atk":39,"def":35,"mag":117,"spr":29},{"hp":651,"mp":34,"atk":30,"def":27,"mag":90,"spr":22},{"hp":456,"mp":24,"atk":21,"def":19,"mag":63,"spr":16}],"fragmentId":"250029200","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":6513,"mp":342,"atk":301,"def":269,"mag":450,"spr":224},"minStats":{"hp":2149,"mp":113,"atk":99,"def":89,"mag":149,"spr":74},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","fist","visionCard"],"enhancementSkills":["OMEGA100","ゼプツェンハンマー","格闘の極意","ロッドの極意"]},
   "331001607":{"name":"遠い約束エメラダ","jpname":"遠い約束エメラダ","roles":["magicalAttacker"],"id":"331001607","game_id":"undefined","game":"undefined","braveShift":"331001617","exAwakening":[{"hp":754,"mp":47,"atk":27,"def":28,"mag":86,"spr":29},{"hp":580,"mp":36,"atk":21,"def":22,"mag":66,"spr":23},{"hp":406,"mp":25,"atk":15,"def":15,"mag":46,"spr":16}],"fragmentId":"250029300","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":4638,"mp":342,"atk":193,"def":203,"mag":330,"spr":214},"minStats":{"hp":1531,"mp":113,"atk":64,"def":67,"mag":109,"spr":71},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","fist","lightShield","hat","clothes","robe","visionCard"],"enhancementSkills":["ブラックエッジ","ロッドの極意","格闘の極意"]},
   "331001617":{"name":"クレスケンス BS","jpname":"クレスケンス BS","roles":["magicalAttacker"],"id":"331001617","game_id":"undefined","game":"undefined","braveShifted":"331001607","exAwakening":[{"hp":754,"mp":47,"atk":27,"def":28,"mag":86,"spr":29},{"hp":580,"mp":36,"atk":21,"def":22,"mag":66,"spr":23},{"hp":406,"mp":25,"atk":15,"def":15,"mag":46,"spr":16}],"fragmentId":"250029300","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5802,"mp":364,"atk":209,"def":216,"mag":330,"spr":227},"minStats":{"hp":1915,"mp":120,"atk":69,"def":71,"mag":109,"spr":75},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","fist","visionCard"],"enhancementSkills":["ブラックディバイド","OMEGA100","ロッドの極意","格闘の極意"]},
   "331001707":{"name":"神を滅ぼす者フェイ","jpname":"神を滅ぼす者フェイ","roles":["physicalAttacker"],"id":"331001707","game_id":"undefined","game":"undefined","braveShift":"331001717","exAwakening":[{"hp":678,"mp":47,"atk":117,"def":29,"mag":23,"spr":25},{"hp":522,"mp":36,"atk":90,"def":23,"mag":17,"spr":19},{"hp":365,"mp":25,"atk":63,"def":16,"mag":12,"spr":13}],"fragmentId":"250029400","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5011,"mp":349,"atk":450,"def":216,"mag":161,"spr":178},"minStats":{"hp":1654,"mp":115,"atk":149,"def":71,"mag":53,"spr":59},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["fist","hat","clothes","lightArmor","robe","visionCard"],"enhancementSkills":["超武技闇勁","格闘の極意","銀牙"]},
   "331001717":{"name":"ヴェルトール2 BS","jpname":"ヴェルトール2 BS","roles":["physicalAttacker"],"id":"331001717","game_id":"undefined","game":"undefined","braveShifted":"331001707","exAwakening":[{"hp":678,"mp":47,"atk":117,"def":29,"mag":23,"spr":25},{"hp":522,"mp":36,"atk":90,"def":23,"mag":17,"spr":19},{"hp":365,"mp":25,"atk":63,"def":16,"mag":12,"spr":13}],"fragmentId":"250029400","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5216,"mp":361,"atk":450,"def":227,"mag":173,"spr":191},"minStats":{"hp":1721,"mp":119,"atk":149,"def":75,"mag":57,"spr":63},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["fist","visionCard"],"enhancementSkills":["OMEGA100","超武技岩断","格闘の極意","銀牙"]},
-  "331001807":{"name":"砂漠を駆ける王バルト","jpname":"砂漠を駆ける王バルト","roles":["physicalAttacker"],"id":"331001807","game_id":"undefined","game":"undefined","braveShift":"331001817","exAwakening":[{"hp":701,"mp":46,"atk":86,"def":30,"mag":25,"spr":26},{"hp":539,"mp":35,"atk":66,"def":23,"mag":19,"spr":20},{"hp":378,"mp":25,"atk":46,"def":16,"mag":13,"spr":14}],"fragmentId":"250029500","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5138,"mp":345,"atk":330,"def":224,"mag":176,"spr":187},"minStats":{"hp":1696,"mp":114,"atk":109,"def":74,"mag":58,"spr":62},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["whip","lightShield","hat","clothes","lightArmor","robe","visionCard"],"enhancementSkills":["ホワイトコロン","ワイルドスマイル","プロミネンス","鞭の極意"]},
-  "331001817":{"name":"E・アンドヴァリ BS","jpname":"E・アンドヴァリ BS","roles":["physicalAttacker"],"id":"331001817","game_id":"undefined","game":"undefined","braveShifted":"331001807","exAwakening":[{"hp":701,"mp":46,"atk":86,"def":30,"mag":25,"spr":26},{"hp":539,"mp":35,"atk":66,"def":23,"mag":19,"spr":20},{"hp":378,"mp":25,"atk":46,"def":16,"mag":13,"spr":14}],"fragmentId":"250029500","max_rarity":"NV","min_rarity":"NV","sex":"male","stats":{"maxStats":{"hp":5392,"mp":353,"atk":330,"def":232,"mag":189,"spr":201},"minStats":{"hp":1779,"mp":116,"atk":109,"def":77,"mag":62,"spr":66},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["whip","visionCard"],"enhancementSkills":["OMEGA100","ワイルドスマイル","ブラッドスネーク","鞭の極意"]},
   "332000105":{"name":"Lara Croft","jpname":"ララ・クロフト","roles":["physicalAttacker"],"id":"332000105","game_id":"undefined","game":"undefined","max_rarity":"6","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":3502,"mp":161,"atk":150,"def":137,"mag":127,"spr":133},"minStats":{"hp":1156,"mp":53,"atk":50,"def":45,"mag":42,"spr":44},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["dagger","sword","staff","bow","axe","whip","throwing","gun","fist","hat","clothes","lightArmor","robe"]},
   "336000105":{"name":"Alice","jpname":"アリス","roles":["physicalAttacker"],"id":"336000105","game_id":"undefined","game":"undefined","braveShift":"336000127","exAwakening":[{"hp":624,"mp":32,"atk":31,"def":24,"mag":20,"spr":24},{"hp":480,"mp":24,"atk":24,"def":19,"mag":16,"spr":18},{"hp":336,"mp":17,"atk":17,"def":13,"mag":11,"spr":13}],"fragmentId":"250005300","max_rarity":"NV","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":4801,"mp":244,"atk":240,"def":186,"mag":155,"spr":183},"minStats":{"hp":1584,"mp":81,"atk":79,"def":61,"mag":51,"spr":60},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","katana","bow","hammer","spear","gun","mace","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["全てを屠る決意"],"6_form":{"name":"Alice","jpname":"アリス","roles":["physicalAttacker"],"id":"336000105","game_id":"undefined","game":"undefined","sixStarForm":true,"max_rarity":"6","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":3693,"mp":187,"atk":159,"def":143,"mag":119,"spr":140},"minStats":{"hp":1219,"mp":62,"atk":52,"def":47,"mag":39,"spr":46},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["dagger","sword","greatSword","katana","bow","hammer","spear","gun","mace","hat","helm","clothes","lightArmor","heavyArmor"],"enhancementSkills":["全てを屠る決意"]},"7_form":{"name":"Alice","jpname":"アリス","roles":["physicalAttacker"],"id":"336000105","game_id":"undefined","game":"undefined","sevenStarForm":true,"max_rarity":"7","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":4801,"mp":244,"atk":207,"def":186,"mag":155,"spr":183},"minStats":{"hp":1584,"mp":81,"atk":68,"def":61,"mag":51,"spr":60},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","katana","bow","hammer","spear","gun","mace","hat","helm","clothes","lightArmor","heavyArmor"],"enhancementSkills":["全てを屠る決意"]}},
   "336000127":{"name":"アリス/ハーフナイトメア BS","jpname":"アリス/ハーフナイトメア BS","roles":["physicalAttacker"],"id":"336000127","game_id":"undefined","game":"undefined","braveShifted":"336000105","exAwakening":[{"hp":624,"mp":32,"atk":31,"def":24,"mag":20,"spr":24},{"hp":480,"mp":24,"atk":24,"def":19,"mag":16,"spr":18},{"hp":336,"mp":17,"atk":17,"def":13,"mag":11,"spr":13}],"fragmentId":"250005300","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5361,"mp":282,"atk":280,"def":217,"mag":186,"spr":205},"minStats":{"hp":1769,"mp":93,"atk":92,"def":72,"mag":61,"spr":68},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","katana","bow","hammer","spear","gun","mace","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["束縛ノ氷鎖","束縛ノ氷雨","全てを屠る決意"]},
