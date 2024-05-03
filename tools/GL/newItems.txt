@@ -1,14 +1,5 @@
 
 Starting
-"314004600":True Death Adder
-"314004600":True Death Adder
-"409086500":Maria's Ribbon
-"409086500":Maria's Ribbon
-"409086800":Bart's Eyepatch
-"504245133":Little Guardian's Resolve
-"504245213":Balthasar's Granddaughter 
+Starting 
+"401010801":Demon of Death and Destruction
 Starting
-"331000201": Memories of the Soul
-Starting
-"331001507":Steel Wings of Bonds Maria
-"331001807":Dunefaring King Bart
