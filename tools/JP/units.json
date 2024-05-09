@@ -11628,7 +11628,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["staff","lightShield","hat","clothes","robe","visionCard"],
-		"enhancementSkills":["プロテガ","シェルガ","フランメガルディン"]
+		"enhancementSkills":["プロテガ","シェルガ","フランメガルディン","大切な人たちへの祈り"]
 	},
 	"100037517": {
 		"name":"Lehftia BS",
@@ -11672,7 +11672,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","harp","throwing","fist","hat","clothes","lightArmor","visionCard"],
-		"enhancementSkills":["メッサータンツ"]
+		"enhancementSkills":["メッサータンツ","トムテの旋律"]
 	},
 	"100037617": {
 		"name":"Haveh BS",
@@ -12753,7 +12753,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","spear","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
-		"enhancementSkills":["トヴォ・スヴァード","大剣の極意","刀の極意"]
+		"enhancementSkills":["トヴォ・スヴァード","俊英の戦気","英雄の闘志","大剣の極意","刀の極意"]
 	},
 	"100040317": {
 		"name":"Taivas & Yshe BS",
@@ -14595,6 +14595,7 @@
 	},
 	"100044607": {
 		"name":"黒雷爪カリチェ",
+		"jpname":"黒雷爪カリチェ",
 		"roles":["magicalAttacker","debuffer"],
 		"id":"100044607",
 		"game_id":"undefined",
@@ -14616,6 +14617,7 @@
 	},
 	"100044617": {
 		"name":"黒雷爪カリチェ BS",
+		"jpname":"黒雷爪カリチェ BS",
 		"roles":["magicalAttacker","debuffer"],
 		"id":"100044617",
 		"game_id":"undefined",
@@ -14633,6 +14635,68 @@
 		},
 		"stats_pattern":4,
 		"equip":["fist","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"]
+	},
+	"100044807": {
+		"name":"緋き騎士レイン",
+		"roles":["physicalAttacker","magicalTank","debuffer"],
+		"id":"100044807",
+		"game_id":"undefined",
+		"game":"undefined",
+		"braveShift":"100044817",
+		"exAwakening": [{"hp":721,"mp":48,"atk":117,"def":35,"mag":29,"spr":86},{"hp":554,"mp":37,"atk":90,"def":27,"mag":22,"spr":66},{"hp":388,"mp":26,"atk":63,"def":19,"mag":15,"spr":46}],
+		"fragmentId": "250033800",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5231,"mp":341,"atk":450,"def":253,"mag":206,"spr":300},
+			"minStats":{"hp":1726,"mp":113,"atk":149,"def":83,"mag":68,"spr":99},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["フォースインピード","シールドクラッシャー","大剣の極意","かばう・魔法I","シェルガ"]
+	},
+	"100044817": {
+		"name":"緋き騎士レイン BS",
+		"roles":["physicalAttacker","magicalTank"],
+		"id":"100044817",
+		"game_id":"undefined",
+		"game":"undefined",
+		"braveShifted":"100044807",
+		"exAwakening": [{"hp":721,"mp":48,"atk":117,"def":35,"mag":29,"spr":86},{"hp":554,"mp":37,"atk":90,"def":27,"mag":22,"spr":66},{"hp":388,"mp":26,"atk":63,"def":19,"mag":15,"spr":46}],
+		"fragmentId": "250033800",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5543,"mp":368,"atk":450,"def":267,"mag":219,"spr":330},
+			"minStats":{"hp":1829,"mp":121,"atk":149,"def":88,"mag":72,"spr":109},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["フォースインピード","大剣の極意","かばう・魔法I","シェルガ"]
+	},
+	"100045007": {
+		"name":"蘇りし英雄タイヴァス",
+		"roles":["physicalAttacker"],
+		"id":"100045007",
+		"game_id":"undefined",
+		"game":"undefined",
+		"exAwakening": [{"hp":690,"mp":42,"atk":117,"def":31,"mag":22,"spr":38},{"hp":531,"mp":33,"atk":90,"def":24,"mag":17,"spr":29},{"hp":371,"mp":23,"atk":63,"def":17,"mag":12,"spr":21}],
+		"fragmentId": "250033900",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5306,"mp":328,"atk":450,"def":238,"mag":166,"spr":292},
+			"minStats":{"hp":1751,"mp":108,"atk":149,"def":79,"mag":55,"spr":96},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["greatSword","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["今度こそ救ってみせる！","大剣の極意","エルムント式対獣・機械戦術","プロテガ"]
 	},
 	"201000104": {
 		"name":"Warrior of Light",
@@ -15647,6 +15711,7 @@
 	},
 	"202002607": {
 		"name":"反乱軍の義士フリオニール",
+		"jpname":"反乱軍の義士フリオニール",
 		"roles":["physicalAttacker"],
 		"id":"202002607",
 		"game_id":"undefined",
@@ -15668,6 +15733,7 @@
 	},
 	"202002617": {
 		"name":"反乱軍の義士フリオニール BS",
+		"jpname":"反乱軍の義士フリオニール BS",
 		"roles":["physicalAttacker"],
 		"id":"202002617",
 		"game_id":"undefined",
@@ -15688,6 +15754,7 @@
 	},
 	"202002707": {
 		"name":"反乱軍の義士ガイ",
+		"jpname":"反乱軍の義士ガイ",
 		"roles":["debuffer"],
 		"id":"202002707",
 		"game_id":"undefined",
@@ -15709,6 +15776,7 @@
 	},
 	"202002717": {
 		"name":"反乱軍の義士ガイ BS",
+		"jpname":"反乱軍の義士ガイ BS",
 		"roles":["debuffer"],
 		"id":"202002717",
 		"game_id":"undefined",
@@ -15729,6 +15797,7 @@
 	},
 	"202002807": {
 		"name":"こうてい(FFII)",
+		"jpname":"こうてい(FFII)",
 		"roles":["magicalAttacker"],
 		"id":"202002807",
 		"game_id":"undefined",
@@ -15750,6 +15819,7 @@
 	},
 	"202002817": {
 		"name":"こうてい(FFII) BS",
+		"jpname":"こうてい(FFII) BS",
 		"roles":["magicalAttacker"],
 		"id":"202002817",
 		"game_id":"undefined",
@@ -17454,7 +17524,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["spear","lightShield","heavyShield","hat","helm","lightArmor","heavyArmor","visionCard"],
-		"enhancementSkills":["竜騎士の真髄","フッ、まかせておけ","インパルスドライブ","サンダージャンプ","ジャンプ"]
+		"enhancementSkills":["リベレイトオブドラグーン","竜騎士の真髄","雷光の構え","フッ、まかせておけ","インパルスドライブ","サンダージャンプ","ジャンプ"]
 	},
 	"204002917": {
 		"name":"Holy Dragoon Kain BS",
@@ -17476,7 +17546,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["sword","spear","lightShield","heavyShield","hat","helm","lightArmor","heavyArmor","visionCard"],
-		"enhancementSkills":["竜騎士の真髄","フッ、まかせておけ","インパルスドライブ","ホーリージャンプ","ジャンプ"]
+		"enhancementSkills":["リベレイトオブドラグーン","竜騎士の真髄","雷光の構え","フッ、まかせておけ","インパルスドライブ","ホーリージャンプ","ジャンプ"]
 	},
 	"204003007": {
 		"name":"Summoner Rydia",
@@ -21514,6 +21584,7 @@
 	},
 	"207003407": {
 		"name":"真実への旅立ちクラウド",
+		"jpname":"真実への旅立ちクラウド",
 		"roles":["physicalAttacker","debuffer"],
 		"id":"207003407",
 		"game_id":"undefined",
@@ -21534,6 +21605,7 @@
 	},
 	"207003507": {
 		"name":"密命のシノビ ユフィ",
+		"jpname":"密命のシノビ ユフィ",
 		"roles":["physicalAttacker"],
 		"id":"207003507",
 		"game_id":"undefined",
@@ -21555,6 +21627,7 @@
 	},
 	"207003517": {
 		"name":"密命のシノビ ユフィ BS",
+		"jpname":"密命のシノビ ユフィ BS",
 		"roles":["physicalAttacker"],
 		"id":"207003517",
 		"game_id":"undefined",
@@ -21575,6 +21648,7 @@
 	},
 	"207003607": {
 		"name":"星を巡る旅路ティファ",
+		"jpname":"星を巡る旅路ティファ",
 		"roles":["physicalAttacker","support"],
 		"id":"207003607",
 		"game_id":"undefined",
@@ -21595,6 +21669,7 @@
 	},
 	"207003707": {
 		"name":"気高き種の末裔レッドXIII",
+		"jpname":"気高き種の末裔レッドXIII",
 		"roles":["physicalAttacker"],
 		"id":"207003707",
 		"game_id":"undefined",
@@ -21616,6 +21691,7 @@
 	},
 	"207003717": {
 		"name":"気高き種の末裔レッドXIII BS",
+		"jpname":"気高き種の末裔レッドXIII BS",
 		"roles":["physicalAttacker"],
 		"id":"207003717",
 		"game_id":"undefined",
@@ -26285,6 +26361,7 @@
 	},
 	"212002707": {
 		"name":"空に憧れし少年ヴァン",
+		"jpname":"空に憧れし少年ヴァン",
 		"roles":["physicalAttacker"],
 		"id":"212002707",
 		"game_id":"undefined",
@@ -26305,6 +26382,7 @@
 	},
 	"212002807": {
 		"name":"健気な幼馴染パンネロ",
+		"jpname":"健気な幼馴染パンネロ",
 		"roles":["debuffer"],
 		"id":"212002807",
 		"game_id":"undefined",
@@ -26326,6 +26404,7 @@
 	},
 	"212002817": {
 		"name":"健気な幼馴染パンネロ BS",
+		"jpname":"健気な幼馴染パンネロ BS",
 		"roles":["debuffer"],
 		"id":"212002817",
 		"game_id":"undefined",
@@ -26346,6 +26425,7 @@
 	},
 	"212002907": {
 		"name":"自由を望みし王女アーシェ",
+		"jpname":"自由を望みし王女アーシェ",
 		"roles":["magicalAttacker","support"],
 		"id":"212002907",
 		"game_id":"undefined",
@@ -26367,6 +26447,7 @@
 	},
 	"212002917": {
 		"name":"自由を望みし王女アーシェ BS",
+		"jpname":"自由を望みし王女アーシェ BS",
 		"roles":["magicalAttacker","support"],
 		"id":"212002917",
 		"game_id":"undefined",
@@ -26387,6 +26468,7 @@
 	},
 	"212003007": {
 		"name":"揺るがぬ忠誠バッシュ",
+		"jpname":"揺るがぬ忠誠バッシュ",
 		"roles":["physicalAttacker"],
 		"id":"212003007",
 		"game_id":"undefined",
@@ -26408,6 +26490,7 @@
 	},
 	"212003017": {
 		"name":"揺るがぬ忠誠バッシュ BS",
+		"jpname":"揺るがぬ忠誠バッシュ BS",
 		"roles":["physicalAttacker"],
 		"id":"212003017",
 		"game_id":"undefined",
@@ -26428,6 +26511,7 @@
 	},
 	"212003107": {
 		"name":"不滅なるもの(FFXII TZA)",
+		"jpname":"不滅なるもの(FFXII TZA)",
 		"roles":["magicalAttacker"],
 		"id":"212003107",
 		"game_id":"undefined",
@@ -26449,6 +26533,7 @@
 	},
 	"212003117": {
 		"name":"不滅なるもの(FFXII TZA) BS",
+		"jpname":"不滅なるもの(FFXII TZA) BS",
 		"roles":["magicalAttacker"],
 		"id":"212003117",
 		"game_id":"undefined",
@@ -28502,6 +28587,7 @@
 	},
 	"216000107": {
 		"name":"クライヴ",
+		"jpname":"クライヴ",
 		"roles":["physicalAttacker"],
 		"id":"216000107",
 		"game_id":"undefined",
@@ -28523,6 +28609,7 @@
 	},
 	"216000117": {
 		"name":"クライヴ BS",
+		"jpname":"クライヴ BS",
 		"roles":["physicalAttacker"],
 		"id":"216000117",
 		"game_id":"undefined",
@@ -28543,6 +28630,7 @@
 	},
 	"216000207": {
 		"name":"ジル",
+		"jpname":"ジル",
 		"roles":["physicalAttacker"],
 		"id":"216000207",
 		"game_id":"undefined",
@@ -28564,6 +28652,7 @@
 	},
 	"216000217": {
 		"name":"ジル BS",
+		"jpname":"ジル BS",
 		"roles":["physicalAttacker"],
 		"id":"216000217",
 		"game_id":"undefined",
@@ -28577,6 +28666,88 @@
 		"stats": {
 			"maxStats":{"hp":5082,"mp":361,"atk":450,"def":191,"mag":248,"spr":188},
 			"minStats":{"hp":1677,"mp":119,"atk":149,"def":63,"mag":82,"spr":62},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","hat","clothes","lightArmor","visionCard"]
+	},
+	"216000307": {
+		"name":"シドルファス",
+		"roles":["physicalAttacker","support"],
+		"id":"216000307",
+		"game_id":"undefined",
+		"game":"undefined",
+		"braveShift":"216000317",
+		"exAwakening": [{"hp":689,"mp":45,"atk":117,"def":26,"mag":33,"spr":23},{"hp":530,"mp":35,"atk":90,"def":20,"mag":26,"spr":18},{"hp":371,"mp":24,"atk":63,"def":14,"mag":18,"spr":13}],
+		"fragmentId": "250033500",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5301,"mp":347,"atk":450,"def":198,"mag":256,"spr":181},
+			"minStats":{"hp":1749,"mp":115,"atk":149,"def":65,"mag":84,"spr":60},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","hat","clothes","lightArmor","visionCard"],
+		"enhancementSkills":["賢者の眼光","ラムウの領域","剣の極意","当てにしてるぜ","大悪党シド様の華麗な第一歩だ"]
+	},
+	"216000317": {
+		"name":"シドルファス BS",
+		"roles":["physicalAttacker","support"],
+		"id":"216000317",
+		"game_id":"undefined",
+		"game":"undefined",
+		"braveShifted":"216000307",
+		"exAwakening": [{"hp":689,"mp":45,"atk":117,"def":26,"mag":33,"spr":23},{"hp":530,"mp":35,"atk":90,"def":20,"mag":26,"spr":18},{"hp":371,"mp":24,"atk":63,"def":14,"mag":18,"spr":13}],
+		"fragmentId": "250033500",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5301,"mp":347,"atk":450,"def":198,"mag":256,"spr":181},
+			"minStats":{"hp":1749,"mp":115,"atk":149,"def":65,"mag":84,"spr":60},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","hat","clothes","lightArmor","visionCard"]
+	},
+	"216000407": {
+		"name":"ベネディクタ",
+		"roles":["physicalAttacker"],
+		"id":"216000407",
+		"game_id":"undefined",
+		"game":"undefined",
+		"braveShift":"216000417",
+		"exAwakening": [{"hp":669,"mp":46,"atk":117,"def":25,"mag":33,"spr":24},{"hp":515,"mp":36,"atk":90,"def":19,"mag":25,"spr":19},{"hp":360,"mp":25,"atk":63,"def":14,"mag":18,"spr":13}],
+		"fragmentId": "250033600",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":5147,"mp":356,"atk":450,"def":193,"mag":251,"spr":186},
+			"minStats":{"hp":1699,"mp":117,"atk":149,"def":64,"mag":83,"spr":61},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","hat","clothes","lightArmor","visionCard"],
+		"enhancementSkills":["ギャザリングクラウド","片付けておけ","剣の極意"]
+	},
+	"216000417": {
+		"name":"ベネディクタ BS",
+		"roles":["physicalAttacker"],
+		"id":"216000417",
+		"game_id":"undefined",
+		"game":"undefined",
+		"braveShifted":"216000407",
+		"exAwakening": [{"hp":669,"mp":46,"atk":117,"def":25,"mag":33,"spr":24},{"hp":515,"mp":36,"atk":90,"def":19,"mag":25,"spr":19},{"hp":360,"mp":25,"atk":63,"def":14,"mag":18,"spr":13}],
+		"fragmentId": "250033600",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":5147,"mp":356,"atk":450,"def":193,"mag":251,"spr":186},
+			"minStats":{"hp":1699,"mp":117,"atk":149,"def":64,"mag":83,"spr":61},
 			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
 		},
 		"stats_pattern":4,
@@ -32184,6 +32355,7 @@
 	},
 	"309000507": {
 		"name":"エレン",
+		"jpname":"エレン",
 		"roles":["physicalAttacker","support"],
 		"id":"309000507",
 		"game_id":"undefined",
@@ -32205,6 +32377,7 @@
 	},
 	"309000517": {
 		"name":"エレン BS",
+		"jpname":"エレン BS",
 		"roles":["physicalAttacker","support"],
 		"id":"309000517",
 		"game_id":"undefined",
@@ -34082,7 +34255,7 @@
 		"enhancementSkills":["HEIM270","OMEGA100","自分で決めた道です。後戻りはできません","烈風"]
 	},
 	"331001507": {
-		"name":"絆の鋼翼マリア",
+		"name":"Steel Wings of Bonds Maria",
 		"jpname":"絆の鋼翼マリア",
 		"roles":["magicalAttacker"],
 		"id":"331001507",
@@ -34104,7 +34277,7 @@
 		"enhancementSkills":["ロボパンチ","ロッドの極意"]
 	},
 	"331001517": {
-		"name":"ゼプツェン BS",
+		"name":"Seibzehn BS",
 		"jpname":"ゼプツェン BS",
 		"roles":["magicalAttacker"],
 		"id":"331001517",
@@ -34170,7 +34343,7 @@
 		"enhancementSkills":["ブラックディバイド","OMEGA100","ロッドの極意","格闘の極意"]
 	},
 	"331001707": {
-		"name":"神を滅ぼす者フェイ",
+		"name":"Slayer of God Fei",
 		"jpname":"神を滅ぼす者フェイ",
 		"roles":["physicalAttacker"],
 		"id":"331001707",
@@ -34192,7 +34365,7 @@
 		"enhancementSkills":["超武技闇勁","格闘の極意","銀牙"]
 	},
 	"331001717": {
-		"name":"ヴェルトール2 BS",
+		"name":"Weltall-2 BS",
 		"jpname":"ヴェルトール2 BS",
 		"roles":["physicalAttacker"],
 		"id":"331001717",
@@ -34214,7 +34387,7 @@
 		"enhancementSkills":["OMEGA100","超武技岩断","格闘の極意","銀牙"]
 	},
 	"331001807": {
-		"name":"砂漠を駆ける王バルト",
+		"name":"Dunefaring King Bart",
 		"jpname":"砂漠を駆ける王バルト",
 		"roles":["physicalAttacker"],
 		"id":"331001807",
@@ -34236,7 +34409,7 @@
 		"enhancementSkills":["ホワイトコロン","ワイルドスマイル","プロミネンス","鞭の極意"]
 	},
 	"331001817": {
-		"name":"E・アンドヴァリ BS",
+		"name":"Andvari BS",
 		"jpname":"E・アンドヴァリ BS",
 		"roles":["physicalAttacker"],
 		"id":"331001817",
@@ -37496,6 +37669,7 @@
 	},
 	"346000507": {
 		"name":"勇者アラン",
+		"jpname":"勇者アラン",
 		"roles":["physicalAttacker"],
 		"id":"346000507",
 		"game_id":"undefined",
@@ -37517,6 +37691,7 @@
 	},
 	"346000517": {
 		"name":"勇者アラン BS",
+		"jpname":"勇者アラン BS",
 		"roles":["physicalAttacker"],
 		"id":"346000517",
 		"game_id":"undefined",
@@ -37537,6 +37712,7 @@
 	},
 	"346000607": {
 		"name":"勇者アステア",
+		"jpname":"勇者アステア",
 		"roles":["debuffer"],
 		"id":"346000607",
 		"game_id":"undefined",
@@ -37558,6 +37734,7 @@
 	},
 	"346000617": {
 		"name":"勇者アステア BS",
+		"jpname":"勇者アステア BS",
 		"roles":["debuffer"],
 		"id":"346000617",
 		"game_id":"undefined",
@@ -37578,6 +37755,7 @@
 	},
 	"346000707": {
 		"name":"海王II世シーザリオン",
+		"jpname":"海王II世シーザリオン",
 		"roles":["physicalAttacker"],
 		"id":"346000707",
 		"game_id":"undefined",
@@ -37599,6 +37777,7 @@
 	},
 	"346000717": {
 		"name":"海王II世シーザリオン BS",
+		"jpname":"海王II世シーザリオン BS",
 		"roles":["physicalAttacker"],
 		"id":"346000717",
 		"game_id":"undefined",
@@ -37619,6 +37798,7 @@
 	},
 	"346000807": {
 		"name":"異魔神",
+		"jpname":"異魔神",
 		"roles":["magicalAttacker"],
 		"id":"346000807",
 		"game_id":"undefined",
@@ -37640,6 +37820,7 @@
 	},
 	"346000817": {
 		"name":"異魔神 BS",
+		"jpname":"異魔神 BS",
 		"roles":["magicalAttacker"],
 		"id":"346000817",
 		"game_id":"undefined",
@@ -37660,6 +37841,7 @@
 	},
 	"346000907": {
 		"name":"勇者アルス",
+		"jpname":"勇者アルス",
 		"roles":["physicalAttacker"],
 		"id":"346000907",
 		"game_id":"undefined",
@@ -37724,6 +37906,7 @@
 	},
 	"348000107": {
 		"name":"アルベルト",
+		"jpname":"アルベルト",
 		"roles":["physicalAttacker","support"],
 		"id":"348000107",
 		"game_id":"undefined",
@@ -37745,6 +37928,7 @@
 	},
 	"348000117": {
 		"name":"アルベルト BS",
+		"jpname":"アルベルト BS",
 		"roles":["physicalAttacker","support"],
 		"id":"348000117",
 		"game_id":"undefined",
@@ -37765,6 +37949,7 @@
 	},
 	"349000107": {
 		"name":"ロックブーケ",
+		"jpname":"ロックブーケ",
 		"roles":["magicalAttacker"],
 		"id":"349000107",
 		"game_id":"undefined",
@@ -37786,6 +37971,7 @@
 	},
 	"349000117": {
 		"name":"ロックブーケ BS",
+		"jpname":"ロックブーケ BS",
 		"roles":["magicalAttacker"],
 		"id":"349000117",
 		"game_id":"undefined",
@@ -37806,6 +37992,7 @@
 	},
 	"350000107": {
 		"name":"アセルス",
+		"jpname":"アセルス",
 		"roles":["physicalAttacker"],
 		"id":"350000107",
 		"game_id":"undefined",
@@ -37827,6 +38014,7 @@
 	},
 	"350000117": {
 		"name":"アセルス BS",
+		"jpname":"アセルス BS",
 		"roles":["magicalAttacker"],
 		"id":"350000117",
 		"game_id":"undefined",
@@ -37848,6 +38036,7 @@
 	},
 	"351000107": {
 		"name":"ギュスターヴ13世",
+		"jpname":"ギュスターヴ13世",
 		"roles":["debuffer"],
 		"id":"351000107",
 		"game_id":"undefined",
@@ -37869,6 +38058,7 @@
 	},
 	"351000117": {
 		"name":"ギュスターヴ13世 BS",
+		"jpname":"ギュスターヴ13世 BS",
 		"roles":["debuffer"],
 		"id":"351000117",
 		"game_id":"undefined",
@@ -38164,6 +38354,7 @@
 	},
 	"401012607": {
 		"name":"スカイ",
+		"jpname":"スカイ",
 		"roles":["physicalAttacker"],
 		"id":"401012607",
 		"game_id":"undefined",
@@ -38185,6 +38376,7 @@
 	},
 	"401012617": {
 		"name":"スカイ BS",
+		"jpname":"スカイ BS",
 		"roles":["physicalAttacker"],
 		"id":"401012617",
 		"game_id":"undefined",

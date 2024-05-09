@@ -3390,6 +3390,45 @@
             "music_id": "400319"
         }
     },
+    "100009901": {
+        "name": "世界を変えるって願い",
+        "compendium_id": 237,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [65, 130, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [0, 0, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "4": [245552],
+            "7": [245553],
+            "10": [245554]
+        },
+        "restriction": {
+            "245554": [8022]
+        },
+        "max_level": 10,
+        "exp_pattern": 110,
+        "stat_pattern": 100,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "絶体絶命の危機に現れた、英雄タイヴァスのビジョン。オメガを倒し、世界を変えるという願いの実現のため、相棒のヴァンヘルマーと、そしてレインたちと協力して強大な敵に立ち向かう！",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "世界を変えるって願い",
+            "music": "♪Levonia",
+            "music_id": "400013"
+        }
+    },
     "201000101": {
         "name": "And So Their Quest Began",
         "compendium_id": 100,
@@ -6445,6 +6484,45 @@
             "shop": "シヴァVSタイタン",
             "music": "♪Shattered",
             "music_id": "4002310"
+        }
+    },
+    "216000301": {
+        "name": "シドVSベネディクタ",
+        "compendium_id": 236,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 10016,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [65, 130, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [0, 0, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "4": [245504],
+            "7": [245505],
+            "10": [245506]
+        },
+        "restriction": {
+            "245506": [8024]
+        },
+        "max_level": 10,
+        "exp_pattern": 110,
+        "stat_pattern": 100,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "ノルヴァーン砦で、ベアラーと火のドミナントを巡って対立した２人。人の姿のまま召喚獣の力の一部を行使する半顕現状態になって戦う。",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "シドVSベネディクタ",
+            "music": "♪Thunderstorm",
+            "music_id": "4002313"
         }
     },
     "249000101": {

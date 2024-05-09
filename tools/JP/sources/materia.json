@@ -13733,7 +13733,7 @@
         "compendium_shown": true,
         "requirements": null,
         "skills": [245133],
-        "effects": ["Grant '小さな守護者の覚悟' passive"],
+        "effects": ["Grant 'Little Guardian's Resolve' passive"],
         "price_buy": 100000,
         "price_sell": 10000,
         "icon": "ability_99.png"
@@ -13766,7 +13766,7 @@
         "compendium_shown": true,
         "requirements": ["RULE", [8017]],
         "skills": [245143],
-        "effects": ["Grant '闇を征す力' passive"],
+        "effects": ["Grant 'Strength to Overcome Darkness' passive"],
         "price_buy": 400000,
         "price_sell": 40000,
         "icon": "ability_77.png"
@@ -13931,7 +13931,7 @@
         "compendium_shown": true,
         "requirements": ["RULE", [8018]],
         "skills": [245213],
-        "effects": ["Grant '賢者バルタザールの孫娘' passive"],
+        "effects": ["Grant 'Balthasar's Granddaughter' passive"],
         "price_buy": 400000,
         "price_sell": 40000,
         "icon": "ability_77.png"
@@ -14761,6 +14761,17 @@
         "price_sell": 40000,
         "icon": "ability_77.png"
     },
+    "504245491": {
+        "name": "仲間との絆",
+        "compendium_id": 1708,
+        "compendium_shown": true,
+        "requirements": ["RULE", [7703]],
+        "skills": [245491],
+        "effects": ["Grant '仲間との絆' passive"],
+        "price_buy": 400000,
+        "price_sell": 40000,
+        "icon": "ability_77.png"
+    },
     "504245507": {
         "name": "果てなき野心",
         "compendium_id": 1687,
@@ -14907,13 +14918,79 @@
     "504245534": {
         "name": "ダークラムウシナジー",
         "compendium_id": 1707,
-        "compendium_shown": false,
+        "compendium_shown": true,
         "requirements": null,
         "skills": [245534],
         "effects": ["Grant 'ダークラムウシナジー' passive"],
         "price_buy": 100000,
         "price_sell": 10000,
         "icon": "ability_77.png"
+    },
+    "504245539": {
+        "name": "ガルーダのドミナント",
+        "compendium_id": 1709,
+        "compendium_shown": true,
+        "requirements": null,
+        "skills": [245539],
+        "effects": ["Grant 'ガルーダのドミナント' passive"],
+        "price_buy": 100000,
+        "price_sell": 10000,
+        "icon": "ability_12.png"
+    },
+    "504245542": {
+        "name": "偏った献身",
+        "compendium_id": 1710,
+        "compendium_shown": true,
+        "requirements": ["RULE", [7705]],
+        "skills": [245542],
+        "effects": ["Grant '偏った献身' passive"],
+        "price_buy": 400000,
+        "price_sell": 40000,
+        "icon": "ability_77.png"
+    },
+    "504245549": {
+        "name": "蘇りし英雄",
+        "compendium_id": 1713,
+        "compendium_shown": true,
+        "requirements": ["RULE", [7707]],
+        "skills": [245549],
+        "effects": ["Grant '蘇りし英雄' passive"],
+        "price_buy": 400000,
+        "price_sell": 40000,
+        "icon": "ability_77.png"
+    },
+    "504245565": {
+        "name": "第１部隊の一員として！",
+        "compendium_id": 1711,
+        "compendium_shown": true,
+        "requirements": null,
+        "skills": [245565],
+        "effects": ["Grant '第１部隊の一員として！' passive"],
+        "price_buy": 100000,
+        "price_sell": 10000,
+        "icon": "ability_77.png"
+    },
+    "504245568": {
+        "name": "緋く燃えたつ魂",
+        "compendium_id": 1712,
+        "compendium_shown": true,
+        "requirements": ["RULE", [8022]],
+        "skills": [245568],
+        "effects": ["Grant '緋く燃えたつ魂' passive"],
+        "price_buy": 400000,
+        "price_sell": 40000,
+        "icon": "ability_77.png"
+    },
+    "504245598": {
+        "name": "疾風の体術",
+        "compendium_id": 1714,
+        "compendium_shown": true,
+        "requirements": null,
+        "skills": [245598],
+        "effects": ["Grant '疾風の体術' passive"],
+        "price_buy": 200000,
+        "price_sell": 20000,
+        "icon": "ability_97.png"
     },
     "504400110": {
         "name": "エンカウント率減少",
