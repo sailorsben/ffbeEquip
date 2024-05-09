@@ -3,7 +3,7 @@
 		"date": "May 9th, 2024",
 		"sources": [
 			{"type": "banner", "units": ["331001707"]},
-			{"type": "storyPart", "name": "Vision Cards", "ids": ["331000101"]},
+			{"type": "storyPart", "name": "Vision Cards", "ids": ["331000101"]}
 		]
 	},
 	{
