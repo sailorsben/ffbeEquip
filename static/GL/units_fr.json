@@ -11565,7 +11565,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Aether-Wreathed Sword","Prominence Fall","Sword Mastery"],
-		"categories":["Fire","Attacker","FFBE","Anniversary (JP)","Dark Lineage","Clash of Wills","CW - Fire","Royal Arms","The Guardians","Elite Soldiers"]
+		"categories":["Fire","Attacker","FFBE","Anniversary (JP)","Dark Lineage","Royal Arms","The Guardians","Elite Soldiers"]
 	},
 	"100041217": {
 		"name":"Rain, éther flamboyant BS",
@@ -11588,7 +11588,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","hat","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Aether-Wreathed Sword","Prominence Fall","Sword Mastery"],
-		"categories":["Fire","Attacker","FFBE","Anniversary (JP)","Dark Lineage","Clash of Wills","CW - Fire","Royal Arms","The Guardians","Elite Soldiers"]
+		"categories":["Fire","Attacker","FFBE","Anniversary (JP)","Dark Lineage","Royal Arms","The Guardians","Elite Soldiers"]
 	},
 	"100041307": {
 		"name":"Fina de la lignée obscure",
@@ -21647,22 +21647,22 @@
 	},
 	"210001105": {
 		"name":"Grand Invokeur Braska",
-		"roles":["support","healer"],
+		"roles":["support","healer","debuffer"],
 		"wikiEntry":"High_Summoner Braska",
 		"id":"210001105",
 		"game_id":"10010",
 		"game":"FFX",
-		"max_rarity":"7",
+		"max_rarity":"NV",
 		"min_rarity":"5",
 		"sex":"male",
 		"stats": {
-			"maxStats":{"hp":4983,"mp":241,"atk":118,"def":174,"mag":232,"spr":236},
-			"minStats":{"hp":1644,"mp":80,"atk":39,"def":57,"mag":77,"spr":78},
+			"maxStats":{"hp":5481,"mp":265,"atk":130,"def":191,"mag":255,"spr":283},
+			"minStats":{"hp":1809,"mp":87,"atk":43,"def":63,"mag":84,"spr":93},
 			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
 		},
 		"stats_pattern":4,
 		"equip":["staff","hat","clothes","robe"],
-		"categories":["Lightning","Healer","Support","FFX","Evocation","The Guardians","Lightning","Healer","Support","FFX","Evocation","The Guardians","Lightning","Support","Healer","FFX","Evocation","The Guardians"],
+		"categories":["Lightning","Support","Healer","Breaker","FFX","Evocation","The Guardians"],
 		"6_form": {
 			"name":"Grand Invokeur Braska",
 			"roles":["support","healer"],
@@ -21671,7 +21671,7 @@
 			"game_id":"10010",
 			"game":"FFX",
 			"sixStarForm":true,
-			"max_rarity":"7",
+			"max_rarity":"NV",
 			"min_rarity":"5",
 			"sex":"male",
 			"stats": {
@@ -21681,7 +21681,27 @@
 			},
 			"stats_pattern":1,
 			"equip":["staff","hat","clothes","robe"],
-			"categories":["Lightning","Healer","Support","FFX","Evocation","The Guardians","Lightning","Healer","Support","FFX","Evocation","The Guardians","Lightning","Support","Healer","FFX","Evocation","The Guardians"]
+			"categories":["Lightning","Support","Healer","Breaker","FFX","Evocation","The Guardians"]
+		},
+		"7_form": {
+			"name":"Grand Invokeur Braska",
+			"roles":["support","healer"],
+			"wikiEntry":"High_Summoner Braska",
+			"id":"210001105",
+			"game_id":"10010",
+			"game":"FFX",
+			"sevenStarForm":true,
+			"max_rarity":"NV",
+			"min_rarity":"5",
+			"sex":"male",
+			"stats": {
+				"maxStats":{"hp":4983,"mp":241,"atk":118,"def":174,"mag":232,"spr":236},
+				"minStats":{"hp":1644,"mp":80,"atk":39,"def":57,"mag":77,"spr":78},
+				"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+			},
+			"stats_pattern":4,
+			"equip":["staff","hat","clothes","robe"],
+			"categories":["Lightning","Support","Healer","Breaker","FFX","Evocation","The Guardians"]
 		}
 	},
 	"210001503": {
@@ -30380,6 +30400,52 @@
 		"equip":["staff","rod","fist","visionCard"],
 		"enhancementSkills":["OMEGA100 (Seibzehn)","Seibzehn Hammer","Martial Arts Mastery","Rod Mastery"],
 		"categories":["Light","Mage","Another World","Xenogears","The Gathering"]
+	},
+	"331001607": {
+		"name":"遠い約束エメラダ",
+		"roles":["magicalAttacker"],
+		"wikiEntry":"Distant_Promise Emeralda",
+		"id":"331001607",
+		"game_id":"20024",
+		"game":"Xenogears",
+		"braveShift":"331001617",
+		"exAwakening": [{"hp":754,"mp":47,"atk":27,"def":28,"mag":86,"spr":29},{"hp":580,"mp":36,"atk":21,"def":22,"mag":66,"spr":23},{"hp":406,"mp":25,"atk":15,"def":15,"mag":46,"spr":16}],
+		"fragmentId": "250029300",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":4638,"mp":342,"atk":193,"def":203,"mag":330,"spr":214},
+			"minStats":{"hp":1531,"mp":113,"atk":64,"def":67,"mag":109,"spr":71},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["staff","rod","fist","lightShield","hat","clothes","robe","visionCard"],
+		"enhancementSkills":["Black Edge","Rod Mastery","Martial Arts Mastery"],
+		"categories":["Dark","Mage","Another World","Xenogears","The Gathering","Clash of Wills","CW - Dark"]
+	},
+	"331001617": {
+		"name":"クレスケンス BS",
+		"roles":["magicalAttacker"],
+		"wikiEntry":"Crescens",
+		"id":"331001617",
+		"game_id":"20024",
+		"game":"Xenogears",
+		"braveShifted":"331001607",
+		"exAwakening": [{"hp":754,"mp":47,"atk":27,"def":28,"mag":86,"spr":29},{"hp":580,"mp":36,"atk":21,"def":22,"mag":66,"spr":23},{"hp":406,"mp":25,"atk":15,"def":15,"mag":46,"spr":16}],
+		"fragmentId": "250029300",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":5802,"mp":364,"atk":209,"def":216,"mag":330,"spr":227},
+			"minStats":{"hp":1915,"mp":120,"atk":69,"def":71,"mag":109,"spr":75},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["staff","rod","fist","visionCard"],
+		"enhancementSkills":["Black Divide","OMEGA100 (Crescens)","Rod Mastery","Martial Arts Mastery"],
+		"categories":["Dark","Mage","Another World","Xenogears","The Gathering","Clash of Wills","CW - Dark"]
 	},
 	"331001707": {
 		"name":"Slayer of God Fei",
@@ -39182,8 +39248,6 @@
   "314000203":{"name":"Magnolia","jpname":"マグノリア","roles":["physicalAttacker"],"id":"314000203","game_id":"undefined","game":"undefined","max_rarity":"5","min_rarity":"3","sex":"female","stats":{"maxStats":{"hp":2576,"mp":113,"atk":108,"def":87,"mag":98,"spr":91},"minStats":{"hp":850,"mp":37,"atk":36,"def":29,"mag":32,"spr":30},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["dagger","sword","greatSword","staff","bow","spear","lightShield","hat","helm","clothes","lightArmor","robe"]},
   "315000104":{"name":"Rinne","jpname":"リンネ","roles":["magicalAttacker","debuffer"],"id":"315000104","game_id":"undefined","game":"undefined","max_rarity":"6","min_rarity":"4","sex":"other","stats":{"maxStats":{"hp":2794,"mp":176,"atk":106,"def":112,"mag":234,"spr":149},"minStats":{"hp":922,"mp":58,"atk":35,"def":37,"mag":77,"spr":49},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["hat","clothes","robe"],"enhancementSkills":["ジウスドラの罪","ギルタブリル","アマテラス"]},
   "318000205":{"name":"Sophia","jpname":"ソフィア","roles":["magicalAttacker","debuffer"],"id":"318000205","game_id":"undefined","game":"undefined","max_rarity":"7","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":4478,"mp":278,"atk":131,"def":152,"mag":218,"spr":205},"minStats":{"hp":1478,"mp":92,"atk":43,"def":50,"mag":72,"spr":68},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","staff","rod","harp","throwing","hat","clothes","lightArmor","robe"],"6_form":{"name":"Sophia","jpname":"ソフィア","roles":["magicalAttacker","debuffer"],"id":"318000205","game_id":"undefined","game":"undefined","sixStarForm":true,"max_rarity":"6","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":3445,"mp":214,"atk":101,"def":117,"mag":167,"spr":158},"minStats":{"hp":1137,"mp":71,"atk":33,"def":39,"mag":55,"spr":52},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["dagger","sword","staff","rod","harp","throwing","hat","clothes","lightArmor","robe"]}},
-  "331001607":{"name":"遠い約束エメラダ","jpname":"遠い約束エメラダ","roles":["magicalAttacker"],"id":"331001607","game_id":"undefined","game":"undefined","braveShift":"331001617","exAwakening":[{"hp":754,"mp":47,"atk":27,"def":28,"mag":86,"spr":29},{"hp":580,"mp":36,"atk":21,"def":22,"mag":66,"spr":23},{"hp":406,"mp":25,"atk":15,"def":15,"mag":46,"spr":16}],"fragmentId":"250029300","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":4638,"mp":342,"atk":193,"def":203,"mag":330,"spr":214},"minStats":{"hp":1531,"mp":113,"atk":64,"def":67,"mag":109,"spr":71},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","fist","lightShield","hat","clothes","robe","visionCard"],"enhancementSkills":["ブラックエッジ","ロッドの極意","格闘の極意"]},
-  "331001617":{"name":"クレスケンス BS","jpname":"クレスケンス BS","roles":["magicalAttacker"],"id":"331001617","game_id":"undefined","game":"undefined","braveShifted":"331001607","exAwakening":[{"hp":754,"mp":47,"atk":27,"def":28,"mag":86,"spr":29},{"hp":580,"mp":36,"atk":21,"def":22,"mag":66,"spr":23},{"hp":406,"mp":25,"atk":15,"def":15,"mag":46,"spr":16}],"fragmentId":"250029300","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5802,"mp":364,"atk":209,"def":216,"mag":330,"spr":227},"minStats":{"hp":1915,"mp":120,"atk":69,"def":71,"mag":109,"spr":75},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["staff","rod","fist","visionCard"],"enhancementSkills":["ブラックディバイド","OMEGA100","ロッドの極意","格闘の極意"]},
   "332000105":{"name":"Lara Croft","jpname":"ララ・クロフト","roles":["physicalAttacker"],"id":"332000105","game_id":"undefined","game":"undefined","max_rarity":"6","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":3502,"mp":161,"atk":150,"def":137,"mag":127,"spr":133},"minStats":{"hp":1156,"mp":53,"atk":50,"def":45,"mag":42,"spr":44},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["dagger","sword","staff","bow","axe","whip","throwing","gun","fist","hat","clothes","lightArmor","robe"]},
   "336000105":{"name":"Alice","jpname":"アリス","roles":["physicalAttacker"],"id":"336000105","game_id":"undefined","game":"undefined","braveShift":"336000127","exAwakening":[{"hp":624,"mp":32,"atk":31,"def":24,"mag":20,"spr":24},{"hp":480,"mp":24,"atk":24,"def":19,"mag":16,"spr":18},{"hp":336,"mp":17,"atk":17,"def":13,"mag":11,"spr":13}],"fragmentId":"250005300","max_rarity":"NV","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":4801,"mp":244,"atk":240,"def":186,"mag":155,"spr":183},"minStats":{"hp":1584,"mp":81,"atk":79,"def":61,"mag":51,"spr":60},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","katana","bow","hammer","spear","gun","mace","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["全てを屠る決意"],"6_form":{"name":"Alice","jpname":"アリス","roles":["physicalAttacker"],"id":"336000105","game_id":"undefined","game":"undefined","sixStarForm":true,"max_rarity":"6","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":3693,"mp":187,"atk":159,"def":143,"mag":119,"spr":140},"minStats":{"hp":1219,"mp":62,"atk":52,"def":47,"mag":39,"spr":46},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["dagger","sword","greatSword","katana","bow","hammer","spear","gun","mace","hat","helm","clothes","lightArmor","heavyArmor"],"enhancementSkills":["全てを屠る決意"]},"7_form":{"name":"Alice","jpname":"アリス","roles":["physicalAttacker"],"id":"336000105","game_id":"undefined","game":"undefined","sevenStarForm":true,"max_rarity":"7","min_rarity":"5","sex":"female","stats":{"maxStats":{"hp":4801,"mp":244,"atk":207,"def":186,"mag":155,"spr":183},"minStats":{"hp":1584,"mp":81,"atk":68,"def":61,"mag":51,"spr":60},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","katana","bow","hammer","spear","gun","mace","hat","helm","clothes","lightArmor","heavyArmor"],"enhancementSkills":["全てを屠る決意"]}},
   "336000127":{"name":"アリス/ハーフナイトメア BS","jpname":"アリス/ハーフナイトメア BS","roles":["physicalAttacker"],"id":"336000127","game_id":"undefined","game":"undefined","braveShifted":"336000105","exAwakening":[{"hp":624,"mp":32,"atk":31,"def":24,"mag":20,"spr":24},{"hp":480,"mp":24,"atk":24,"def":19,"mag":16,"spr":18},{"hp":336,"mp":17,"atk":17,"def":13,"mag":11,"spr":13}],"fragmentId":"250005300","max_rarity":"NV","min_rarity":"NV","sex":"female","stats":{"maxStats":{"hp":5361,"mp":282,"atk":280,"def":217,"mag":186,"spr":205},"minStats":{"hp":1769,"mp":93,"atk":92,"def":72,"mag":61,"spr":68},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":4,"equip":["dagger","sword","greatSword","katana","bow","hammer","spear","gun","mace","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],"enhancementSkills":["束縛ノ氷鎖","束縛ノ氷雨","全てを屠る決意"]},
