@@ -11565,7 +11565,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Aether-Wreathed Sword","Prominence Fall","Sword Mastery"],
-		"categories":["Fire","Attacker","FFBE","Anniversary (JP)","Dark Lineage","Royal Arms","The Guardians","Elite Soldiers"]
+		"categories":["Fire","Attacker","FFBE","Anniversary (JP)","Dark Lineage","Clash of Wills","CW - Fire","Royal Arms","The Guardians","Elite Soldiers"]
 	},
 	"100041217": {
 		"name":"Rain, éther flamboyant BS",
@@ -11588,7 +11588,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","hat","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Aether-Wreathed Sword","Prominence Fall","Sword Mastery"],
-		"categories":["Fire","Attacker","FFBE","Anniversary (JP)","Dark Lineage","Royal Arms","The Guardians","Elite Soldiers"]
+		"categories":["Fire","Attacker","FFBE","Anniversary (JP)","Dark Lineage","Clash of Wills","CW - Fire","Royal Arms","The Guardians","Elite Soldiers"]
 	},
 	"100041307": {
 		"name":"Fina de la lignée obscure",
@@ -18236,7 +18236,7 @@
 		"wikiEntry":"Cloud_(FFVII: AC)",
 		"id":"207001605",
 		"game_id":"11009",
-		"game":"Other",
+		"game":"FFVII AC",
 		"max_rarity":"7",
 		"min_rarity":"5",
 		"sex":"male",
@@ -18254,7 +18254,7 @@
 			"wikiEntry":"Cloud_(FFVII: AC)",
 			"id":"207001605",
 			"game_id":"11009",
-			"game":"Other",
+			"game":"FFVII AC",
 			"sixStarForm":true,
 			"max_rarity":"7",
 			"min_rarity":"5",
@@ -18275,7 +18275,7 @@
 		"wikiEntry":"Tifa_(FFVII: AC)",
 		"id":"207001705",
 		"game_id":"11009",
-		"game":"Other",
+		"game":"FFVII AC",
 		"max_rarity":"7",
 		"min_rarity":"5",
 		"sex":"female",
@@ -18293,7 +18293,7 @@
 			"wikiEntry":"Tifa_(FFVII: AC)",
 			"id":"207001705",
 			"game_id":"11009",
-			"game":"Other",
+			"game":"FFVII AC",
 			"sixStarForm":true,
 			"max_rarity":"7",
 			"min_rarity":"5",
@@ -18314,7 +18314,7 @@
 		"wikiEntry":"Kadaj",
 		"id":"207001805",
 		"game_id":"11009",
-		"game":"Other",
+		"game":"FFVII AC",
 		"max_rarity":"7",
 		"min_rarity":"5",
 		"sex":"male",
@@ -18332,7 +18332,7 @@
 			"wikiEntry":"Kadaj",
 			"id":"207001805",
 			"game_id":"11009",
-			"game":"Other",
+			"game":"FFVII AC",
 			"sixStarForm":true,
 			"max_rarity":"7",
 			"min_rarity":"5",
@@ -18353,7 +18353,7 @@
 		"wikiEntry":"Yazoo_& Loz",
 		"id":"207001904",
 		"game_id":"11009",
-		"game":"Other",
+		"game":"FFVII AC",
 		"max_rarity":"6",
 		"min_rarity":"4",
 		"sex":"male",
@@ -21647,22 +21647,22 @@
 	},
 	"210001105": {
 		"name":"Grand Invokeur Braska",
-		"roles":["support","healer","debuffer"],
+		"roles":["support","healer"],
 		"wikiEntry":"High_Summoner Braska",
 		"id":"210001105",
 		"game_id":"10010",
 		"game":"FFX",
-		"max_rarity":"NV",
+		"max_rarity":"7",
 		"min_rarity":"5",
 		"sex":"male",
 		"stats": {
-			"maxStats":{"hp":5481,"mp":265,"atk":130,"def":191,"mag":255,"spr":283},
-			"minStats":{"hp":1809,"mp":87,"atk":43,"def":63,"mag":84,"spr":93},
+			"maxStats":{"hp":4983,"mp":241,"atk":118,"def":174,"mag":232,"spr":236},
+			"minStats":{"hp":1644,"mp":80,"atk":39,"def":57,"mag":77,"spr":78},
 			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
 		},
 		"stats_pattern":4,
 		"equip":["staff","hat","clothes","robe"],
-		"categories":["Lightning","Support","Healer","Breaker","FFX","Evocation","The Guardians"],
+		"categories":["Lightning","Healer","Support","FFX","Evocation","The Guardians","Lightning","Healer","Support","FFX","Evocation","The Guardians","Lightning","Support","Healer","FFX","Evocation","The Guardians"],
 		"6_form": {
 			"name":"Grand Invokeur Braska",
 			"roles":["support","healer"],
@@ -21671,7 +21671,7 @@
 			"game_id":"10010",
 			"game":"FFX",
 			"sixStarForm":true,
-			"max_rarity":"NV",
+			"max_rarity":"7",
 			"min_rarity":"5",
 			"sex":"male",
 			"stats": {
@@ -21681,27 +21681,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["staff","hat","clothes","robe"],
-			"categories":["Lightning","Support","Healer","Breaker","FFX","Evocation","The Guardians"]
-		},
-		"7_form": {
-			"name":"Grand Invokeur Braska",
-			"roles":["support","healer"],
-			"wikiEntry":"High_Summoner Braska",
-			"id":"210001105",
-			"game_id":"10010",
-			"game":"FFX",
-			"sevenStarForm":true,
-			"max_rarity":"NV",
-			"min_rarity":"5",
-			"sex":"male",
-			"stats": {
-				"maxStats":{"hp":4983,"mp":241,"atk":118,"def":174,"mag":232,"spr":236},
-				"minStats":{"hp":1644,"mp":80,"atk":39,"def":57,"mag":77,"spr":78},
-				"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
-			},
-			"stats_pattern":4,
-			"equip":["staff","hat","clothes","robe"],
-			"categories":["Lightning","Support","Healer","Breaker","FFX","Evocation","The Guardians"]
+			"categories":["Lightning","Healer","Support","FFX","Evocation","The Guardians","Lightning","Healer","Support","FFX","Evocation","The Guardians","Lightning","Support","Healer","FFX","Evocation","The Guardians"]
 		}
 	},
 	"210001503": {
@@ -30238,7 +30218,7 @@
 		"stats_pattern":4,
 		"equip":["fist","hat","helm","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Martial Arts Mastery","Koryu"],
-		"categories":["Earth","Attacker","Another World","Xenogears","Harbingers of Chaos",null]
+		"categories":["Earth","Attacker","Another World","Xenogears","Harbingers of Chaos"]
 	},
 	"331001117": {
 		"name":"Weltall Alpha BS",
@@ -30261,7 +30241,7 @@
 		"stats_pattern":4,
 		"equip":["visionCard"],
 		"enhancementSkills":["OMEGA100 (Grahf)","Boko"],
-		"categories":["Earth","Attacker","Another World","Xenogears","Harbingers of Chaos",null]
+		"categories":["Earth","Attacker","Another World","Xenogears","Harbingers of Chaos"]
 	},
 	"331001307": {
 		"name":"Elly, Sainte Mère réincarnée",
@@ -39053,6 +39033,52 @@
 		"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Access Granted"],
 		"categories":["Light","Attacker","FFBE","Clash of Wills","CW - Light","Elite Soldiers"]
+	},
+	"401016307": {
+		"name":"Phantom Thief Xon",
+		"roles":["debuffer","physicalAttacker"],
+		"wikiEntry":"Phantom_Thief Xon",
+		"id":"401016307",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShift":"401016317",
+		"exAwakening": [{"hp":696,"mp":43,"atk":82,"def":32,"mag":22,"spr":30},{"hp":535,"mp":33,"atk":63,"def":25,"mag":17,"spr":23},{"hp":374,"mp":23,"atk":44,"def":17,"mag":11,"spr":17}],
+		"fragmentId": "310001220",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5350,"mp":330,"atk":315,"def":245,"mag":165,"spr":232},
+			"minStats":{"hp":1766,"mp":109,"atk":104,"def":81,"mag":54,"spr":77},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","whip","throwing","gun","fist","hat","clothes","lightArmor","visionCard"],
+		"enhancementSkills":["Ambidextrous Thievery","Deadly Daggers"],
+		"categories":["Dark","Breaker","Attacker","FFBE","Clash of Wills","CW - Dark","CW - Support"]
+	},
+	"401016317": {
+		"name":"Phantom Thief Xon BS",
+		"roles":["debuffer","physicalAttacker"],
+		"wikiEntry":"Phantom_Thief Xon",
+		"id":"401016317",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShifted":"401016307",
+		"exAwakening": [{"hp":696,"mp":43,"atk":82,"def":32,"mag":22,"spr":30},{"hp":535,"mp":33,"atk":63,"def":25,"mag":17,"spr":23},{"hp":374,"mp":23,"atk":44,"def":17,"mag":11,"spr":17}],
+		"fragmentId": "310001220",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5350,"mp":330,"atk":315,"def":245,"mag":165,"spr":232},
+			"minStats":{"hp":1766,"mp":109,"atk":104,"def":81,"mag":54,"spr":77},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","whip","throwing","gun","fist","hat","clothes","lightArmor","visionCard"],
+		"enhancementSkills":["Ambidextrous Thievery","Deadly Daggers"],
+		"categories":["Dark","Breaker","Attacker","FFBE","Clash of Wills","CW - Dark","CW - Support"]
 	}
 ,
   "100000115":{"name":"Hunter Rain","jpname":"ハンターレイン","roles":["physicalAttacker","support"],"id":"100000115","game_id":"undefined","game":"undefined","max_rarity":"6","min_rarity":"5","sex":"male","stats":{"maxStats":{"hp":3652,"mp":150,"atk":152,"def":120,"mag":110,"spr":116},"minStats":{"hp":1205,"mp":50,"atk":50,"def":40,"mag":36,"spr":38},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["sword","greatSword","helm","lightArmor","heavyArmor"]},
