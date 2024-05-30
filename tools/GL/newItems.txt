@@ -1,28 +1,8 @@
 Starting
-"403061100":Golden Hood
-"403061200":Golden Hood
-"403061300":Golden Hood
-"403061400":Golden Hood
-"403061500":Golden Hood
-"409087500":Power Ring S
-"409087600":Power Ring S
-"409087700":Power Ring S
-"409087800":Power Ring S
-"409087900":Power Ring S
-"409088000":Large Ether Stone
-"409088100":Large Ether Stone
-"409088200":Large Ether Stone
-"409088300":Large Ether Stone
-"409088400":Large Ether Stone
-"1100000825":True Crimson Butterfly
-"504245188":Ether Veiler I
-"504245189":Ether Veiler II
-"504245190":Ether Veiler III
-"504245191":Ether Veiler IV
-"504245192":Ether Veiler V
-"1500000264":The Twilight Xon
 Starting 
-"401010701":Honorable Outlaw
-"401010901":Dioxus, Lord of Darkness
+"212000601":Destruction of the Sun-Cryst
 Starting
-"401016307":Phantom Thief Xon
+"210003007":Bewitching Black Mage Lulu
+"210003017":Bewitching Black Mage Lulu BS
+"212002807":Spirited Friend Penelo
+"212002817":Spirited Friend Penelo BS
