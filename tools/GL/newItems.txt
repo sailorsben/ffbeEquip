@@ -1,8 +1,12 @@
 Starting
-Starting 
-"212000601":Destruction of the Sun-Cryst
+"303015200":True Iconic Sword
+"303015200":True Iconic Sword
+"504245204":Top Blitzer's Pride
+"504245244":Cavern of the Fayth V
+"504245367":Emperor Subjugator V
+"504245379":Darktoise Destroyer V
 Starting
-"210003007":Bewitching Black Mage Lulu
-"210003017":Bewitching Black Mage Lulu BS
-"212002807":Spirited Friend Penelo
-"212002817":Spirited Friend Penelo BS
+"210000801":The Start of Jecht's Journey
+Starting
+"210002807":Blitzball Legend Jecht
+
