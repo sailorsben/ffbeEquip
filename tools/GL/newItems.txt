@@ -1,12 +1,15 @@
-Starting
-"303015200":True Iconic Sword
-"303015200":True Iconic Sword
-"504245204":Top Blitzer's Pride
-"504245244":Cavern of the Fayth V
-"504245367":Emperor Subjugator V
-"504245379":Darktoise Destroyer V
-Starting
-"210000801":The Start of Jecht's Journey
-Starting
-"210002807":Blitzball Legend Jecht
 
+Starting
+"303015400":Treaty-Blade (FFXII)
+"303015400":Treaty-Blade (FFXII)
+"311009500":True Nirvana (FFX)
+"311009500":True Nirvana (FFX)
+"406009600":Glimmering Robes (FFXII)
+"409088700":Solomon Ring (FFX)
+Starting 
+"210000901":Never Forget Them
+Starting
+"210002907":Devoted Summoner Yuna
+"210002917":Devoted Summoner Yuna BS
+"212002907":Princess of Liberty Ashe
+"212002917":Princess of Liberty Ashe BS
