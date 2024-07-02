@@ -1,15 +1,22 @@
 
-Starting
-"303015400":Treaty-Blade (FFXII)
-"303015400":Treaty-Blade (FFXII)
-"311009500":True Nirvana (FFX)
-"311009500":True Nirvana (FFX)
-"406009600":Glimmering Robes (FFXII)
-"409088700":Solomon Ring (FFX)
 Starting 
-"210000901":Never Forget Them
+"401011001":Warrior of the Rainbow Crystal
+"401011101":She Who Harbors Darkness
+"401011301":Double-Edged Assault
 Starting
-"210002907":Devoted Summoner Yuna
-"210002917":Devoted Summoner Yuna BS
-"212002907":Princess of Liberty Ashe
-"212002917":Princess of Liberty Ashe BS
+"401016407":Fundamental Force
+"401016417":Fundamental Force BS
+"401016507":Eithne
+"401016517":Eithne BS
+Starting
+"1100000826":Obscura Blade
+"1100000827":Obscura Blade+
+"1100000828":Astraeus Arm
+"1100000828":Astraeus Arm
+"1100000829":Astraeus Arm+
+"1100000829":Astraeus Arm+
+"1500000265":Binary Star
+"1500000266":Fundamental Will
+"1500000267":Dearest Memories
+"1500000267":Dearest Memories
+"1500000268":Shadow Magic Affinity

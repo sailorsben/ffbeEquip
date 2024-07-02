@@ -18,7 +18,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","sword","greatSword","hammer","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 		"enhancementSkills":["Lava Floor","Blazing Soul","Leadership"],
-		"categories":["Physical Tank","FFBE","FFBE S1","WOTV FFBE","Physical Tank","FFBE","FFBE S1","WOTV FFBE","Physical Tank","Breaker","FFBE","FFBE S1","WOTV FFBE","Physical Tank","Breaker","FFBE","FFBE S1","WOTV FFBE","Physical Tank","Support","Breaker","FFBE","FFBE S1","WOTV FFBE"]
+		"categories":["Physical Tank","FFBE","FFBE S1","WOTV FFBE","The Guardians","Elite Soldiers","The Saviors","Physical Tank","FFBE","FFBE S1","WOTV FFBE","The Guardians","Elite Soldiers","The Saviors","Physical Tank","Breaker","FFBE","FFBE S1","WOTV FFBE","The Guardians","Elite Soldiers","The Saviors","Physical Tank","Breaker","FFBE","FFBE S1","WOTV FFBE","The Guardians","Elite Soldiers","The Saviors","Physical Tank","Support","Breaker","FFBE","FFBE S1","WOTV FFBE","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"100000202": {
 		"name":"拉斯韋爾",
@@ -38,7 +38,7 @@
 		"stats_pattern":1,
 		"equip":["sword","greatSword","katana","lightShield","helm","clothes","lightArmor","heavyArmor"],
 		"enhancementSkills":["Mirror of Equity","Heir to the Blade","Blade Flash - Awakened"],
-		"categories":["Attacker","FFBE","FFBE S1","WOTV FFBE","Blood of Hess","Attacker","FFBE","FFBE S1","WOTV FFBE","Blood of Hess","Attacker","FFBE","FFBE S1","WOTV FFBE","Blood of Hess","Attacker","FFBE","FFBE S1","WOTV FFBE","Blood of Hess","Attacker","FFBE","FFBE S1","WOTV FFBE","Blood of Hess"]
+		"categories":["Attacker","FFBE","FFBE S1","WOTV FFBE","Blood of Hess","The Guardians","Elite Soldiers","The Saviors","Attacker","FFBE","FFBE S1","WOTV FFBE","Blood of Hess","The Guardians","Elite Soldiers","The Saviors","Attacker","FFBE","FFBE S1","WOTV FFBE","Blood of Hess","The Guardians","Elite Soldiers","The Saviors","Attacker","FFBE","FFBE S1","WOTV FFBE","Blood of Hess","The Guardians","Elite Soldiers","The Saviors","Attacker","FFBE","FFBE S1","WOTV FFBE","Blood of Hess","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"100000302": {
 		"name":"菲娜",
@@ -2856,7 +2856,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Heir to the Blade","Blade Flash - Awakened","Tranquil Detachment","Obliterating Mirror of Equity","Perfect Selflessness","MP +20%","Burning Soul Edge","Blade Flash - Revelation","Invested Training"],
-		"categories":["Ice","Attacker","Breaker","FFBE","FFBE S2","The Rebellion","Blood of Hess","The Guardians","Elite Soldiers"],
+		"categories":["Ice","Attacker","Breaker","FFBE","FFBE S2","The Rebellion","Blood of Hess","The Guardians","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"冰炎騎士拉斯韋爾",
 			"roles":["physicalAttacker","debuffer"],
@@ -2876,7 +2876,7 @@
 			"stats_pattern":1,
 			"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Heir to the Blade","Blade Flash - Awakened","Tranquil Detachment","Obliterating Mirror of Equity","Perfect Selflessness","MP +20%","Burning Soul Edge","Blade Flash - Revelation","Invested Training"],
-			"categories":["Ice","Attacker","Breaker","FFBE","FFBE S2","The Rebellion","Blood of Hess","The Guardians","Elite Soldiers"]
+			"categories":["Ice","Attacker","Breaker","FFBE","FFBE S2","The Rebellion","Blood of Hess","The Guardians","Elite Soldiers","The Saviors"]
 		},
 		"7_form": {
 			"name":"冰炎騎士拉斯韋爾",
@@ -2897,7 +2897,7 @@
 			"stats_pattern":4,
 			"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Heir to the Blade","Blade Flash - Awakened","Tranquil Detachment","Obliterating Mirror of Equity","Perfect Selflessness","MP +20%","Burning Soul Edge","Blade Flash - Revelation","Invested Training"],
-			"categories":["Ice","Attacker","Breaker","FFBE","FFBE S2","The Rebellion","Blood of Hess","The Guardians","Elite Soldiers"]
+			"categories":["Ice","Attacker","Breaker","FFBE","FFBE S2","The Rebellion","Blood of Hess","The Guardians","Elite Soldiers","The Saviors"]
 		}
 	},
 	"100011727": {
@@ -2921,7 +2921,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Burning Soul Edge","Fatal Bloom+","Star Guide"],
-		"categories":["Ice","Attacker","FFBE","FFBE S2","The Rebellion","Blood of Hess","The Guardians","Elite Soldiers"]
+		"categories":["Ice","Attacker","FFBE","FFBE S2","The Rebellion","Blood of Hess","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"100011805": {
 		"name":"白蓮魔道士菲娜",
@@ -3791,7 +3791,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","sword","greatSword","hammer","spear","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 		"enhancementSkills":["Undermine+","Escort Leader","Incorruptible Armor","Standout","Blade of Resolution","D Rising Lava"],
-		"categories":["Fire","Attacker","Support","Breaker","FFBE","Bonds","Fire","Attacker","Support","Breaker","FFBE","Bonds"]
+		"categories":["Fire","Attacker","Support","Breaker","FFBE","Bonds","The Saviors","Fire","Attacker","Support","Breaker","FFBE","Bonds","The Saviors"]
 	},
 	"100015104": {
 		"name":"魯米努依",
@@ -4017,7 +4017,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","hammer","spear","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 		"enhancementSkills":["Guardian's Fighting Spirit","Escort Leader","Standout","Esper Covenant","Magical Distraction","Complete Focus","Energy Wall","Scarlet Healing"],
-		"categories":["Fire","Magic Tank","FFBE","FFBE S1","Fire","Magic Tank","FFBE","FFBE S1","Fire","Magic Tank","Support","FFBE","FFBE S1","The Guardians","Elite Soldiers"],
+		"categories":["Fire","Magic Tank","FFBE","FFBE S1","The Guardians","Elite Soldiers","The Saviors","Fire","Magic Tank","FFBE","FFBE S1","The Guardians","Elite Soldiers","The Saviors","Fire","Magic Tank","Support","FFBE","FFBE S1","The Guardians","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"雷因（覺醒）",
 			"roles":["magicalTank"],
@@ -4037,7 +4037,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","hammer","spear","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Guardian's Fighting Spirit","Escort Leader","Standout","Esper Covenant","Magical Distraction","Complete Focus","Energy Wall","Scarlet Healing"],
-			"categories":["Fire","Magic Tank","FFBE","FFBE S1","Fire","Magic Tank","FFBE","FFBE S1","Fire","Magic Tank","Support","FFBE","FFBE S1","The Guardians","Elite Soldiers"]
+			"categories":["Fire","Magic Tank","FFBE","FFBE S1","The Guardians","Elite Soldiers","The Saviors","Fire","Magic Tank","FFBE","FFBE S1","The Guardians","Elite Soldiers","The Saviors","Fire","Magic Tank","Support","FFBE","FFBE S1","The Guardians","Elite Soldiers","The Saviors"]
 		}
 	},
 	"100016205": {
@@ -6311,7 +6311,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor"],
 		"enhancementSkills":["Final Mirror of Equity"],
-		"categories":["Ice","Attacker","FFBE","FFBE S2","The Rebellion","Blood of Hess","Royal Arms","Ice","Attacker","Support","FFBE","FFBE S2","The Rebellion","Blood of Hess","Royal Arms","Ice","Attacker","Support","FFBE","FFBE S2","The Rebellion","Blood of Hess","Royal Arms","The Guardians"],
+		"categories":["Ice","Attacker","FFBE","FFBE S2","The Rebellion","Blood of Hess","Royal Arms","The Guardians","The Saviors","Ice","Attacker","Support","FFBE","FFBE S2","The Rebellion","Blood of Hess","Royal Arms","The Guardians","The Saviors","Ice","Attacker","Support","FFBE","FFBE S2","The Rebellion","Blood of Hess","Royal Arms","The Guardians","The Saviors"],
 		"6_form": {
 			"name":"赫斯王拉斯韋爾",
 			"roles":["physicalAttacker","support"],
@@ -6331,7 +6331,7 @@
 			"stats_pattern":1,
 			"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Final Mirror of Equity"],
-			"categories":["Ice","Attacker","FFBE","FFBE S2","The Rebellion","Blood of Hess","Royal Arms","Ice","Attacker","Support","FFBE","FFBE S2","The Rebellion","Blood of Hess","Royal Arms","Ice","Attacker","Support","FFBE","FFBE S2","The Rebellion","Blood of Hess","Royal Arms","The Guardians"]
+			"categories":["Ice","Attacker","FFBE","FFBE S2","The Rebellion","Blood of Hess","Royal Arms","The Guardians","The Saviors","Ice","Attacker","Support","FFBE","FFBE S2","The Rebellion","Blood of Hess","Royal Arms","The Guardians","The Saviors","Ice","Attacker","Support","FFBE","FFBE S2","The Rebellion","Blood of Hess","Royal Arms","The Guardians","The Saviors"]
 		}
 	},
 	"100023205": {
@@ -6351,7 +6351,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","hammer","spear","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
-		"categories":["Fire","Attacker","FFBE","FFBE S2","The Rebellion","Royal Arms","Fire","Attacker","FFBE","FFBE S2","The Rebellion","Royal Arms","Fire","Attacker","FFBE","FFBE S2","The Rebellion","Royal Arms","The Guardians"],
+		"categories":["Fire","Attacker","FFBE","FFBE S2","The Rebellion","Royal Arms","The Guardians","The Saviors","Fire","Attacker","FFBE","FFBE S2","The Rebellion","Royal Arms","The Guardians","The Saviors","Fire","Attacker","FFBE","FFBE S2","The Rebellion","Royal Arms","The Guardians","The Saviors"],
 		"6_form": {
 			"name":"阿爾多爾王雷因",
 			"roles":["physicalAttacker"],
@@ -6370,7 +6370,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","hammer","spear","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
-			"categories":["Fire","Attacker","FFBE","FFBE S2","The Rebellion","Royal Arms","Fire","Attacker","FFBE","FFBE S2","The Rebellion","Royal Arms","Fire","Attacker","FFBE","FFBE S2","The Rebellion","Royal Arms","The Guardians"]
+			"categories":["Fire","Attacker","FFBE","FFBE S2","The Rebellion","Royal Arms","The Guardians","The Saviors","Fire","Attacker","FFBE","FFBE S2","The Rebellion","Royal Arms","The Guardians","The Saviors","Fire","Attacker","FFBE","FFBE S2","The Rebellion","Royal Arms","The Guardians","The Saviors"]
 		}
 	},
 	"100023305": {
@@ -8302,7 +8302,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","hammer","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Rising Saber","Astral Edge","Prominence Saber"],
-		"categories":["Fire","Attacker","Support","FFBE","FFBE S4","Royal Arms","The Guardians","Elite Soldiers"]
+		"categories":["Fire","Attacker","Support","FFBE","FFBE S4","Royal Arms","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"100031017": {
 		"name":"雷因-Neo Vision- BS",
@@ -8325,7 +8325,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","hammer","spear","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Ash Blade","Astral Edge","Extreme Blade"],
-		"categories":["Fire","Attacker","FFBE","FFBE S4","Royal Arms","The Guardians","Elite Soldiers"]
+		"categories":["Fire","Attacker","FFBE","FFBE S4","Royal Arms","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"100031105": {
 		"name":"稚心少女管家真珠",
@@ -8890,7 +8890,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Mirror of Equity - Blue Sky","Glacial Judgment Blade"],
-		"categories":["Ice","Attacker","FFBE","FFBE S4","Blood of Hess","The Gathering","Royal Arms","The Guardians","Elite Soldiers"]
+		"categories":["Ice","Attacker","FFBE","FFBE S4","Blood of Hess","The Gathering","Royal Arms","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"100032617": {
 		"name":"拉斯韋爾-Neo Vision- BS",
@@ -8913,7 +8913,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","spear","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Mirror of Equity - Blue Sky","Obliterating Magic Blade"],
-		"categories":["Ice","Mage","FFBE","FFBE S4","Blood of Hess","The Gathering","Royal Arms","The Guardians","Elite Soldiers"]
+		"categories":["Ice","Mage","FFBE","FFBE S4","Blood of Hess","The Gathering","Royal Arms","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"100032707": {
 		"name":"雷因&菲娜",
@@ -11371,7 +11371,7 @@
 		"stats_pattern":4,
 		"equip":["katana","gun","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Glacial Judgment Blade","Final Mirror of Equity"],
-		"categories":["Ice","Attacker","FFBE","Anniversary (JP)","Dark Lineage","Blood of Hess","Royal Arms","The Guardians","Elite Soldiers"]
+		"categories":["Ice","Attacker","FFBE","Anniversary (JP)","Dark Lineage","Blood of Hess","Royal Arms","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"100040817": {
 		"name":"拉斯韋爾-魔將的譜系- BS",
@@ -11394,7 +11394,7 @@
 		"stats_pattern":4,
 		"equip":["katana","gun","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Line of Fire - Iceberg","Obliterating Magic Blade","Obliterating Magic Blade+"],
-		"categories":["Ice","Mage","FFBE","Anniversary (JP)","Dark Lineage","Blood of Hess","Royal Arms","The Guardians","Elite Soldiers"]
+		"categories":["Ice","Mage","FFBE","Anniversary (JP)","Dark Lineage","Blood of Hess","Royal Arms","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"100040907": {
 		"name":"洛嘉-魔將的譜系-",
@@ -11553,7 +11553,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Aether-Wreathed Sword","Prominence Fall","Sword Mastery"],
-		"categories":["Fire","Attacker","FFBE","Anniversary (JP)","Dark Lineage","Clash of Wills","CW - Fire","Royal Arms","The Guardians","Elite Soldiers"]
+		"categories":["Fire","Attacker","FFBE","Anniversary (JP)","Dark Lineage","Royal Arms","The Guardians","Elite Soldiers","The Saviors","Clash of Wills","CW - Fire"]
 	},
 	"100041217": {
 		"name":"朱火緋炎雷因 BS",
@@ -11576,7 +11576,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","hat","helm","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Aether-Wreathed Sword","Prominence Fall","Sword Mastery"],
-		"categories":["Fire","Attacker","FFBE","Anniversary (JP)","Dark Lineage","Clash of Wills","CW - Fire","Royal Arms","The Guardians","Elite Soldiers"]
+		"categories":["Fire","Attacker","FFBE","Anniversary (JP)","Dark Lineage","Royal Arms","The Guardians","Elite Soldiers","The Saviors","Clash of Wills","CW - Fire"]
 	},
 	"100041307": {
 		"name":"菲娜-魔將的譜系-",
@@ -12279,7 +12279,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Hadal Saber","Deep Edge","Large Sword Mastery","Leadership"],
-		"categories":["Water","Attacker","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals","Royal Arms","The Guardians","Elite Soldiers","Clash of Wills","CW - Water"]
+		"categories":["Water","Attacker","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals","Royal Arms","The Guardians","Elite Soldiers","The Saviors","Clash of Wills","CW - Water"]
 	},
 	"100043017": {
 		"name":"雷因-破滅的幻獸- BS",
@@ -12301,7 +12301,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
-		"categories":["Water","Attacker","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals","Royal Arms","The Guardians","Elite Soldiers","Clash of Wills","CW - Water"]
+		"categories":["Water","Attacker","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals","Royal Arms","The Guardians","Elite Soldiers","The Saviors","Clash of Wills","CW - Water"]
 	},
 	"100043107": {
 		"name":"拉斯韋爾-破滅的幻獸-",
@@ -12324,7 +12324,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Mirror of Equity - Cerulean Seas","Sonorous Sea","Fingersnap","Heir to the Blade","Perfect Selflessness","Final Mirror of Equity"],
-		"categories":["Water","Attacker","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals","Blood of Hess","Royal Arms","The Guardians","Elite Soldiers"]
+		"categories":["Water","Attacker","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals","Blood of Hess","Royal Arms","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"100043117": {
 		"name":"拉斯韋爾-破滅的幻獸- BS",
@@ -12346,7 +12346,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
-		"categories":["Water","Attacker","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals","Blood of Hess","Royal Arms","The Guardians","Elite Soldiers"]
+		"categories":["Water","Attacker","FFBE","Anniversary (JP)","Esper of Destruction","Blessing of the Crystals","Blood of Hess","Royal Arms","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"100043207": {
 		"name":"菲娜-破滅的幻獸-",
@@ -12637,7 +12637,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 		"enhancementSkills":["Hope","Brave Presence","Light is with us!"],
-		"categories":["Light","Physical Tank","FFI","Blessing of the Crystals","Light","Physical Tank","Breaker","FFI","Blessing of the Crystals","Light","Physical Tank","Support","Breaker","FFI","Blessing of the Crystals"]
+		"categories":["Light","Physical Tank","FFI","Blessing of the Crystals","The Saviors","Light","Physical Tank","Breaker","FFI","Blessing of the Crystals","The Saviors","Light","Physical Tank","Support","Breaker","FFI","Blessing of the Crystals","The Saviors"]
 	},
 	"201000203": {
 		"name":"加蘭德",
@@ -12697,7 +12697,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 		"enhancementSkills":["Invincible Shield"],
-		"categories":["Light","Physical Tank","FFI","Blessing of the Crystals","Light","Physical Tank","Support","FFI","Blessing of the Crystals","Light","Physical Tank","Support","FFI","Blessing of the Crystals","The Guardians","Elite Soldiers"],
+		"categories":["Light","Physical Tank","FFI","Blessing of the Crystals","Light","Physical Tank","Support","FFI","Blessing of the Crystals","Light","Physical Tank","Support","FFI","Blessing of the Crystals","The Guardians","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"覺醒光之戰士",
 			"roles":[null,"support"],
@@ -12717,7 +12717,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Invincible Shield"],
-			"categories":["Light","Physical Tank","FFI","Blessing of the Crystals","Light","Physical Tank","Support","FFI","Blessing of the Crystals","Light","Physical Tank","Support","FFI","Blessing of the Crystals","The Guardians","Elite Soldiers"]
+			"categories":["Light","Physical Tank","FFI","Blessing of the Crystals","Light","Physical Tank","Support","FFI","Blessing of the Crystals","Light","Physical Tank","Support","FFI","Blessing of the Crystals","The Guardians","Elite Soldiers","The Saviors"]
 		}
 	},
 	"201000505": {
@@ -12828,7 +12828,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","axe","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Cover - Physical I","Protectga","Indomitable Charge","Coruscant Saber"],
-		"categories":["Light","Physical Tank","FFI","Blessing of the Crystals","The Guardians","Elite Soldiers"]
+		"categories":["Light","Physical Tank","FFI","Blessing of the Crystals","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"201000617": {
 		"name":"初始戰士 BS",
@@ -12851,7 +12851,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","axe","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Protectga","Crystal Radiance","Cover - Physical I"],
-		"categories":["Light","Physical Tank","FFI","Blessing of the Crystals","The Guardians","Elite Soldiers"]
+		"categories":["Light","Physical Tank","FFI","Blessing of the Crystals","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"201000707": {
 		"name":"馬莉莉絲",
@@ -12961,7 +12961,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","harp","whip","throwing","gun","mace","fist","lightShield","hat","helm","clothes","lightArmor"],
 		"enhancementSkills":["Lance","Fynn Briar","Legend Killer"],
-		"categories":["Attacker","FFII","The Rebellion","Attacker","FFII","The Rebellion","Attacker","FFII","The Rebellion","Attacker","FFII","The Rebellion"]
+		"categories":["Attacker","FFII","The Rebellion","The Saviors","Attacker","FFII","The Rebellion","The Saviors","Attacker","FFII","The Rebellion","The Saviors","Attacker","FFII","The Rebellion","The Saviors"]
 	},
 	"202000203": {
 		"name":"瑪利亞",
@@ -13216,7 +13216,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","harp","whip","throwing","gun","mace","fist","lightShield","hat","helm","clothes","lightArmor"],
 		"enhancementSkills":["Ready to Fight the Empire","Weapon Combo","Weapon Raid"],
-		"categories":["Light","Attacker","FFII","The Rebellion","Elite Soldiers"],
+		"categories":["Light","Attacker","FFII","The Rebellion","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"野玫瑰義士弗利奧尼爾",
 			"roles":["physicalAttacker"],
@@ -13236,7 +13236,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","harp","whip","throwing","gun","mace","fist","lightShield","hat","helm","clothes","lightArmor"],
 			"enhancementSkills":["Ready to Fight the Empire","Weapon Combo","Weapon Raid"],
-			"categories":["Light","Attacker","FFII","The Rebellion","Elite Soldiers"]
+			"categories":["Light","Attacker","FFII","The Rebellion","Elite Soldiers","The Saviors"]
 		},
 		"7_form": {
 			"name":"野玫瑰義士弗利奧尼爾",
@@ -13257,7 +13257,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","harp","whip","throwing","gun","mace","fist","lightShield","hat","helm","clothes","lightArmor"],
 			"enhancementSkills":["Ready to Fight the Empire","Weapon Combo","Weapon Raid"],
-			"categories":["Light","Attacker","FFII","The Rebellion","Elite Soldiers"]
+			"categories":["Light","Attacker","FFII","The Rebellion","Elite Soldiers","The Saviors"]
 		}
 	},
 	"202001705": {
@@ -13369,7 +13369,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","harp","whip","throwing","gun","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Sword Fighter","Homeland Liberation","Blood Weapon (Firion -Neo Vision-)"],
-		"categories":["Light","Attacker","Support","FFII","The Rebellion","Elite Soldiers"]
+		"categories":["Light","Attacker","Support","FFII","The Rebellion","Elite Soldiers","The Saviors"]
 	},
 	"202001917": {
 		"name":"弗利奧尼爾-Neo Vision- BS",
@@ -13392,7 +13392,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","harp","whip","throwing","gun","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Sword Fighter","Rebellion Against the Empire"],
-		"categories":["Light","Attacker","Support","FFII","The Rebellion","Elite Soldiers"]
+		"categories":["Light","Attacker","Support","FFII","The Rebellion","Elite Soldiers","The Saviors"]
 	},
 	"202002105": {
 		"name":"思念兄長的少女瑪利亞",
@@ -13581,7 +13581,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","harp","throwing","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 		"enhancementSkills":["Splendor of the Wind","Blessed Crystal","Splendor of the Fire","Splendor of the Water","Splendor of the Earth"],
-		"categories":["Wind","Attacker","Support","FFIII","Blessing of the Crystals","Wind","Attacker","Support","FFIII","Blessing of the Crystals","Wind","Attacker","Support","FFIII","Blessing of the Crystals"],
+		"categories":["Wind","Attacker","Support","FFIII","Blessing of the Crystals","The Saviors","Wind","Attacker","Support","FFIII","Blessing of the Crystals","The Saviors","Wind","Attacker","Support","FFIII","Blessing of the Crystals","The Saviors"],
 		"6_form": {
 			"name":"洋蔥劍士",
 			"roles":["physicalAttacker","support"],
@@ -13601,7 +13601,7 @@
 			"stats_pattern":3,
 			"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","harp","throwing","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Splendor of the Wind","Blessed Crystal","Splendor of the Fire","Splendor of the Water","Splendor of the Earth"],
-			"categories":["Wind","Attacker","Support","FFIII","Blessing of the Crystals","Wind","Attacker","Support","FFIII","Blessing of the Crystals","Wind","Attacker","Support","FFIII","Blessing of the Crystals"]
+			"categories":["Wind","Attacker","Support","FFIII","Blessing of the Crystals","The Saviors","Wind","Attacker","Support","FFIII","Blessing of the Crystals","The Saviors","Wind","Attacker","Support","FFIII","Blessing of the Crystals","The Saviors"]
 		}
 	},
 	"203000205": {
@@ -14017,7 +14017,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","harp","throwing","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["True Twin Swords","Warrior of Light's Duty"],
-		"categories":["Wind","Attacker","Breaker","Support","FFIII","Blessing of the Crystals"],
+		"categories":["Wind","Attacker","Breaker","Support","FFIII","Blessing of the Crystals","The Saviors"],
 		"6_form": {
 			"name":"覺醒洋蔥劍士",
 			"roles":["physicalAttacker","debuffer","support"],
@@ -14037,7 +14037,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","harp","throwing","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["True Twin Swords","Warrior of Light's Duty"],
-			"categories":["Wind","Attacker","Breaker","Support","FFIII","Blessing of the Crystals"]
+			"categories":["Wind","Attacker","Breaker","Support","FFIII","Blessing of the Crystals","The Saviors"]
 		},
 		"7_form": {
 			"name":"覺醒洋蔥劍士",
@@ -14058,7 +14058,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","harp","throwing","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["True Twin Swords","Warrior of Light's Duty"],
-			"categories":["Wind","Attacker","Breaker","Support","FFIII","Blessing of the Crystals"]
+			"categories":["Wind","Attacker","Breaker","Support","FFIII","Blessing of the Crystals","The Saviors"]
 		}
 	},
 	"203001627": {
@@ -14082,7 +14082,7 @@
 		"stats_pattern":4,
 		"equip":["staff","rod","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Rod Mastery","Staff Mastery","Two-Handed Technique (MAG)","Firaga","Blizzaga","Thundaga","Aeroga","Flare","Tornado","Quake","Meteor","Protectga","Shellga"],
-		"categories":["Wind","Healer","Mage","FFIII","Blessing of the Crystals"]
+		"categories":["Wind","Healer","Mage","FFIII","Blessing of the Crystals","The Saviors"]
 	},
 	"203001805": {
 		"name":"魔王贊德",
@@ -14183,7 +14183,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","bow","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Sword Mastery","True Onion Chop","Onion Sword","Equip Onion Helm"],
-		"categories":["Light","Attacker","Support","FFIII","Blessing of the Crystals"]
+		"categories":["Light","Attacker","Support","FFIII","Blessing of the Crystals","The Saviors"]
 	},
 	"203004217": {
 		"name":"洋蔥劍士-Neo Vision- BS",
@@ -14206,7 +14206,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","harp","throwing","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Sword Mastery","Katana Mastery","True Onion Chop","Ragnarok & Masamune","Sealed Forbidden Power"],
-		"categories":["Light","Attacker","Breaker","FFIII","Blessing of the Crystals"]
+		"categories":["Light","Attacker","Breaker","FFIII","Blessing of the Crystals","The Saviors"]
 	},
 	"203004305": {
 		"name":"黑魔道師亞爾柯",
@@ -14359,7 +14359,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","sword","greatSword","katana","axe","spear","lightShield","heavyShield","helm","clothes","lightArmor","heavyArmor"],
 		"enhancementSkills":["Holy Light","Focus","Saintly Wall"],
-		"categories":["Light","Physical Tank","FFIV","Royal Arms","Light","Physical Tank","FFIV","Royal Arms","Light","Physical Tank","FFIV","Royal Arms","Light","Physical Tank","FFIV","Royal Arms"]
+		"categories":["Light","Physical Tank","FFIV","Royal Arms","The Saviors","Light","Physical Tank","FFIV","Royal Arms","The Saviors","Light","Physical Tank","FFIV","Royal Arms","The Saviors","Light","Physical Tank","FFIV","Royal Arms","The Saviors"]
 	},
 	"204000115": {
 		"name":"暗黑騎士塞西爾",
@@ -14379,7 +14379,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","spear","lightShield","heavyShield","helm","lightArmor","heavyArmor"],
 		"enhancementSkills":["Dark Cannon","Shikkoku","Soul Eater"],
-		"categories":["Dark","Attacker","FFIV","Royal Arms","Dark","Attacker","FFIV","Royal Arms","Dark","Attacker","FFIV","Royal Arms","Elite Soldiers"],
+		"categories":["Dark","Attacker","FFIV","Royal Arms","Elite Soldiers","The Saviors","Dark","Attacker","FFIV","Royal Arms","Elite Soldiers","The Saviors","Dark","Attacker","FFIV","Royal Arms","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"暗黑騎士塞西爾",
 			"roles":["physicalAttacker"],
@@ -14399,7 +14399,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","spear","lightShield","heavyShield","helm","lightArmor","heavyArmor"],
 			"enhancementSkills":["Dark Cannon","Shikkoku","Soul Eater"],
-			"categories":["Dark","Attacker","FFIV","Royal Arms","Dark","Attacker","FFIV","Royal Arms","Dark","Attacker","FFIV","Royal Arms","Elite Soldiers"]
+			"categories":["Dark","Attacker","FFIV","Royal Arms","Elite Soldiers","The Saviors","Dark","Attacker","FFIV","Royal Arms","Elite Soldiers","The Saviors","Dark","Attacker","FFIV","Royal Arms","Elite Soldiers","The Saviors"]
 		}
 	},
 	"204000203": {
@@ -14784,7 +14784,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","axe","hammer","spear","mace","lightShield","heavyShield","hat","helm","lightArmor","heavyArmor"],
-		"categories":["Light","Magic Tank","Support","FFIV","Royal Arms","Light","Magic Tank","Support","Breaker","FFIV","Royal Arms","Light","Breaker","Support","Magic Tank","FFIV","Royal Arms","Elite Soldiers"],
+		"categories":["Light","Magic Tank","Support","FFIV","Royal Arms","Elite Soldiers","The Saviors","Light","Magic Tank","Support","Breaker","FFIV","Royal Arms","Elite Soldiers","The Saviors","Light","Breaker","Support","Magic Tank","FFIV","Royal Arms","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"聖騎士塞西爾",
 			"roles":["debuffer","support","magicalTank"],
@@ -14803,7 +14803,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","axe","hammer","spear","mace","lightShield","heavyShield","hat","helm","lightArmor","heavyArmor"],
-			"categories":["Light","Magic Tank","Support","FFIV","Royal Arms","Light","Magic Tank","Support","Breaker","FFIV","Royal Arms","Light","Breaker","Support","Magic Tank","FFIV","Royal Arms","Elite Soldiers"]
+			"categories":["Light","Magic Tank","Support","FFIV","Royal Arms","Elite Soldiers","The Saviors","Light","Magic Tank","Support","Breaker","FFIV","Royal Arms","Elite Soldiers","The Saviors","Light","Breaker","Support","Magic Tank","FFIV","Royal Arms","Elite Soldiers","The Saviors"]
 		}
 	},
 	"204002405": {
@@ -15042,7 +15042,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Evil Sword"],
-		"categories":["Dark","Attacker","FFIV","Royal Arms","Elite Soldiers"]
+		"categories":["Dark","Attacker","FFIV","Royal Arms","Elite Soldiers","The Saviors"]
 	},
 	"204003217": {
 		"name":"覺醒聖騎士塞西爾 BS",
@@ -15065,7 +15065,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","staff","spear","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Paladin's Sword","Cover - Magic I","Shellga"],
-		"categories":["Light","Magic Tank","FFIV","Royal Arms","Elite Soldiers"]
+		"categories":["Light","Magic Tank","FFIV","Royal Arms","Elite Soldiers","The Saviors"]
 	},
 	"204003307": {
 		"name":"祈禱的白魔道士羅莎",
@@ -15130,7 +15130,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","spear","throwing","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 		"enhancementSkills":["Boko's Pendant","Life Giver","Wind Shear"],
-		"categories":["Wind","Attacker","Support","FFV","Wind","Attacker","Support","FFV","Wind","Attacker","Support","FFV","Wind","Attacker","Support","FFV"]
+		"categories":["Wind","Attacker","Support","FFV","The Saviors","Wind","Attacker","Support","FFV","The Saviors","Wind","Attacker","Support","FFV","The Saviors","Wind","Attacker","Support","FFV","The Saviors"]
 	},
 	"205000203": {
 		"name":"蕾娜(FFV)",
@@ -15513,7 +15513,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","spear","whip","throwing","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Soaring Blade","Blade of Pursuit","Straight Sense of Justice"],
-		"categories":["Wind","Attacker","FFV","Blessing of the Crystals"],
+		"categories":["Wind","Attacker","FFV","Blessing of the Crystals","The Saviors"],
 		"6_form": {
 			"name":"光之戰士巴茲",
 			"roles":["physicalAttacker","debuffer","support"],
@@ -15533,7 +15533,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","spear","whip","throwing","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Soaring Blade","Blade of Pursuit","Straight Sense of Justice"],
-			"categories":["Wind","Attacker","FFV","Blessing of the Crystals"]
+			"categories":["Wind","Attacker","FFV","Blessing of the Crystals","The Saviors"]
 		},
 		"7_form": {
 			"name":"光之戰士巴茲",
@@ -15554,7 +15554,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","spear","whip","throwing","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Soaring Blade","Blade of Pursuit","Straight Sense of Justice"],
-			"categories":["Wind","Attacker","FFV","Blessing of the Crystals"]
+			"categories":["Wind","Attacker","FFV","Blessing of the Crystals","The Saviors"]
 		}
 	},
 	"205001127": {
@@ -15578,7 +15578,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","spear","whip","throwing","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Soaring Blade","Wind Cutter Blade","Surging Vitality"],
-		"categories":["Wind","Support","FFV","Blessing of the Crystals"]
+		"categories":["Wind","Support","FFV","Blessing of the Crystals","The Saviors"]
 	},
 	"205001205": {
 		"name":"光之戰士蕾娜",
@@ -15859,7 +15859,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","hat","helm","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Crushing Blade","Sword Mastery","Wind Cutter Blade"],
-		"categories":["Wind","Attacker","FFV","Blessing of the Crystals"]
+		"categories":["Wind","Attacker","FFV","Blessing of the Crystals","The Saviors"]
 	},
 	"205001817": {
 		"name":"魔法劍士巴茲 BS",
@@ -15882,7 +15882,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","rod","hat","clothes","lightArmor","robe","visionCard"],
 		"enhancementSkills":["Crushing Blade","Sword Mastery"],
-		"categories":["Wind","Attacker","FFV","Blessing of the Crystals"]
+		"categories":["Wind","Attacker","FFV","Blessing of the Crystals","The Saviors"]
 	},
 	"205001907": {
 		"name":"白魔道士可露兒",
@@ -16084,7 +16084,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","sword","staff","rod","gun","lightShield","hat","clothes"],
 		"enhancementSkills":["Guardian Mog","Lifesaver","Unlock Magic"],
-		"categories":["Mage","Healer","FFVI","The Rebellion","The Gathering","Mage","Healer","FFVI","The Rebellion","The Gathering","Mage","Healer","FFVI","The Rebellion","The Gathering","Mage","Healer","FFVI","The Rebellion","The Gathering"]
+		"categories":["Mage","Healer","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors","Mage","Healer","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors","Mage","Healer","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors","Mage","Healer","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors"]
 	},
 	"206000113": {
 		"name":"魔導兵器蒂娜",
@@ -16104,7 +16104,7 @@
 		},
 		"stats_pattern":1,
 		"equip":["dagger","sword","staff","rod","gun","lightShield","hat","clothes"],
-		"categories":["Mage","FFVI","The Rebellion","The Gathering","Mage","FFVI","The Rebellion","The Gathering"]
+		"categories":["Mage","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors","Mage","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors"]
 	},
 	"206000125": {
 		"name":"入神蒂娜",
@@ -16124,7 +16124,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","gun","lightShield","hat","clothes","robe"],
 		"enhancementSkills":["Chaos Wave","Inherited Power","Ultima","Magical Activation"],
-		"categories":["Fire","Mage","FFVI","The Rebellion","The Gathering","Fire","Mage","Support","FFVI","The Rebellion","The Gathering","Fire","Mage","Support","FFVI","Evocation","The Rebellion","The Gathering","The Guardians"],
+		"categories":["Fire","Mage","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors","Fire","Mage","Support","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors","Fire","Mage","Support","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors"],
 		"6_form": {
 			"name":"入神蒂娜",
 			"roles":["magicalAttacker","support"],
@@ -16144,7 +16144,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","staff","rod","gun","lightShield","hat","clothes","robe"],
 			"enhancementSkills":["Chaos Wave","Inherited Power","Ultima","Magical Activation"],
-			"categories":["Fire","Mage","FFVI","The Rebellion","The Gathering","Fire","Mage","Support","FFVI","The Rebellion","The Gathering","Fire","Mage","Support","FFVI","Evocation","The Rebellion","The Gathering","The Guardians"]
+			"categories":["Fire","Mage","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors","Fire","Mage","Support","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors","Fire","Mage","Support","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors"]
 		}
 	},
 	"206000203": {
@@ -16723,7 +16723,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","gun","mace","lightShield","hat","clothes","robe"],
-		"categories":["Fire","Mage","Breaker","FFVI","The Rebellion","The Gathering","Fire","Mage","Breaker","FFVI","The Rebellion","The Gathering","Fire","Mage","Breaker","FFVI","Evocation","The Rebellion","The Gathering","The Guardians"],
+		"categories":["Fire","Mage","Breaker","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors","Fire","Mage","Breaker","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors","Fire","Mage","Breaker","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors"],
 		"6_form": {
 			"name":"魔導戰士蒂娜",
 			"roles":["magicalAttacker","debuffer"],
@@ -16742,7 +16742,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","staff","rod","gun","mace","lightShield","hat","clothes","robe"],
-			"categories":["Fire","Mage","Breaker","FFVI","The Rebellion","The Gathering","Fire","Mage","Breaker","FFVI","The Rebellion","The Gathering","Fire","Mage","Breaker","FFVI","Evocation","The Rebellion","The Gathering","The Guardians"]
+			"categories":["Fire","Mage","Breaker","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors","Fire","Mage","Breaker","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors","Fire","Mage","Breaker","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors"]
 		}
 	},
 	"206002205": {
@@ -16981,7 +16981,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","gun","mace","lightShield","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Unleashed Evocation","Unlock Magic (Terra -Neo Vision-)","Firaga (FFVI)"],
-		"categories":["Fire","Support","FFVI","Evocation","The Rebellion","The Gathering","The Guardians"]
+		"categories":["Fire","Support","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors"]
 	},
 	"206002517": {
 		"name":"蒂娜-Neo Vision- BS",
@@ -17004,7 +17004,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","staff","rod","gun","mace","lightShield","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Unleashed Evocation","Unlock Magic (Terra -Neo Vision-)","Chaos Wave (Terra -Neo Vision-)"],
-		"categories":["Fire","Mage","Support","FFVI","Evocation","The Rebellion","The Gathering","The Guardians"]
+		"categories":["Fire","Mage","Support","FFVI","Evocation","The Rebellion","The Gathering","The Guardians","The Saviors"]
 	},
 	"206002607": {
 		"name":"洛克-Neo Vision-",
@@ -17462,7 +17462,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","mace","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["SOLDIER 1st Class","Climhazzard","Jenova Cells","Fighting Instinct","Aggression","Sonic Impact","Buster End","Promise With Tifa"],
-		"categories":["Lightning","Attacker","FFVII","The Rebellion","Elite Soldiers"],
+		"categories":["Lightning","Attacker","FFVII","The Rebellion","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"克勞德",
 			"roles":["physicalAttacker"],
@@ -17482,7 +17482,7 @@
 			"stats_pattern":1,
 			"equip":["sword","greatSword","mace","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["SOLDIER 1st Class","Climhazzard","Jenova Cells","Fighting Instinct","Aggression","Sonic Impact","Buster End","Promise With Tifa"],
-			"categories":["Lightning","Attacker","FFVII","The Rebellion","Elite Soldiers"]
+			"categories":["Lightning","Attacker","FFVII","The Rebellion","Elite Soldiers","The Saviors"]
 		},
 		"7_form": {
 			"name":"克勞德",
@@ -17503,7 +17503,7 @@
 			"stats_pattern":4,
 			"equip":["sword","greatSword","mace","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["SOLDIER 1st Class","Climhazzard","Jenova Cells","Fighting Instinct","Aggression","Sonic Impact","Buster End","Promise With Tifa"],
-			"categories":["Lightning","Attacker","FFVII","The Rebellion","Elite Soldiers"]
+			"categories":["Lightning","Attacker","FFVII","The Rebellion","Elite Soldiers","The Saviors"]
 		}
 	},
 	"207000127": {
@@ -17527,7 +17527,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","mace","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Sonic Impact","Rushed Strike","No More Illusions"],
-		"categories":["Lightning","Attacker","FFVII","The Rebellion","Elite Soldiers"]
+		"categories":["Lightning","Attacker","FFVII","The Rebellion","Elite Soldiers","The Saviors"]
 	},
 	"207000204": {
 		"name":"巴雷特",
@@ -18222,7 +18222,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["sword","greatSword","mace","hat","helm","clothes","lightArmor","heavyArmor"],
-		"categories":["Light","Attacker","Breaker","FFVII","Light","Attacker","Breaker","FFVII","Light","Attacker","Breaker","FFVII","Elite Soldiers"],
+		"categories":["Light","Attacker","Breaker","FFVII","Elite Soldiers","The Saviors","Light","Attacker","Breaker","FFVII","Elite Soldiers","The Saviors","Light","Attacker","Breaker","FFVII","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"克勞德(FFVII: AC)",
 			"roles":["physicalAttacker","debuffer"],
@@ -18241,7 +18241,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["sword","greatSword","mace","hat","helm","clothes","lightArmor","heavyArmor"],
-			"categories":["Light","Attacker","Breaker","FFVII","Light","Attacker","Breaker","FFVII","Light","Attacker","Breaker","FFVII","Elite Soldiers"]
+			"categories":["Light","Attacker","Breaker","FFVII","Elite Soldiers","The Saviors","Light","Attacker","Breaker","FFVII","Elite Soldiers","The Saviors","Light","Attacker","Breaker","FFVII","Elite Soldiers","The Saviors"]
 		}
 	},
 	"207001705": {
@@ -18362,7 +18362,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","mace","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Braver (FFVII REMAKE)","Focused Thrust","Legacy: Cloud"],
-		"categories":["Lightning","Attacker","FFVII","The Rebellion","Elite Soldiers"]
+		"categories":["Lightning","Attacker","FFVII","The Rebellion","Elite Soldiers","The Saviors"]
 	},
 	"207002017": {
 		"name":"克勞德(FFVII REMAKE) BS",
@@ -18385,7 +18385,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","fist","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Braver (FFVII REMAKE)","Spinning Slash (FFVII REMAKE)","Hardy-Daytona's Rider"],
-		"categories":["Lightning","Attacker","FFVII","The Rebellion","Elite Soldiers"]
+		"categories":["Lightning","Attacker","FFVII","The Rebellion","Elite Soldiers","The Saviors"]
 	},
 	"207002105": {
 		"name":"巴雷特(FFVII REMAKE)",
@@ -18897,7 +18897,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Elemental - Lightning","True Focused Thrust","Large Sword Mastery"],
-		"categories":["Lightning","Attacker","FFVII","Clash of Wills","CW - Lightning","The Rebellion","Elite Soldiers"]
+		"categories":["Lightning","Attacker","FFVII","The Rebellion","Elite Soldiers","The Saviors","Clash of Wills","CW - Lightning"]
 	},
 	"207003117": {
 		"name":"克勞德‧史特萊夫 BS",
@@ -18920,7 +18920,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Elemental - Lightning","True Infinity's End","Large Sword Mastery"],
-		"categories":["Lightning","Attacker","FFVII","Clash of Wills","CW - Lightning","The Rebellion","Elite Soldiers"]
+		"categories":["Lightning","Attacker","FFVII","The Rebellion","Elite Soldiers","The Saviors","Clash of Wills","CW - Lightning"]
 	},
 	"207003207": {
 		"name":"雪崩首領巴雷特",
@@ -19031,7 +19031,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","gun","mace","hat","helm","clothes","lightArmor","heavyArmor"],
 		"enhancementSkills":["Flame Barret","Wind Barret","Thunder Barret","Light Barret","Gunblade Wielder","Blasting Zone","Keen Edge","GF","DEF +20%"],
-		"categories":["Fire","Attacker","FFVIII","Fire","Attacker","FFVIII","Fire","Attacker","FFVIII","The Guardians","Elite Soldiers"],
+		"categories":["Fire","Attacker","FFVIII","The Guardians","Elite Soldiers","The Saviors","Fire","Attacker","FFVIII","The Guardians","Elite Soldiers","The Saviors","Fire","Attacker","FFVIII","The Guardians","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"斯考爾",
 			"roles":["physicalAttacker"],
@@ -19051,7 +19051,7 @@
 			"stats_pattern":1,
 			"equip":["sword","greatSword","gun","mace","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Flame Barret","Wind Barret","Thunder Barret","Light Barret","Gunblade Wielder","Blasting Zone","Keen Edge","GF","DEF +20%"],
-			"categories":["Fire","Attacker","FFVIII","Fire","Attacker","FFVIII","Fire","Attacker","FFVIII","The Guardians","Elite Soldiers"]
+			"categories":["Fire","Attacker","FFVIII","The Guardians","Elite Soldiers","The Saviors","Fire","Attacker","FFVIII","The Guardians","Elite Soldiers","The Saviors","Fire","Attacker","FFVIII","The Guardians","Elite Soldiers","The Saviors"]
 		}
 	},
 	"208000205": {
@@ -19428,7 +19428,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","gun","mace","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Noble Griever","Accelerator Edge"],
-		"categories":["Fire","Attacker","Breaker","FFVIII","The Guardians","Elite Soldiers"],
+		"categories":["Fire","Attacker","Breaker","FFVIII","The Guardians","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"孤高的獅子斯考爾",
 			"roles":["physicalAttacker"],
@@ -19448,7 +19448,7 @@
 			"stats_pattern":1,
 			"equip":["sword","greatSword","gun","mace","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Noble Griever","Accelerator Edge"],
-			"categories":["Fire","Attacker","Breaker","FFVIII","The Guardians","Elite Soldiers"]
+			"categories":["Fire","Attacker","Breaker","FFVIII","The Guardians","Elite Soldiers","The Saviors"]
 		},
 		"7_form": {
 			"name":"孤高的獅子斯考爾",
@@ -19469,7 +19469,7 @@
 			"stats_pattern":4,
 			"equip":["sword","greatSword","gun","mace","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Noble Griever","Accelerator Edge"],
-			"categories":["Fire","Attacker","Breaker","FFVIII","The Guardians","Elite Soldiers"]
+			"categories":["Fire","Attacker","Breaker","FFVIII","The Guardians","Elite Soldiers","The Saviors"]
 		}
 	},
 	"208001527": {
@@ -19492,7 +19492,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["sword","greatSword","gun","mace","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
-		"categories":["Fire","Attacker","Breaker","FFVIII","The Guardians","Elite Soldiers"]
+		"categories":["Fire","Attacker","Breaker","FFVIII","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"208001604": {
 		"name":"風神&雷神",
@@ -19670,7 +19670,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","gun","mace","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Blasting Chain","Gunblade Wielder","GF","Large Sword Mastery","Light Barret","Accelerator Edge","Draw+"],
-		"categories":["Light","Attacker","FFVIII","The Guardians","Elite Soldiers"]
+		"categories":["Light","Attacker","FFVIII","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"208002517": {
 		"name":"魔女騎士斯考爾 BS",
@@ -19693,7 +19693,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","gun","mace","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Dark Barret","Gunblade Wielder","GF","Large Sword Mastery","Light Barret","Flame Barret","Thunder Barret","Wind Barret","Keen Edge","Firaga","Thundaga","Aeroga"],
-		"categories":["Light","Attacker","FFVIII","The Guardians","Elite Soldiers"]
+		"categories":["Light","Attacker","FFVIII","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"208002607": {
 		"name":"SeeD的青魔道士奎斯緹絲",
@@ -19848,7 +19848,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","sword","throwing","mace","hat","clothes","lightArmor"],
 		"enhancementSkills":["Dual Edge","Soul Blade","Free Energy"],
-		"categories":["Support","FFIX","Support","FFIX","Support","FFIX","Attacker","Support","Breaker","FFIX"]
+		"categories":["Support","FFIX","The Saviors","Support","FFIX","The Saviors","Support","FFIX","The Saviors","Attacker","Support","Breaker","FFIX","The Saviors"]
 	},
 	"209000203": {
 		"name":"比比",
@@ -20263,7 +20263,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","throwing","mace","fist","lightShield","hat","clothes","lightArmor"],
-		"categories":["Wind","Attacker","FFIX","Wind","Attacker","FFIX","Wind","Attacker","FFIX","The Guardians"],
+		"categories":["Wind","Attacker","FFIX","The Guardians","The Saviors","Wind","Attacker","FFIX","The Guardians","The Saviors","Wind","Attacker","FFIX","The Guardians","The Saviors"],
 		"6_form": {
 			"name":"長尾少年吉坦",
 			"roles":["physicalAttacker"],
@@ -20282,7 +20282,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","throwing","mace","fist","lightShield","hat","clothes","lightArmor"],
-			"categories":["Wind","Attacker","FFIX","Wind","Attacker","FFIX","Wind","Attacker","FFIX","The Guardians"]
+			"categories":["Wind","Attacker","FFIX","The Guardians","The Saviors","Wind","Attacker","FFIX","The Guardians","The Saviors","Wind","Attacker","FFIX","The Guardians","The Saviors"]
 		}
 	},
 	"209001705": {
@@ -20593,7 +20593,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","bow","throwing","fist","lightShield","hat","helm","clothes","lightArmor"],
-		"categories":["Wind","Attacker","FFIX","Wind","Attacker","FFIX","Wind","Attacker","FFIX","The Guardians"],
+		"categories":["Wind","Attacker","FFIX","The Guardians","The Saviors","Wind","Attacker","FFIX","The Guardians","The Saviors","Wind","Attacker","FFIX","The Guardians","The Saviors"],
 		"6_form": {
 			"name":"冥王隊吉坦",
 			"roles":["physicalAttacker"],
@@ -20612,7 +20612,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","bow","throwing","fist","lightShield","hat","helm","clothes","lightArmor"],
-			"categories":["Wind","Attacker","FFIX","Wind","Attacker","FFIX","Wind","Attacker","FFIX","The Guardians"]
+			"categories":["Wind","Attacker","FFIX","The Guardians","The Saviors","Wind","Attacker","FFIX","The Guardians","The Saviors","Wind","Attacker","FFIX","The Guardians","The Saviors"]
 		}
 	},
 	"209002404": {
@@ -20655,7 +20655,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","throwing","mace","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Speedy Evasion (Lightning-Fast Zidane)","Swift Raid","Dagger Mastery"],
-		"categories":["Wind","Support","Attacker","FFIX","The Guardians"]
+		"categories":["Wind","Support","Attacker","FFIX","The Guardians","The Saviors"]
 	},
 	"209002817": {
 		"name":"神速盜賊吉坦 BS",
@@ -20678,7 +20678,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","throwing","mace","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Light from a World in Red","Speedy Evasion (Lightning-Fast Zidane)","True Stellar Circle 5","Dagger Mastery"],
-		"categories":["Wind","Attacker","Breaker","FFIX","The Guardians"]
+		"categories":["Wind","Attacker","Breaker","FFIX","The Guardians","The Saviors"]
 	},
 	"209002907": {
 		"name":"純真黑魔道士比比",
@@ -20878,7 +20878,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","throwing","mace","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Thief's Quick Strike","Dagger Mastery","Speedy Evasion (Lightning-Fast Zidane)","Swift Raid"],
-		"categories":["Wind","Attacker","FFIX","The Guardians"]
+		"categories":["Wind","Attacker","FFIX","The Guardians","The Saviors"]
 	},
 	"209003417": {
 		"name":"坦塔羅斯的盜賊吉坦 BS",
@@ -20901,7 +20901,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","throwing","mace","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Wild Hunt","Dagger Mastery"],
-		"categories":["Wind","Attacker","FFIX","The Guardians"]
+		"categories":["Wind","Attacker","FFIX","The Guardians","The Saviors"]
 	},
 	"209003507": {
 		"name":"冥王隊隊長斯坦納",
@@ -21059,7 +21059,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","throwing","lightShield","hat","helm","clothes","lightArmor","heavyArmor"],
 		"enhancementSkills":["Tackle Slip","Get pumped!","Sun Crest","Quick Hit"],
-		"categories":["Water","Attacker","Support","FFX","The Guardians","Water","Attacker","Support","FFX","The Guardians","Water","Attacker","Support","Breaker","FFX","The Guardians"],
+		"categories":["Water","Attacker","Support","FFX","The Guardians","The Saviors","Water","Attacker","Support","FFX","The Guardians","The Saviors","Water","Attacker","Support","Breaker","FFX","The Guardians","The Saviors"],
 		"6_form": {
 			"name":"提達",
 			"roles":["physicalAttacker","support"],
@@ -21079,7 +21079,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","throwing","lightShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Tackle Slip","Get pumped!","Sun Crest","Quick Hit"],
-			"categories":["Water","Attacker","Support","FFX","The Guardians","Water","Attacker","Support","FFX","The Guardians","Water","Attacker","Support","Breaker","FFX","The Guardians"]
+			"categories":["Water","Attacker","Support","FFX","The Guardians","The Saviors","Water","Attacker","Support","FFX","The Guardians","The Saviors","Water","Attacker","Support","Breaker","FFX","The Guardians","The Saviors"]
 		}
 	},
 	"210000205": {
@@ -21709,7 +21709,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","throwing","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Quick Hit+","Quick Flash","Dream to End Dreams"],
-		"categories":["Water","Attacker","Support","Breaker","FFX","The Guardians"],
+		"categories":["Water","Attacker","Support","Breaker","FFX","The Guardians","The Saviors"],
 		"6_form": {
 			"name":"明星球員提達",
 			"roles":["physicalAttacker","support","debuffer"],
@@ -21729,7 +21729,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","throwing","lightShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Quick Hit+","Quick Flash","Dream to End Dreams"],
-			"categories":["Water","Attacker","Support","Breaker","FFX","The Guardians"]
+			"categories":["Water","Attacker","Support","Breaker","FFX","The Guardians","The Saviors"]
 		},
 		"7_form": {
 			"name":"明星球員提達",
@@ -21750,7 +21750,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","greatSword","katana","throwing","lightShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Quick Hit+","Quick Flash","Dream to End Dreams"],
-			"categories":["Water","Attacker","Support","Breaker","FFX","The Guardians"]
+			"categories":["Water","Attacker","Support","Breaker","FFX","The Guardians","The Saviors"]
 		}
 	},
 	"210001827": {
@@ -21773,7 +21773,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","throwing","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
-		"categories":["Water","Attacker","Support","Breaker","FFX","The Guardians"]
+		"categories":["Water","Attacker","Support","Breaker","FFX","The Guardians","The Saviors"]
 	},
 	"210001904": {
 		"name":"貝爾格米娜",
@@ -21951,7 +21951,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","throwing","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Yuna's Guardian: Tidus","This is my story!","Quick Hit+","Yuna's Guardian II"],
-		"categories":["Water","Attacker","FFX","The Guardians"]
+		"categories":["Water","Attacker","FFX","The Guardians","The Saviors"]
 	},
 	"210002417": {
 		"name":"王牌打擊者提達 BS",
@@ -21974,7 +21974,7 @@
 		"stats_pattern":4,
 		"equip":["sword","throwing","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Son of Jecht II","Throwing Weapon Mastery","Drain Tackle 2"],
-		"categories":["Water","Attacker","FFX","The Guardians"]
+		"categories":["Water","Attacker","FFX","The Guardians","The Saviors"]
 	},
 	"210002507": {
 		"name":"比塞德的魔道士露露",
@@ -22795,7 +22795,7 @@
 		"stats_pattern":1,
 		"equip":["dagger","sword","greatSword","staff","rod","axe","hammer","spear","mace","fist","lightShield","helm","clothes","lightArmor","heavyArmor"],
 		"enhancementSkills":["Counter Break","Biohazard","Assault Strike"],
-		"categories":[null,null,null,null]
+		"categories":["Attacker","FFXII","The Gathering","The Saviors","Attacker","Breaker","FFXII","The Gathering","The Saviors","Attacker","Breaker","FFXII","The Gathering","The Saviors","Attacker","Breaker","FFXII","The Gathering","The Saviors"]
 	},
 	"212000204": {
 		"name":"雅雪",
@@ -23207,7 +23207,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","katana","throwing","gun","lightShield","heavyShield","hat","clothes","lightArmor"],
-		"categories":["Fire","Attacker","Breaker","FFXII","The Gathering","Fire","Attacker","Breaker","FFXII","The Gathering","Fire","Breaker","Attacker","FFXII","The Gathering"],
+		"categories":["Fire","Attacker","Breaker","FFXII","The Gathering","The Saviors","Fire","Attacker","Breaker","FFXII","The Gathering","The Saviors","Fire","Breaker","Attacker","FFXII","The Gathering","The Saviors"],
 		"6_form": {
 			"name":"追求自由的少年梵恩",
 			"roles":["debuffer","physicalAttacker"],
@@ -23226,7 +23226,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","katana","throwing","gun","lightShield","heavyShield","hat","clothes","lightArmor"],
-			"categories":["Fire","Attacker","Breaker","FFXII","The Gathering","Fire","Attacker","Breaker","FFXII","The Gathering","Fire","Breaker","Attacker","FFXII","The Gathering"]
+			"categories":["Fire","Attacker","Breaker","FFXII","The Gathering","The Saviors","Fire","Attacker","Breaker","FFXII","The Gathering","The Saviors","Fire","Breaker","Attacker","FFXII","The Gathering","The Saviors"]
 		}
 	},
 	"212001605": {
@@ -23669,7 +23669,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","mace","fist","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Martial Arts Mastery","Oil","Flaming Smash","Zephyr Pole (FFXII)"],
-		"categories":["Fire","Breaker","FFXII","The Gathering"]
+		"categories":["Fire","Breaker","FFXII","The Gathering","The Saviors"]
 	},
 	"212002617": {
 		"name":"拉巴納斯塔的少年梵恩 BS",
@@ -23691,7 +23691,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["sword","greatSword","mace","fist","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
-		"categories":["Fire","Breaker","FFXII","The Gathering"]
+		"categories":["Fire","Breaker","FFXII","The Gathering","The Saviors"]
 	},
 	"212002807": {
 		"name":"英勇的青梅竹馬潘妮蘿",
@@ -23804,7 +23804,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","bow","spear","gun","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Blitz","Crushing Blow","Lightspeed","Blade of Thunder","Crashing Thunder Slash","Unlimited Power Within"],
-		"categories":["Lightning","Attacker","FFXIII","The Rebellion","The Guardians"],
+		"categories":["Lightning","Attacker","FFXIII","The Rebellion","The Guardians","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"雷光",
 			"roles":["physicalAttacker"],
@@ -23824,7 +23824,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","bow","spear","gun","lightShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Blitz","Crushing Blow","Lightspeed","Blade of Thunder","Crashing Thunder Slash","Unlimited Power Within"],
-			"categories":["Lightning","Attacker","FFXIII","The Rebellion","The Guardians"]
+			"categories":["Lightning","Attacker","FFXIII","The Rebellion","The Guardians","Elite Soldiers","The Saviors"]
 		},
 		"7_form": {
 			"name":"雷光",
@@ -23845,7 +23845,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","greatSword","katana","bow","spear","gun","lightShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Blitz","Crushing Blow","Lightspeed","Blade of Thunder","Crashing Thunder Slash","Unlimited Power Within"],
-			"categories":["Lightning","Attacker","FFXIII","The Rebellion","The Guardians"]
+			"categories":["Lightning","Attacker","FFXIII","The Rebellion","The Guardians","Elite Soldiers","The Saviors"]
 		}
 	},
 	"213000127": {
@@ -23869,7 +23869,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","bow","spear","gun","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Blade of Thunder","Rising Thunder Bullet","Instrument of Change"],
-		"categories":["Lightning","Attacker","FFXIII","The Rebellion","The Guardians"]
+		"categories":["Lightning","Attacker","FFXIII","The Rebellion","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"213000204": {
 		"name":"冰雪",
@@ -23990,7 +23990,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","bow","spear","gun","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Sparkstrike II","Flamestrike II","Froststrike II","Aquastrike II","Buster Impulse","Bolt","Commando's Seal"],
-		"categories":["Lightning","Attacker","Breaker","FFXIII","The Rebellion","The Guardians","Elite Soldiers"],
+		"categories":["Lightning","Attacker","Breaker","FFXIII","The Rebellion","The Guardians","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"輝煌閃耀雷光",
 			"roles":["physicalAttacker","debuffer"],
@@ -24010,7 +24010,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","bow","spear","gun","lightShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Sparkstrike II","Flamestrike II","Froststrike II","Aquastrike II","Buster Impulse","Bolt","Commando's Seal"],
-			"categories":["Lightning","Attacker","Breaker","FFXIII","The Rebellion","The Guardians","Elite Soldiers"]
+			"categories":["Lightning","Attacker","Breaker","FFXIII","The Rebellion","The Guardians","Elite Soldiers","The Saviors"]
 		},
 		"7_form": {
 			"name":"輝煌閃耀雷光",
@@ -24031,7 +24031,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","greatSword","katana","bow","spear","gun","lightShield","hat","helm","clothes","lightArmor","heavyArmor"],
 			"enhancementSkills":["Sparkstrike II","Flamestrike II","Froststrike II","Aquastrike II","Buster Impulse","Bolt","Commando's Seal"],
-			"categories":["Lightning","Attacker","Breaker","FFXIII","The Rebellion","The Guardians","Elite Soldiers"]
+			"categories":["Lightning","Attacker","Breaker","FFXIII","The Rebellion","The Guardians","Elite Soldiers","The Saviors"]
 		}
 	},
 	"213001027": {
@@ -24055,7 +24055,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","bow","spear","gun","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Buster Impulse","Buster Thunder","Ravager's Seal"],
-		"categories":["Lightning","Mage","FFXIII","The Rebellion","The Guardians","Elite Soldiers"]
+		"categories":["Lightning","Mage","FFXIII","The Rebellion","The Guardians","Elite Soldiers","The Saviors"]
 	},
 	"213001105": {
 		"name":"未來希望霍普",
@@ -24247,7 +24247,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","gun","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Impulsestrike","Blitz (Lightning)","Sword Mastery","Gun Mastery","Sparkstrike II","Flamestrike II","Froststrike II","Aquastrike II","Imperilga"],
-		"categories":["Lightning","Attacker","FFXIII","The Rebellion","Clash of Wills","CW - Lightning","The Guardians","Elite Soldiers"]
+		"categories":["Lightning","Attacker","FFXIII","The Rebellion","The Guardians","Elite Soldiers","The Saviors","Clash of Wills","CW - Lightning"]
 	},
 	"213001417": {
 		"name":"美麗閃電雷光 BS",
@@ -24270,7 +24270,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","gun","lightShield","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
 		"enhancementSkills":["Impulsestrike","Blitz (Lightning)","Sword Mastery","Gun Mastery","Imperilga"],
-		"categories":["Lightning","Attacker","FFXIII","The Rebellion","Clash of Wills","CW - Lightning","The Guardians","Elite Soldiers"]
+		"categories":["Lightning","Attacker","FFXIII","The Rebellion","The Guardians","Elite Soldiers","The Saviors","Clash of Wills","CW - Lightning"]
 	},
 	"213001507": {
 		"name":"與命運鬥爭的少年霍普",
@@ -24610,7 +24610,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","spear","throwing","gun","lightShield","heavyShield","hat","clothes","lightArmor"],
 		"enhancementSkills":["Fish","Link","Chosen King","Warp Strike"],
-		"categories":["Fire","Attacker","Support","Breaker","FFXV","Royal Arms","Fire","Attacker","Support","Breaker","FFXV","Royal Arms","Fire","Attacker","Support","Breaker","FFXV","Royal Arms"],
+		"categories":["Fire","Attacker","Support","Breaker","FFXV","Royal Arms","The Saviors","Fire","Attacker","Support","Breaker","FFXV","Royal Arms","The Saviors","Fire","Attacker","Support","Breaker","FFXV","Royal Arms","The Saviors"],
 		"6_form": {
 			"name":"諾克提斯",
 			"roles":["versatile"],
@@ -24630,7 +24630,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","spear","throwing","gun","lightShield","heavyShield","hat","clothes","lightArmor"],
 			"enhancementSkills":["Fish","Link","Chosen King","Warp Strike"],
-			"categories":["Fire","Attacker","Support","Breaker","FFXV","Royal Arms","Fire","Attacker","Support","Breaker","FFXV","Royal Arms","Fire","Attacker","Support","Breaker","FFXV","Royal Arms"]
+			"categories":["Fire","Attacker","Support","Breaker","FFXV","Royal Arms","The Saviors","Fire","Attacker","Support","Breaker","FFXV","Royal Arms","The Saviors","Fire","Attacker","Support","Breaker","FFXV","Royal Arms","The Saviors"]
 		}
 	},
 	"215000205": {
@@ -25248,7 +25248,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","spear","throwing","gun","lightShield","heavyShield","hat","clothes","lightArmor"],
-		"categories":["Attacker","FFXV","Royal Arms","Attacker","FFXV","Royal Arms","Attacker","FFXV","Royal Arms","The Guardians"],
+		"categories":["Attacker","FFXV","Royal Arms","The Guardians","The Saviors","Attacker","FFXV","Royal Arms","The Guardians","The Saviors","Attacker","FFXV","Royal Arms","The Guardians","The Saviors"],
 		"6_form": {
 			"name":"諾克提斯王子",
 			"roles":["physicalAttacker"],
@@ -25267,7 +25267,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","spear","throwing","gun","lightShield","heavyShield","hat","clothes","lightArmor"],
-			"categories":["Attacker","FFXV","Royal Arms","Attacker","FFXV","Royal Arms","Attacker","FFXV","Royal Arms","The Guardians"]
+			"categories":["Attacker","FFXV","Royal Arms","The Guardians","The Saviors","Attacker","FFXV","Royal Arms","The Guardians","The Saviors","Attacker","FFXV","Royal Arms","The Guardians","The Saviors"]
 		}
 	},
 	"215002105": {
@@ -25560,7 +25560,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","spear","throwing","gun","lightShield","heavyShield","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Royal Cleave"],
-		"categories":["Light","Attacker","FFXV","Royal Arms"]
+		"categories":["Light","Attacker","FFXV","Royal Arms","The Saviors"]
 	},
 	"215002917": {
 		"name":"蒼穹之劍諾克提斯 BS",
@@ -25583,7 +25583,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","spear","throwing","gun","lightShield","heavyShield","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Warp-strike"],
-		"categories":["Light","Attacker","FFXV","Royal Arms"]
+		"categories":["Light","Attacker","FFXV","Royal Arms","The Saviors"]
 	},
 	"215003007": {
 		"name":"深紅劍亞丹",
@@ -25652,7 +25652,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","spear","throwing","gun","lightShield","heavyShield","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Spectral Gleam","Armiger Strike","Sword Mastery"],
-		"categories":["Light","Attacker","FFXV","Blessing of the Crystals","Royal Arms","Clash of Wills","CW - Light"]
+		"categories":["Light","Attacker","FFXV","Blessing of the Crystals","Royal Arms","The Saviors","Clash of Wills","CW - Light"]
 	},
 	"215003117": {
 		"name":"真正之王諾克提斯 BS",
@@ -25675,7 +25675,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","spear","throwing","gun","lightShield","heavyShield","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Spectral Gleam","Armiger Strike","Sword Mastery"],
-		"categories":["Light","Attacker","FFXV","Blessing of the Crystals","Royal Arms","Clash of Wills","CW - Light"]
+		"categories":["Light","Attacker","FFXV","Blessing of the Crystals","Royal Arms","The Saviors","Clash of Wills","CW - Light"]
 	},
 	"215003207": {
 		"name":"被選上的王的護衛格拉迪歐藍斯",
@@ -26174,7 +26174,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","bow","spear","gun","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
-		"categories":["Lightning","Magic Tank","Support","FFXIII","Lightning","Magic Tank","Support","FFXIII","Lightning","Magic Tank","Support","FFXIII","Elite Soldiers"],
+		"categories":["Lightning","Magic Tank","Support","FFXIII","Elite Soldiers","The Saviors","Lightning","Magic Tank","Support","FFXIII","Elite Soldiers","The Saviors","Lightning","Magic Tank","Support","FFXIII","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"雷光(FFXIII-2)",
 			"roles":["magicalTank","support"],
@@ -26193,7 +26193,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","bow","spear","gun","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor"],
-			"categories":["Lightning","Magic Tank","Support","FFXIII","Lightning","Magic Tank","Support","FFXIII","Lightning","Magic Tank","Support","FFXIII","Elite Soldiers"]
+			"categories":["Lightning","Magic Tank","Support","FFXIII","Elite Soldiers","The Saviors","Lightning","Magic Tank","Support","FFXIII","Elite Soldiers","The Saviors","Lightning","Magic Tank","Support","FFXIII","Elite Soldiers","The Saviors"]
 		}
 	},
 	"250000305": {
@@ -26311,7 +26311,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","axe","hammer","harp","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 		"enhancementSkills":["Mind Break","Weapon Break","Hero's Rime"],
-		"categories":["Light","Attacker","Breaker","FFT","The Rebellion","Light","Attacker","Support","Breaker","FFT","The Rebellion","Light","Attacker","Breaker","Support","FFT","The Rebellion","Elite Soldiers"],
+		"categories":["Light","Attacker","Breaker","FFT","The Rebellion","Elite Soldiers","The Saviors","Light","Attacker","Support","Breaker","FFT","The Rebellion","Elite Soldiers","The Saviors","Light","Attacker","Breaker","Support","FFT","The Rebellion","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"拉姆薩",
 			"roles":["physicalAttacker","debuffer","support"],
@@ -26331,7 +26331,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","axe","hammer","harp","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Mind Break","Weapon Break","Hero's Rime"],
-			"categories":["Light","Attacker","Breaker","FFT","The Rebellion","Light","Attacker","Support","Breaker","FFT","The Rebellion","Light","Attacker","Breaker","Support","FFT","The Rebellion","Elite Soldiers"]
+			"categories":["Light","Attacker","Breaker","FFT","The Rebellion","Elite Soldiers","The Saviors","Light","Attacker","Support","Breaker","FFT","The Rebellion","Elite Soldiers","The Saviors","Light","Attacker","Breaker","Support","FFT","The Rebellion","Elite Soldiers","The Saviors"]
 		}
 	},
 	"253000115": {
@@ -26352,7 +26352,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","axe","hammer","harp","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 		"enhancementSkills":["Second Wind","Stone Throw","Branded Heretic","Warrior's Pride","Last of the Beoulve","True Justice","Blade of Justice","True Hero"],
-		"categories":["Fire","Attacker","Breaker","FFT","The Rebellion","Fire","Attacker","Physical Tank","Breaker","FFT","The Rebellion","Fire","Attacker","Breaker","Physical Tank","FFT","The Rebellion","Elite Soldiers"],
+		"categories":["Fire","Attacker","Breaker","FFT","The Rebellion","Elite Soldiers","The Saviors","Fire","Attacker","Physical Tank","Breaker","FFT","The Rebellion","Elite Soldiers","The Saviors","Fire","Attacker","Breaker","Physical Tank","FFT","The Rebellion","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"傭兵拉姆薩",
 			"roles":["physicalAttacker","debuffer",null],
@@ -26372,7 +26372,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","axe","hammer","harp","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Second Wind","Stone Throw","Branded Heretic","Warrior's Pride","Last of the Beoulve","True Justice","Blade of Justice","True Hero"],
-			"categories":["Fire","Attacker","Breaker","FFT","The Rebellion","Fire","Attacker","Physical Tank","Breaker","FFT","The Rebellion","Fire","Attacker","Breaker","Physical Tank","FFT","The Rebellion","Elite Soldiers"]
+			"categories":["Fire","Attacker","Breaker","FFT","The Rebellion","Elite Soldiers","The Saviors","Fire","Attacker","Physical Tank","Breaker","FFT","The Rebellion","Elite Soldiers","The Saviors","Fire","Attacker","Breaker","Physical Tank","FFT","The Rebellion","Elite Soldiers","The Saviors"]
 		}
 	},
 	"253000205": {
@@ -26820,7 +26820,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","axe","hammer","harp","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Suppressive Sword","Knight House's Blade","Cheer","Sword Mastery","Fira","Firaga","Blizzara","Blizzaga","Thundara","Thundaga","Stonra","Stonga"],
-		"categories":["Earth","Attacker","Mage","FFT","The Rebellion","Clash of Wills","CW - Earth","Elite Soldiers"]
+		"categories":["Earth","Attacker","Mage","FFT","The Rebellion","Elite Soldiers","The Saviors","Clash of Wills","CW - Earth"]
 	},
 	"253001817": {
 		"name":"不為人知的英雄拉姆薩 BS",
@@ -26843,7 +26843,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","axe","hammer","harp","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Suppressive Sword","Knight House's Blade","Sword Mastery"],
-		"categories":["Earth","Attacker","FFT","The Rebellion","Clash of Wills","CW - Earth","Elite Soldiers"]
+		"categories":["Earth","Attacker","FFT","The Rebellion","Elite Soldiers","The Saviors","Clash of Wills","CW - Earth"]
 	},
 	"253001907": {
 		"name":"劍聖奧爾蘭多",
@@ -26998,7 +26998,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","rod","throwing","hat","clothes","robe"],
 		"enhancementSkills":["Devotion","Spirit Hand","Tri-beam Laser"],
-		"categories":["Fire","Mage","Breaker","FF Type-0","Blessing of the Crystals","Fire","Mage","Breaker","FF Type-0","Blessing of the Crystals","Fire","Mage","Breaker","FF Type-0","Blessing of the Crystals","Elite Soldiers"],
+		"categories":["Fire","Mage","Breaker","FF Type-0","Blessing of the Crystals","Elite Soldiers","The Saviors","Fire","Mage","Breaker","FF Type-0","Blessing of the Crystals","Elite Soldiers","The Saviors","Fire","Mage","Breaker","FF Type-0","Blessing of the Crystals","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"艾斯",
 			"roles":["magicalAttacker","debuffer"],
@@ -27018,7 +27018,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","rod","throwing","hat","clothes","robe"],
 			"enhancementSkills":["Devotion","Spirit Hand","Tri-beam Laser"],
-			"categories":["Fire","Mage","Breaker","FF Type-0","Blessing of the Crystals","Fire","Mage","Breaker","FF Type-0","Blessing of the Crystals","Fire","Mage","Breaker","FF Type-0","Blessing of the Crystals","Elite Soldiers"]
+			"categories":["Fire","Mage","Breaker","FF Type-0","Blessing of the Crystals","Elite Soldiers","The Saviors","Fire","Mage","Breaker","FF Type-0","Blessing of the Crystals","Elite Soldiers","The Saviors","Fire","Mage","Breaker","FF Type-0","Blessing of the Crystals","Elite Soldiers","The Saviors"]
 		}
 	},
 	"254000205": {
@@ -27408,7 +27408,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","rod","harp","whip","throwing","hat","clothes","lightArmor","robe"],
-		"categories":["Lightning","Mage","FF Type-0","Blessing of the Crystals","Lightning","Mage","Breaker","FF Type-0","Blessing of the Crystals","Lightning","Mage","Breaker","FF Type-0","Blessing of the Crystals","Elite Soldiers"],
+		"categories":["Lightning","Mage","FF Type-0","Blessing of the Crystals","Elite Soldiers","The Saviors","Lightning","Mage","Breaker","FF Type-0","Blessing of the Crystals","Elite Soldiers","The Saviors","Lightning","Mage","Breaker","FF Type-0","Blessing of the Crystals","Elite Soldiers","The Saviors"],
 		"6_form": {
 			"name":"0班的才子艾斯",
 			"roles":["magicalAttacker","debuffer"],
@@ -27427,7 +27427,7 @@
 			},
 			"stats_pattern":1,
 			"equip":["dagger","rod","harp","whip","throwing","hat","clothes","lightArmor","robe"],
-			"categories":["Lightning","Mage","FF Type-0","Blessing of the Crystals","Lightning","Mage","Breaker","FF Type-0","Blessing of the Crystals","Lightning","Mage","Breaker","FF Type-0","Blessing of the Crystals","Elite Soldiers"]
+			"categories":["Lightning","Mage","FF Type-0","Blessing of the Crystals","Elite Soldiers","The Saviors","Lightning","Mage","Breaker","FF Type-0","Blessing of the Crystals","Elite Soldiers","The Saviors","Lightning","Mage","Breaker","FF Type-0","Blessing of the Crystals","Elite Soldiers","The Saviors"]
 		}
 	},
 	"254001605": {
@@ -27790,7 +27790,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","rod","throwing","hat","clothes","robe","visionCard"],
 		"enhancementSkills":["Focused Draw","Card Showdown","Fira","Blizzara","Thundara","Aerora","Firaga","Blizzaga","Thundaga","Aeroga","Tornado","Burst (FFBE)"],
-		"categories":["Light","Mage","FF Type-0","Blessing of the Crystals","Elite Soldiers"]
+		"categories":["Light","Mage","FF Type-0","Blessing of the Crystals","Elite Soldiers","The Saviors"]
 	},
 	"254002317": {
 		"name":"紅色披風的0班艾斯 BS",
@@ -27812,7 +27812,7 @@
 		},
 		"stats_pattern":4,
 		"equip":["dagger","rod","throwing","hat","clothes","robe","visionCard"],
-		"categories":["Light","Mage","FF Type-0","Blessing of the Crystals","Elite Soldiers"]
+		"categories":["Light","Mage","FF Type-0","Blessing of the Crystals","Elite Soldiers","The Saviors"]
 	},
 	"254002507": {
 		"name":"紅色披風的0班托雷",
@@ -28076,7 +28076,7 @@
 		"stats_pattern":4,
 		"equip":["sword","greatSword","katana","spear","gun","mace","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Sword Mastery","Gun Mastery","NulAll Guard","Electric Blitz (LIGHTNING RETURNS)","Fang's Request"],
-		"categories":["Lightning","Attacker","Support","FFXIII"]
+		"categories":["Lightning","Attacker","Support","FFXIII","The Saviors"]
 	},
 	"258000217": {
 		"name":"靈魂解放者雷光 BS",
@@ -28099,7 +28099,7 @@
 		"stats_pattern":4,
 		"equip":["sword","katana","staff","rod","spear","gun","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Sword Mastery","Gun Mastery","NulAll Guard","Surge","Burst (FFBE)","Vanille's Prayer"],
-		"categories":["Lightning","Mage","Breaker","FFXIII"]
+		"categories":["Lightning","Mage","Breaker","FFXIII","The Saviors"]
 	},
 	"258000305": {
 		"name":"露密娜",
@@ -36112,7 +36112,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Blade of Crystal","Aurora Blossom Arts","Arch-Rivals","Aurora Tempest","Astraea's Partner","Way of the Blossom","Way of the Aurora","Celestial Guidance","Precursor of the Aurora","Crystal Refraction"],
-		"categories":["Ice","Attacker","Mage","Support","FFBE","Blessing of the Crystals","Clash of Wills","The Guardians","Elite Soldiers"],
+		"categories":["Ice","Attacker","Mage","Support","FFBE","Blessing of the Crystals","Clash of Wills","The Saviors","The Guardians","Elite Soldiers"],
 		"6_form": {
 			"name":"艾琳娜",
 			"roles":["physicalAttacker","magicalAttacker","support"],
@@ -36132,7 +36132,7 @@
 			"stats_pattern":1,
 			"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Blade of Crystal","Aurora Blossom Arts","Arch-Rivals","Aurora Tempest","Astraea's Partner","Way of the Blossom","Way of the Aurora","Celestial Guidance","Precursor of the Aurora","Crystal Refraction"],
-			"categories":["Ice","Attacker","Mage","Support","FFBE","Blessing of the Crystals","Clash of Wills","The Guardians","Elite Soldiers"]
+			"categories":["Ice","Attacker","Mage","Support","FFBE","Blessing of the Crystals","Clash of Wills","The Saviors","The Guardians","Elite Soldiers"]
 		},
 		"7_form": {
 			"name":"艾琳娜",
@@ -36153,7 +36153,7 @@
 			"stats_pattern":4,
 			"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","robe"],
 			"enhancementSkills":["Blade of Crystal","Aurora Blossom Arts","Arch-Rivals","Aurora Tempest","Astraea's Partner","Way of the Blossom","Way of the Aurora","Celestial Guidance","Precursor of the Aurora","Crystal Refraction"],
-			"categories":["Ice","Attacker","Mage","Support","FFBE","Blessing of the Crystals","Clash of Wills","The Guardians","Elite Soldiers"]
+			"categories":["Ice","Attacker","Mage","Support","FFBE","Blessing of the Crystals","Clash of Wills","The Saviors","The Guardians","Elite Soldiers"]
 		}
 	},
 	"401008427": {
@@ -36177,7 +36177,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Auroral Energy","Protection of the Azure Crystal"],
-		"categories":["Ice","Support","FFBE","Blessing of the Crystals","Clash of Wills","CW - Support","The Guardians","Elite Soldiers"]
+		"categories":["Ice","Support","FFBE","Blessing of the Crystals","Clash of Wills","CW - Support","The Saviors","The Guardians","Elite Soldiers"]
 	},
 	"401008505": {
 		"name":"海斗",
@@ -36561,7 +36561,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Revitalizing Strike","Gemini Blade"],
-		"categories":["Water","Attacker","Mage","Breaker","FFBE","Blessing of the Crystals","Clash of Wills","WOTV FFBE","CW - Water","The Guardians","Elite Soldiers"]
+		"categories":["Water","Attacker","Mage","Breaker","FFBE","Blessing of the Crystals","Clash of Wills","WOTV FFBE","CW - Water","The Saviors","The Guardians","Elite Soldiers"]
 	},
 	"401009917": {
 		"name":"星煌艾琳娜 BS",
@@ -36584,7 +36584,7 @@
 		"stats_pattern":4,
 		"equip":["dagger","sword","greatSword","katana","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Crystal, Shine Bright!","Crystal, Purify All!","Revitalizing Strike"],
-		"categories":["Water","Attacker","Mage","Breaker","FFBE","Blessing of the Crystals","Clash of Wills","WOTV FFBE","CW - Water","The Guardians","Elite Soldiers"]
+		"categories":["Water","Attacker","Mage","Breaker","FFBE","Blessing of the Crystals","Clash of Wills","WOTV FFBE","CW - Water","The Saviors","The Guardians","Elite Soldiers"]
 	},
 	"401010007": {
 		"name":"葦切",
@@ -38538,7 +38538,7 @@
 		"stats_pattern":4,
 		"equip":["greatSword","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Pollux's Blade","Shellga","Protectga","Sanctuary of the Azure Crystal"],
-		"categories":["Ice","Mage","Magic Tank","FFBE","Blessing of the Crystals","Clash of Wills","CW - Ice","The Guardians","Elite Soldiers"]
+		"categories":["Ice","Mage","Magic Tank","FFBE","Blessing of the Crystals","Clash of Wills","CW - Ice","The Saviors","The Guardians","Elite Soldiers"]
 	},
 	"401014817": {
 		"name":"嶄新的光輝艾琳娜 BS",
@@ -38561,7 +38561,7 @@
 		"stats_pattern":4,
 		"equip":["greatSword","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"],
 		"enhancementSkills":["Pollux's Blade","Judgment of Betelgeuse"],
-		"categories":["Ice","Mage","FFBE","Blessing of the Crystals","Clash of Wills","CW - Ice","The Guardians","Elite Soldiers"]
+		"categories":["Ice","Mage","FFBE","Blessing of the Crystals","Clash of Wills","CW - Ice","The Saviors","The Guardians","Elite Soldiers"]
 	},
 	"401014907": {
 		"name":"里希特",
@@ -39252,6 +39252,97 @@
 		"equip":["dagger","sword","whip","throwing","gun","fist","hat","clothes","lightArmor","visionCard"],
 		"enhancementSkills":["Ambidextrous Thievery","Deadly Daggers"],
 		"categories":["Dark","Breaker","Attacker","FFBE","Clash of Wills","CW - Dark","CW - Support"]
+	},
+	"401016407": {
+		"name":"基本力量",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Fundamental_Force",
+		"id":"401016407",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShift":"401016417",
+		"exAwakening": [{"hp":651,"mp":45,"atk":117,"def":29,"mag":21,"spr":27},{"hp":501,"mp":35,"atk":90,"def":22,"mag":16,"spr":21},{"hp":351,"mp":24,"atk":63,"def":16,"mag":11,"spr":14}],
+		"fragmentId": "310001240",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":5010,"mp":348,"atk":450,"def":222,"mag":160,"spr":208},
+			"minStats":{"hp":1653,"mp":115,"atk":149,"def":73,"mag":53,"spr":69},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","axe","throwing","gun","fist","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Heavenly Hypernova","Empyrean Ascension"],
+		"categories":["Fire","Ice","Lightning","Wind","Light","Attacker","FFBE","Clash of Wills","Blessing of the Crystals","The Guardians","The Saviors","CW - Fire","CW - Ice","CW - Lightning","CW - Wind","CW - Light"]
+	},
+	"401016417": {
+		"name":"基本力量 BS",
+		"roles":["physicalAttacker"],
+		"wikiEntry":"Fundamental_Force",
+		"id":"401016417",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShifted":"401016407",
+		"exAwakening": [{"hp":651,"mp":45,"atk":117,"def":29,"mag":21,"spr":27},{"hp":501,"mp":35,"atk":90,"def":22,"mag":16,"spr":21},{"hp":351,"mp":24,"atk":63,"def":16,"mag":11,"spr":14}],
+		"fragmentId": "310001240",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":5010,"mp":348,"atk":450,"def":222,"mag":160,"spr":208},
+			"minStats":{"hp":1653,"mp":115,"atk":149,"def":73,"mag":53,"spr":69},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["sword","greatSword","axe","throwing","gun","fist","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Heavenly Hypernova","Empyrean Ascension"],
+		"categories":["Fire","Ice","Lightning","Wind","Light","Attacker","FFBE","Clash of Wills","Blessing of the Crystals","The Guardians","The Saviors","CW - Fire","CW - Ice","CW - Lightning","CW - Wind","CW - Light"]
+	},
+	"401016507": {
+		"name":"艾芙尼",
+		"roles":["magicalAttacker"],
+		"wikiEntry":"Eithne",
+		"id":"401016507",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShift":"401016517",
+		"exAwakening": [{"hp":696,"mp":60,"atk":17,"def":30,"mag":117,"spr":36},{"hp":535,"mp":46,"atk":13,"def":23,"mag":90,"spr":28},{"hp":374,"mp":32,"atk":9,"def":16,"mag":63,"spr":19}],
+		"fragmentId": "310001230",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":5350,"mp":460,"atk":130,"def":230,"mag":450,"spr":275},
+			"minStats":{"hp":1766,"mp":152,"atk":43,"def":76,"mag":149,"spr":91},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","rod","hat","clothes","lightArmor","robe","visionCard"],
+		"enhancementSkills":["Dark Profusion","Darkra","Darkga","Consumed by Darkness"],
+		"categories":["Dark","Fire","Lightning","Water","Wind","Mage","FFBE","Blessing of the Crystals","Clash of Wills","CW - Dark","CW - Fire","CW - Lightning","CW - Water","CW - Wind","Harbingers of Chaos"]
+	},
+	"401016517": {
+		"name":"艾芙尼 BS",
+		"roles":["magicalAttacker"],
+		"wikiEntry":"Eithne",
+		"id":"401016517",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShifted":"401016507",
+		"exAwakening": [{"hp":696,"mp":60,"atk":17,"def":30,"mag":117,"spr":36},{"hp":535,"mp":46,"atk":13,"def":23,"mag":90,"spr":28},{"hp":374,"mp":32,"atk":9,"def":16,"mag":63,"spr":19}],
+		"fragmentId": "310001230",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"female",
+		"stats": {
+			"maxStats":{"hp":5350,"mp":460,"atk":130,"def":230,"mag":450,"spr":275},
+			"minStats":{"hp":1766,"mp":152,"atk":43,"def":76,"mag":149,"spr":91},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["dagger","sword","rod","hat","clothes","lightArmor","robe","visionCard"],
+		"categories":["Dark","Fire","Lightning","Water","Wind","Mage","FFBE","Blessing of the Crystals","Clash of Wills","CW - Dark","CW - Fire","CW - Lightning","CW - Water","CW - Wind","Harbingers of Chaos"]
 	}
 ,
   "100000115":{"name":"Hunter Rain","jpname":"ハンターレイン","roles":["physicalAttacker","support"],"id":"100000115","game_id":"undefined","game":"undefined","max_rarity":"6","min_rarity":"5","sex":"male","stats":{"maxStats":{"hp":3652,"mp":150,"atk":152,"def":120,"mag":110,"spr":116},"minStats":{"hp":1205,"mp":50,"atk":50,"def":40,"mag":36,"spr":38},"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}},"stats_pattern":1,"equip":["sword","greatSword","helm","lightArmor","heavyArmor"]},

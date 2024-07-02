@@ -1349,7 +1349,7 @@
         "stats": {
             "HP": [0, 0, 0, 0],
             "MP": [0, 0, 0, 0],
-            "ATK": [100, 100, 0, 0],
+            "ATK": [130, 130, 0, 0],
             "DEF": [0, 0, 0, 0],
             "MAG": [0, 0, 0, 0],
             "SPR": [0, 0, 0, 0],
@@ -3429,6 +3429,45 @@
             "music_id": "400013"
         }
     },
+    "100010001": {
+        "name": "リュースに託すために",
+        "compendium_id": 238,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [65, 130, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [0, 0, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "4": [245555],
+            "7": [245556],
+            "10": [245557]
+        },
+        "restriction": {
+            "245557": [8022]
+        },
+        "max_level": 10,
+        "exp_pattern": 110,
+        "stat_pattern": 100,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "オメガと対峙するレインのウィガール。リュースがオムニブスを決めるためには、オメガの動きを止めねばならない。誰も犠牲にせずにこの強大な敵を倒すため、レインはウィガールを操り果敢に戦いを挑む！",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "リュースに託すために",
+            "music": "♪Ω",
+            "music_id": "5000002"
+        }
+    },
     "201000101": {
         "name": "And So Their Quest Began",
         "compendium_id": 100,
@@ -3711,7 +3750,7 @@
         "stats": {
             "HP": [0, 0, 0, 0],
             "MP": [0, 0, 0, 0],
-            "ATK": [40, 80, 0, 0],
+            "ATK": [65, 130, 0, 0],
             "DEF": [0, 0, 0, 0],
             "MAG": [0, 0, 0, 0],
             "SPR": [0, 0, 0, 0],
@@ -4482,6 +4521,45 @@
             "shop": "Searching for Friends",
             "music": "Searching for Friends FFPR Ver.",
             "music_id": "4001613"
+        }
+    },
+    "206000701": {
+        "name": "三闘神の像",
+        "compendium_id": 239,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 10006,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [0, 0, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [65, 130, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "4": [245612],
+            "7": [245613],
+            "10": [245614]
+        },
+        "restriction": {
+            "245614": [7906]
+        },
+        "max_level": 10,
+        "exp_pattern": 110,
+        "stat_pattern": 100,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "互いに向き合っていた三闘神の像を動かして力の均衡を崩し、世界崩壊の引き金を引くケフカ。シャドウは身を挺して、仲間たちが逃げる時間を稼ぐ。",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "三闘神の像",
+            "music": "♪大破壊",
+            "music_id": "4002501"
         }
     },
     "207000101": {
@@ -5669,7 +5747,7 @@
         }
     },
     "210000801": {
-        "name": "ジェクトの旅の始まり",
+        "name": "The Start of Jecht's Journey",
         "compendium_id": 220,
         "compendium_shown": true,
         "rarity": 1,
@@ -5700,15 +5778,15 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "異世界からスピラに飛ばされた後、エボン寺院に怪しまれて投獄されていたジェクト。彼は召喚士のブラスカから、ザナルカンドへの旅に同行してほしいと頼まれる。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "ジェクトの旅の始まり",
-            "music": "♪ジェクトのテーマ",
+            "desc": "After being teleported to Spira, Jecht was imprisoned by the Temple of Yevon due to suspicious activity. It is then that the summoner Braska requests his aid on a pilgrimage to Zanarkand.",
+            "info": "After being teleported to Spira, Jecht was imprisoned by the Temple of Yevon due to suspicious activity. It is then that the summoner Braska requests his aid on a pilgrimage to Zanarkand.",
+            "shop": "The Start of Jecht's Journey",
+            "music": "Jecht's Theme",
             "music_id": "4000306"
         }
     },
     "210000901": {
-        "name": "思い出してください",
+        "name": "Never Forget Them",
         "compendium_id": 221,
         "compendium_shown": true,
         "rarity": 1,
@@ -5739,11 +5817,50 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "ルカのスタジアムに集まった大観衆の前に立つユウナ。彼女は『シン』を完全に倒し、永遠のナギ節をもたらした大召喚士として人々に語りかける。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "思い出してください",
-            "music": "♪Ending Theme",
+            "desc": "Yuna stands before the crowds gathered at the stadium in Luca. Having defeated Sin and bringing about the Eternal Calm, she now addresses the people as a high summoner.",
+            "info": "Yuna stands before the crowds gathered at the stadium in Luca. Having defeated Sin and bringing about the Eternal Calm, she now addresses the people as a high summoner.",
+            "shop": "Never Forget Them",
+            "music": "Ending Theme",
             "music_id": "4001905"
+        }
+    },
+    "210001001": {
+        "name": "ザナルカンドにて",
+        "compendium_id": 241,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 10010,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [65, 130, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [0, 0, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "4": [245629],
+            "7": [245630],
+            "10": [245631]
+        },
+        "restriction": {
+            "245631": [7910]
+        },
+        "max_level": 10,
+        "exp_pattern": 110,
+        "stat_pattern": 100,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "召喚士の旅の目的地であるザナルカンド遺跡に、ついに到着した一行。円になって座り、これが最後になってしまうかもしれない穏やかな時間を過ごす。",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "ザナルカンドにて",
+            "music": "♪ザナルカンドにて",
+            "music_id": "400886"
         }
     },
     "211000101": {
@@ -5980,7 +6097,7 @@
         }
     },
     "212000601": {
-        "name": "砕かれた天陽の繭",
+        "name": "Destruction of the Sun-Cryst",
         "compendium_id": 230,
         "compendium_shown": true,
         "rarity": 1,
@@ -6011,10 +6128,10 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "リドルアナ大灯台の最上部で、暴走した天陽の繭を破壊しようとするアーシェたち。荒れ狂うミストに阻まれて中々近づけないなか、レダスが決死の攻撃を仕掛ける。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "砕かれた天陽の繭",
-            "music": "♪ソーヘン地下宮殿 (Zodiac Age Version)",
+            "desc": "Ashe and the others venture to the top of the Pharos at Ridorana to destroy the Sun-Cryst. The Mist overflowing from it prevents them from approaching, but Reddas successfully attacks the Sun-Cryst at the cost of his own life.",
+            "info": "Ashe and the others venture to the top of the Pharos at Ridorana to destroy the Sun-Cryst. The Mist overflowing from it prevents them from approaching, but Reddas successfully attacks the Sun-Cryst at the cost of his own life.",
+            "shop": "Destruction of the Sun-Cryst",
+            "music": "The Sochen Cave Palace (Zodiac Age Version)",
             "music_id": "4002106"
         }
     },
@@ -6947,6 +7064,43 @@
             "shop": "I Could Kiss You!",
             "music": "Raven",
             "music_id": "400703"
+        }
+    },
+    "317000101": {
+        "name": "レナを救いだせ！",
+        "compendium_id": 240,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 20048,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [65, 130, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [65, 130, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "4": [245626],
+            "7": [245627],
+            "10": [245628]
+        },
+        "restriction": null,
+        "max_level": 10,
+        "exp_pattern": 110,
+        "stat_pattern": 100,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "鉱山の町サルバの町長の息子アレンに誘拐されたレナを救うべく、屋敷の扉にフェイズガンの一撃を放つクロード。町民に“光の剣”と見間違われることもいとわず、クロードはレナのために屋敷へ突入する。",
+            "info": "ビジョンカードが経験値を獲得！",
+            "shop": "レナを救いだせ！",
+            "music": "♪Rescue operation (SO2R Ver.)",
+            "music_id": "400787"
         }
     },
     "331000101": {
