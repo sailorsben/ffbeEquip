@@ -36,17 +36,16 @@ function filterItems(items, data) {
 function parseNewContent(content, data) {
     const sections = content.split('Starting').slice(1);
     const rawItems = sections.length > 0 ? sections[0].trim().split('\n') : [];
-    const visionCards = sections.length > 2 ? sections[1].trim().split('\n') : []; // Corrected the indexing here
-    const units = sections.length > 1 ? sections[2].trim().split('\n') : []; // And here
+    const visionCards = sections.length > 2 ? sections[1].trim().split('\n') : [];
+    const units = sections.length > 1 ? sections[2].trim().split('\n') : [];
 
-    // Extracting just the numeric IDs for units
     const uniqueUnits = Array.from(new Set(units.map(line => {
-        const match = line.match(/"(\d+)"/); // Adjusted regex to capture only the numeric ID
+        const match = line.match(/"(\d+)"/);
         return match ? match[1] : null;
     }))).filter(id => id && !units.includes(id.replace(/07$/, '17')));
 
     let uniqueItems = Array.from(new Set(rawItems.map(line => {
-        const match = line.match(/"(\d+)"/); // Adjusted regex here as well
+        const match = line.match(/"(\d+)"/);
         return match ? match[1] : null;
     })));
 
@@ -56,15 +55,16 @@ function parseNewContent(content, data) {
     return {
         date: getTodaysDateFormatted(),
         sources: [
-            { type: "banner", units: uniqueUnits },
+            { type: "banner", units: uniqueUnits }, // Units are added first
             { type: "storyPart", name: "Vision Cards", ids: visionCards.map(line => {
                 const match = line.match(/"(\d+)"/);
                 return match ? match[1] : null;
-            }).filter(id => id) }, // Added mapping and filtering for IDs
-            { type: "storyPart", name: "Items", ids: uniqueItems }
+            }).filter(id => id) }, // Vision Cards are added second
+            { type: "storyPart", name: "Items", ids: uniqueItems } // Items are added last
         ]
     };
 }
+
 
 
 // This function takes the new release object and returns a string with the desired formatting

@@ -1,22 +1,19 @@
-
 Starting 
-"401011001":Warrior of the Rainbow Crystal
-"401011101":She Who Harbors Darkness
-"401011301":Double-Edged Assault
+"302027200":Invictus
+"302027200":Invictus
+"302027300":Silvermane
+"302027300":Silvermane
+"409090500":Metian Bonds
+"409091600":The Will of Fire (Rising Flames)
+"409091600":The Will of Fire (Rising Flames)
+"504245483":Brotherly Oath
+"504245484":Shiva's Dominant
+"504245487":Savage Past
+Starting 
+"216000101":Beyond a Shadow of the Self
+"216000201":Shiva vs. Titan
 Starting
-"401016407":Fundamental Force
-"401016417":Fundamental Force BS
-"401016507":Eithne
-"401016517":Eithne BS
-Starting
-"1100000826":Obscura Blade
-"1100000827":Obscura Blade+
-"1100000828":Astraeus Arm
-"1100000828":Astraeus Arm
-"1100000829":Astraeus Arm+
-"1100000829":Astraeus Arm+
-"1500000265":Binary Star
-"1500000266":Fundamental Will
-"1500000267":Dearest Memories
-"1500000267":Dearest Memories
-"1500000268":Shadow Magic Affinity
+"216000107":Clive Rosfield
+"216000117":Clive Rosfield BS
+"216000207":Jill Warrick
+"216000217":Jill Warrick BS

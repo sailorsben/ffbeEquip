@@ -1,3 +1,2 @@
-"401011001":Warrior of the Rainbow Crystal
-"401011101":She Who Harbors Darkness
-"401011301":Double-Edged Assault
+"216000101":Beyond a Shadow of the Self
+"216000201":Shiva vs. Titan

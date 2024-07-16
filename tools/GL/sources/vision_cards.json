@@ -6453,7 +6453,7 @@
         }
     },
     "216000101": {
-        "name": "イフリートVS炎影のイフリート",
+        "name": "Beyond a Shadow of the Self",
         "compendium_id": 234,
         "compendium_shown": true,
         "rarity": 1,
@@ -6484,15 +6484,15 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "イフリートに顕現して戦うクライヴ。かつてフェニックスゲートで起きた惨劇と向き合い、己の正体を受け入れて前に進む。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "イフリートVS炎影のイフリート",
-            "music": "♪Find the Flame",
+            "desc": "Ifrit primed, Clive faces off with an infernal Eikon. He comes to terms with that fateful night at Phoenix Gate and, in accepting the truth about himself, begins to move forward.",
+            "info": "Ifrit primed, Clive faces off with an infernal Eikon. He comes to terms with that fateful night at Phoenix Gate and, in accepting the truth about himself, begins to move forward.",
+            "shop": "Beyond a Shadow of the Self",
+            "music": "Find the Flame",
             "music_id": "4002304"
         }
     },
     "216000201": {
-        "name": "シヴァVSタイタン",
+        "name": "Shiva vs. Titan",
         "compendium_id": 235,
         "compendium_shown": true,
         "rarity": 1,
@@ -6523,10 +6523,10 @@
         "merge_exp": 400,
         "merge_stats": [0, 0, 0, 0, 0, 0],
         "details": {
-            "desc": "ニサ峡谷にて、鉄王国の擁する召喚獣シヴァと、ダルメキア共和国の擁する召喚獣タイタンの戦闘が勃発。大地を揺るがすほどの巨体を持つタイタンに対し、シヴァは氷の魔法を巧みに操って攻撃する。",
-            "info": "ビジョンカードが経験値を獲得！",
-            "shop": "シヴァVSタイタン",
-            "music": "♪Shattered",
+            "desc": "Shiva, an Eikon commanded by the Iron Kingdom, and Titan, likewise fielded by Dhalmekia, engage in battle at the Nysa Defile. Shiva deftly unleashes a barrage of ice magic at Titan, whose gargantuan form rocks the very land.",
+            "info": "Shiva, an Eikon commanded by the Iron Kingdom, and Titan, likewise fielded by Dhalmekia, engage in battle at the Nysa Defile. Shiva deftly unleashes a barrage of ice magic at Titan, whose gargantuan form rocks the very land.",
+            "shop": "Shiva vs. Titan",
+            "music": "Shattered",
             "music_id": "4002310"
         }
     },
@@ -12703,6 +12703,41 @@
             "shop": "Double-Edged Assault",
             "music": "Overcome the Menace",
             "music_id": "400315"
+        }
+    },
+    "401011501": {
+        "name": "Newfound Azure Light",
+        "compendium_id": 9114,
+        "compendium_shown": true,
+        "rarity": 1,
+        "game_id": 11001,
+        "job_id": 0,
+        "unit_type": 0,
+        "stats": {
+            "HP": [0, 0, 0, 0],
+            "MP": [0, 0, 0, 0],
+            "ATK": [170, 170, 0, 0],
+            "DEF": [0, 0, 0, 0],
+            "MAG": [170, 170, 0, 0],
+            "SPR": [0, 0, 0, 0],
+            "element_resist": null,
+            "status_resist": null
+        },
+        "skills": {
+            "1": [918656, 918657, 918658]
+        },
+        "restriction": null,
+        "max_level": 1,
+        "exp_pattern": 1,
+        "stat_pattern": 1,
+        "merge_exp": 400,
+        "merge_stats": [0, 0, 0, 0, 0, 0],
+        "details": {
+            "desc": "Although Elena, Warrior of the Azure Crystal, possesses strong qualities as a warrior, she never forgoes the opportunity to hone her skills. Having awoken a newfound power of the Crystal, she takes up her sword and shield as she continues her fight to protect the people against evil.",
+            "info": "Although Elena, Warrior of the Azure Crystal, possesses strong qualities as a warrior, she never forgoes the opportunity to hone her skills. Having awoken a newfound power of the Crystal, she takes up her sword and shield as she continues her fight to protect the people against evil.",
+            "shop": "Newfound Azure Light",
+            "music": "Celestial Battle",
+            "music_id": "400007"
         }
     },
     "900020101": {
