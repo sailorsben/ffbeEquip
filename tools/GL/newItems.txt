@@ -1,29 +1,8 @@
 
 Starting 
-"302027200":Invictus
-"302027200":Invictus
-"302027300":Silvermane
-"302027300":Silvermane
-"409090500":Metian Bonds
-"409091600":The Will of Fire (Rising Flames)
-"409091600":The Will of Fire (Rising Flames)
-"504245483":Brotherly Oath
-"504245484":Shiva's Dominant
-"504245487":Savage Past
-Starting 
-"216000101":Beyond a Shadow of the Self
-"216000201":Shiva vs. Titan
+"100009901":Wish to Change the World
 Starting
-"216000107":Clive Rosfield
-"216000117":Clive Rosfield BS
-"216000207":Jill Warrick
-"216000217":Jill Warrick BS
-Starting 
-"216000301":Roaring Thunder, Howling Wind
-"401011401":General Indomitable
-"401011601":A Girl and Her CrowsStarting
-"216000307":Cidolfus Telamon
-"216000317":Cidolfus Telamon BS
-"216000407":Benedikta Harman
-"216000417":Benedikta Harman BS
-"401016607":Imperial Shield Wilhelm
+"100044807":Crimson Knight Rain
+"100044817":Crimson Knight Rain BS
+"100045007":Hero Resurrected Taivas
+Starting
