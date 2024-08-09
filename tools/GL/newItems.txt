@@ -1,8 +1,7 @@
-
 Starting 
-"100009901":Wish to Change the World
+"100010001":Entrusted to Rhus
+"401011801":Hero of Elmont
 Starting
-"100044807":Crimson Knight Rain
-"100044817":Crimson Knight Rain BS
-"100045007":Hero Resurrected Taivas
+"100044907":Azure Knight Lasswell
+"100044917":Azure Knight Lasswell BS
 Starting

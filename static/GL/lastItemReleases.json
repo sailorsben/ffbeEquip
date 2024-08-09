@@ -1,5 +1,13 @@
 [
 	{
+		"date": "August 8th, 2024",
+		"sources": [
+			{"type": "banner", "units": ["100044907", "100044917"]},
+			{"type": "storyPart", "name": "Vision Cards", "ids": ["100010001", "401011801"]},
+			{"type": "storyPart", "name": "Items", "ids": ["303015600","305005900","308014200","312007600","314004700"]}
+		]
+	},
+	{
 		"date": "August 1st, 2024",
 		"sources": [
 			{"type": "banner", "units": ["100044807", "100044817", "100045007"]},

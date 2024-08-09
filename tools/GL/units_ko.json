@@ -12671,6 +12671,52 @@
 		"enhancementSkills":["Impeding Force","Large Sword Mastery","Cover - Magic I","Shellga"],
 		"categories":["Fire","Lightning","Light","Attacker","Magic Tank","FFBE","FFBE S4","Royal Arms","The Guardians","Elite Soldiers","The Saviors"]
 	},
+	"100044907": {
+		"name":"Azure Knight Lasswell",
+		"roles":["physicalAttacker","support"],
+		"wikiEntry":"Azure_Knight Lasswell",
+		"id":"100044907",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShift":"100044917",
+		"exAwakening": [{"hp":663,"mp":45,"atk":117,"def":29,"mag":25,"spr":24},{"hp":510,"mp":34,"atk":90,"def":22,"mag":19,"spr":19},{"hp":357,"mp":24,"atk":63,"def":16,"mag":14,"spr":13}],
+		"fragmentId": "250034000",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5101,"mp":344,"atk":450,"def":224,"mag":192,"spr":187},
+			"minStats":{"hp":1683,"mp":114,"atk":149,"def":74,"mag":63,"spr":62},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["katana","spear","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Plunge Stance","White Night Battlefield","Spear Mastery","Final Mirror of Equity","Fingersnap"],
+		"categories":["Ice","Light","Attacker","Support","FFBE","FFBE S4","Blood of Hess","The Gathering","Royal Arms","The Saviors","The Guardians","Elite Soldiers"]
+	},
+	"100044917": {
+		"name":"Azure Knight Lasswell BS",
+		"roles":["physicalAttacker","support"],
+		"wikiEntry":"Azure_Knight Lasswell",
+		"id":"100044917",
+		"game_id":"11001",
+		"game":"FFBE",
+		"braveShifted":"100044907",
+		"exAwakening": [{"hp":663,"mp":45,"atk":117,"def":29,"mag":25,"spr":24},{"hp":510,"mp":34,"atk":90,"def":22,"mag":19,"spr":19},{"hp":357,"mp":24,"atk":63,"def":16,"mag":14,"spr":13}],
+		"fragmentId": "250034000",
+		"max_rarity":"NV",
+		"min_rarity":"NV",
+		"sex":"male",
+		"stats": {
+			"maxStats":{"hp":5101,"mp":344,"atk":450,"def":224,"mag":192,"spr":187},
+			"minStats":{"hp":1683,"mp":114,"atk":149,"def":74,"mag":63,"spr":62},
+			"pots":{"hp":900,"mp":150,"atk":65,"def":65,"mag":65,"spr":65}
+		},
+		"stats_pattern":4,
+		"equip":["katana","spear","hat","helm","clothes","lightArmor","heavyArmor","visionCard"],
+		"enhancementSkills":["Plunge Stance","White Night Battlefield","Spear Mastery","Final Mirror of Equity","Fingersnap"],
+		"categories":["Ice","Light","Attacker","Support","FFBE","FFBE S4","Blood of Hess","The Gathering","Royal Arms","The Saviors","The Guardians","Elite Soldiers"]
+	},
 	"100045007": {
 		"name":"蘇りし英雄タイヴァス",
 		"roles":["physicalAttacker"],
