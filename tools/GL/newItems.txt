@@ -1,3 +1,5 @@
+
+
 Starting 
 "100010001":Entrusted to Rhus
 "401011801":Hero of Elmont
@@ -5,3 +7,12 @@ Starting
 "100044907":Azure Knight Lasswell
 "100044917":Azure Knight Lasswell BS
 Starting
+Starting 
+Starting
+"100045107":Azure and Crimson Blades Rhus
+"100045117":Azure and Crimson Blades Rhus BS
+Starting 
+"401011701":A Breather for Esther
+"401011901":It's a Celebration, Kupo!Starting
+"401016707":Blade Breaker Esther
+"401016717":Blade Breaker Esther BS
